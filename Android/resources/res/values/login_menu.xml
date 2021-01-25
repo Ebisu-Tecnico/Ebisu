@@ -10,15 +10,15 @@
     <array name="loginMenu">
         <item name="locale">en_US</item>
         <item name="regionName">@string/ihs_1</item>
-        <item name="hostname">https://btbc.ihs.broadsoft.com</item>
-        <item name="xsiactionsstring">com.broadsoft.xsi-actions</item>
-        <item name="domain">broadsoft.com</item>
+        <item name="hostname">https://com.broadcloud.eu</item>
+        <item name="xsiactionsstring">com.broadcloud.eu</item>
+        <item name="domain">broadcloud.eu</item>
 
         <item name="locale">en_GB</item>
         <item name="regionName">@string/ihs_2</item>
-        <item name="hostname">https://apps.ihs.broadsoft.com</item>
-        <item name="xsiactionsstring">com.broadsoft.xsi-actions</item>
-        <item name="domain">broadsoft.com</item>
+        <item name="hostname">https://com.broadcloud.eu</item>
+        <item name="xsiactionsstring">com.broadcloud.eu</item>
+        <item name="domain">broadcloud.eu</item>
 
         <item name="locale">user_defined</item>
         <item name="regionName">@string/region_manual</item>
