@@ -6,7 +6,7 @@
 		<key>basicPalette</key>
 		<dict>
 			<key>CellSelectedBackground</key>
-			<string>00A0D1</string>
+			<string>7E8D7C</string>
 			<key>ChatBackground</key>
 			<string>FFFFFF</string>
 			<key>IncomingChatBalloonBackground</key>
@@ -14,13 +14,13 @@
 			<key>OutgoingChatBalloonBackground</key>
 			<string>D2F4FA</string>
 			<key>PrimaryBackground</key>
-			<string>171B1F</string>
+			<string>7E8D7C</string>
 			<key>PrimaryButton</key>
-			<string>2BAA85</string>
+			<string>7E8D7C</string>
 			<key>SecondaryBackground</key>
-			<string>2BAA85</string>
+			<string>7E8D7C</string>
 			<key>TertiaryBackground</key>
-			<string>44CF50</string>
+			<string>F0F2F1</string>
 		</dict>
 		<key>class</key>
 		<string>BIColorPalette</string>

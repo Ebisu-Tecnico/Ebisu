@@ -6,15 +6,15 @@
 	<array>
 		<dict>
 			<key>domain</key>
-			<string></string>
+			<string>broadcloud.eu</string>
 			<key>hostname</key>
-			<string></string>
+			<string>https://apps.broadcloud.eu</string>
 			<key>locale</key>
-			<string>user_defined</string>
-			<key>regionName</key>
+			<string>it_IT</string>
+			<key>EU</key>
 			<string>Advanced Setup</string>
 			<key>xsiactionsstring</key>
-			<string>com.broadsoft.xsi-actions</string>
+			<string>broadcloud.eu</string>
 		</dict>
 	</array>
 </dict>

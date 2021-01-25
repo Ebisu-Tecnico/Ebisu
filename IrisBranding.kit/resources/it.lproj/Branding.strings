@@ -1,10 +1,10 @@
 /* Copyright © 2017 BroadSoft, Inc. All rights reserved. */
 
 /* Application & Company Name */
-"applicationFullName" = "UC-One Connect";
-"applicationCopyright" = "© 2021 Cisco. Tutti i diritti riservati.";
+"applicationFullName" = "Ebisu";
+"applicationCopyright" = "© 2021 Ebisu. Tutti i diritti riservati.";
 "applicationCompanyWebLink" = "www.cisco.com";
-"About Connect" = "Informazioni su Connect";
+"About Connect" = "Informazioni su Ebisu";
 
 /* BroadSoft Service Trade Names */
 "BroadWorks" = "BroadWorks";

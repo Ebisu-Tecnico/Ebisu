@@ -18,10 +18,6 @@
 	<false/>
 	<key>advancedXsiActionsStringDisabled-comment</key>
 	<string>When true, the XSI action string is hidden in advanced mode.  Default: false</string>
-	<key>allowUserControl</key>
-	<true/>
-	<key>allowUserControl-comment</key>
-	<string>This property defines whether the end user is allowed to enable and disable the sending of analytics.</string>
 	<key>applicationLogsDisabled</key>
 	<false/>
 	<key>applicationLogsDisabled-comment</key>
@@ -59,13 +55,9 @@
 	<key>device_type_tablet-comment</key>
 	<string>Defines string property that will be partially matches with the device profile type.</string>
 	<key>dialpadAsHomescreen</key>
-	<false/>
+	<true/>
 	<key>dialpadAsHomescreen-comment</key>
 	<string>When true, dialpad screen will be set as homescreen for mobile link mode. Default : false</string>
-	<key>disableThirdPartyKeyboard</key>
-	<false/>
-	<key>disableThirdPartyKeyboard-comment</key>
-	<string>When true, Allow Third Party Keyboard option is not shown to user. Default: false</string>
 	<key>disableWelcomeScreen</key>
 	<false/>
 	<key>disableWelcomeScreen-comment</key>
@@ -187,7 +179,7 @@
 	<key>forgotPasswordLink</key>
 	<string></string>
 	<key>helpUrl</key>
-	<string></string>
+	<string>https://www.ebisu.it/</string>
 	<key>helpUrl-comment</key>
 	<string>This string property defines an optional URL that is used to provide application help.  Default: none</string>
 	<key>intrinsicMode</key>
@@ -239,7 +231,7 @@
 	<key>privacypolicylink-comment</key>
 	<string>This string indicates a service provider specific HTTP link for privacy policy.</string>
 	<key>saveLoginDisabled</key>
-	<true/>
+	<false/>
 	<key>saveLoginDisabled-comment</key>
 	<string>When true, this flag specifies the save login support be disabled. This flag is only applicable for collaborate intrinsic operation mode. Default: true</string>
 	<key>showPrivacyPolicy</key>
