@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Connect</string>
-    <string name="app_full_name">UC-One Connect</string>
-    <string name="copyright">%1$s&lt;br/&gt; © 2021 Cisco. All rights reserved.&lt;br/&gt;www.cisco.com</string>
-    <string name="broadworks_anywhere">BroadWorks Anywhere</string>
+    <string name="app_name">Ebisu</string>
+    <string name="app_full_name">Ebisu</string>
+    <string name="copyright">%1$s&lt;br/&gt; © 2020 Ebisu. All rights reserved.&lt;br/&gt;www.ebisu.it</string>
+    <string name="broadworks_anywhere">Work Anywhere</string>
 
     <string name="tutorial_page1_title">Simple Calling</string>
     <string name="tutorial_page1_description">Make quick and convenient calls.</string>
