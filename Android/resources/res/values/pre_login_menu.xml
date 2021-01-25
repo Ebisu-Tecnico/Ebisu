@@ -10,8 +10,8 @@
         <item name="ucaas_locale">en_US</item>
         <item name="ucaas_label">UCaaS Stage</item>
         <item name="ucaas_loginUrl">https://finder.uc-one.broadsoft.com</item>
-        <item name="ucaas_xsiPath">com.broadsoft.xsi-actions</item>
-        <item name="ucaas_domain">broadsoft.com</item>
+        <item name="ucaas_xsiPath">com.broadcloud.eu</item>
+        <item name="ucaas_domain">broadcloud.eu</item>
 
         <!--<item name="ucaas_locale">en_US</item>-->
         <!--<item name="ucaas_label">UCaaS RnD</item>-->

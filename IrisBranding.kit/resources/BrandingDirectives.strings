@@ -43,8 +43,7 @@ Bundle identifiers are defined on the Apple Developer web site:
 
 https://developer.apple.com/account/ios/identifiers/bundle/bundleList.action
 */
-"CFBundleIdentifier" = "com.example.HelloWorld";
-
+"CFBundleIdentifier" = "it.ebisu.portal";
 /*----------------------------------------------------------------------
 Key: "CFBundleName"  [REQUIRED]
 ------------------------------------------------------------------------
@@ -59,7 +58,7 @@ CFBundleDisplayName instead (see below).
 This key can also be localized by modifying the InfoPlist.strings file
 of the appropriate ".lproj" resource subdirectories.
 */
-"CFBundleName" = "HelloWorld";
+"CFBundleName" = "Ebisu";
 
 /*----------------------------------------------------------------------
 Key: "CFBundleDisplayName"  [OPTIONAL]
@@ -77,7 +76,7 @@ If this key is included, and the CFBundleName is localized in the
 InfoPlist.strings file for any ".lproj" resource subdirectory, then
 this key must also be localized to match.
 */
-/* "CFBundleDisplayName" = "Hello World"; */
+/* "CFBundleDisplayName" = "Ebisu"; */
 
 /*======================================================================
 
@@ -131,7 +130,7 @@ If this key is undefined, the branding version is assumed to be 0
 NOTE: When branding a new release from BroadSoft, the branding version
 should be reset to 0.
 */
-"BrandingVersion" = "0";
+"BrandingVersion" = "0.1";
 
 /*----------------------------------------------------------------------
 Key: "CFBundleShortVersionString"  [OPTIONAL]
