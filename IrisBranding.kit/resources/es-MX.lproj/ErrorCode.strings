@@ -1,0 +1,60 @@
+/*
+ This file provides localized strings for XSI errors.
+ 
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+/*
+ General error formatting message that includes a message and a code.
+ */
+"%1$@ %2$@" = "%1$@ %2$@";
+
+/*
+ Iris Errors
+ */
+"42000" = "Error no definido.";
+"42001" = "Error interno.";
+"42002" = "Recurso no disponible.";
+"42003" = "Operación cancelada.";
+"42004" = "Parámetro de operación no válido.";
+"42005" = "Inténtelo de nuevo.";
+"42006" = "Faltan los derechos de aplicación necesarios.";
+"42007" = "La configuración no admite esta capacidad.";
+"42050" = "Falla de conexión.";
+"42051" = "Tiempo límite de petición agotado.";
+"42052" = "Credenciales de autenticación no válidas.";
+"42053" = "Solicitud con formato incorrecto o no admitida.";
+"42054" = "No se puede abrir. Modifique o cierre el archivo.";
+"42055" = "Se produjeron demasiadas redirecciones de HTTP.";
+"42056" = "No es posible contactar con el host o resolverlo.";
+"42057" = "Cuerpo de solicitud con formato incorrecto.";
+"42058" = "Datos de respuesta con formato incorrecto.";
+"42059" = "No es posible establecer una conexión segura al host.";
+"42100" = "Error al crear la base de datos de la aplicación.";
+"42101" = "La base de datos no es compatible con la versión instalada de la aplicación.  Actualice a la versión más reciente.";
+"42102" = "Error al mantener la base de datos de la aplicación.";
+"42103" = "La solicitud de base de datos produjo resultados en blanco inesperados.";
+"42200" = "La licencia no es suficiente para usar la aplicación.";
+"42201" = "Versión de puerta de enlace de mensajería no compatible.";
+"42202" = "Error al obtener el perfil de dispositivo de la aplicación.";
+"42203" = "Error de puerta de enlace de mensajería no especificado.";
+"42204" = "Versión de almacenamiento de contactos no compatible.";
+"42205" = "Versión de implementación de software como servicio no admitida.";
+"42206" = "Imposible obtener datos de aprovisionamiento y abonados de software como servicio.";
+"42208" = "Su cuenta se ha desactivado. Consulte al administrador de su sistema.";
+"42999" = "Error no especificado.";
+
+/*
+ XSI Error Codes
+ */
+"3" = "Error de inicio de sesión: nombre de usuario y/o clave incorrectos.";
+"12" = "Su cuenta se ha desactivado. Consulte al administrador de su sistema.";
+"20" = "Ruta incorrecta de dirección de servidor.";
+"100443" = "La dirección de servidor no es un host válido.";
+
+/*
+ iOS Errors
+ */
+"-1001" = "Tiempo límite de petición agotado.";
+"-1005" = "Se perdió la conexión.";
+"-1200" = "No es posible establecer una conexión segura al host.";

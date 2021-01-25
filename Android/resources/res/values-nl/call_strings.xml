@@ -1,0 +1,207 @@
+<resources>
+    <string name="please_wait">Wachten…</string>
+
+    <!-- Buttons -->
+    <string name="back">Terug</string>
+    <string name="active_calls">Actieve gesprekken</string>
+    <string name="call_ok">OK</string>
+    <string name="call_cancel">Annuleren</string>
+
+    <!-- Welcome -->
+    <!--Call -->
+    <string name="btn_call_add_participant">Deelnemer toevoegen</string>
+    <string name="btn_manage_conference_value">Deelnemers</string>
+    <string name="btn_call_merge_value">Gesprekken samenvoegen</string>
+    <string name="btn_call_swap_value">Wisselen</string>
+    <string name="btn_call_park_call_value">Gesprek parkeren</string>
+    <string name="call_duration_init">00:00</string>
+
+    <string name="incoming_call">Inkomend gesprek</string>
+    <string name="accept">Toestaan</string>
+    <string name="decline">Afwijzen</string>
+
+    <string name="conference">Conferentie</string>
+    <string name="transfer">Doorverbinden</string>
+    <string name="conferencing">Conferentie gesprek…</string>
+    <string name="transferring">Doorverbinden…</string>
+    <string name="transfer_completed">Doorschakeling voltooid</string>
+    <string name="swapping">Wisselen…</string>
+    <string name="merging">Toevoegen…</string>
+    <string name="ending">Beeindigen…</string>
+    <string name="ending_failed">Gesprek beeindigen mislukt</string>
+    <string name="call_terminated">Gesprek afgebroken</string>
+
+    <string name="operation_failed">Bewerking mislukt</string>
+
+    <string name="text_transfer_to_mobile">Doorverbinden naar mobiel</string>
+    <string name="text_call_will_be_transferred_to">Uw gesprek wordt doorverbonden naar:</string>
+    <string name="upgradetovideo_title">Upgrade naar video</string>
+    <string name="upgradetovideo">%s wil het gesprek upgraden naar een video gesprek</string>
+    <string name="incoming_video_call">Inkomend video gesprek</string>
+    <string name="new_call">Nieuw gesprek</string>
+
+    <string name="text_call">Gesprek</string>
+    <string name="dialing">Bellen…</string>
+    <string name="answering">Beantwoorden…</string>
+    <string name="call_calling">Bellen…</string>
+    <string name="call_on_hold">In de wacht</string>
+    <string name="ongoing_call">Actief gesprek</string>
+    <string name="onhold_uppercase">IN DE WACHT</string>
+
+    <string name="btn_call_recording_pause">Opname pauzeren</string>
+    <string name="btn_call_recording_resume">Opname hervatten</string>
+    <string name="btn_call_recording_start">Opname starten</string>
+    <string name="btn_call_recording_stop">Opname stoppen</string>
+    <string name="btn_call_speaker_value">Spreker</string>
+    <string name="btn_call_handset">Hoorn / oortelefoon</string>
+    <string name="btn_call_bluetooth">Bluetooth</string>
+    <string name="btn_call_bluetooth_audio">Bluetooth-audio</string>
+    <string name="btn_call_swapcamera">Camera wisselen</string>
+    <string name="btn_call_dialpad">Toetsenblok</string>
+    <string name="btn_call_to_video">Overschakelen naar videogesprek</string>
+    <string name="btn_call_to_audio">Overschakelen naar audiogesprek</string>
+    <string name="btn_call_complete_transfer">Doorschakeling voltooien</string>
+    <string name="btn_call_accept_video_value">Video</string>
+    <string name="btn_call_accept_audio_value">Audio</string>
+
+    <string name="transfer_call_user_first">Call %s first</string>
+    <string name="transfer_to_new">Doorverbinden naar nieuw</string>
+    <string name="transfer_to_user">Doorverbinden naar %s</string>
+
+    <string name="call_unknown">Onbekend</string>
+    <string name="call_private">Private</string>
+    <string name="call_anonymous">Anoniem</string>
+    <string name="user_busy">Contact is bezet</string>
+    <string name="phonenumber">Telefoonnummer</string>
+    <!-- Notifications --><string name="missed_calls">Gemist gesprek</string>
+    <string name="missed_calls_count">%1$d gemiste gesprekken</string>
+    <string name="missed_calls_from">Gemist gesprek van %1$s</string>
+    <string name="new_voicemail">Nieuw voicemailbericht</string>
+    <string name="notify_new_voicemail_count">U heeft 1 onbeluisterd voicemail bericht</string>
+    <string name="notify_new_voicemail_counts">U heeft %1$d onbeluisterde voicemail berichten</string>
+    <string name="ring_splash_notification_title">Herinnering overgaan</string>
+    <string name="ring_splash_notification_content">Inkomende oproep is doorgeschakeld</string>
+
+    <!-- BroadWorks service names -->
+    <string name="callsettings_broadworks_anywhere">BroadWorks Anywhere</string>
+    <string name="callsettings_remote_office">Kantoor op afstand</string>
+    <string name="mobility_enabled">BroadWorks Mobility</string>
+
+    <!-- Contact/number selection hints -->
+    <string name="please_configure_my_telephone_number_to_use">Gelieve mijn telefoonnummer te configureren om Oproepnummer te gebruiken</string>
+    <string name="please_enter_number">Voer nummer in</string>
+    <string name="text_please_input_number">Vul uw telefoonnummer in</string>
+    <string name="selection_text">Kies een contact of bel een nummer</string>
+
+    <!-- Call-through and call-back -->
+    <string name="callsettings_broadworks_mobility_callthrough_error">Kan niet bellen vanuit dienst.</string>
+    <string name="callsettings_broadworks_mobility_callthrough_performing">Belt nu vanuit…</string>
+    <string name="callsettings_broadworks_mobility_callback_error">Kan niet terugbellen.</string>
+    <string name="callsettings_broadworks_mobility_callback_performing">Belt nu terug…</string>
+    <string name="callsettings_broadworks_mobility_callback_success">U wordt zo gebeld.</string>
+    <string name="callsettings_broadworks_mobility_callback_conference_on_old_server_version">Na connectie, voer handmatig conferentie code in</string>
+
+    <!-- Error messages -->
+    <string name="wrong_sip_credentials_message">Uw SIP gegevens zijn onjuist. Neem contact op met uw beheerder.</string>
+    <string name="autohold_by_mobile_call_in_progress">Gesprek staat in de wacht, terwijl mobile gesprek wordt uitgevoerd</string>
+    <string name="call_establish_failure">Opzetten van gesprek mislukt</string>
+    <string name="call_completed_elsewhere">Gesprek beantwoord op ander apparaat</string>
+    <string name="cannot_connect_to_conference_bridge">Krijgt geen verbinding met conferentiegesprek</string>
+    <string name="cannot_add_participant_to_the_conference">Kan geen deelnemer aan de conferentie toevoegen</string>
+    <string name="callsettings_broadworks_mobility_mobile_error">Kan de native dialer applicatie niet opstarten</string>
+    <string name="feature_not_supported">Deze functie wordt niet ondersteund op uw apparaat!</string>
+    <string name="maximum_number_of_calls_reached">Maximum aantal gesrekken bereikt</string>
+    <string name="no_calling_options_available">Geen belopties beschikbaar</string>
+    <string name="connectionlost">Connectie is verbroken</string>
+    <string name="call_poor_connection">Slechte verbinding</string>
+
+    <!-- Call Type selection -->
+    <string name="callsettings_broadworks_dialing_service_title">Selecteer dialing service</string>
+    <string name="callsettings_broadworks_option_voip">Internetoproep (VoIP)</string>
+    <string name="callsettings_broadworks_option_call_back">Terugbellen</string>
+    <string name="callsettings_broadworks_option_call_through">Bellen via</string>
+    <string name="callsettings_broadworks_option_mobile">Deze telefoon</string>
+
+    <string name="contextmenu_voicecall">Spraak gesprek</string>
+    <string name="contextmenu_videocall">Video gesprek</string>
+
+    <!-- Permissions -->
+    <string name="permission_error">Toestemming bew: %1$s.\nVerleen toegang in de app-instellingen op uw apparaat.</string>
+    <string name="permission_group_audio">Microphone</string>
+    <string name="permission_group_camera">Camera</string>
+    <string name="permission_group_calls">Gesprekken</string>
+
+    <!-- Push Notifications -->
+    <string name="push_notification_deregister">Je hebt maximaal aantal registraties voor deze applicatie bereikt. Deze applicatie zal registratie verliezen.</string>
+    <string name="push_notification_disable_one">%1$s voor deze locatie is automatisch uitgeschakeld.</string>
+    <string name="push_notification_disable_both">%1$s en %2$s voor deze locatie waren automatisch uitgeschakeld.</string>
+    <string name="push_notification_disable_all">%1$s, %2$s en %3$s voor deze locatie waren automatisch uitgeschakeld.</string>
+    <string name="push_notification_enable_one">%1$s voor deze lokatie was automatisch ingeschakeld.</string>
+    <string name="push_notification_enable_both">Wil je %1$s en %2$s locatie instellen?</string>
+    <string name="push_notification_enable_all">%1$s, %2$s en %3$s voor deze locatie waren automatische ingeschakeld.</string>
+    <string name="push_notification_no_locations">VoIP is uitgeschakeld. Zorg ervoor dat u alternatief nummer inschakelt om oproepen te maken en te ontvangen.</string>
+    <string name="push_notification_location_enabled">VoIP-bellen is ingeschakeld. Door deze alternatieve locatie in te schakelen kunt u gelijktijdige inkomende gesprekken ervaren.</string>
+    <string name="bwks_services_enabled">Het waarschuwen voor BroadWorks mobiele services is ingeschakeld voor deze locatie.</string>
+
+    <!-- VoIP mode -->
+    <string name="voip_over_celluar_on">Alle netwerken</string>
+    <string name="voip_over_celluar_off">Alleen WiFi</string>
+    <string name="voip_over_celluar_warn">VoIP over het mobiele datanetwerk kan leiden tot additionele kosten of roaming-kosten.</string>
+    <string name="voip_over_celluar_disabled">VoIP over het mobiele datanetwerk is niet beschikbaar.</string>
+
+    <!-- Seamless call handover -->
+    <string name="handover_reconnecting">Opnieuw verbinding maken...</string>
+    <string name="handover_error_bg_call">Gesprek in wacht beëindigd.</string>
+    <string name="handover_error_all_calls">Gesprekken in wacht beëindigd.</string>
+    <string name="handover_error_failed">Gesprek beëindigd.</string>
+
+    <!-- Call Recording -->
+    <!-- Security Classifications -->
+    <!-- Dual Persona --><string name="callsettings_dual_persona_dialog_title">Oproep van</string>
+    <string name="dual_persona_business">Werk (%1$s)</string>
+    <string name="dual_persona_personal">Persoonlijk (%1$s)</string>
+    <string name="dual_persona_hidden_number">Verborgen nummer</string>
+    <string name="incorrect_my_telephone_number">Incorrect Mijn telefoonnummer</string>
+
+    <!-- 911 -->
+    <string name="emergency_warning_text_short">Dit apparaat ondersteunt geen 112-gesprekken. Voor 112 gesprekken MOET u een mobiel toestel of vast toestel gebruiken.</string>
+    <string name="emergency_warning_title">Noodoproepen uitsluiting</string>
+    <string name="wifi_text_short">A celuar emergency call was placed.</string>
+    <string name="emergency_location_update_error">Niet mogelijk om uw noodsituatielocatie bij te werken</string>
+    <string name="unable_to_validate_location">We zijn niet in staat om je locatie te localiseren</string>
+    <string name="try_again">Probeer opnieuw</string>
+    <string name="incomplete_emergency_location_configuration">Onvolledige noodoproep instellingen.</string>
+    <string name="emergency_location_dialog_body_text">WAARSCHUWING: Gebruik uw softphone niet voor noodoproepen op locaties waar u niet geregistreerd bent met uw vaste toestel. Noodoproepen worden dan verkeerd gerouteerd en kunnen bij verkeerde alarmcentrale belanden. Dit kan mogelijk extra vertaging voor hulpverlening opleveren.</string>
+    <string name="update_911_location">Alarmnummerlocatie aanpassen</string>
+    <string name="validating_location">Controleren van locatie…</string>
+    <string name="location_updated_successfully">Locatie update geslaagd</string>
+    <string name="wifi_btn_ok">Call via Voip</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_showcallcontrol">Toon gespreksbediening</string>
+    <string name="accessibility_call_quality_low">Slechte gesprekskwaliteit</string>
+    <string name="accessibility_call_quality_medium">Middelmatige gesprekskwaliteit</string>
+    <string name="accessibility_call_quality_high">Goede gesprekskwaliteit</string>
+    <string name="accessibility_hold">In wacht</string>
+    <string name="accessibility_callrecording_recording">Opnemen</string>
+    <string name="accessibility_call_mute">Dempen</string>
+    <string name="accessibility_call_unmute">Unmute</string>
+    <string name="accessibility_audio_source">Audiobron</string>
+    <string name="accessibility_more_options">Meer opties</string>
+    <string name="accessibility_call_end">Gesprek beëindigen</string>
+    <string name="accessibility_unhold">Uit de wacht</string>
+    <string name="accessibility_speaker_active">Luidspreker aan</string>
+    <string name="accessibility_speaker_inactive">Luidspreker uit</string>
+    <string name="accessibility_call_hold">Oproep in de wacht met %s</string>
+    
+    <!-- Mid-call controls error codes -->
+    <string name="bw_error_101002">Gesprek niet gevonden.</string>
+    <string name="bw_error_110648">Gesprek staat al in de conference.</string>
+    <string name="bw_error_110581">Noodoproep is aanwezig.</string>
+    <string name="bw_error_100022">Geblokkeerd door Zone Calling beperkingen.</string>
+    <string name="bw_error_110640">Geen conference aanwezig.</string>
+    <string name="bw_error_110649">Maximaal aantal deelnemers bereikt.</string>
+    <string name="bw_error_100026">Geblokkeerd door Session Admission Control -groep</string>
+    <string name="bw_error_100021">Probeer de oproep vanuit de native telefoontoepassing te hervatten.</string>
+
+</resources>

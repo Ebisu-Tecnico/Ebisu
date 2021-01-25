@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+	<integer name="max_limit__group_messaging">30</integer>
+	<bool name="IDENTIFY_ENTERPRISECALLS">true</bool>
+	<bool name="ENABLE_CRASHLYTICS">true</bool>
+	<integer name="passwordExpiryWarnBeforeDays">14</integer>
+	<!--Analytics-->
+	<bool name="allowUserControl">true</bool>
+	<bool name="disableBroadSoftTracking">false</bool>
+	<bool name="sendAnalytics">true</bool>
+	<string name="providerTrackingId"/>
+	<!--CallType-->
+	<bool name="callvoicemaildisabled">false</bool>
+	<!--UpdatePassword -->
+	<bool name="enableUpdatePasswordMenu">true</bool>
+	<string name="forgotPasswordLink"/>
+
+	<string name="EnableBundleURLSchemeHandling">true</string>
+	<string name="CFBundleURLSchemes">iris</string>
+	<bool name="callpulldisabled">false</bool>
+	<bool name="enableDBEncryption">true</bool>
+	<bool name="test_notification_alert_enabled">false</bool>
+	<bool name="showSelectedRegionHostname">true</bool>
+
+	<string-array name="log_to_list">
+		<item>uc1-client-logs@cisco.com</item>
+	</string-array>
+
+	<bool name="ignoreRemoteOffice">true</bool>
+	<!--UCAAS Branding Parameters-->
+	<string name="intrinsicMode">collaborate</string>
+	<bool name="ucaasSelfActivation">true</bool>
+	<string name="meetUrlScheme">bcmeet</string>
+	<string name="PrimaryWebURLSchemes">iris-internal</string>
+	<string name="meet_app">com.broadsoft.meetings</string>
+	<bool name="should_prevent_running_on_rooted_device">false</bool>
+	<string name="helpURL">http://www.uc-one.help/connect/</string>
+	<bool name="disable_logging">false</bool>
+	<string name="privacy_policy_url">https://www.cisco.com/c/en/us/about/legal/privacy-full.html</string>
+
+	<!-- Widget String -->
+	<bool name="is_display_number_on_widget">true</bool>
+	<bool name="widget_callmovedisabled">false</bool>
+	<bool name="widget_ischeckfacavailable">false</bool>
+	<bool name="usernameAndPasswordPasteEditActionEnabled">false</bool>
+	<bool name="xsiWidgetEnabled">true</bool>
+
+	<string name="device_type_connect_mobile" translatable="false">Connect - Mobile</string>
+	<string name="device_type_connect_tablet" translatable="false">Connect - Tablet</string>
+
+	<bool name="disable_screenshot">false</bool>
+
+	<!-- SSO -->
+	<string name="sso_context">broadsoft</string>
+	<!-- SSO IdPs -->
+	<string name="broadworks_tag">broadworks</string>
+	<string name="google_tag">Google</string>
+	<string name="microsoft_tag">Microsoft</string>
+	<string name="okta_tag">Okta</string>
+	<string name="other_tag">Other</string>
+	<string name="custom1_tag">custom1</string>
+	<string name="custom2_tag">custom2</string>
+	<string name="custom3_tag">custom3</string>
+	<string name="custom4_tag">custom4</string>
+
+	<bool name="disableBroadcast">true</bool>
+	<bool name="disableWelcomeScreen">false</bool>
+
+	<!-- MobileLink Mode-->
+	<string name="webCallSettingsUrl"/>
+	<integer name="savedContactCachelimit">100</integer>
+	<integer name="savedContactCacheInterval">86400</integer>
+	<bool name="callthroughdisabled">false</bool>
+	<bool name="callbackdisabled">false</bool>
+	<bool name="callnativedisabled">false</bool>
+	<bool name="dialpadAsHomescreen">false</bool>
+
+	<bool name="saveLoginDisabled">true</bool>
+	<string name="resellerConfigBrandingVersion">2.0.1</string>
+	<bool name="enableWXTMessaging">false</bool>
+    <string name="accessCode"/>
+    <bool name="passwordAutofillDisabled">false</bool>
+	<bool name="showPrivacyPolicy">false</bool>
+
+
+    <!--Deprecated Parameters-->
+    <bool name="advancedHostnameDisabled">false</bool>
+    <bool name="advancedXSIActionStringDisabled">false</bool>
+    <integer name="upload_limit">5</integer>
+    <integer name="download_limit">100</integer>
+    <integer name="download_limit_warning">50</integer>
+    <bool name="enable_automatic_calls_signout">true</bool>
+    <string name="intellinoteUrlScheme">intellinote</string>
+    <string name="btbcUrlScheme">btbc</string>
+    <bool name="locationdisabled">false</bool>
+    <bool name="advancedOptionsDisabled">true</bool>
+    <integer name="analyticsPropertiesVersion">1</integer>
+
+	<!--Firebase Parameters-->
+<string name="gcm_defaultSenderId">1080191450846</string>
+  <string name="google_app_id">1:1080191450846:android:84129f85385cbc1f</string>
+  <string name="google_api_key">AIzaSyBbA_5wxM5ky0UlJhkW9m7tRuDvmaLUysU</string>
+  <string name="google_crash_reporting_api_key">AIzaSyBbA_5wxM5ky0UlJhkW9m7tRuDvmaLUysU</string>
+  <string name="project_id">connecttest-1077</string>
+</resources>

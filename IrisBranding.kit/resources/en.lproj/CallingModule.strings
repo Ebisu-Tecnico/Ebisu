@@ -1,0 +1,187 @@
+"OK" = "OK";
+
+"Cancel" = "Cancel";
+
+"Transfer completed" = "Transfer completed";
+
+"Call Back" = "Call Back";
+
+"Call Through" = "Call Through";
+
+"recording" = "recording";
+
+"Transfer to Mobile" = "Transfer to Mobile";
+
+"Your call will be transferred to:" = "Your call will be transferred to:";
+
+"Incomplete emergency location configuration" = "Incomplete emergency location configuration";
+
+"Location Updated Successfully" = "Location Updated Successfully";
+
+"recording paused" = "recording paused";
+
+"Swap" = "Swap";
+
+"Dismiss" = "Dismiss";
+
+"NotificationAction >> Answer" = "View";
+
+"Downgrade call to audio?" = "Downgrade call to audio?";
+
+"Yes" = "Yes";
+
+"recording unavailable" = "recording unavailable";
+
+"Transfer to Circuit Switch" = "Transfer to Mobile";
+
+"Mute" = "Mute";
+
+"Enter a phone number" = "Enter a phone number";
+
+"Hide" = "Hide";
+
+"WEBRTC" = "WEBRTC";
+
+"Echo Test" = "Echo Test";
+
+"Calling" = "Calling";
+
+"Update Emergency Location" = "Update Emergency Location";
+
+"Back" = "Back";
+
+"SIP Call" = "Internet Call (VoIP)";
+
+"Add video to a voice call" = "Add video to a voice call";
+
+"Transfer to new" = "Transfer to new";
+
+"Accept Video" = "Accept Video";
+
+"Call quality issues" = "Call quality issues";
+
+"No Headphones or Bluetooth detected" = "No Headphones or Bluetooth detected";
+
+"Incoming" = "Incoming";
+
+"Accept" = "Accept";
+
+"hours" = "hours";
+
+"Add Video" = "Add Video";
+
+"Transfer to" = "Transfer to %@";
+
+"WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services." = "WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services.";
+
+"iPhone Speaker" = "iPhone Speaker";
+
+"Keypad" = "Keypad";
+
+"Conference" = "Conference";
+
+"Missed call" = "Missed call";
+
+"Call Security" = "Call Security";
+
+"Answer" = "Answer";
+
+"Decline" = "Decline";
+
+"The Call Security service was updated" = "The Call Security service was updated";
+
+"Double tap to return to previous screen" = "Double tap to return to previous screen";
+
+"Hold" = "Hold";
+
+"minute" = "minute";
+
+"Validating Location..." = "Validating Location...";
+
+"Unknown" = "Unknown";
+
+"second" = "second";
+
+"Add Participant" = "Add Participant";
+
+"View" = "View";
+
+"New Call" = "New Call";
+
+"Try again" = "Try again";
+
+"hour" = "hour";
+
+"We were not able to validate your Location" = "We were not able to validate your Location";
+
+"Cannot add participant to the conference" = "Cannot add participant to the conference";
+
+"Incoming call from" = "Incoming call from";
+
+"Transfer call" = "Transfer call";
+
+"The Call Security service was disabled" = "The Call Security service was disabled";
+
+"Input source" = "Input source";
+
+"minutes" = "minutes";
+
+"End call" = "End call";
+
+"Merge" = "Merge";
+
+"Park Call" = "Park Call";
+
+"Speaker" = "Speaker";
+
+"Transfer" = "Transfer";
+
+"Change my level" = "Change my level";
+
+"On hold" = "ON HOLD";
+
+"Participants" = "Participants";
+
+"seconds" = "seconds";
+
+"Touch to return to call" = "Touch to return to call";
+
+"Voice Only" = "Voice Only";
+
+"iPhone - Call Ask" = "iPhone";
+
+"Audio Sources" = "Audio Sources";
+
+"Incoming video call" = "Incoming video call";
+
+"Ongoing Call" = "Ongoing Call";
+
+"Complete" = "Complete";
+
+"Accept Audio" = "Accept Audio";
+
+"Done" = "Done";
+
+"Bluetooth" = "Bluetooth";
+
+"Headset" = "Headset";
+
+"Reconnecting to" = "Reconnecting to";
+
+"Reconnecting" = "Reconnecting";
+
+"Call dropped" = "Call dropped";
+
+"Call on hold dropped" = "Call on hold dropped";
+
+"cm_XSICall_DisplayName_Unknown" = "Unknown";
+
+"Ring Reminder" = "Ring Reminder";
+
+"Incoming call was redirected" = "Incoming call was redirected";
+
+"cm_XSICall_DisplayName_Hidden" = "Hidden";
+
+"Private" = "Private";
+
+"Anonymous" = "Anonymous";

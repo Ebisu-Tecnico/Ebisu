@@ -1,0 +1,804 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="sign_out">Sign Out</string>
+    <string name="search_contacts">Search Contacts</string>
+    <string name="join_my_room">Join My Room</string>
+    <string name="favorites">Favorites</string>
+    <string name="groups">Groups</string>
+    <string name="participant">Participants</string>
+    <string name="directory">Directory</string>
+    <string name="dialpad">Dialpad</string>
+    <string name="call_history">Call History</string>
+    <string name="dnd">Do Not Disturb</string>
+    <string name="call_forward">Call Forwarding</string>
+    <string name="pa">Personal Assistant</string>
+    <string name="update_password">Update Password</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="messages">Messages</string>
+    <string name="signing_in">Signing In...</string>
+    <string name="signing_out">Signing Out...</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="domain_hint">XSI Actions</string>
+    <string name="eula_decline">Decline</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula">EULA</string>
+    <string name="advance_less_option">Show Less</string>
+    <string name="about_u"><u>About</u></string>
+    <string name="about_header">About %1$s</string>
+    <!--Added-->
+    <string name="settings_about">Settings and About</string>
+    <string name="crash_reporting">Crash Reporting</string>
+    <string name="networkerror">Network failure</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    <string name="send">Send</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="chat">Chat</string>
+    <string name="ok">OK</string>
+    <string name="delete">Delete</string>
+    <string name="signout_cfm">Are you sure you want to sign out?</string>
+    <string name="delete_call_history_message"><b>Delete Call History?</b></string>
+    <string name="delete_history">Delete History</string>
+    <string name="error">Error</string>
+    <string name="pull_call_error">Unable to pull call.</string>
+
+    <!-- Action Menu Strings -->
+
+    <!-- Messages Screen Strings -->
+    <string name="no_messages">You have no messages yet.</string>
+    <string name="messages_suggestion">Compose a New Chat</string>
+    <string name="new_chat">New Chat</string>
+    <string name="broadcast_all">Broadcast All</string>
+    <string name="broadcast_all_body">This message will be sent to all of %s. Are you sure you want to send? </string>
+    <string name="allow_replies">Allow Replies</string>
+    <string name="today">Today %s</string>
+    <string name="yesterday">Yesterday %s</string>
+    <string name="to">To:</string>
+    <string name="read_only">Read Only</string>
+    <string name="chat_hint">Type your message</string>
+    <string name="reply_to">Reply to %s</string>
+    <string name="my_room">My Room</string>
+    <string name="others_room">Room - %s</string>
+    <string name="group_chat">Chat Room</string>
+    <string name="company_broadcast">Company Broadcast</string>
+    <string name="group_name_more_user" formatted="false">%s &amp; %s more</string>
+    <string name="read_only_chat">Read Only Chat</string>
+    <string name="launch_meet">Launch</string>
+    <string name="read_only_message">Rooms are not supported in this app. You can view conversations, but not send messages.</string>
+
+    <string name="view_profile">View Profile</string>
+    <string name="remove">Remove</string>
+    <string name="add_participants">Add Participants</string>
+
+    <!-- Favorites Screen Strings -->
+    <string name="favorites_suggestion">To add a Favorite, tap the star icon in Profiles.</string>
+
+    <!-- Groups Screen Strings -->
+    <string name="no_groups">You have no groups.</string>
+    <string name="no_group_members">You have no group members yet.</string>
+    <string name="groups_suggestion">+ Add Group</string>
+    <string name="groups_members_suggestion">+ Add Group Members</string>
+    <string name="add_group">Add Group</string>
+    <string name="select_groups">Select Groups</string>
+    <string name="add_to_group">Add To Group</string>
+    <string name="enter_group_name">Enter Group Name</string>
+    <string name="delete_group">Delete Group</string>
+    <string name="group_messaging">Group Messaging</string>
+    <string name="delete_group_body" formatted="false">Are you sure you want to delete the group \"%s\" (%s members)\?</string>
+    <string name="add_to_groups">Add To Groups</string>
+    <string name="max_limit_group_title">Too Many People in Group</string>
+    <string name="max_limit_group_body">Chats Cannot be started with more than %s people.</string>
+    <string name="group_msg_body" formatted="false">%s: %s</string>
+    <string name="you">You</string>
+
+    <!-- Contacts Screen Strings -->
+    <string name="find_contacts">Use search to find contacts.</string>
+    <string name="no_matches_found">No matches found.</string>
+
+
+    <!-- DialPad Screen Strings -->
+    <string name="dialpad_digit_1">1</string>
+    <string name="dialpad_digit_2">2</string>
+    <string name="dialpad_digit_2_abc">ABC</string>
+    <string name="dialpad_digit_3">3</string>
+    <string name="dialpad_digit_3_def">DEF</string>
+    <string name="dialpad_digit_4">4</string>
+    <string name="dialpad_digit_4_ghi">GHI</string>
+    <string name="dialpad_digit_5">5</string>
+    <string name="dialpad_digit_5_jkl">JKL</string>
+    <string name="dialpad_digit_6">6</string>
+    <string name="dialpad_digit_6_mno">MNO</string>
+    <string name="dialpad_digit_7">7</string>
+    <string name="dialpad_digit_7_pqrs">PQRS</string>
+    <string name="dialpad_digit_8">8</string>
+    <string name="dialpad_digit_8_tuv">TUV</string>
+    <string name="dialpad_digit_9">9</string>
+    <string name="dialpad_digit_9_wxyz">WXYZ</string>
+    <string name="dialpad_digit_asterix">\u2217</string>
+    <string name="dialpad_digit_0">0</string>
+    <string name="dialpad_digit_0_plus">+</string>
+    <string name="dialpad_digit_ash">#</string>
+    <string name="call">Call</string>
+
+    <!-- User Profile/PresenceBean Screen Strings -->
+    <string name="my_profile">My Profile</string>
+    <string name="my_status">My Status</string>
+    <string name="profile">Profile</string>
+    <string name="add_to_favorite">Add to Favorites</string>
+    <string name="remove_favorite">Remove From Favorites</string>
+    <string name="call_room">Call Room</string>
+    <string name="join_room">Join Room</string>
+    <string name="pull_call">Pull Call</string>
+    <string name="profile_display_name">Display Name</string>
+    <string name="profile_first_name">First Name</string>
+    <string name="profile_last_name">Last Name</string>
+    <string name="profile_title">Title</string>
+    <string name="profile_department">Department</string>
+    <string name="profile_location">Location</string>
+    <string name="profile_work_phone">Work Phone</string>
+    <string name="profile_extension">Extension</string>
+    <string name="profile_dial_in">My Room Dial-in Info</string>
+    <string name="profile_mobile">Mobile Phone</string>
+    <string name="profile_personal_phone">Personal Phone</string>
+    <string name="profile_enter_personal_phone">Enter Personal Phone</string>
+    <string name="profile_email">Email Address</string>
+    <string name="profile_address">Address</string>
+    <string name="profile_im">IM Address</string>
+    <string name="profile_scf">Webex Email</string>
+    <string name="change_photo">Change Profile Photo</string>
+    <string name="use_camera">Use Camera</string>
+    <string name="choose_existing">Choose Existing Photo</string>
+    <string name="clear_photo">Clear Profile Photo</string>
+
+    <!-- BroadWorks Error Strings -->
+    <string name="bw_error_111020">BroadWorks Mobility service is not assigned to this user.</string>
+    <string name="bw_error_111021">BroadWorks Mobility service is not activated for this user.</string>
+    <string name="bw_error_111022">Calling Party Address not found.  This device may not have been configured for DM.</string>
+    <string name="bw_error_111023">Duplicate request for same call context.</string>
+    <string name="bw_error_111024">IMRN request not allowed.</string>
+    <string name="bw_error_111025">IMRN allocation failed.  This may indicate that all IMRN numbers are currently in use.</string>
+    <string name="bw_error_6004">OCI XML Request validation error.  Please verify that all fields were filled correctly.</string>
+    <string name="invalidpassword">Error: Invalid username/password</string>
+    <string name="user_name_missing">The User Name field is required.</string>
+    <string name="password_missing">The Password field is required.</string>
+    <string name="phone_number_missing">The Phone Number field is required.</string>
+    <string name="host_name_missing">The Host Name field is required.</string>
+    <string name="login_error">Login Error</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="login_error_message">Login failed: %s.  Please check your login settings.</string>
+    <!-- BroadWorks Error Strings Ends -->
+
+    <string name="xsi_no_auth_error">Unauthorized User</string>
+
+    <!-- Miscellaneous -->
+    <string name="notification_new_message">New Message</string>
+
+    <!--Call Options-->
+    <string name="call_option_use_system_dialer">Use System Default Dialer</string>
+    <string name="call_option_use_call_through">Use Call Through Service</string>
+    <string name="call_option_use_call_back">Use Call Back Service</string>
+    <string name="call_options">Outgoing call options</string>
+    <string name="pleasewait">Please wait...</string>
+    <string name="waiting_callback">Waiting Callback...</string>
+    <string name="callback_on_primarynumber">Warning: Calling back at a different location!</string>
+    <string name="callbacktimeout">Error: Timeout on call back service</string>
+
+
+    <!--System Notifications-->
+    <string name="system_notifications">System Notifications</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="clear">Clear</string>
+    <string name="more">More</string>
+    <string name="retry">Try Again</string>
+    <string name="network_unavailable">Network is Currently Unavailable</string>
+    <string name="device_registration_failed">Push Registration failed with error %s</string>
+    <string name="message_retrieval_failed">Unable to fetch latest messages from the server. Please try again later.</string>
+
+    <string name="cs_retrieval_failed">Unable to parse the Contact Storage Data. Error : %s</string>
+
+    <!-- Call Type Screen Strings -->
+    <string name="call_through">Call Through</string>
+
+    <!-- update password -->
+    <string name="update">Update</string>
+    <string name="old_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="type_old_password">Type current Password</string>
+    <string name="type_new_password">Type new password</string>
+    <string name="verify_new_password">Verify new password</string>
+    <string name="old_password_incorrect">Current password is incorrect.</string>
+    <string name="new_password_match">New Passwords Must Match.</string>
+    <string name="invalid_password">Invalid Password.</string>
+    <string name="password_success_title">Password Successfully Updated</string>
+    <string name="password_success_message">The password has been changed successfully.</string>
+    <string name="show_passwords">Show passwords</string>
+    <string name="hide_passwords">Hide passwords</string>
+
+    <!-- Preferences -->
+    <string name="calling">Calling</string>
+    <string name="dialing_service">Dialing Service</string>
+    <string name="dialing_method">Dialing Method</string>
+    <string name="call_back">Call Back</string>
+
+
+    <string name="email_logs_to_support">Email Logs to Support</string>
+    <string name="send_analytics">Send Analytics</string>
+    <string name="pref_notification">Notification</string>
+    <string name="notification_all_messages">All Messages</string>
+    <string name="notification_mentions_only">\@Mentions Only</string>
+    <string name="notification_off">Off</string>
+
+    <string name="create_notification_alert">Create Notification Alert</string>
+    <string name="alert_all_locations">Alert All Locations</string>
+
+
+    <!--any where location-->
+    <string name="telephone_no">Telephone #</string>
+    <string name="description">Description</string>
+    <string name="active">Active</string>
+    <string name="call_control">Call Control</string>
+    <string name="answer_confirmation">Answer Confirmation</string>
+    <string name="delete_location">Delete Location</string>
+    <string name="add_location">Add Location</string>
+
+
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <string name="crop__pick_error">No image sources available</string>
+    <string name="crop__done">DONE</string>
+    <string name="crop__cancel" tools:ignore="ButtonCase">CANCEL</string>
+
+    <!-- Publish Location-->
+    <string name="set_location">Set Location</string>
+
+
+    <!-- About Screen Strings -->
+    <string name="tutorial">Welcome Screens</string>
+    <string name="info">Info</string>
+    <string name="license">License</string>
+    <string name="legal">Legal Notices</string>
+
+
+    <string name="unavailable">Unavailable</string>
+    <string name="set_contact_storage_error">Unable to update Contact Storage</string>
+    <string name="number_not_available">Number Not Available</string>
+    <string name="room_info_not_available">Room Info Not Available</string>
+
+    <string name="call_fwd_busy">When Busy</string>
+    <string name="call_fwd_no_answer">When No Answer</string>
+    <string name="call_fwd_not_reachable">When Not Reachable</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="number_of_rings">Number of Rings</string>
+    <string name="ring_splash">Ring Splash</string>
+    <string name="forward_to">Forward to #</string>
+    <string name="none">None</string>
+    <string name="license_not_available">Your account is not authorized for this application — please contact your service provider for assistance.</string>
+
+    <string name="name_unavailable">Name unavailable</string>
+    <string name="send_email_label">Choose an email client from...</string>
+    <string name="request_cancelled">Request Cancelled..</string>
+    <string name="testing_notification">Testing : </string>
+
+    <string name="message_delivery_failed">Unable to deliver message.</string>
+    <string name="server_hint">Server Address</string>
+    <string name="ctd_userPhoto">User Profile Photo</string>
+    <string name="ctd_logo">Logo</string>
+    <string name="ctd_close">Close</string>
+    <string name="ctd_back">Back</string>
+    <string name="ctd_searchButton">Search</string>
+    <string name="ctd_fab_new_chat">New Chat</string>
+    <string name="call_fwd_invalid_phno">Invalid phone number</string>
+    <string name="mood_hint">What\'s on your mind?</string>
+    <string name="settings">Settings</string>
+    <string name="chat_heads">Chat Heads</string>
+    <string name="chat_error">Failed to start chat with this contact.</string>
+    <string name="broadcast_with_reply">with option to reply</string>
+    <string name="broadcast_one_way_message">one-way message</string>
+    <string name="phone_number_hint">This Phone Number</string>
+    <string name="advance_more_option">Additional Options</string>
+    <string name="get_new_msg">Get New Messages</string>
+    <string name="content_copied">Copied</string>
+    <string name="mark_as_read">Mark as Read</string>
+    <string name="this_phone_number">This Phone Number</string>
+    <string name="troubleshooting">Troubleshooting</string>
+    <string name="detailed_logging">Detailed Logging</string>
+    <string name="notifications">Notifications</string>
+    <string name="view_in_android_contacts">View in Android Contacts</string>
+    <string name="unavailable_for_androidcontacts">Unavailable for Android Contacts</string>
+    <string name="create">Create</string>
+    <string name="less">Less</string>
+    <string name="password_no_expiry">Password will not expire.</string>
+    <string name="incomplaint_server_version">Unsupported messaging gateway interface version %s</string>
+    <string name="call_fwd_always">Always Forward</string>
+    <string name="password_expires_in_day">Your password will expire in %s day.</string>
+    <string name="password_expires_in_days">Your password will expire in %s days.</string>
+    <string name="error_password_expires_in_day">Your password expires in %s day.&lt;br/&gt;  Please update your password.</string>
+    <string name="error_password_expires_in_days">Your password expires in %s days.&lt;br/&gt;  Please update your password.</string>
+    <string name="error_password_expired_in_day">Your password expired %s day ago.&lt;br/&gt;  Please update your password.</string>
+    <string name="error_password_expired_in_days">Your password expired %s days ago.&lt;br/&gt;  Please update your password.</string>
+    <string name="password_expired_update_now">Your password has expired.</string>
+    <string name="this_phone">This Phone</string>
+    <string name="business_call">Business Call</string>
+    <string name="quick_results">Quick Results</string>
+    <string name="dnd_for_calls">for calls</string>
+    <string name="close">Close</string>
+    <string name="lastNameFirstSeparator">, </string>
+
+    <string name="dialing_unavailable">Dialing Unavailable</string>
+    <string name="unknown">Unknown</string>
+    <string name="license_agreement">License Agreement</string>
+    <string name="decline_exit">Decline &amp; Exit</string>ls
+    <string name="review_eula">Review EULA</string>
+    <string name="send_by_email">Send by Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="apps">Apps</string>
+    <string name="notification_reply">Reply</string>
+    <string name="availability">Set My Availability...</string>
+    <string name="publish_location">Set My Location...</string>
+    <string name="availability_header">Set My Availability</string>
+    <string name="publish_location_header">Set My Location</string>
+    <string name="location_set_automatically">Set Location Automatically</string>
+    <string name="location_set_manually">Set Location Manually</string>
+    <string name="automatic_location">Automatic Location</string>
+    <string name="add_label_title">Add Label</string>
+    <string name="suggested">Suggested</string>
+    <string name="share_location">Share</string>
+    <string name="location_name">Enter Location Name</string>
+    <string name="location_include_time">Include Android Time</string>
+    <string name="error_deleting_location">Unable to clear the location. Please try again later.</string>
+    <string name="clear_location_and_timezone">Clear Location and Time Zone</string>
+    <string name="enter_location_name">Enter Location Name</string>
+    <string name="show_time">Show Time</string>
+    <string name="location_name_error">Please enter a valid location name.</string>
+    <string name="unable_to_process">Unable to process your request. Please try again later.</string>
+    <string name="hub_authentication_failed">%1$s authentication failed.</string>
+    <string name="hub_not_reachable_error">Could not reach %1$s server.</string>
+    <string name="enable_hub">Enable %1$s</string>
+    <string name="bw_error_configuration_not_assigned">The %1$s device configuration has not been assigned to your account.&lt;br/&gt; Contact your system administrator.</string>
+    <string name="config_file_error">Error downloading %1$s Configuration file.</string>
+    <string name="decline_content">%1$s cannot be used unless the terms of the end user license agreement are accepted</string>
+    <string name="location_service_off">Turn on Location Services in &lt;a href=""&gt;%1$s&lt;/a&gt; to enable Automatic Location sharing and to provide suggested location labels.</string>
+    <string name="accept_content">Accept the terms &amp; conditions</string>
+    <string name="action_settings">Settings</string>
+    <!-- Presence State -->
+    <string name="status_offline">offline</string>
+    <string name="status_online">available</string>
+    <string name="status_unavailable">unavailable</string>
+    <string name="status_away">away</string>
+    <string name="status_busy">busy</string>
+    <string name="status_call">call</string>
+    <string name="status_dnd">dnd</string>
+    <string name="status_meeting">In Meeting</string>
+    <string name="status_pending">pending</string>
+    <string name="status_mobile">mobile</string>
+    <string name="status_automatic">automatic</string>
+    <string name="status_presenting">presenting</string>
+
+    <string name="status_away_mobile">mobile</string>
+    <string name="status_offline_call">call</string>
+    <string name="profile_send_sms">Send Personal SMS</string>
+
+    <!-- New states added in 2.2 -->
+    <string name="send_media">Send Media</string>
+    <string name="speak_now">Speak Now</string>
+
+    <string name="title_mark_all_messages_read">Mark all messages read?</string>
+    <string name="contacts_header">Contacts</string>
+    <string name="display_by">Display by</string>
+    <string name="last_name_first">Last Name First</string>
+    <string name="first_name_first">First Name First</string>
+    <string name="sort_by">Sort by</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="config_file_parse_error">Error parsing %1$s Configuration file.</string>
+    <string name="expired">expired</string>
+    <string name="download">Download</string>
+
+    <string name="invalid_server_path">Incorrect server address path.</string>
+    <string name="invalid_server_host">Server address is not a valid host.</string>
+
+    <string name="hub_disabled_info">Enable %1$s to access your cloud applications like Google, Twitter, O365 and others. &lt;br/&gt;&lt;br/&gt;%1$s integrates your emails, documents, meetings and other cloud application data into your %2$s experience.</string>
+    <string name="prevent_diverting_calls">Don\'t Divert Calls</string>
+    <string name="hint_display_name">Enter Display Name</string>
+    <string name="title_send_email">Send Email Using: </string>
+    <string name="action_mark">Mark all as read</string>
+
+    <string name="new_call_room">Room</string>
+    <string name="transfer_call">Transfer Call</string>
+
+    <string name="use_voip">Use VoIP</string>
+    <string name="voip_network">VoIP Network</string>
+    <string name="all_network">All Networks</string>
+    <string name="wifi_only">WiFi Only</string>
+    <string name="call_from">Call From</string>
+    <string name="hidden_number">Hidden Number</string>
+    <string name="dnd_enabled">DnD enabled</string>
+    <string name="dnd_disabled">DnD disabled</string>
+    <string name="cannot_call">Cannot Call</string>
+    <string name="call_wifi_unavailable">WiFi is unavailable. Select another Dialing service, or adjust Calling Settings.</string>
+    <string name="dual_persona_label">Select a number for outgoing calls.</string>
+    <string name="dual_persona_business_label">Business Phone</string>
+    <string name="dual_persona_personal_label">Personal Phone</string>
+    <string name="dual_persona_apply">Press and hold on call buttons to select an outgoing number.</string>
+    <string name="callbar_format">%1$s - %2$s</string>
+
+    <string name="push_notification_logout_enable">Would you like to receive business calls while signed out?</string>
+    <string name="yes">Yes</string>
+    <string name="push_notification_enable_deny">No</string>
+
+    <string name="bwks_services_disabled">Alerting for BroadWorks mobile services has been disabled for this location.</string>
+    <string name="bwks_services_enabled">Alerting for BroadWorks mobile services has been enabled for this location.</string>
+    <string name="bwks_services_unavailable">Dialing with BroadWorks mobile service is unavailable.</string>
+    <string name="bwks_voip_services_enabled">VoIP calling is enabled. By enabling this alternative location you may experience simultaneous incoming calls.</string>
+    <string name="missing_device_config">Missing device configuration</string>
+    <string name="voicemail">Voicemail</string>
+    <string name="support_links">Web Links</string>
+    <string name="voip_mode">VoIP Mode</string>
+
+    <string name="permission_group_storage">Storage</string>
+    <string name="permission_group_contacts">Contacts</string>
+    <string name="permission_group_location">Location</string>
+    <string name="permission_error_title">Permission Error</string>
+    <string name="permission_group_drawoverapps">Draw Over Other Apps</string>
+
+    <string name="choose_attachment">Choose</string>
+    <string name="attachment_preview_title">Attachment</string>
+    <string name="error_message_gateway">Messaging gateway is misconfigured.</string>
+
+    <string name="leave_room">Leave&lt;br/&gt; Room</string>
+    <string name="call_room_swipe_btn">Call&lt;br/&gt; Room</string>
+    <string name="leave_all_joined_rooms">Leave All Joined Rooms</string>
+    <string name="leave_rooms">Leave all Rooms</string>
+    <string name="copy_my_room_invitation">Copy My Room Invitation</string>
+    <string name="email_my_room_invitation">Email My Room Invitation</string>
+    <string name="copy_guest_join_link">Copy Guest Link</string>
+    <string name="joined_rooms">Joined Rooms</string>
+    <string name="participants">Participants</string>
+    <string name="leave">Leave</string>
+    <string name="myroom_invitation_gc">Guest Participants: &lt;br/&gt;%1$s</string>
+    <string name="myroom_invitation_audio">&lt;br/&gt;Audio Only: %1$s</string>
+    <string name="myroom_invitation_subject">%1$s : Join My Room</string>
+    <string name="user_leftroom_message"><![CDATA[<b>%1$s</b>]]> left room. %2$s</string>
+    <string name="user_joinroom_message"><![CDATA[<b>%1$s</b>]]> joined room. %2$s</string>
+    <string name="your_joinroom_message"><![CDATA[<b>You</b>]]> joined room. %1$s</string>
+    <string name="user_inroom_message"><![CDATA[<b>In room:</b>]]> %1$s</string>
+    <string name="pn_room_invite_content">%1$s Invited you to join My Room</string>
+    <string name="pn_room_invite_title">My Room Invitation</string>
+    <string name="view_participants">View Participants</string>
+    <string name="leave_all_room_message">Are you sure you want to leave all of the rooms you have joined?</string>
+    <string name="leave_all_rooms_dialog_title">Leave all joined rooms?</string>
+    <string name="menu_call">Call</string>
+    <string name="leave_room_message">Leaving a room ends corresponding calls and sharing</string>
+    <string name="menu_leave_room">Leave Room</string>
+    <string name="unable_to_deliver_message">Unable to deliver message</string>
+    <!--strings to get it translated-->
+    <string name="reject">Reject</string>
+    <string name="your_joinroom_message_history">You joined the room.</string>
+    <string name="user_joinroom_message_history">%1$s joined the room.</string>
+    <string name="user_leaveroom_message_history">%1$s left the room.</string>
+    <string name="guest_requests">Guest Requests</string>
+    <string name="guest_pending_request">You have new guest requests pending.</string>
+    <string name="guest_request_join_message">%1$s has requested to join room</string>
+    <string name="guest_request_join_title">My Room Join Request</string>
+    <string name="view">View</string>
+    <string name="continue_button">Continue</string>
+    <string name="access_code">Access Code</string>
+    <string name="no_access_code">I don\'t have an Access Code</string>
+    <string name="load">Loading...</string>
+    <string name="preferences">Preferences</string>
+    <string name="unable_to_start_call">Unable to start the call. Please try again later.</string>
+    <string name="invalid_access_code">Invalid Access Code</string>
+
+    <!-- Voicemail Changes -->
+    <string name="empty_call_log">Call History is empty.</string>
+    <string name="calllog_title_not_today">%1$s&lt;br/&gt;%2$s</string>
+    <string name="voicemail_title_not_today">%1$s %2$s</string>
+    <string name="calllog_title_today">%1$s</string>
+    <string name="calllog_title_yesterday">Yesterday, at %1$s</string>
+    <string name="calllog_details_today">Today</string>
+    <string name="calllog_details_yesterday">Yesterday</string>
+    <string name="voicemail_action_button_speaker">Speaker</string>
+    <string name="voicemail_action_button_call">Call</string>
+    <string name="voicemail_action_button_delete">Delete</string>
+    <string name="voicemail_action_button_mark_new">Mark as New</string>
+    <string name="delete_voice_message">Delete Voicemail</string>
+    <string name="confirm_voice_mail_deletion">Are you sure you want to delete your voicemail?</string>
+    <string name="confirm_all_voice_mail_deletion">Are you sure you want to delete all your voicemails?</string>
+    <string name="empty_voice_mail">Voicemail inbox is empty.</string>
+    <string name="title_select_ucaas">Select UCaaS</string> <!-- temp -->
+    <string name="unable_to_download_voicemails">Voicemails could not be downloaded</string>
+    <string name="unable_to_download_voicemail">Voicemail could not be downloaded</string>
+    <string name="unable_to_play_voicemail">Unable to play voicemail</string>
+    <string name="unable_to_play_video_voicemail">Video Voicemail could not be played</string>
+    <string name="unable_to_voicemail_new">Could not mark voicemail as new</string>
+    <string name="unable_to_delete_voicemail">Voicemail could not be deleted</string>
+    <string name="btn_join_room">Join &lt;br/&gt; Room</string>
+    <string name="unknown_caller">Unknown Caller</string>
+    <string name="unknown_number">Unknown Number</string>
+
+    <!-- SMS Changes -->
+    <string name="new_sms">New SMS</string>
+    <string name="new_sms_message">New SMS Message</string>
+    <string name="new_sms_message_hint">Type your SMS message</string>
+    <string name="sms_message">SMS Message</string>
+    <string name="sms">SMS</string>
+    <string name="add_to_phone_contacts">Add to Phone Contacts</string>
+    <string name="add_to_existing_contact">Add to Existing Contact</string>
+    <string name="voip_unavailable_emergency_number">Select an available Dialing Service, or adjust Calling Settings. </string>
+
+    <!--strings moved from brandable strings starts here-->
+    <string name="version_number">Version %s</string>
+    <string name="build_number">Build %s</string>
+    <!--Changes after string freeze-->
+    <string name="voip">Call VoIP</string>
+    <string name="UC_One_Hub">Hub</string>
+    <string name="app_id">App Id</string>
+    <string name="call_settings">Call Settings</string>
+    <string name="title_select_region">Select Region</string>
+    <string name="ihs_1">BTBC IHS</string>
+    <string name="ihs_2">BroudCloud PBX</string>
+    <string name="region_manual">Advanced Setup</string>
+
+    <!--strings moved from brandable strings ends here-->
+    <!-- App Landing Page -->
+    <string name="landing_page_error">@string/unable_to_process</string>
+    <string name="application_not_compatible_with_rooted_devices">Application is not compatible with rooted devices.</string>
+
+
+    <!-- To be translate the below string later.. Don't include any strings in this section -->
+    <!--Nordic presence string changes -->
+    <string name="presence_nordic_duration">Duration</string>
+    <string name="presence_nordic_transfer_call">Transfer Calls</string>
+    <string name="presence_nordic_silent_mode">Silent Alert</string>
+    <string name="presence_nordic_silent_note">Ring Reminder requires VoIP mode. Go to the Main Menu to turn on VoIP.</string>
+    <string name="presence_nordic_dnt">Do Not Transfer</string>
+    <string name="presence_nordic_duration_option_1">Forever</string>
+    <!--<string name="presence_nordic_duration_option_2">30 Minutes</string>-->
+    <!--<string name="presence_nordic_duration_option_3">45 Minutes</string>-->
+    <!--<string name="presence_nordic_duration_option_4">1 Hour</string>-->
+    <!--<string name="presence_nordic_duration_option_5">2 Hours</string>-->
+    <!--<string name="presence_nordic_duration_option_6">4 Hours</string>-->
+    <!--<string name="presence_nordic_duration_option_7">24 Hours</string>-->
+    <string name="presence_nordic_duration_option_8">End of Today</string>
+    <string name="presence_nordic_duration_option_9">Custom</string>
+    <string name="presence_nordic_duration_option_10">Ends</string>
+    <string name="presence_nordic_transfer_call_option_1">Add a New Number</string>
+    <string name="presence_nordic_transfer_call_option_2">Choose from Directory</string>
+    <string name="presence_nordic_transfer_call_enabled_note">If the Transfer Calls option is turned on, callers will be able to get transferred to the specified number before voicemail.</string>
+    <string name="presence_nordic_transfer_call_disabled_note">If the Transfer Calls option is turned off, unanswered calls will be sent to your voicemail.</string>
+    <string name="presence_nordic_transfer_call_number_title1">Add a Transfer Number</string>
+    <string name="presence_nordic_transfer_call_number_title2">Recent Numbers</string>
+    <string name="presence_nordic_choose_date">Choose Date</string>
+    <string name="presence_nordic_choose_contact">Choose a Number for </string>
+    <string name="presence_nordic_work">Work</string>
+    <string name="presence_nordic_mobile">Mobile</string>
+    <string name="presence_nordic_until">Until\u0020</string>
+    <string name="presence_nordic_until_exp">until\u0020</string>
+    <string name="presence_wrong_date_title">Cannot Save Date</string>
+    <string name="presence_wrong_date_message">Please select a future time.</string>
+
+    <!-- New Presence states -->
+    <string name="status_default_presence_label">Standard Options</string>
+    <string name="status_nordic_presence_label">Configurable Options</string>
+    <string name="status_business_trip">business trip</string>
+    <string name="status_gone_for_day">gone for the day</string>
+    <string name="status_lunch">lunch</string>
+    <string name="status_out_of_office">out of office</string>
+    <string name="status_temp_out">temporarily out</string>
+    <string name="status_training">training</string>
+    <string name="status_vacation">vacation</string>
+    <string name="status_advance_meeting">meeting</string>
+
+    <!-- Nordic Error Strings -->
+    <string name="nordic_set_presence_fails">Your availability could not be updated.</string>
+    <string name="nordic_presence_directory_lookup_fails">No phone numbers available.</string>
+    <string name="nordic_presence_edit_fails">Availability settings could not be loaded.</string>
+
+    <string name="nordic_presence_one_minute">One Minute</string>
+    <string name="nordic_presence_minutes">%d Minutes</string>
+    <string name="nordic_presence_hour">%d Hour</string>
+    <string name="nordic_presence_hours">%d Hours</string>
+
+    <!-- #1 Ends here -->
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="disabled">Disabled</string>
+    <string name="mobile_business_calling">Mobile Business Calling</string>
+    <string name="phNum_config_not_now">Not Now</string>
+    <string name="unable_to_setup">Unable to Set Up</string>
+    <string name="unable_to_setup_msg">To set up mobile business calling contact the administrator.</string>
+    <string name="confirm_mobile_number">Confirm your mobile number.</string>
+    <string name="bwks_number_config_text">Would you like to make and receive calls on your mobile phone using your business phone number?</string>
+    <string name="language_code">en</string>
+    <string name="edit_access_code">Clear Access Code</string>
+    <string name="notification_channel_sound">Chat Notifications (Sound)</string>
+    <string name="notification_channel_silent">Chat Notifications (Silent)</string>
+
+
+    <string name="new_broadcast">New Announcement</string>
+    <string name="broadcast_hint">Type your announcement</string>
+    <string name="broadcast">New Announcement</string>
+    <string name="one_way">One-way Announcement</string>
+    <string name="view_shared_content">View Shared Content</string>
+    <string name="unavailable_network">Network Unavailable</string>
+    <string name="cellular_call">Cellular Call</string>
+    <string name="ott_with_broadworks">The data network is unavailable, would you like to make the call using the cellular network instead? Additional charges may apply.</string>
+    <string name="personal_cellular_call">Personal Cellular Call</string>
+    <string name="ott_with_out_broadworks">The data network is unavailable, would you like to make the call using the cellular network instead? Your call will be placed from this device phone number. Additional charges may apply.</string>
+    <string name="access_to_room_title">Join %1$s Room</string>
+    <string name="access_to_room_content">Access to this room requires approval.</string>
+    <string name="request_access">Request Access</string>
+    <string name="access_to_room_declined">Your request to join the room has been declined.</string>
+    <string name="access_to_room_time_out">Your request has timed out.</string>
+    <string name="subscriber_request_pending">You have new subscriber requests pending.</string>
+    <string name="subscriber_requests">Join Room Requests</string>
+    <string name="access_to_room_accepted">Your request to join the room has been accepted.</string>
+    <string name="pager_number">Other Number</string>
+    <string name="call_no_network">There is no network available to make the call. Please try again later.</string>
+    <string name="request_accepted">%1$s has been accepted</string>
+    <string name="request_declined">%1$s has been declined</string>
+    <string name="request_processing">Request is processing</string>
+    <string name="voicemail_action_button_mark_read">Mark as Played</string>
+    <string name="voicemail_settings">Voicemail Settings</string>
+    <string name="call_voicemail">Call Voicemail</string>
+    <string name="unable_to_voicemail_read">Could not mark voicemail as played</string>
+    <string name="guest_link_text">You have been invited to join %1$s room for a meeting.&lt;br&gt;%2$s Users:&lt;br&gt;Join %1$s\'s room in %2$s.&lt;br&gt;Guest Participants:&lt;br&gt;%3$s</string>
+    <string name="voip_is_off">VoIP is Off</string>
+    <string name="voip_off_make_call">To make a call, turn VoIP on.</string>
+    <string name="request_timeout">Request has timed out</string>
+    <string name="no_guest_request">You have no guest requests pending</string>
+
+    <string name="voicemail_confidential">Confidential</string>
+    <string name="voicemail_urgent">Urgent</string>
+    <string name="email_logs_disclaimer_message">Selecting \"Email Logs to Support\" above will send your application activity logs to us, so that we can help you, and improve the product. These logs identify you, your device, other users you\'ve communicated with, and optionally, your employer. The logs do not include any user generated content like messages. For more information see our %1$s.</string>
+    <string name="join_room_message">Join the room to see any new messages.</string>
+    <string name="room_dismissal_title">Room Dismissal</string>
+    <string name="room_dismissal_content">You have been dismissed from %s Room</string>
+
+    <!-- Unused Strings -->
+    <string name="pager">Pager</string>
+
+    <!-- Foreground Notification Service -->
+    <string name="foreground_notification_signin">Sign In</string>
+    <string name="foreground_notification_call_transfer">Transfer Call</string>
+    <string name="foreground_notification_call_pull">Move Call</string>
+    <string name="foreground_notification_settings">Settings</string>
+    <string name="callback_number_string">*11</string>
+
+    <!-- Call Feature Widget -->
+    <string name="widget_login_text">Sign In</string>
+    <string name="widget_call_transfer">Transfer Call</string>
+    <string name="widget_call_move">Move Call</string>
+    <string name="widget_call_settings">Settings</string>
+    <string name="widget_network_unavailable">Network connection is not available.</string>
+    <string name="widget_call_transfer_error">Transfer Call connects an ongoing call to a second call.</string>
+    <string name="widget_call_move_error">Move Call moves an ongoing call between your mobile phone and another device.</string>
+    <string name="widget_call_api_error">Request timed out.</string>
+    <string name="widget_tap_to_continue_text">Tap to continue.</string>
+    <string name="widget_call_transfer_success">Call transferred.</string>
+
+
+    <!-- Persona Information -->
+    <string name="persona_default_text_nougat" formatted="false">\u2022 %s %s</string>
+    <string name="persona_default_text" formatted="false">%s %s</string>
+    <string name="persona_widget_default_text" formatted="false">\u2022 %s %s</string>
+    <string name="persona_hidden_text">Hidden</string>
+    <string name="persona_business_text">Business</string>
+    <string name="persona_personal_text">Personal</string>
+    <string name="notification_channel_ongoing_widget">Widget Notifications (ongoing)</string>
+
+    <string name="new_message">New Message</string>
+    <string name="new_space">New Space</string>
+    <string name="new_space_space_name">Space Name:</string>
+    <string name="new_space_add_members">Add Members:</string>
+    <string name="add">Add:</string>
+
+    <string name="room_owner">Owner</string>
+    <string name="room_dismissal_content_owner">%s has been dismissed from your Room</string>
+    <string name="short_name">Short Name Format</string>
+    <string name="fullName">Full Name</string>
+    <string name="first_name_last_initial">First Name &amp; Last Initial</string>
+    <string name="first_initial_last_name">First Initial &amp; Last Name</string>
+    <string name="first_name_only">First Name Only</string>
+    <string name="last_name_only">Last Name Only</string>
+    <string name="short_name_message_for_non_asian_name">Chinese, Japanese and Korean names are not affected by this setting and will always appear as full names.</string>
+    <string name="alert_me_first">Alert Me First</string>
+    <string name="no_alert">No Alert</string>
+    <string name="select_number_of_rings">Select the number of rings</string>
+    <string name="ring_reminder">Ring Reminder</string>
+    <string name="alerting">Alerting</string>
+    <string name="voip_video_call">VoIP - Video Call</string>
+    <string name="voip_audio_call">VoIP - Audio Call</string>
+    <string name="to_hunt_group_name">to %s</string>
+    <string name="webex_my_personal_room">Webex - My Personal Room</string>
+    <string name="meeting">Meeting</string>
+    <string name="start_meeting_in">START MEETING IN</string>
+    <string name="webex_url_pre_text">Enter your Webex Personal Room address</string>
+    <string name="webex_room_description">Selecting \"Webex-My Personal Room\" above will impact to your next meeting experience.</string>
+    <string name="private_number">Private</string>
+    <string name="error_token_expires_in_day">Re-login required in 1 day. Please signout, re-type your password and signin again.</string>
+    <string name="error_token_expires_in_days">Re-login required in %s days. Please signout, re-type your password and signin again.</string>
+    <string name="error_token_expires_today">Re-login required today. Please signout, re-type your password and signin again.</string>
+    <string name="joining_room">Joining Room&#8230;</string>
+
+    <!-- Voice over feature strings-->
+    <string name="call_control_notification">Call Control Notification</string>
+    <string name="presence_v3_v4_compatability_issue">Unable to process your request. Please upgrade your current client and try again.</string>
+    <string name="side_menu_icon">Side Menu</string>
+    <string name="native_contacts_hint">Native Contacts Button</string>
+    <string name="play_pause_button">Voicemail Play Pause Button</string>
+    <string name="contact_profile_photo">Contact Profile Photo</string>
+    <string name="webex_join_room">To join %1$s meeting, click %2$s.</string>
+    <string name="webex_room_disabled">You cannot change your selection while you are joined to your My Room. Please leave your My Room to be able to make changes to these settings</string>
+    <string name="international_number_rejected">The destination number %1$s is rejected since International call is not allowed by Outgoing Calling Plan.</string>
+    <string name="dialpad_hint">Dial</string>
+    <string name="add_label">Add Label</string>
+    <string name="clear_location">Set No Location</string>
+    <string name="android_contact">from Android Contacts</string>
+    <string name="speaker_off">Speaker Off</string>
+    <string name="dialpad_sip_hint">Type to dial</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="label_name">Label Name</string>
+    <string name="avatar_note">Complete your profile so your team can recognize you.</string>
+    <string name="edit_my_profile">Edit My Profile</string>
+    <string name="webex_call">Webex Calling</string>
+    <string name="no_voicemails">You have no voicemails.</string>
+    <string name="no_calls">You have no calls.</string>
+    <string name="no_favorites">You have no favorites.</string>
+    <string name="dual_persona_dialpad">From %s</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="voicemail_action_mark__all_played">Mark All as Played</string>
+    <string name="launch_webex_meeting">Launches Webex Meetings</string>
+    <string name="enable_meeting">Enable Meeting</string>
+    <string name="myroom_invitation">You have been invited to join %1$s\'s room for a meeting.&lt;br/&gt;&lt;br/&gt;</string>
+    <string name="room_not_active_general_messgae">When you change these settings, it may take up to a few hours for your contacts to see your updated selection</string>
+    <string name="unrestricted_data_message"><![CDATA[To receive <b>Messages and Calls</b> when app in background, enable <b>Unrestricted data usage</b>]]></string>
+    <string name="no_call_selected">No Call Selected</string>
+    <string name="no_message_selected">No Message Selected</string>
+    <string name="contact_parse_error">Unable to parse the Contact Storage Data</string>
+    <string name="join_meeting">Join Meeting</string>
+    <string name="anonymous_number">Anonymous</string>
+    <string name="confirmation_text">WARNING: Do not use your soft phone to dial emergency services (e.g. 911) except from your registered physical location. Dialing emergency services at a location other than the registered physical location may route emergency calls to an incorrect dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access for emergency dialing.</string>
+    <string name="confirmation_title">E911 Disclosure</string>
+    <string name="mobile_dialing_is_unavailable">Mobile dialing is unavailable.</string>
+    <string name="mandatory_update_message">A new version of the application is available.</string>
+    <string name="optional_update_message">A new version of the application is available. Would you like to upgrade now?</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="ignore">Ignore</string>
+    <string name="permission_call_log">Call logs</string>
+    <string name="voicemail_service_off">Voice Messaging is turned off. Please contact your administrator.</string>
+    <string name="selectnumber">Select Number</string>
+    <string name="play_voicemail_other_app">Would you like to try with another app?</string>
+    <string name="edit_group_name">Edit Group Name</string>
+    <string name="phone_number_text">Your phone number is required to allow full calling capability support.</string>
+    <string name="direct_calling_unavailable_alert_title">Attention</string>
+    <string name="direct_calling_unavailable_warning">Direct calling not available. More...</string>
+    <string name="direct_calling_unavailable_information">This device cannot make direct calls, but the call back feature can be used instead. Go to %1$s and configure a call back service (such as %2$s) with the telephone number of the call back device. Then place the call and wait for the call back.</string>
+    <string name="unable_to_search_directory">Unable to search directory</string>
+    <string name="blank_space">blank space</string>
+    <string name="accept_privacy_content">Accept the privacy policy</string>
+    <string name="decline_privacy_content">%1$s cannot be used unless the privacy policy is accepted</string>
+    <string name="review_privacy">Review Policy</string>
+    <string name="sign_out_warning">Sign Out Warning</string>
+    <string name="offline_sign_out_message">Your device failed to deregister from the messaging gateway successfully. This may lead to continued notifications. To resolve the issue, try to sign-in and sign-out again with a reliable network connection.</string>
+    <string name="outgoing_call">Outgoing call</string>
+    <string name="appearance">Appearance</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="device">System</string>
+    <string name="theme">Theme</string>
+    <string name="theme_apply">Changing the theme will apply it to the entire app</string>
+    <string name="editing">Editing</string>
+    <string name="swipe">Swipe %1$s to open %2$s</string>
+    <string name="new_count">%1$s new</string>
+    <string name="checkbox_selected">%s is selected</string>
+    <string name="widget_call_transfer_note">There must be two active calls before attempting to transfer.</string>
+    <string name="webex_presence_status_in_call">In Call</string>
+    <string name="switch_contentdescription" translatable="false">%1$s %2$s</string>
+    <string name="voip_description">VoIP uses your internet data connection for incoming and outgoing calls.</string>
+    <!-- Strings to get Translated -->
+</resources>

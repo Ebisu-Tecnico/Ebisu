@@ -1,0 +1,106 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+"unspecified" = "niet gespecificeerd";
+"NotificationBarCountFormat" = "(%@)";
+
+/*
+ Missing Device Configuration
+ */
+"Missing Device Configuration[problemText]" = "Deviceconfiguratie ontbreekt.";
+"Missing Device Configuration[detailText]" = "De apparaatconfiguratie %1$@ is niet toegewezen aan uw account of er is een netwerkfout opgetreden. Reden: %2$@";
+"Missing Device Configuration[solutionText]" = "Probeer opnieuw met een betrouwbare netwerkverbinding om het probleem op te lossen. Als het probleem blijft bestaan neem dan contact op met uw serviceprovider.";
+
+/*
+ APNS Registration
+ */
+"APNS Registration[problemText]" = "Kan geen meldingen ontvangen.";
+"APNS Registration[detailText]" = "Dit device kan geen pushmeldingen van Apple ontvangen en op uw device verschijnt geen melding bij nieuwe berichten.";
+"APNS Registration[solutionText]" = "Dit probleem kan zich voordoen als uw device geen verbinding kan maken met wifi of een mobiel netwerk.  Neem contact op met uw provider als er geen probleem is met de verbinding.";
+
+/*
+ BroadWorks Integration
+ */
+"BroadWorks Integration[problemText]" = "Integratiefunctie zakelijk bellen.";
+"BroadWorks Integration[detailText]" = "Uw apparaat kon de gateway zakelijk bellen niet integreren. Hoewel dit het gevolg kan zijn van een discrepantie tussen de toepassing en de gateway is het waarschijnlijker dat een netwerkfout is opgetreden. Reden: %@";
+"BroadWorks Integration[solutionText]" = "Probeer opnieuw met een betrouwbare netwerkverbinding om het probleem op te lossen, of meld u af van de toepassing en meld u opnieuw aan. Als het probleem blijft bestaan neem dan contact op met uw serviceprovider.";
+
+/*
+ Message Gateway Host Resolution
+ */
+"Messaging Gateway Host Resolution[problemText]" = "Geen host voor berichtenverkeergateway.";
+"Messaging Gateway Host Resolution[detailText]" = "Host voor berichtenverkeergateway voor %1$@ is niet gevonden. Reden: %2$@";
+"Messaging Gateway Host Resolution[solutionText]" = "Probeer opnieuw met een betrouwbare netwerkverbinding om het probleem op te lossen. Als het probleem blijft bestaan neem dan contact op met uw serviceprovider.";
+
+/*
+ Message Gateway Registration
+ */
+"Messaging Gateway Registration[problemText]" = "Registratiefout berichtenverkeergateway.";
+"Messaging Gateway Registration[detailText]" = "Uw apparaat kon niet registreren met de berichten-gateway. Dit heeft mogelijk gevolgen voor de mogelijkheid om berichten te versturen en te ontvangen en uw apparaat wordt mogelijk niet meegedeeld wanneer er berichten binnenkomen. Reden: %@";
+"Messaging Gateway Registration[solutionText]" = "Probeer opnieuw met een betrouwbare netwerkverbinding om het probleem op te lossen. Als het probleem blijft bestaan neem dan contact op met uw serviceprovider.";
+
+/*
+ Message Gateway Authentication
+ */
+"Messaging Gateway Authentication[problemText]" = "Verifiicatiefout berichtenverkeergateway.";
+"Messaging Gateway Authentication[detailText]" = "Uw toegangsgegevens worden niet herkend door de berichten-gateway. Dit is over het algemeen het gevolg van een discrepantie, maar het is mogelijk dat opnieuw proberen aan te melden dit probleem oplost. Reden: %@";
+"Messaging Gateway Authentication[solutionText]" = "Probeer opnieuw met een betrouwbare netwerkverbinding om het probleem op te lossen, of meld u af van de toepassing en meld u opnieuw aan. Als het probleem blijft bestaan neem dan contact op met uw serviceprovider.";
+
+/*
+ Password Expiry Warning
+ 
+ Special notes:
+ 
+ If the problemText is left undefined, the same localization used on the Update Password view
+ is used for the notification.  For example:
+ "Password will expire in %1$@ %2$@."
+ 
+ For any of the text fields (problemText, detailText and solutionText), two parameters may
+ be included:
+ %1$@ will be replaced with the number of days
+ %2$@ will be replace with the singular or plural form of "days" approprate for the number
+ */
+/*"Password Expiry Warning[problemText]" = "Wachtwoord verloopt binnenkort.";*/
+/*"Password Expiry Warning[detailText]" = "Password expires in %1$@ %2$@.";*/
+"Password Expiry Warning[solutionText]" = "Werk uw wachtwoord bij.";
+
+/*"Re-login Required Warning[problemText]" = "";*/
+/*"Re-login Required Warning[detailText]" = "";*/
+"Re-login Required Warning[solutionText]" = "Log opnieuw in.";
+
+"Avatar upload failure[problemText]" = "Avatar update mislukt";
+"Avatar upload failure[detailText]" = "Kan Avatar niet bijwerken door netwerkfout.";
+"Avatar upload failure[solutionText]" = "Probeer opnieuw met een betrouwbare netwerkverbinding om het probleem op te lossen.";
+
+"Messaging Service is Currently Unavailable[problemText]"= "Berichtenservice is momenteel onbeschikbaar";
+"Messaging Service is Currently Unavailable[detailText]"= "Controleer de netwerkverbinding";
+"Messaging Service is Currently Unavailable[solutionText]"= "Probeer opnieuw met een betrouwbare netwerkverbinding om het probleem op te lossen.";
+
+"Messaging Guest Client Notification[problemText]" = "U hebt nieuwe gastverzoeken in afwachting.";
+
+"Contact Storage Modification Failed[problemText]" = "Opslaggegevens van contactpersonen kunnen niet worden ontleed";
+
+/*
+ Messaging Gateway Misconfigured
+ */
+"Messaging Gateway Misconfigured[problemText]" = "De gateway voor berichten is verkeerd geconfigureerd.";
+"Messaging Gateway Misconfigured[detailText]" = "Kan de gateway voor berichten niet activeren vanwege verkeerde configuratie.";
+"Messaging Gateway Misconfigured[solutionText]" = "Neem contact op met uw serviceprovider om het probleem op te lossen en probeer het opnieuw met een betrouwbare netwerkverbinding of meld u af en aan. Neem contact op met de serviceprovider als het probleem zich blijft voordoen.";
+
+/*
+Direct calling not available.
+*/
+"Direct calling not available[problemText]" = "Direct bellen niet beschikbaar.  Meer…";
+"Direct calling not available[detailText]" = "Met dit device kan niet direct worden gebeld, maar de terugbelfunctie kan wel worden gebruikt. Ga naar %@ en configureer een terugbelservice (zoals %@) met het telefoonnummer waarop u wilt worden teruggebeld. Vervolgens plaatst u de oproep en wacht u tot u wordt teruggebeld.";
+
+/*
+ VoIP Push Registration Failed
+ */
+"VoIP Registration Failed[problemText]" = "Inkomende gesprekken niet beschikbaar";
+"VoIP Registration Failed[detailText]" = "Registratie mislukt";
+
+/*
+ VoIP Push Device Limit Exceeded
+ */
+"VoIP Device Limit Exceeded[problemText]" = "Inkomende gesprekken niet beschikbaar";
+"VoIP Device Limit Exceeded[detailText]" = ">> Te veel apparaten geregistreerd <<";
+"VoIP Device Limit Exceeded[solutionText]" = "Meld u opnieuw aan om dit apparaat te gebruiken";

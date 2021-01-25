@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IPV6ServerSupportDisabled</key>
+	<false/>
+	<key>IPV6ServerSupportDisabled-comment</key>
+	<string>When true, the IPV6 Support field in the login settings screen will be hidden. Default: false</string>
+	<key>advancedHostnameDisabled</key>
+	<false/>
+	<key>advancedHostnameDisabled-comment</key>
+	<string>When true, the hostname is hidden in advanced mode.  Default: false</string>
+	<key>advancedLoginDisabled</key>
+	<false/>
+	<key>advancedLoginDisabled-comment</key>
+	<string>When true, the Advanced Login (Additional Options) button is hidden.  Default: false</string>
+	<key>advancedXsiActionsStringDisabled</key>
+	<false/>
+	<key>advancedXsiActionsStringDisabled-comment</key>
+	<string>When true, the XSI action string is hidden in advanced mode.  Default: false</string>
+	<key>allowUserControl</key>
+	<true/>
+	<key>allowUserControl-comment</key>
+	<string>This property defines whether the end user is allowed to enable and disable the sending of analytics.</string>
+	<key>applicationLogsDisabled</key>
+	<false/>
+	<key>applicationLogsDisabled-comment</key>
+	<string>When true, logs are not printed. Defaults: false</string>
+	<key>callaskdisabled</key>
+	<false/>
+	<key>callaskdisabled-comment</key>
+	<string>When true, the user is never prompted to select the dialing service type.  Default: false</string>
+	<key>callbackdisabled</key>
+	<false/>
+	<key>callbackdisabled-comment</key>
+	<string>When true, the ability to perform Call Back is disabled for MobileLink mode only.  Default: false</string>
+	<key>callnativedisabled</key>
+	<false/>
+	<key>callnativedisabled-comment</key>
+	<string>When true, the ability to make native calls is disabled for MobileLink mode only.  Default: false</string>
+	<key>callpulldisabled</key>
+	<false/>
+	<key>callpulldisabled-comment</key>
+	<string>When true, the Call Pull call option is disabled.  Default: false</string>
+	<key>callthroughdisabled</key>
+	<false/>
+	<key>callthroughdisabled-comment</key>
+	<string>When true, the ability to perform Call Through (IMRN calls) is disabled for MobileLink mode only.  Default: false</string>
+	<key>callvoicemaildisabled</key>
+	<false/>
+	<key>callvoicemaildisabled-comment</key>
+	<string>When true, the Voice Mail call option is disabled.  Default: false</string>
+	<key>device_type_mobile</key>
+	<string>Connect - Mobile</string>
+	<key>device_type_mobile-comment</key>
+	<string>Defines string property that will be partially matches with the device profile type.</string>
+	<key>device_type_tablet</key>
+	<string>Connect - Tablet</string>
+	<key>device_type_tablet-comment</key>
+	<string>Defines string property that will be partially matches with the device profile type.</string>
+	<key>dialpadAsHomescreen</key>
+	<false/>
+	<key>dialpadAsHomescreen-comment</key>
+	<string>When true, dialpad screen will be set as homescreen for mobile link mode. Default : false</string>
+	<key>disableThirdPartyKeyboard</key>
+	<false/>
+	<key>disableThirdPartyKeyboard-comment</key>
+	<string>When true, Allow Third Party Keyboard option is not shown to user. Default: false</string>
+	<key>disableWelcomeScreen</key>
+	<false/>
+	<key>disableWelcomeScreen-comment</key>
+	<string>When true hides the welcome screens. Default: false</string>
+	<key>emergencyNumbers</key>
+	<array>
+		<string>0</string>
+		<string>2</string>
+		<string>3</string>
+		<string>01</string>
+		<string>02</string>
+		<string>03</string>
+		<string>14</string>
+		<string>15</string>
+		<string>16</string>
+		<string>17</string>
+		<string>18</string>
+		<string>19</string>
+		<string>91</string>
+		<string>92</string>
+		<string>93</string>
+		<string>94</string>
+		<string>065</string>
+		<string>066</string>
+		<string>068</string>
+		<string>091</string>
+		<string>100</string>
+		<string>101</string>
+		<string>102</string>
+		<string>103</string>
+		<string>104</string>
+		<string>105</string>
+		<string>107</string>
+		<string>110</string>
+		<string>111</string>
+		<string>112</string>
+		<string>113</string>
+		<string>114</string>
+		<string>115</string>
+		<string>116</string>
+		<string>117</string>
+		<string>118</string>
+		<string>119</string>
+		<string>120</string>
+		<string>121</string>
+		<string>122</string>
+		<string>123</string>
+		<string>124</string>
+		<string>125</string>
+		<string>127</string>
+		<string>128</string>
+		<string>129</string>
+		<string>130</string>
+		<string>131</string>
+		<string>132</string>
+		<string>133</string>
+		<string>140</string>
+		<string>144</string>
+		<string>150</string>
+		<string>155</string>
+		<string>156</string>
+		<string>158</string>
+		<string>166</string>
+		<string>170</string>
+		<string>171</string>
+		<string>175</string>
+		<string>180</string>
+		<string>190</string>
+		<string>191</string>
+		<string>192</string>
+		<string>193</string>
+		<string>194</string>
+		<string>197</string>
+		<string>198</string>
+		<string>199</string>
+		<string>211</string>
+		<string>311</string>
+		<string>511</string>
+		<string>901</string>
+		<string>902</string>
+		<string>903</string>
+		<string>911</string>
+		<string>912</string>
+		<string>913</string>
+		<string>955</string>
+		<string>977</string>
+		<string>990</string>
+		<string>991</string>
+		<string>993</string>
+		<string>994</string>
+		<string>995</string>
+		<string>996</string>
+		<string>997</string>
+		<string>998</string>
+		<string>999</string>
+		<string>1102</string>
+		<string>1011</string>
+		<string>1669</string>
+		<string>1730</string>
+		<string>6000</string>
+		<string>6412</string>
+		<string>6666</string>
+		<string>9170</string>
+		<string>10111</string>
+		<string>10177</string>
+	</array>
+	<key>emergencyNumbers-comment</key>
+	<string>Defines a string array of emergency numbers to be recognized by the application if no emergency numbers are defined by the runtime device configuration.</string>
+	<key>enableWXTMessaging</key>
+	<false/>
+	<key>enableWXTMessaging-comment</key>
+	<string>When true, webex teams messaging is enabled in ucaas mode. Default : false.</string>
+	<key>excludeDatabaseFromBackupDisabled</key>
+	<false/>
+	<key>excludeDatabaseFromBackupDisabled-comment</key>
+	<string>When true, the database will be included in iTunes/iCloud backups. Default: false</string>
+	<key>forgotPass-wordLink-comment</key>
+	<string>This string indicates a service provider specific HTTP link for defining a forgotten pass-word utility.  Default: empty</string>
+	<key>forgotPasswordLink</key>
+	<string></string>
+	<key>helpUrl</key>
+	<string></string>
+	<key>helpUrl-comment</key>
+	<string>This string property defines an optional URL that is used to provide application help.  Default: none</string>
+	<key>intrinsicMode</key>
+	<string>collaborate</string>
+	<key>intrinsicMode-comment</key>
+	<string>This property defines the intrinsic operation mode of the application.  Two modes are supported: `collaborate` and `ucaas`.  The `collaborate` mode should be selected for customer deployments.  Default: collaborate</string>
+	<key>loginAboutActiveLinks</key>
+	<true/>
+	<key>loginAboutActiveLinks-comment</key>
+	<string>When true, links in the About HTML are active when displayed on the login view.  Apple carefully inspects active links on the login view to make sure they do not subvert the AppStore terms and conditions (e.g. routing to a third party site that might allow donations or offer subscription fees).  Setting this value to false disables the links.  This flag is NOT applied when the About HTML is displayed from within the Settings; here, links are always active.  Default: true</string>
+	<key>maxConcurrentMessageGatewayConnections</key>
+	<integer>3</integer>
+	<key>maxConcurrentMessageGatewayConnections-comment</key>
+	<string>Defines the maximum number of concurrent messaging gateway connections used by the client.  Default: 3  Min: 1  Max: 8</string>
+	<key>maxConcurrentXsiConnections</key>
+	<integer>3</integer>
+	<key>maxConcurrentXsiConnections-comment</key>
+	<string>Defines the maximum number of concurrent XSI connections used by the client.  Default: 3  Min: 1  Max: 8</string>
+	<key>maxGroupMessageRecipients</key>
+	<integer>30</integer>
+	<key>maxGroupMessageRecipients-comment</key>
+	<string>Defines the maximum number of recipients for a group message.  The valid range is 1 to 30.  Setting the value to 1 effectively disables group messaging.  Default: 30</string>
+	<key>messageBroadcastDisabled</key>
+	<true/>
+	<key>messageBroadcastDisabled-comment</key>
+	<string>When true, message broadcasts are disabled. Default: true</string>
+	<key>mobilitydisabled</key>
+	<false/>
+	<key>mobilitydisabled-comment</key>
+	<string>When true, the ability to force the use of Moblity for Call Back is disabled.  Default: false</string>
+	<key>noticesAndDisclaimerLink</key>
+	<string></string>
+	<key>noticesAndDisclaimerLink-comment</key>
+	<string>This string indicates a service provider specific HTTP link for notices and disclaimer.</string>
+	<key>pass-wordExpiryWarnBeforeDays-comment</key>
+	<string>Specifies the number of days before pass-word expiry that a user is notified.  If this key is removed, 0 is assumed, and pass-word expiry notification is ignored.  Default: 14</string>
+	<key>pass-wordUpdateDisabled-comment</key>
+	<string>When true, this flag specifies that pass-word update support be disabled.  Default: false</string>
+	<key>passwordAutofillDisabled</key>
+	<false/>
+	<key>passwordAutofillDisabled-comment</key>
+	<string>When true, the iOS operating system will disable feature that allows users to use credentials stored in the iCloud keychain.  Default: false</string>
+	<key>passwordExpiryWarnBeforeDays</key>
+	<integer>14</integer>
+	<key>passwordUpdateDisabled</key>
+	<false/>
+	<key>privacypolicylink</key>
+	<string>https://www.cisco.com/c/en/us/about/legal/privacy-full.html</string>
+	<key>privacypolicylink-comment</key>
+	<string>This string indicates a service provider specific HTTP link for privacy policy.</string>
+	<key>saveLoginDisabled</key>
+	<true/>
+	<key>saveLoginDisabled-comment</key>
+	<string>When true, this flag specifies the save login support be disabled. This flag is only applicable for collaborate intrinsic operation mode. Default: true</string>
+	<key>showPrivacyPolicy</key>
+	<false/>
+	<key>showSelectedRegionHostname</key>
+	<false/>
+	<key>showSelectedRegionHostname-comment</key>
+	<string>When true, the hostname associated with the selected login region is displayed.  Default: false</string>
+	<key>sso</key>
+	<dict>
+		<key>custom1</key>
+		<dict>
+			<key>Display Name</key>
+			<string>Custom IdP 1</string>
+			<key>IdP Name</key>
+			<string>custom1</string>
+		</dict>
+		<key>custom2</key>
+		<dict>
+			<key>Display Name</key>
+			<string>Custom IdP 2</string>
+			<key>IdP Name</key>
+			<string>custom2</string>
+		</dict>
+		<key>custom3</key>
+		<dict>
+			<key>Display Name</key>
+			<string>Custom IdP 3</string>
+			<key>IdP Name</key>
+			<string>custom3</string>
+		</dict>
+		<key>custom4</key>
+		<dict>
+			<key>Display Name</key>
+			<string>Custom IdP 4</string>
+			<key>IdP Name</key>
+			<string>custom4</string>
+		</dict>
+		<key>google</key>
+		<dict>
+			<key>Display Name</key>
+			<string>Google</string>
+			<key>IdP Name</key>
+			<string>google</string>
+		</dict>
+		<key>microsoft</key>
+		<dict>
+			<key>Display Name</key>
+			<string>Microsoft</string>
+			<key>IdP Name</key>
+			<string>microsoft</string>
+		</dict>
+		<key>okta</key>
+		<dict>
+			<key>Display Name</key>
+			<string>Okta</string>
+			<key>IdP Name</key>
+			<string>okta</string>
+		</dict>
+		<key>other</key>
+		<dict>
+			<key>Display Name</key>
+			<string>Other</string>
+			<key>IdP Name</key>
+			<string>other</string>
+		</dict>
+		<key>sso_context</key>
+		<string>broadsoft</string>
+	</dict>
+	<key>supportEmailAddress</key>
+	<string>uc1-client-logs@cisco.com</string>
+	<key>supportEmailAddress-comment</key>
+	<string>Defines the default address populated in the To: field when contacting support.  If unspecified, the To: field is left empty.  Default: uc1-client-logs@cisco.com</string>
+	<key>termsOfServicesLink</key>
+	<string></string>
+	<key>termsOfServicesLink-comment</key>
+	<string>This string indicates a service provider specific HTTP link for terms of service.</string>
+	<key>webCallSettingsUrl</key>
+	<string></string>
+	<key>webCallSettingsUrl-comment</key>
+	<string>This string indicates web call settings url to be launched in the mobile link mode. Default : empty</string>
+	<key>xsiWidgetBundleIdentifier</key>
+	<string>com.broadsoft.enterprise.iris.dev.IrisWidgetDev</string>
+	<key>xsiWidgetBundleIdentifier-comment</key>
+	<string>This string indicates the custom bundle identifier used for the xsi widget</string>
+	<key>xsiWidgetEnabled</key>
+	<true/>
+	<key>xsiWidgetEnabled-comment</key>
+	<string>When true, shows the widget else hides it. Default: true</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>basicPalette</key>
+		<dict>
+			<key>CellSelectedBackground</key>
+			<string>00A0D1</string>
+			<key>ChatBackground</key>
+			<string>FFFFFF</string>
+			<key>IncomingChatBalloonBackground</key>
+			<string>F2F4F5</string>
+			<key>OutgoingChatBalloonBackground</key>
+			<string>D2F4FA</string>
+			<key>PrimaryBackground</key>
+			<string>171B1F</string>
+			<key>PrimaryButton</key>
+			<string>2BAA85</string>
+			<key>SecondaryBackground</key>
+			<string>2BAA85</string>
+			<key>TertiaryBackground</key>
+			<string>44CF50</string>
+		</dict>
+		<key>class</key>
+		<string>BIColorPalette</string>
+	</dict>
+</array>
+</plist>

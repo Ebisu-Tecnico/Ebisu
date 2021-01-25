@@ -1,0 +1,60 @@
+/*
+ This file provides localized strings for XSI errors.
+ 
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+/*
+ General error formatting message that includes a message and a code.
+ */
+"%1$@ %2$@" = "%1$@ %2$@";
+
+/*
+ Iris Errors
+ */
+"42000" = "Nicht definierter Fehler.";
+"42001" = "Interner Fehler.";
+"42002" = "Ressource ist nicht verfügbar.";
+"42003" = "Vorgang abgebrochen.";
+"42004" = "Ungültiger Parameter für Vorgang.";
+"42005" = "Versuchen Sie es erneut.";
+"42006" = "Die notwendigen Berechtigungen für die Anwendung fehlen.";
+"42007" = "Die Funktion wird durch die Konfiguration nicht unterstützt.";
+"42050" = "Verbindungsfehler.";
+"42051" = "Zeitüberschreitung bei Anfrage.";
+"42052" = "Ungültige Authentifizierungsdaten.";
+"42053" = "Anfrage fehlerhaft formuliert oder nicht unterstützt.";
+"42054" = "Datei kann nicht geöffnet, geändert oder geschlossen werden.";
+"42055" = "Zu viele HTTP-Umleitungen.";
+"42056" = "Host kann nicht erreicht oder aufgelöst werden.";
+"42057" = "Fehlerhaft formulierter Anfrage-Body.";
+"42058" = "Fehlerhaft formulierte Antwortdaten.";
+"42059" = "Es kann keine sichere Verbindung zum Host hergestellt werden.";
+"42100" = "Fehler beim Erstellen der Anwendungsdatenbank.";
+"42101" = "Die Datenbank ist nicht kompatibel mit der installierten Anwendung.  Führen Sie ein Upgrade auf die neueste Version durch.";
+"42102" = "Fehler beim Anbinden der Anwendungsdatenbank.";
+"42103" = "Die Datenbankabfrage hat unerwarteter Weise ein leeres Ergebnis geliefert.";
+"42200" = "Die Lizenz reicht nicht zum Verwenden der Anwendung.";
+"42201" = "Die Version des Mesasge-Gateways wird nicht unterstützt.";
+"42202" = "Fehler beim Abrufen des Anwendungsgeräteprofils.";
+"42203" = "Nicht definierter Fehler beim Mesasge-Gateway.";
+"42204" = "Die Version des Speichers für Kontakte wird nicht unterstützt.";
+"42205" = "Die Bereitstellungsversion der Software-as-a-Service wird nicht unterstützt.";
+"42206" = "Beim Abrufen der Bereitstellung und der Teilnehmerinformationen der Software-as-a-Service ist ein Fehler aufgetreten.";
+"42208" = "Ihr Konto wurde deaktiviert. Wenden Sie sich an den Systemadministrator.";
+"42999" = "Nicht definierter Fehler.";
+
+/*
+ XSI Error Codes
+ */
+"3" = "Anmeldung fehlgeschlagen: Benutzername oder Passwort falsch";
+"12" = "Ihr Konto wurde deaktiviert. Wenden Sie sich an den Systemadministrator.";
+"20" = "Falscher Pfad der Serveradresse.";
+"100443" = "Serveradresse ist kein gültiger Host.";
+
+/*
+ iOS Errors
+ */
+"-1001" = "Zeitüberschreitung bei Anfrage.";
+"-1005" = "Verbindung unterbrochen.";
+"-1200" = "Es kann keine sichere Verbindung zum Host hergestellt werden.";

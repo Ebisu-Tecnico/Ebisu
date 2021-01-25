@@ -1,0 +1,301 @@
+"cmui_BSVideoCallViewController_OK" = "OK";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_OK" = "OK";
+
+"cmui_BSBaseCallViewController_ErrorForCallAlert_OK" = "OK";
+
+"cmui_BSBaseCallViewController_HandoverCannotRecoverAlert_OK" = "OK";
+
+"cmui_BSBaseCallViewController_HandoverFailedAlert_OK" = "OK";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasUpdatedAlert_OK" = "OK";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasDisabledAlert_OK" = "OK";
+
+"cmui_LoginViewController_ErrorLoadingConfigurationAlert_OK" = "OK";
+
+"cmui_ConnecticatorSampleViewController_NotImplementedAlert_OK" = "OK";
+
+"cmui_ConnecticatorSampleViewController_LoginErrorAlert_OK" = "OK";
+
+"cmui_BSAudioCallSecurityLevelPickerView_CancelBarButtonItem_Cancel" = "Annuleren";
+
+"cmui_BSCallScreensButtonProperties_CkBSCallScreensButtonTypeCancelButtonTitle" = "Annuleren";
+
+"cmui_BSCallActionsHandler_InputSourceAlert_Cancel" = "Annuleren";
+
+"cmui_BSCallActionsHandler_TransferToNewAlert_Cancel" = "Annuleren";
+
+"cmui_AppDelegate_NewCallAlert_Cancel" = "Annuleren";
+
+"cmui_AppDelegate_AddToConferenceAlert_Cancel" = "Annuleren";
+
+"cmui_AppDelegate_EnterPhoneNumberAlert_Cancel" = "Annuleren";
+
+"cmui_BSBaseCallViewController_TransferCompleted" = "Doorverbinden afgerond";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallTransferToMobileTitle" = "Doorverbinden naar mobiel";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapTitle" = "Wisselen";
+
+"cmui_BSBaseCallViewController_TransferCompleted_DismissAlert" = "Verwijderen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMuteTitle" = "Dempen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddCallTitle" = "Nieuw gesprek";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeViewParticipantsTitle" = "Deelnemers";
+
+"cmui_BSCallScreensDTMFKeypadView_hideKeypadButtonTitle" = "Verbergen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeWebRTCSettingsButtonTitle" = "WEBRTC";
+
+"cmui_CallInfoResolver_TestCall_EchoTest" = "Echotest";
+
+"cmui_BSCallStateView_kBSCallStateCalling_CallStateLabelText" = "Aan het bellen";
+
+"cmui_ConferenceDetailsViewController_BarButtonAccessibilityLabel_Back" = "Terug";
+
+"cmui_BSAudioCallViewController_BarButtonTitle_Back" = "Terug";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_incomingCallLabel" = "Video toevoegen aan gesprek";
+
+"cmui_BSCallActionsHandler_TransferToAlert_TransferToNew" = "Doorverbinden naar nieuw";
+
+"cmui_BSIncomingCallViewController_firstAnswerButtonTitle" = "Video accepteren";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_secondAnswerButtonTitle" = "Video accepteren";
+
+"cmui_BSVideoCallViewController_kBSCallScreensButtonTypeSpeaker_Message" = "Geen koptelefoon of bluetooth gevonden";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_incomingCallLabel" = "Inkomend";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToVideoTitle" = "Wisselen naar videogesprek";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToAudioTitle" = "Wisselen naar audiogesprek";
+
+"cmui_BSCallActionsHandler_TransferCallAlert_TransferToButtonTitle" = "Doorverbinden naar %@";
+
+"cmui_BSCallActionsHandler_InputSource_iPhoneSpeakerAlert" = "iPhone-luidspreker";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeDialpadTitle"  = "Kiesblok";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeConferenceTitle" = "Conferentie";
+
+"cmui_CallInfoResolver_formattedPhoneNumberForCall" = "Conferentie";
+
+"cmui_BSAudioCallInfoHandler_phoneNumberForCall" = "Conferentie";
+
+"cmui_CallInfoResolver_ConferenceCallWithNoParticipants" = "Conferentie";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_secondAnswerButtonTitle_Answer" = "Antwoord";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_declineButton_Title" = "Afwijzen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_declineButton_Title" = "Afwijzen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_declineButton_Title" = "Afwijzen";
+
+"cmui_BSBaseCallViewController_securityLevelsArrayChangedWithThe_CallSecurityServiceWasUpdatedTitleAlert" = "Dienst gespreksbeveiliging is bijgewerkt";
+
+"cmui_ConferenceDetailsViewController_leftBarButtonItem_AccessibilityHint_DoubleTapToReturnToPreviousScreen" = "Tweemaal tikken om terug te keren naar het vorige scherm";
+
+"cmui_BSCallActionsHandler_TransferCall_InactiveCallDisplayName" = "Onbekend";
+
+"cmui_CallInfoResolver_ProcessDisplayName_Unknown" = "Onbekend";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddParticipantTitle" = "Deelnemer toevoegen";
+
+"cmui_AppDelegate_NewCallAlertTitle" = "Nieuw gesprek";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_Message_Alert" = "Kan geen deelnemer toevoegen aan de conferentie";
+
+"cmui_BSCallActionsHandler_TransferCallAlertTitle" = "Gesprek doorschakelen";
+
+"cmui_BSBaseCallViewController_SecurityCallLevelDisabledFromAdminAlertMessage" = "Dienst gespreksbeveiliging is uitgeschakeld";
+
+"cmui_BSCallActionsHandler_InputSourceAlertTitle" = "Input bron";
+
+"cmui_BSCallScreensDTMFKeypadView_endCallButtonTitle" = "Gesprek beëindigen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMergeTitle" = "Gesprekken samenvoegen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallParkTitle" = "Parkeren";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSpeakerTitle" = "Luidspreker";
+
+"cmui_BSCallActionsHandler_InputSource_SpeakerAlert" = "Luidspreker";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeTransferTitle" = "Doorverbinden";
+
+"cmui_AppDelegate_TransferAlertTitle" = "Doorverbinden";
+
+"cmui_BSAudioCallSecurityLevelPickerView_awakeFromNib_toolbarTitleLabelText" = "Mijn niveau veranderen";
+
+"cmui_BSAudioCallSecurityLevelPickerView_localizeView_toolbarTitleLabelText" = "Mijn niveau veranderen";
+
+"cmui_BBSCallStateView_setCallState_kBSCallStateOnHold" = "WACHT";
+
+"cmui_ConferenceDetailsViewController_Title_Participants" = "Conferentie";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAudioSourceTitle" = "Audiobronnen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_incomingCallLabel" = "Inkomend videogesprek";
+
+"cmui_BSBackToCallControl_awakeFromNib_callStateLabel_Ongoing Call" = "Actief gesprek";
+
+"cmui_BSVideoCallViewController_completeButton_Title_Complete"  = "Afgerond";
+
+"cmui_BSAudioCallViewController_completeButton_Title_Complete"  = "Afgerond";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_secondAnswerButtonTitle" = "Audio accepteren";
+
+"cmui_BSAudioCallSecurityLevelPickerView_doneBarButtonItem_Done" = "Klaar";
+
+"cmui_BSCallActionsHandler_InputSource_HeadsetALert" = "Hoofdtelefoon";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_ReconnectingTo" = "Opnieuw verbinding maken met";
+
+"cmui_BSAudioCallInfoHandler_updateTitleAndPhoneWithDisplayName_reconnectionString_Reconnecting" = "Opnieuw verbinding maken";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_Reconnecting" = "Opnieuw verbinding maken";
+
+"cmui_BSBaseCallViewController_callHandoverFailed_message_CallDropped" = "Gesprek weggevallen";
+
+"cmui_BSBaseCallViewController_callHandoverStarted_message_CallOnHoldDropped" = "Gesprek in de wacht weggevallen";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertMessage" = "Overdracht mislukt";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertOK" = "OK";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityLabel" = "Terug";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityHint" = "Tweemaal tikken om terug te keren naar het vorige scherm";
+
+"cmui_BSAudioCallInfoHandler_TitleLabelAccessibilityLabel" = "Andere partij";
+
+"cmui_BSAudioCallInfoHandler_PhoneLabelAccessibilityLabel" = "Telefoonnummer";
+
+"cmui_BSAudioCallInfoHandler_HeldCallAccessibilityHint" = "In de wacht";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityLabel" = "Gesprek beëindigen";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityHint" = "Tweemaal tikken om het huidige gesprek te beëindigen";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityLabel" = "Overdracht voltooien";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityHint" = "Tweemaal tikken om de overdracht te voltooien";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel" = "Meer opties";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint" = "Tweemaal tikken om meer opties te tonen";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel_Hide" = "Meer opties verbergen";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint_Hide" = "Tweemaal tikken om meer opties te verbergen";
+// video call
+"cmui_BSVideoCallViewController_CameraButtonAccessibilityLabel" = "Camera";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityLabel" = "Overdracht voltooien";
+
+"cmui_BaseCallViewController_CompleteButtonTitleLabel" = "Overdracht voltooien";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityHint" = "Tweemaal tikken om de overdracht te voltooien";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityLabel" = "Audiobron";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityHint" = "Tweemaal tikken om meer audiobronnen te tonen";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_message" = "Probeer de oproep vanaf de oorspronkelijke telefoontoepassing te hervatten.";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_OK" = "OK";
+
+"cmui_XSICall_DisplayName_Hidden" = "Verborgen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStart" = "Opname starten";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingResume" = "Opname hervatten";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingPause" = "Opname pauzeren";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStop" = "Opname stoppen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapCamera" = "Camera wisselen";
+
+"cmui_CallDialPadViewController_Hide_Button" = "Verbergen";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Title" = "Toetsenblok";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Title" = "Parkeren";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Title" = "Gesprek terughalen";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Placeholder" = "Bellen";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Placeholder" = "Tik de extensie in of druk op #";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Placeholder" = "Tik de extensie in of druk op #";
+
+"cmui_CallsContainerViewController_Title" = "Actieve gesprekken";
+
+"cmui_AudioCallViewController_CallingLabel" = "Bellen...";
+
+"cmui_AudioCallViewController_RemoteHoldLabel" = "In de wacht";
+
+"cmui_AudioCallViewController_ConnectingLabel" = "Bezig met verbinden...";
+
+"cmui_BaseCallViewController_ReconnectingPopover_Label" = "Opnieuw verbinding maken...";
+
+"cmui_BaseCallViewController_CameraSwapped_Label" = "Camera omgewisseld";
+
+"cmui_BaseCallViewController_PoorConnection_Label" = "Slechte verbinding";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Title" = "Wisselen naar videogesprek";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Message" = "%@ wil het gesprek upgraden naar een videogesprek";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_DefaultCallerName" = "Andere partij";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Accept" = "Accepteren";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Decline" = "Weigeren";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Title" = "Inkomend gesprek";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Message" = "Inkomend gesprek van: %@ aanvaarden";
+
+"cmui_BaseCallViewController_IncomingCallAlert_DefaultCallerName" = "Onbekend";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Accept" = "Accepteren";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Decline" = "Weigeren";
+
+// BSCallScreensButtonProperties
+"cmui_BSCallScreensButtonProperties_MuteAccessibilityLabel" = "Dempen";
+
+"cmui_BSCallScreensButtonProperties_SpeakerAccessibilityLabel" = "Luidspreker";
+
+"cmui_BSCallScreensButtonProperties_BluetoothTitle" = "Bluetooth";
+
+"cmui_BSCallScreensButtonProperties_BluetoothAccessibilityLabel" = "Bluetooth";
+
+"cmui_BSCallScreensButtonProperties_HeadsetTitle" = "Headset";
+
+"cmui_BSCallScreensButtonProperties_HeadsetAccessibilityLabel" = "Headset";
+
+"cmui_BSCallScreensButtonProperties_HoldAccessibilityLabel" = "Vasthouden";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel" = "Meer opties";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint" = "Tweemaal tikken om meer opties te tonen";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel_Hide" = "Meer opties verbergen";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint_Hide" = "Tweemaal tikken om meer opties te verbergen";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityLabel" = "Gesprek beëindigen";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityHint" = "Tweemaal tikken om het huidige gesprek te beëindigen";
+
+
+

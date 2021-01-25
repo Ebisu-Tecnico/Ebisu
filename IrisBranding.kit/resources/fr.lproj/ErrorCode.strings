@@ -1,0 +1,60 @@
+/*
+ This file provides localized strings for XSI errors.
+ 
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+/*
+ General error formatting message that includes a message and a code.
+ */
+"%1$@ %2$@" = "%1$@ %2$@";
+
+/*
+ Iris Errors
+ */
+"42000" = "Erreur non définie.";
+"42001" = "Erreur interne.";
+"42002" = "La ressource n'est pas disponible.";
+"42003" = "Opération annulée.";
+"42004" = "Paramètre d'opération non valide.";
+"42005" = "Réessayez.";
+"42006" = "Les droits d'accès nécessaires pour accéder à l'application sont manquants.";
+"42007" = "Cette fonctionnalité n’est pas prise en charge par la configuration.";
+"42050" = "Échec de la connexion.";
+"42051" = "Expiration de la demande.";
+"42052" = "Identifiants d'authentification non valides.";
+"42053" = "Demande non conforme ou non prise en charge.";
+"42054" = "Impossible d'ouvrir, de modifier ou de fermer le fichier.";
+"42055" = "Trop de redirections HTTP se sont produites.";
+"42056" = "Impossible d'atteindre ou de résoudre l'hôte.";
+"42057" = "Texte de la demande non conforme.";
+"42058" = "Données de réponse non conformes.";
+"42059" = "Impossible d'établir une connexion sécurisée à l'hôte.";
+"42100" = "Échec de création de la base de données de l'application.";
+"42101" = "La base de données n'est pas compatible avec la version de l'application installée.  Mettez à niveau vers la dernière version.";
+"42102" = "Échec de conservation de la base de données de l'application.";
+"42103" = "La requête de base de données a produit des résultats vides inattendus.";
+"42200" = "La licence n'est suffisante pour utiliser l'application.";
+"42201" = "La version de la passerelle de messages n'est pas prise en charge.";
+"42202" = "Échec de l'obtention du profil de l'appareil pour l'application.";
+"42203" = "Erreur de passerelle de messages non spécifiée.";
+"42204" = "La version de stockage des contacts n'est pas prise en charge.";
+"42205" = "La version de déploiement Software-as-a-Service n’est pas prise en charge.";
+"42206" = "Impossible d’obtenir les données concernant la configuration Software-as-a-Service et l’abonné.";
+"42208" = "Votre compte a été désactivé. Veuillez vérifier auprès de votre administrateur système.";
+"42999" = "Erreur non spécifiée.";
+
+/*
+ XSI Error Codes
+ */
+"3" = "Connexion échouée: nom d'utilisateur ou mot de passe incorrect";
+"12" = "Votre compte a été désactivé. Veuillez vérifier auprès de votre administrateur système.";
+"20" = "Le chemin d'accès de l'adresse du serveur est incorrect.";
+"100443" = "L'adresse du serveur n'est pas un hôte valide.";
+
+/*
+ iOS Errors
+ */
+"-1001" = "Expiration de la demande.";
+"-1005" = "Connexion perdue.";
+"-1200" = "Impossible d'établir une connexion sécurisée à l'hôte.";

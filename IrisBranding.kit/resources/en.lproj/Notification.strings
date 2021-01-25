@@ -1,0 +1,101 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+"unspecified" = "unspecified";
+"NotificationBarCountFormat" = "(%@)";
+
+/*
+ Missing Device Configuration
+ */
+"Missing Device Configuration[problemText]" = "Missing device configuration.";
+"Missing Device Configuration[detailText]" = "Either the %1$@ device configuration has not been assigned to your account, or a network error has occurred.  Reason: %2$@";
+"Missing Device Configuration[solutionText]" = "To resolve the issue, try again with a reliable network connection.  If the problem persists, contact your service provider.";
+
+/*
+ APNS Registration
+ */
+"APNS Registration[problemText]" = "Cannot receive notifications.";
+"APNS Registration[detailText]" = "This device cannot receive Apple Push Notifications, and your device will not be notified when you receive new messages.";
+"APNS Registration[solutionText]" = "This problem can occur if your device cannot connect to a cellular or WiFi network.  If connectivity is not an issue, contact your service provider.";
+
+/*
+ BroadWorks Integration
+ */
+"BroadWorks Integration[problemText]" = "Business calling integration failure.";
+"BroadWorks Integration[detailText]" = "Your device failed to integrate with the business calling gateway.  While this could be the result of a mismatch between the application and the gateway, it is more likely the case that a network error occurred.  Reason: %@";
+"BroadWorks Integration[solutionText]" = "To resolve the issue, try again with a reliable network connection, or sign-out of the application and sign-in again.  If the problem persists, contact your service provider.";
+
+/*
+ Message Gateway Host Resolution
+ */
+"Messaging Gateway Host Resolution[problemText]" = "No messaging gateway host.";
+"Messaging Gateway Host Resolution[detailText]" = "The messaging gateway host at %1$@ could not be resolved.  Reason: %2$@";
+"Messaging Gateway Host Resolution[solutionText]" = "To resolve the issue, try again with a reliable network connection.  If the problem persists, contact your service provider.";
+
+/*
+ Message Gateway Registration
+ */
+"Messaging Gateway Registration[problemText]" = "Messaging gateway registration failure.";
+"Messaging Gateway Registration[detailText]" = "Your device failed to register with the messaging gateway.  This may affect your ability to send and receive messages, and your device may not be notified when incoming messages arrive.  Reason: %@";
+"Messaging Gateway Registration[solutionText]" = "To resolve the issue, try again with a reliable network connection.  If the problem persists, contact your service provider.";
+
+/*
+ Message Gateway Authentication
+ */
+"Messaging Gateway Authentication[problemText]" = "Messaging gateway authentication failure.";
+"Messaging Gateway Authentication[detailText]" = "Your credentials are not recognized by the messaging gateway.  This is generally due to a configuration mismatch, but it is possible that reattempting login may correct the problem.  Reason: %@";
+"Messaging Gateway Authentication[solutionText]" = "To resolve the issue, try again with a reliable network connection, or sign-out of the application and sign-in again.  If the problem persists, contact your service provider.";
+
+/*
+ Password Expiry Warning
+
+ Special notes:
+
+ If the problemText is left undefined, the same localization used on the Update Password view
+ is used for the notification.  For example:
+    "Password will expire in %1$@ %2$@."
+
+ For any of the text fields (problemText, detailText and solutionText), two parameters may
+ be included:
+    %1$@ will be replaced with the number of days
+    %2$@ will be replace with the singular or plural form of "days" approprate for the number
+ */
+/*"Password Expiry Warning[problemText]" = "Password expires soon.";*/
+/*"Password Expiry Warning[detailText]" = "Password expires in %1$@ %2$@.";*/
+"Password Expiry Warning[solutionText]" = "Please update your password.";
+
+/*"Re-login Required Warning[problemText]" = "";*/
+/*"Re-login Required Warning[detailText]" = "";*/
+"Re-login Required Warning[solutionText]" = "Please re-login.";
+
+"Avatar upload failure[problemText]" = "Avatar update failed";
+"Avatar upload failure[detailText]" = "Unable to update Avatar due to network failure.";
+"Avatar upload failure[solutionText]" = "To resolve the issue, try again with a reliable network connection.";
+
+"Messaging Service is Currently Unavailable[problemText]"= "Messaging Service is Currently Unavailable";
+"Messaging Service is Currently Unavailable[detailText]"= "Please check the network connectivity";
+"Messaging Service is Currently Unavailable[solutionText]"= "To resolve the issue, try again with a reliable network connection.";
+
+"Messaging Guest Client Notification[problemText]" = "You have new guest requests pending.";
+
+"Contact Storage Modification Failed[problemText]" = "Unable to parse the Contact Storage Data";
+"Direct calling not available[problemText]" = "Direct calling not available.  More...";
+"Direct calling not available[detailText]" = "This device cannot make direct calls, but the call back feature can be used instead. Go to %@ and configure a call back service (such as %@) with the telephone number of the call back device. Then place the call and wait for the call back.";
+/*
+ Messaging Gateway Misconfigured
+ */
+"Messaging Gateway Misconfigured[problemText]" = "Messaging gateway is misconfigured.";
+"Messaging Gateway Misconfigured[detailText]" = "Unable to activate messaging gateway due to misconfiguration.";
+"Messaging Gateway Misconfigured[solutionText]" = "To resolve the issue contact your service provider and try again with a reliable network connection or sign-out of the application and sign-in again. If the problem persists contact your service provider.";
+
+/*
+ VoIP Push Registration Failed
+ */
+"VoIP Registration Failed[problemText]" = "Incoming calls unavailable";
+"VoIP Registration Failed[detailText]" = "Registration failed";
+
+/*
+ VoIP Push Device Limit Exceeded
+ */
+"VoIP Device Limit Exceeded[problemText]" = "Incoming calls unavailable";
+"VoIP Device Limit Exceeded[detailText]" = ">> Too many devices registered <<";
+"VoIP Device Limit Exceeded[solutionText]" = "Please re-login to use this device";

@@ -1,0 +1,60 @@
+/*
+ This file provides localized strings for XSI errors.
+ 
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+/*
+ General error formatting message that includes a message and a code.
+ */
+"%1$@ %2$@" = "%1$@ %2$@";
+
+/*
+ Iris Errors
+ */
+"42000" = "Errore non definito.";
+"42001" = "Errore interno.";
+"42002" = "Risorsa non disponibile.";
+"42003" = "Operazione annullata.";
+"42004" = "Parametro operazione non valido.";
+"42005" = "Riprovare.";
+"42006" = "Diritti dell'applicazione necessari mancanti.";
+"42007" = "Capacità non supportata dalla configurazione.";
+"42050" = "Errore di connessione.";
+"42051" = "Richiesta scaduta.";
+"42052" = "Credenziali di autenticazione non valide.";
+"42053" = "Richiesta formulata non correttamente o non supportata.";
+"42054" = "Impossibile aprire, modificare o chiudere il file.";
+"42055" = "Si sono verificate troppe redirezioni HTTP.";
+"42056" = "Impossibile raggiungere o risolvere l'host.";
+"42057" = "Corpo richiesta formulato non correttamente.";
+"42058" = "Dati risposta formulati non correttamente.";
+"42059" = "Impossibile stabilire una connessione sicura con l'host.";
+"42100" = "Impossibile creare il database dell'applicazione.";
+"42101" = "Database non compatibile con la versione dell'applicazione installata.  Eseguire l'aggiornamento alla versione più recente.";
+"42102" = "Impossibile rendere permanente il database dell'applicazione.";
+"42103" = "La query del database ha prodotto risultati vuoti imprevisti.";
+"42200" = "Licenza non sufficiente per utilizzare l'applicazione.";
+"42201" = "Versione del gateway di messaggistica non supportata.";
+"42202" = "Impossibile ottenere il profilo del dispositivo dell'applicazione.";
+"42203" = "Errore non specificato del gateway di messaggistica.";
+"42204" = "Versione dell'archivio contatti non supportata.";
+"42205" = "Versione di distribuzione Software-as-a-Service non supportata.";
+"42206" = "Impossibile ottenere il provisioning Software-as-a-Service e i dati dell'abbonato.";
+"42208" = "L'account è stato disattivato. Rivolgersi all'amministratore di sistema.";
+"42999" = "Errore non specificato.";
+
+/*
+ XSI Error Codes
+ */
+"3" = "Accesso non riuscito: nome utente e/o password errati.";
+"12" = "L'account è stato disattivato. Rivolgersi all'amministratore di sistema.";
+"20" = "Percorso indirizzo del server non corretto.";
+"100443" = "Indirizzo server non è un host valido.";
+
+/*
+ iOS Errors
+ */
+"-1001" = "Richiesta scaduta.";
+"-1005" = "Connessione persa.";
+"-1200" = "Impossibile stabilire una connessione sicura con l'host.";

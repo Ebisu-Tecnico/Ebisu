@@ -1,0 +1,690 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+/* General */
+"Dismiss" = "Disconnetti";
+"None" = "Nessuna";
+"Yes" = "Sì";
+"No" = "No";
+"OK" = "OK";
+"Cancel" = "Annulla";
+"Retry" = "Riprova";
+"edit" = "modifica";
+
+/* EULA */
+"Decline" = "Rifiuto";
+"Accept" = "Accetto";
+"Accept the terms & conditions." = "Accetta i termini e le condizioni.";
+"%@ cannot be used unless the terms of the end-user license agreement are accepted." = "Non è possibile utilizzare %@ se non vengono accettate le condizioni dell'accordo di licenza per utenti finali.";
+"Decline & Exit" = "Rifiuta e Esci";
+"Review EULA" = "Leggi EULA";
+"License Agreement" = "Contratto di licenza";
+"Send by Email" = "Invia tramite e-mail";
+
+/* Tutorial */
+"Close" = "Chiudi";
+"Skip" = "Ignora";
+"Get Started" = "Per iniziare";
+
+/* Sign In / Out */
+"Username" = "Nome utente";
+"Your iPhone Number" = "Il tuo numero di iPhone";
+"Select Region" = "Seleziona regione";
+"Advanced Setup" = "Configurazione avanzata";
+"Server Address" = "Indirizzo server";
+"XSI Actions" = "Azioni XSI";
+"Password" = "Password";
+"Sign In" = "Accesso";
+"Additional Options ▾" = "Opzioni aggiuntive ▾";
+"Show Less ▴" = "Nascondi dettagli ▴";
+"Forgot Password" = "Password dimenticata";
+"Signing in..." = "Accesso in corso…";
+"A connection failure occurred" = "Si è verificato un errore di connessione";
+"Login Failed" = "Accesso non riuscito";
+"Are you sure you want to sign out?" = "Disconnettersi?";
+"The %@ field is required." = "Il campo %@ è obbligatorio.";
+"Host Name" = "Nome host";
+"Phone Number" = "Numero di telefono";
+"Login Error" = "Errore di accesso";
+"Sign Out Warning" = "Avviso di disconnessione";
+"User Name" = "Nome utente";
+"Unknown Login Error.  Verify your connection settings and try again." = "Errore di accesso sconosciuto.  Controllare le impostazioni di accesso e riprovare.";
+"Your account is not authorized to use %@.  Contact your service provider for assistance." = "L'account non è autorizzato all'uso di %@.  Per assistenza, contattare il provider di servizi.";
+"Authentication needed" = "Autenticazione richiesta";
+"Would you like to receive business calls while signed out?" = "Si desidera ricevere le chiamate di lavoro quando disconnessi?";
+"Access Code" = "Codice di accesso";
+"Continue" = "Continua";
+"I don't have an Access Code" = "Non ho un codice di accesso";
+"Loading..." = "Caricamento in corso…";
+"WARNING: Do not use your soft phone to dial emergency services (e.g. 911) except from your registered physical location. Dialing emergency services at a location other than the registered physical location may route emergency calls to an incorrect dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access for emergency dialing." = "AVVISO: Non utilizzare il proprio softphone per comporre numeri di emergenza (ad es. 911) ad eccezione della posizione fisica registrata. Componendo numeri di emergenza da posizioni diverse dalla posizione fisica registrata è possibile che le chiamate di emergenza vengano dirette a un centro di distribuzione non corretto, con il potenziale rischio di ritardare o impedire servizi di emergenza. Si raccomanda di mantenere un accesso alternativo per le chiamate di emergenza.";
+"Update Emergency Location" = "Aggiorna posizione di emergenza";
+"Validating location..." = "Convalida posizione in corso…";
+"Location could not be validated." = "Impossibile convalidare la posizione.";
+"Location could not be validated. Contact your system administrator." = "Impossibile convalidare la posizione. Contattare l’amministratore di sistema.";
+"Location updated." = "Posizione aggiornata.";
+"Update 911 Location" = "Aggiorna posizione 911";
+"A cellular emergency call was placed" = "È stata inviata una chiamata di emergenza al cellulare";
+"Incomplete emergency location configuration" = "Configurazione posizione di emergenza non completa";
+"E911 Disclosure" = "Informazioni E911";
+"This device does NOT support 911 calling. You MUST use a cellular or landline phone for 911 calls." = "Questo dispositivo NON supporta le chiamate al 911. Per le chiamate al 911 è NECESSARIO utilizzare un cellulare o un telefono fisso.";
+"Call via VoIP" = "Chiama via VoIP";
+"Clear Access Code" = "Cancella codice di accesso";
+"I want to sign in with..." = "Desidero accedere con...";
+"Your iPhone number is required to allow full calling capability support." = "Il numero dell'iPhone è necessario per consentire di fornire il pieno supporto delle funzionalità di chiamata.";
+"Enterprise Email" = "E-mail aziendale";
+"Save login" = "Salva accesso";
+"Login Information Title" = "Divulgazione E911";
+"Login Information message" = "AVVISO: Non utilizzare il proprio softphone per chiamare i servizi di emergenza (ad es. 911) ad eccezione della posizione fisica registrata. Chiamare i servizi di emergenza da posizioni diverse dalla posizione fisica registrata potrebbe dirigere le chiamate a un centro di distribuzione non corretto, con il potenziale rischio di ritarda o impedire servizi di emergenza. Si raccomanda di mantenere un accesso alternativo per le chiamate di emergenza.";
+"Enter iPhone Number" = "Immetti numero iPhone";
+
+/* Side Menu */
+"Dialpad" = "Tastiera";
+"Do Not Disturb" = "Non disturbare";
+"for calls" = "per chiamate";
+"Call My Room" = "Chiama la mia room";
+"About" = "Informazioni su";
+"Version" = "Versione";
+"Help" = "Guida";
+"Sign Out" = "Disconnessione";
+"Apps" = "App";
+"Web Links" = "Collegamenti Web";
+"Use VoIP" = "Usa VoIP";
+"Voicemail" = "Segreteria telefonica";
+"DnD enabled" = "Non disturbare attivato";
+"Dial" = "Componi";
+"Type to dial" = "Digita per chiamare";
+"From %@" = "Da %@";
+
+/* About */
+"Info" = "Info";
+"License" = "Licenza";
+"Legal Notices" = "Note legali";
+"App Id" = "ID app";
+"Build" = "Build";
+"Welcome Screens" = "Schermate di benvenuto";
+"Privacy Policy" = "Informativa sulla privacy";
+"IPV6 SUPPORT" = "SUPPORTO IPV6";
+"Server Setup" = "Impostazione server";
+
+/* Search Bar */
+"Search Messages" = "Cerca messaggi";
+
+/* Messages */
+"Messages" = "Messaggi";
+"You have no messages yet" = "Non vi sono ancora messaggi";
+"Compose a new chat" = "Componi una nuova chat";
+"New Message" = "Nuovo messaggio";
+"New Announcement" = "Nuovo annuncio";
+"New SMS" = "Nuovo SMS";
+"To:" = "A:";
+"Add Members:" = "Aggiungi membri:";
+"Send" = "Invia";
+"Get New Messages" = "Recupera nuovi messaggi";
+"Invalid Recipients" = "Destinatari non validi";
+"At least one recipient must have a valid messaging ID." = "Almeno un destinatario deve avere un ID di messaggistica valido.";
+"Missing IM Address in contact" = "Indirizzo IM mancante nel contatto";
+"Invalid IM Address:" = "Indirizzo IM non valido:";
+"Too Many Recipients" = "Troppi destinatari";
+"There is a %@ recipient limit for group messages." = "Per i messaggi di gruppo vi è il limite di %@ destinatari.";
+"Type your announcement" = "Digita il tuo annuncio";
+"Type your message" = "Digita il tuo messaggio";
+"You" = "Tu";
+"Choose from Photo Library" = "Scegli da libreria foto";
+"No photos or videos are available in your photo library or the camera is being used" = "Nessuna foto o video disponibile nella libreria foto o fotocamera in uso";
+"No Message Selected" = "Nessun messaggio selezionato";
+"No Call Selected" = "Nessuna chiamata selezionata";
+"Reply" = "Rispondi";
+"New Space" = "Nuovo spazio";
+"Name" = "Nome";
+"Failed to start chat with this contact." = "Impossibile avviare la chat con questo contatto.";
+
+/* My Profile */
+"My Profile" = "Mio profilo";
+"⇣ Pull to Update" = "⇣ Scorrrere per aggiornare";
+"IM Address" = "Indirizzo IM";
+"Call Room" = "Chiama room";
+"Call" = "Chiamata";
+"Join Room" = "Entra nella room";
+"Pull Call" = "Pull della chiamata";
+"Retrieve Call" = "Recupera chiamata";
+"Change Profile Photo" = "Cambia foto del profilo";
+"Clear Profile Photo" = "Cancella foto del profilo";
+"Choose Existing Photo" = "Scegli foto esistente";
+"Use Camera" = "Usa fotocamera";
+"What's on your mind?" = "A cosa pensi?";
+"My Status" = "Mio stato";
+"Set My Availability" = "Imposta la disponibilità";
+"Set My Location" = "Imposta la mia posizione";
+"View Shared Content" = "Visualizza contenuti condivisi";
+"Complete your profile so your team can recognize you." = "Completa il tuo profilo in modo tale che il team possa riconoscerti.";
+"from iPhone Contacts" = "da Contatti iPhone";
+"View in iPhone Contacts" = "Visualizza in Contatti iPhone";
+"Edit My Profile" = "Modifica il mio profilo";
+"Edit Profile" = "Modifica profilo";
+
+/* Location */
+"Suggested" = "Suggeriti";
+"Add Label" = "Aggiungi etichetta";
+"SET LOCATION AUTOMATICALLY" = "IMPOSTA POSIZIONE AUTOMATICAMENTE";
+"SET LOCATION MANUALLY" = "IMPOSTA POSIZIONE MANUALMENTE";
+"CLEAR LOCATION AND TIME ZONE" = "CANCELLA POSIZIONE E FUSO ORARIO";
+"No Location" = "Nessuna posizione";
+"Automatic Location" = "Posizione automatica";
+"Turn on Location Services in %1$@ to enable Automatic Location sharing and to provide suggested location labels." = "Attiva i servizi di posizionamento in %1$@ per attivare la condivisione automatica della posizione e per fornire le etichette per la posizione suggerite.";
+"Share" = "Condividi";
+"Enter Location Name" = "Immetti il nome della posizione";
+"Show Time" = "Mostra ora";
+"Set Location Automatically" = "Imposta la posizione automaticamente";
+"Set Location Manually" = "Imposta la posizione manualmente";
+"Label Name" = "Nome etichetta";
+
+/* Availability */
+"Automatic" = "Automatica";
+"Available" = "Disponibile";
+"Away" = "Assente";
+"Busy" = "Occupato";
+"Offline" = "Offline";
+"Call" = "Chiamata";
+"Meeting" = "Riunione";
+"Unavailable" = "Non disponibile";
+"Business trip - PA" = "Viaggio di lavoro";
+"Gone for the day - PA" = "Uscito per oggi";
+"Lunch - PA" = "Pranzo";
+"Meeting - PA" = "Riunione";
+"Out of office - PA" = "Fuori sede";
+"Temporarily out - PA" = "Temporaneamente assente";
+"Training - PA" = "Formazione";
+"Unavailable - PA" = "Non disponibile";
+"Vacation - PA" = "Vacanza";
+"Choose from Directory" = "Scegli dalla rubrica";
+"Work" = "Ufficio";
+"Personal" = "Personale";
+"Mobile" = "Cellulare";
+"If the Transfer Calls option is turned on, callers have an option to be transferred to the specified number before going to voicemail." = "Se l'opzione Trasferisci chiamate è attiva, le chiamate ricevute verranno trasferite al numero specificato prima che venga attivata la segreteria telefonica.";
+"If the Transfer Calls option is turned off, unanswered calls will be sent to your voicemail." = "Se l'opzione Trasferisci chiamate è disattivata, le chiamate non risposte verranno inviate alla segreteria telefonica.";
+"Add a Transfer Number" = "Aggiungi un numero di trasferimento";
+"Recent Numbers" = "Numeri recenti";
+"Add a New Number" = "Aggiungi nuovo numero";
+"Enter a Number" = "Immettere un numero";
+"until %@" = "fino alle %@";
+"Until %@" = "Fino alle %@";
+"%@, until %@" = "%@, fino alle %@";
+"Standard Options" = "Opzioni standard";
+"Configurable Options" = "Opzioni configurabili";
+"Silent Alert" = "Avviso silenzioso";
+"Duration" = "Durata";
+"Transfer Calls" = "Trasferisci chiamate";
+"Do Not Transfer" = "Non trasferire";
+"Forever" = "Per sempre";
+"30 Minutes" = "30 minuti";
+"45 Minutes" = "45 minuti";
+"1 Hour" = "1 ora";
+"2 Hours" = "2 ore";
+"4 Hours" = "4 ore";
+"1 Day" = "1 giorno";
+"24 Hours" = "24 ore";
+"End of Today" = "Fine giornata";
+"Custom" = "Personalizzato";
+"Choose a number for %@" = "Scegli un numero per %@";
+"No phone numbers available." = "Nessun numero telefonico disponibile.";
+"Availability settings could not be loaded." = "Impossibile caricare le impostazioni di disponibilità.";
+"Your availability could not be updated." = "Impossibile aggiornare la disponibilità";
+"Alerting" = "Avviso";
+"Select the number of rings" = "Selezionare il numero di squilli";
+"No Alert" = "Nessun avviso";
+"Ring Reminder" = "Squillo promemoria";
+"Alert Me First" = "Avvisami prima";
+"Ring Reminder requires VoIP mode. Go to the Main Menu to turn on VoIP." = "L\\'avviso silenzioso richiede la modalità VoIP. Accedere al menu principale per attivare VoIP.";
+"Unable to process your request. Please upgrade your current client and try again." = "Impossibile processare la tua richiesta. Per piacere aggiorna il client e riprova";
+"Ends" = "Fine";
+
+/* Call My Room */
+"Call Failed" = "Chiamata non riuscita";
+/* %1$@ is replaced with the "UC-One Meet" branding string; %2$@ is replaced by the contact name; %3$@ is the localized error reason */
+"Could not launch %1$@ to join the room of %2$@.  %3$@" = "Impossibile avviare %1$@ per entrare nella room di %2$@.  %3$@";
+
+/* Dial */
+"Direct calling not available.  More..." = "Chiamata diretta non disponibile.  Altro…";
+"Phone" = "Telefono";
+"Call Settings" = "Impostazioni chiamata";
+"This device cannot make direct calls, but the call back feature can be used instead. Go to %@ and configure a call back service (such as %@) with the telephone number of the call back device. Then place the call and wait for the call back." = "Il dispositivo non può effettuare chiamate dirette, ma è possibile utilizzare la funzione di richiamata. Accedere a %@ e configurare un servizio di richiamata (come %@) con il numero di telefono del dispositivo di richiamata. Quindi eseguire la chiamata e attendere la richiamata.";
+"Attention" = "Attenzione";
+"Call Pull" = "Pull della chiamata";
+"Call Voicemail" = "Segreteria telefonica";
+"Dialing..." = "Composizione in corso…";
+"Cellular Call" = "Chiamata cellulare";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Additional charges may apply." = "La rete dati non è disponibile, effettuare la chiamata utilizzando la rete cellulare? Potrebbero esservi ulteriori costi.";
+"Personal Cellular Call" = "Chiamata cellulare personale";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Your call will be placed from this device's phone number. Additional charges may apply." = "La rete dati non è disponibile, effettuare la chiamata utilizzando la rete cellulare? La chiamata verrà effettuata dal numero telefonico di questo dispositivo. Potrebbero esservi ulteriori costi.";
+"There is no network available to make the call. Please try again later." = "Nessuna rete disponibile per effettuare la chiamata. Riprovare più tardi.";
+
+/* Directory */
+"Directory" = "Rubrica";
+"Search Contacts" = "Cerca contatti";
+"Use search to find contacts." = "Utilizza la ricerca per trovare i contatti";
+"iPhone Address Book" = "Rubrica iPhone";
+"No matches found." = "Nessuna corrispondenza trovata";
+"Quick Results" = "Risultati rapidi";
+"Unable to search directory" = "Impossibile eseguire una ricerca nella rubrica";
+
+/* Call History */
+"Call History" = "Cronologia chiamate";
+"Private" = "Privato";
+"Anonymous" = "Anonimo";
+"You have no calls yet." = "Non vi sono ancora chiamate.";
+"to" = "a";
+"Delete Call History?" = "Eliminare la cronologia chiamate?";
+"Delete History" = "Elimina cronologia";
+"Missed call" = "Chiamata persa";
+
+/* Profile */
+"Profile" = "Profilo";
+"Title" = "Titolo";
+"Location" = "Posizione";
+"Work Phone" = "Telefono ufficio";
+"Extension" = "Interno";
+"Email" = "E-mail";
+"Chat" = "Chat";
+"Department" = "Dipartimento";
+"Mobile Phone" = "Cellulare";
+"First Name" = "Nome";
+"Last Name" = "Cognome";
+"Personal Phone" = "Telefono personale";
+"Address" = "Indirizzo";
+"Display Name" = "Nome visualizzato";
+"Enter Display Name" = "Immetti il nome da visualizzare";
+"Enter Personal Phone" = "Immetti il telefono personale";
+"More" = "Altro";
+"Pager" = "Altro numero";
+"Webex Email" = "E-mail Webex";
+
+/* Contacts */
+"Announcement" = "Annuncio";
+"Members" = "Membri";
+"lastNameFirstSeparator" = ", ";
+
+/* System Notification View */
+"System Notifications" = "Notifiche di sistema";
+"More ▾" = "Altro ▾";
+"Less ▴" = "Meno ▴";
+"Clear" = "Cancella";
+"Try Again" = "Riprova";
+"Update" = "Aggiorna";
+
+/* Settings */
+"Settings" = "Impostazioni";
+"Settings & About" = "Impostazioni e informazioni";
+"Calling" = "Chiamata in corso";
+"Call Settings" = "Impostazioni chiamata";
+"Troubleshooting" = "Risoluzione dei problemi";
+"Detailed Logging" = "Log dettagliato";
+"Email Logs to Support" = "Invia log al supporto via e-mail";
+"Send Analytics" = "Invia analitica";
+"Testing" = "Test";
+"Create Notification Alert" = "Crea avviso di notifica";
+"Unable to create email log attachment." = "Impossibile creare l'allegato log delle e-mail.";
+"Enabled" = "Abilitato";
+"Disabled" = "Disabilitato";
+"Call From" = "Chiamata da";
+"Hidden Number" = "Numero nascosto";
+"Business Phone" = "Telefono ufficio";
+"Select a number for outgoing calls." = "Selezionare un numero per le chiamate in uscita.";
+"Press and hold on the call buttons to select an outgoing number." = "Tenere premuti i pulsanti di chiamata per selezionare un numero in uscita.";
+"Allow 3rd party Keyboard" = "Consenti tastiera di terze parti";
+"Allow Full Access for 3rd Party Keyboards?" = "Consentire l'accesso completo a tastiere di terze parti?";
+"Allow" = "Consenti";
+"Don't Allow" = "Non consentire";
+"Disabling third party keyboard requires application restart. Please restart the application for the change to take effect." = "La disabilitazione della tastiera di terze parti richiede il riavvio dell'applicazione. Riavviare l'applicazione per applicare le modifiche.";
+"Warning" = "Attenzione";
+"Selecting \"Email Logs to Support” above will send your application activity logs to us, so that we can help you, and improve the product. These logs identify you, your device, other users you've communicated with, and optionally, your employer. The logs do not include any user generated content like messages. For more information see our %@" = "Selezionando \"Invia i log al supporto via e-mail\" sopra ci invierai i log dell'attività della tua applicazione, per consentirci di aiutarti e di migliorare il prodotto. Questi log identificano te, il tuo dispositivo, altri utenti con cui hai comunicato e, facoltativamente, il tuo datore di lavoro. I log non includono contenuti generati dall'utente come i messaggi. Per maggiori informazioni, vedi il nostro %@";
+"This option allows 3rd party keyboards to access all the data that is typed, including personal data. Are you sure you want to allow 3rd party keyboards?" = "Questa opzione consente alle tastiere di terze parti di accedere a tutti i dati digitati, inclusi i dati personali. Consentire l'accesso alle tastiere di terze parti?";
+
+/* Hub Messages */
+"Enable %@" = "Abilita %@";
+"%@ authentication failed." = "Autenticazione di %@ non riuscita.";
+"Could not reach %@ server." = "Impossibile raggiungere il server %@.";
+"Enable Hub to access your cloud applications like Google, Twitter, O365, and others.\n\nHub integrates your email, documents, meetings, and other cloud application data into your Connect experience." = "Abilitare l'hub per accedere alla applicazioni cloud come Google, Twitter, O365 e altre.\n\nL'hub integra e-mail, documenti, riunioni e i dati di altre applicazioni cloud nella tua esperienza con Connect.";
+"The Hub Server cannot be accessed while offline." = "Impossibile accedere al server Hub mentre è offline.";
+
+"Loading" = "Caricamento";
+"Unknown" = "Sconosciuto";
+"Not Enabled" = "Non abilitato";
+"Sending logs to support by email is not enabled." = "L'invio dei log al supporto via e-mail non è abilitato.";
+"Crash Reporting" = "Report dei crash";
+"Crash reporting is turned on" = "Report dei crash attivato";
+"Crash reporting is turned off" = "Report dei crash disattivato";
+"The change will take effect after the app is restarted." = "La modifica verrà applicata al riavvio dell'app.";
+
+/* Calling Configuration */
+"VoIP uses your internet data connection for incoming and outgoing calls." = "Il VoIP utilizza la connessione per dati internet per le chiamate in ingresso e in uscita.";
+"iPhone Number" = "Numero iPhone";
+"Validate Call Back" = "Convalida richiamata";
+"Your Number" = "Il tuo numero";
+"Dialing Service" = "Servizio di composizione";
+"VoIP Network" = "Rete VoIP";
+"All Networks" = "Tutte le reti";
+"WiFi Only" = "Solo Wi-Fi";
+"Cannot Call" = "Impossibile chiamare";
+"Select an available Dialing Service, or adjust Calling Settings." = "Selezionare un servizio di composizione disponibile o modificare le impostazioni di chiamata.";
+"Mobile dialing is unavailable." = "Composizione mobile non disponibile.";
+"WiFi Unavailable" = "Wi-Fi non disponibile";
+"Alerting for BroadWorks mobile services has been enabled for this location." = "Gli avvisi per I servizi BroadWorks mobili sono stati attivati per questa posizione.";
+"Alerting for BroadWorks mobile services has been disabled for this location." = "Gli avvisi per I servizi BroadWorks mobili sono stati disattivati per questa posizione.";
+"VoIP calling is disabled. Make sure to enable alternative number in order to make and receive calls." = "Chiamate VoIP disattivate. Assicurarsi di attivare il numero alternativo per effettuare o ricevere chiamate.";
+"VoIP calling is enabled. By enabling this alternative location you may experience simultaneous incoming calls." = "Chiamate VoIP attivate. Attivando questa posizione alternativa si potrebbero ricevere chiamate contemporanee.";
+"VoIP over mobile data network may incur additional charges or roaming fees" = "La rete dati VoIP su cellulare può richiedere ulteriori costi o tariffe di roaming,";
+"VoIP over mobile data network is not available." = "La rete dati VoIP su cellulare non è disponibile,";
+
+/* Anywhere Service Configuration */
+"Save" = "Salva";
+"The server responded with an error: %@" = "Il server ha risposto con un errore: %@";
+"alertAllLocationsForClickToDialCalls" = "Avvisa tutte le posizioni";
+"phoneNumber" = "N. di telefono";
+"description" = "Descrizione";
+"active" = "Attivo";
+"broadworksCallControl" = "Controllo chiamata";
+"useDiversionInhibitor" = "Non inoltrare chiamate";
+"answerConfirmationRequired" = "Conferma di risposta";
+"Add Location" = "Aggiungi posizione";
+"Delete Location" = "Elimina posizione";
+"Mobile Business Calling" = "Chiamate di lavoro su cellulare";
+"Would you like to make and receive calls on your mobile phone using your business phone number?" = "Vuoi effettuare e ricevere chiamate sul tuo cellulare utilizzando il numero di telefono dell'ufficio?";
+"Confirm your mobile number." = "Conferma il numero di cellulare.";
+"Not Now" = "Non ora";
+"Unable to Set Up" = "Impossibile impostare";
+"To set up mobile business calling contact the administrator." = "Per impostare le chiamate di lavoro su cellulare contattare l'amministratore.";
+
+/* Logging & Analytics Configuration */
+"Email Logs" = "Log e-mail";
+"Use an actual device to send support logs via email." = "Usa un dispositivo reale per inviare log al supporto via e-mail.";
+
+/* Event summary */
+"Mark All as Read" = "Contrassegna tutti come letti";
+"Delete" = "Elimina";
+"Mark as Read" = "Contrassegna come letto";
+"View Profile" = "Visualizza profilo";
+
+/* Arriving message banner display.  Parm 1 is the name.  Parm 2 is the message.*/
+"NEW_TEXT_MSG" = "%1$@: %2$@";
+"ROOM_INVITE_TITLE" = "Invito a Mia room";
+"ROOM_INVITE_INFO" = "%@ ti ha invitato a entrare nella Mia room.";
+"ROOM_JOINREQUEST_TITLE" = "Richiesta di entrare nella mia room";
+"ROOM_JOINREQUEST_INFO" = "%@ ha richiesto di entrare nella room";
+"ROOM_JOINREQUEST_PENDING" = "Vi sono nuove richieste di sottoscrittori in sospeso.";
+"MUC_SELF_KICK" = "Sei stato disconnesso dalla room %2$@";
+"MWI_UPDATE" = "Hai %1$@ messaggio vocale in sospeso";
+"RING_SPLASH" = "Chiamata in entrata reindirizzata";
+"DEREG_TEXT_LIMIT_EXCEEDED" = "Troppi dispositivi registrati. Per utilizzare questo dispositivo, eseguire di nuovo l'accesso.";
+"DEREG_TEXT_REGISTRATION_FAILED" = "Chiamate in entrata non disponibili";
+
+/* Dialing Services */
+"imrn" = "Chiama con";
+"callback" = "Richiama";
+"native" = "iPhone";
+"ask" = "Chiedi sempre";
+"none" = "Nessuna chiamata";
+"voip" = "Chiama VoIP";
+
+/* Call Forwarding */
+"Call Forwarding" = "Inoltro chiamata";
+"Call Forwarding Always" = "Sempre";
+"Call Forwarding Busy" = "Quando occupato";
+"Call Forwarding No Answer" = "Quando nessuna risposta";
+"Call Forwarding Not Reachable" = "Quando non raggiungibile";
+"mobilePhoneNumber" = "N. cellulare";
+"Forward to #" = "Inoltra al n.";
+"numberOfRings" = "Numero di squilli";
+"Ring Splash" = "Squillo di avviso";
+"On" = "Attiva";
+"Off" = "Disattiva";
+"Always Forward" = "Inoltra sempre";
+
+/* My Room*/
+"My Room" = "Mia room";
+"Room – %@" = "Room - %@";
+"Room – " = "Room - ";
+"Join Room…" = "Entra nella room…";
+"Joining Room" = "Ingresso nella room";
+"Leaving Room" = "Uscita dalla room";
+"Leave Room" = "Lascia room";
+"Leave" = "Lascia";
+"Join" = "Partecipa";
+"Joining" = "Partecipazione";
+"Leaving" = "Sta abbandonando la riunione";
+"Joined Rooms" = "Room in cui sei entrato";
+"Pull to Update Participant List" = "Scorri per aggiornare l'elenco partecipanti";
+"View Participants" = "Visualizza partecipanti";
+"My Room Invitation" = "Invito a Mia room";
+"%@ Invited you to join My Room" = "%@ ti ha invitato a entrare nella Mia room.";
+"%@ joined the room." = "%@ è entrato nella room.";
+"You joined the room." = "Tu è entrato nella room.";
+"%@ left the room. %@" = "%@ ha lasciato la room. %@";
+"%@ left the room." = "%@ ha lasciato la room.";
+"My Room Join Request" = "Richiesta di entrare nella Mia room";
+"%@ has requested to join room" = "%@ ha richiesto di entrare nella room";
+"View" = "Visualizza";
+"%@'s Room" = "Room di %@";
+"In room: %@" = "Nella room: %@";
+"Access to this room requires approval." = "L'accesso a questa room richiede l'approvazione.";
+"Your request to join the room has been declined." = "La richiesta di entrare nella room è stata rifiutata.";
+"Your request has timed out." = "La richiesta è scaduta.";
+"Request Access" = "Richiedi accesso";
+"Join the room to see any new messages." = "Entra nella room per vedere eventuali nuovi messaggi.";
+"You have been invited to join %@'s room for a meeting.\n\nGuest Participants:" = "Sei stato invitato a partecipare alla room %@'s per una riunione.\n\nPartecipanti ospiti:";
+"Guest Participants:" = "Partecipanti ospiti:";
+"You have been dismissed from" = "Sei stato disconnesso dalla chat";
+"and" = "e";
+"Room Dismissal" = "Disconnessione dalla room";
+"Owner" = "Proprietario";
+"Enable Meeting" = "Abilita riunione";
+"Webex - My Personal Room" = "Webex - La mia room personale";
+"Webex My Personal Room" = "Webex La mia room personale";
+"START MEETING IN" = "INIZIA RIUNIONE TRA";
+"Enter your Webex Personal Room address" = "Digitare l’indirizzo della room Webex personale";
+"When you change these settings, it may take up to a few hours for your contacts to see your updated selection." = "Quando modifichi queste impostazioni, possono passare alcune ore prima che i tuoi contatti vedano le modifiche.";
+"To join %@'s meeting, click %@." = "Per unirti alla riunione di %@, premi %@.";
+"You cannot change your selection while you are joined to your My Room. Please leave your My Room to be able to make changes to these settings." = "Non puoi cambiare la tua impostazione mentre sei collegato alla My Room. Per cortesia esci dalla My Room per poter cambiare queste impostazioni";
+"Guest Requests" = "Richieste degli Ospiti";
+"Launch Webex Meetings" = "Lancia Webex Meetings";
+"Audio Only" = "Solo audio";
+"Ignore" = "Ignora";
+"Room" = "Room";
+"You have new guest requests pending." = "Sono presenti nuove richieste ospiti";
+"Copy Guest Link" = "Copia collegamento ospite";
+
+/* Favorites */
+"Favorites" = "Preferiti";
+"⇣ Pull to Update Availability" = "⇣ Scorrere verso il basso per aggiornare la disponibilità";
+"Updating Availability..." = "Aggiornamento disponibilità in corso…";
+"Add to Favorites" = "Aggiungi ai preferiti";
+"Remove from Favorites" = "Rimuovi dai preferiti";
+"You have no favorites" = "Non sono presenti preferiti";
+"To add a favorite tap the star icon in profiles" = "Per aggiungere un preferito, tocca l'icona stella in Profili.";
+
+/* Groups */
+"Groups" = "Gruppi";
+"Chat Room %@" = "Chat room %@";
+"Chat Room" = "Chat room";
+"Some Chat" = "Alcune chat";
+"You have no groups" = "Non sono presenti gruppi";
+"You have no group members" = "Non sono presenti membri del gruppo";
+"Read only" = "Sola lettura";
+"Read Only Chat" = "Chat di sola lettura";
+"One-way Announcement" = "Annuncio unidirezionale";
+"Rooms are not supported in this App. You can view conversations, but not send messages." = "Le room non sono supportate in questa app È possibile visualizzare le conversazioni, ma non inviare messaggi.";
+"Select Groups" = "Seleziona gruppi";
+"Add Group" = "Aggiungi gruppo";
+"Enter Group Name" = "Immetti nome gruppo";
+"Group Messaging" = "Messaggistica di gruppo";
+"Participants" = "Partecipanti";
+"Recipients" = "Destinatari";
+"Delete Group" = "Elimina gruppo";
+"Are you sure you want to delete the group \"%@\" (%@ members)?" = "Eliminare il gruppo \"%@\" (%@ membri)?";
+"Are you sure you want to delete the group \"%@\" (1 member)?" = "Eliminare il gruppo \"%@\" (1 membro)?";
+"Add To Group" = "Aggiungi a gruppo";
+"one-way message" = "Messaggio unidirezionale";
+"Edit Group Name" = "Modifica nome gruppo";
+"Edit" = "Modifica";
+
+/* Update Password */
+"Update Password" = "Aggiorna password";
+"Current Password" = "Password corrente";
+"New Password" = "Nuova password";
+"Type current password" = "Digita password corrente";
+"Type new password" = "Digita nuova password";
+"Verify new password" = "Verifica nuova password";
+"Show passwords" = "Mostra password";
+"Hide passwords" = "Nascondi password";
+"New passwords must match" = "Le nuove password devono corrispondere";
+"Current password is incorrect" = "Password corrente non corretta";
+/* Parm 1 is the number of days.  Parm 2 is the singlular or plural form of "days" */
+"Password will expire in %1$@ %2$@." = "La password scadrà tra %1$@ %2$@.";
+"Your password has expired." = "La password è scaduta.";
+"Password expired - update now" = "Password scaduta - aggiornala ora";
+"Password will not expire." = "La password non scadrà.";
+"day" = "giorno";
+"days" = "giorni";
+
+/* Actions */
+"A valid room number for %@ has not been determined. Try again later, or contact support if the problem persists." = "Non è stato determinato un numero di room valido per %@. Se il problema persiste, riprovare in seguito o contattare il supporto.";
+"Valid phone number not specified for %@." = "Non è stato specificato un numero di telefono valido per %@.";
+"Calling %@..." = "Chiamata a %@ in corso…";
+"Waiting for call back..." = "Attesa richiamata…";
+"Warning: Calling back at a different location." = "Avvertenza: Richiamata in corso da una posizione diversa.";
+
+/* Voip */
+"ON HOLD" = "IN ATTESA";
+"Recommended" = "Raccomandato";
+"Voice Call" = "Chiamata vocale";
+"Video Call" = "Videochiamata";
+"New Call" = "Nuova chiamata";
+"Transfer" = "Trasferisci";
+"Conference" = "Conferenza";
+"Transfer Call" = "Trasferisci chiamata";
+"Select Dialing Service" = "Servizio di composizione";
+"Call First" = "Chiama prima";
+"Transfer to %@" = "Trasferisci su %@";
+"VoIP is Off" = "VoIP non attivo";
+"To make a call, turn VoIP on" = "Attivare VoIP per effettuare una chiamata";
+"VoIP - Audio Call" = "VoIp - Chiamata audio";
+"VoIP - Video Call" = "VoIp - Chiamata video";
+"Call answered on another device" = "Chiamata non risposta su un altro dispositivo";
+"Call dropped" = "Chiamata chiusa";
+"Call on hold dropped" = "Chiamata in attesa chiusa";
+"Call %@ First" = "Chiama prima %@";
+"Call Terminated" = "Chiamata terminata";
+
+/* Visual Voicemail */
+"Speaker" = "Altoparlante";
+"Unknown Caller" = "Chiamante sconosciuto";
+"Mark as New" = "Contrassegna come nuovo";
+"Unknown Number" = "Numero sconosciuto";
+"You have no voicemails." = "Non hai messaggi vocali.";
+"Mark All as Played" = "Contrassegna tutti come riprodotti";
+"Voicemail Settings" = "Impostazioni segreteria telefonica";
+"Mark as Played" = "Contrassegna come riprodotto";
+"Confidential" = "Riservato";
+"Urgent" = "Urgente";
+"New voicemail" = "Nuovo messaggio vocale";
+"You have %d pending voicemail message" = "Hai %d messaggio vocale in sospeso";
+"You have %d pending voicemail messages" = "Hai %d messaggi vocali in sospeso";
+"Speaker off" = "Altoparlante disattivato";
+
+/* External Downloads */
+"Missing App" = "App mancante";
+/* %@ is replaced with the "UC-One Meet" branding string */
+"%@ is required to join a room.  Would you like to download it from the App Store now?" = "%@ è richiesta per entrare in una room.  Scaricare dall'App Store ora?";
+
+/* Misc */
+"Error" = "Errore";
+"Done" = "Fine";
+"service unavailable" = "servizio non disponibile";
+"Network Error: %@" = "Errore di rete: %@";
+"Create" = "Crea";
+"Cannot create data model." = "Impossibile creare un modello dati.";
+"Cannot find data model." = "Impossibile trovare un modello dati.";
+"Invalid store location." = "Posizione archivio non valida.";
+"Persistent store is inconsistent with application version." = "Archivio permanente non coerente con la versione dell'applicazione.";
+"Persistent store error." = "Errore dell'archivio permanente.";
+"Today" = "Oggi";
+"Yesterday" = "Ieri";
+"Network Unavailable" = "Rete non disponibile";
+"Application is not compatible with jailbroken devices." = "L'applicazione non è compatibile con i dispositivi jailbroken.";
+"Exit" = "Esci";
+
+/* Errors */
+"Private contact store is not valid." = "Archivio contatti privati non valido.";
+"Received version %@; expecting version >= %@." = "Versione ricevuta: %@. Versione prevista: >= %@.";
+"No valid messaging gateway hosts." = "Non vi sono host gateway di messaggistica validi.";
+"Unsupported messaging gateway interface version %@." = "Interfaccia gateway di messaggistica non supportata, versione %@.";
+"The request timed out" = "La richiesta è scaduta";
+"The request was cancelled" = "La richiesta è stata annullata";
+"The request failed because it redirected too many times" = "Richiesta non riuscita perché è stata reindirizzata troppe volte";
+"Unable to deliver message." = "Impossibile consegnare il messaggio";
+"Could not mark voicemail as played." = "Impossibile contrassegnare la segreteria telefonica come riprodotta.";
+"Could not mark voicemail as new." = "Impossibile contrassegnare la segreteria telefonica come nuova.";
+"Could not mark all voicemail messages as played." = "Impossibile contrassegnare tutti i messaggi della segreteria telefonica come riprodotti.";
+"Voicemail could not be downloaded." = "Impossibile scaricare la segreteria telefonica.";
+"Voicemails could not be downloaded." = "Impossibile scaricare le segreterie telefoniche.";
+"Voicemail could not be deleted." = "Impossibile eliminare la segreteria telefonica.";
+"Unsupported Software-as-a-Service interface version %@." = "Versione %@ di interfaccia Software-as-a-Service non supportata.";
+"There was a content loading error." = "Si è verificato un errore durante il caricamento dei contenuti.";
+"Your device failed to deregister from the messaging gateway successfully. This may lead to continued notifications. To resolve the issue, try to sign-in and sign-out again with a reliable network connection." = "Impossibile annullare la registrazione del dispositivo dal gateway di messaggistica. Tale condizione può portare a notifiche continue. Per risolvere il problema, provare ad accedere e disconnettersi di nuovo utilizzando una connessione di rete affidabile.";
+
+/* Region or countries List*/
+"USA IHS" = "USA IHS";
+"USA Cloud" = "USA Cloud";
+"USA Beta" = "USA beta";
+"EMEA" = "EMEA";
+"AUS" = "AUS";
+"FED" = "FED";
+
+/** Transfer to Mobile List*/
+"Transfer to Circuit Switch" = "Trasferisci a cellulare";
+"Your call will be transferred to:" = "La chiamata verrà trasferita a:";
+"Enter a phone number" = "Immettere un numero di telefono";
+
+/* Token Login */
+"Edit Login Info" = "Modifica info di accesso";
+"My Enterprise Username" = "Mio nome utente aziendale";
+"IdP Info" = "Facendo clic sul pulsante \"%@\" sotto, verrai rediretto alla schermata di accesso %@";
+"Continue Info" = "Facendo clic sul pulsante \"%@\" sotto, verrai rediretto alla schermata di accesso %@";
+"Single Continue Info" = "Facendo clic sul pulsante \"%@\" sotto, verrai reindirizzato alla schermata di accesso";
+
+"Signle Idp Text Description" = "Selezionando \"Continua\" si verrà rediretti alla pagina di autorizzazione.\n\nDopo l'autorizzazione, questo passaggio viene ignorato e l'accesso verrà eseguito in modo automatico.";
+
+"No Connection" = "Nessuna connessione";
+"Check your connection and try again." = "Verificare la connessione e riprovare.";
+"Username or password is incorrect" = "Nome utente o password non corretti";
+
+"Re-login required in 1 day. Please signout, re-type your password and signin again." = "Nuovo accesso richiesto entro 1 giorno. Disconnettersi, digitare di nuovo la password ed eseguire di nuovo l'accesso.";
+"Re-login required in %ld days. Please signout, re-type your password and signin again." = "Nuovo accesso richiesto entro %ld giorni. Disconnettersi, digitare di nuovo la password ed eseguire di nuovo l'accesso.";
+"Re-login required today. Please signout, re-type your password and signin again." = "Nuovo accesso richiesto entro oggi. Disconnettersi, digitare di nuovo la password ed eseguire di nuovo l'accesso.";
+"Your session has expired. Sign in again to continue." = "La sessione è scaduta. Accedi nuovamente per continuare.";
+"Your account has been disabled. Please check with your System Administrator." = "L'account è stato disattivato. Rivolgersi all'amministratore di sistema.";
+"You have reached the maximum number of registered applications.This application will be unregistered." = "È stato raggiunto il numero massimo di applicazioni registrate. La registrazione di questa applicazione verrà annullata.";
+"Forced sign out." = "Disconnessione forzata.";
+"Select your region" = "Seleziona la tua regione";
+"Region" = "Regione";
+
+/* Version Control */
+"A new version of the application is available." = "È disponibile una nuova versione dell'applicazione.";
+"A new version of the application is available. Would you like to upgrade now?" = "È disponibile una nuova versione dell'applicazione. Eseguire l'upgrade adesso?";
+"Upgrade" = "Aggiorna";
+
+/* Permission Accessories */
+"Camera" = "Fotocamera";
+"Microphone" = "Microfono";
+"%@ does not have access to your %@. To enable access, tap %@ and turn on %@" = "%@ non ha accesso al tuo %@. Per abilitare l'accesso, tocca %@ e attiva %@";
+
+/* Privacy Policy */
+"Accept the privacy policy." = "Accetta l'Informativa sulla privacy.";
+"%@ cannot be used unless the privacy policy is accepted." = "L'app %@ non può essere utilizzata se non viene accettata l'Informativa sulla privacy.";
+"Review Policy" = "Leggi l'Informativa";
+
+/* Appearance */
+"Appearance" = "Presenza";
+"THEME" = "Tema";
+"Light" = "Luminoso";
+"Dark" = "Scuro";
+"System" = "Sistema";
+"Changing the theme will apply it to the entire app." = "La modifica del tema verrà applicata a tutta l'app";

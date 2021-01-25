@@ -1,0 +1,106 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+"unspecified" = "nicht angegeben";
+"NotificationBarCountFormat" = "(%@)";
+
+/*
+ Missing Device Configuration
+ */
+"Missing Device Configuration[problemText]" = "Fehlende Gerätekonfiguration.";
+"Missing Device Configuration[detailText]" = "Entweder wurde die Gerätekonfiguration %1$@ nicht Ihrem Konto zugewiesen, oder es ist ein Netzwerkfehler aufgetreten. Grund: %2$@";
+"Missing Device Configuration[solutionText]" = "Versuchen Sie, den Fehler zu beheben, indem Sie eine zuverlässige Netzwerkverbindung verwenden. Falls das Problem weiterhin besteht, wenden Sie sich an den Serviceprovider.";
+
+/*
+ APNS Registration
+ */
+"APNS Registration[problemText]" = "Es können keine Benachrichtigungen empfangen werden.";
+"APNS Registration[detailText]" = "Mit diesem Gerät können keine Apple Push-Benachrichtigungen empfangen werden. Bei Eingang neuer Mitteilungen erfolgt keine Benachrichtigung Ihres Geräts.";
+"APNS Registration[solutionText]" = "Dieses Problem kann auftreten, wenn Ihr Gerät keine Verbindung zu einem Mobilfunknetz oder einem WLAN-Netzwerk herstellen kann.  Wenn kein Konnektivitätsproblem vorliegt, wenden Sie sich an Ihren Serviceprovider.";
+
+/*
+ BroadWorks Integration
+ */
+"BroadWorks Integration[problemText]" = "Fehler bei der Integration von Geschäftsanrufen.";
+"BroadWorks Integration[detailText]" = "Bei der Integration zwischen Ihrem Gerät und dem Gateway für Geschäftsanrufe ist ein Fehler aufgetreten. Auch wenn der Grund sein kann, dass die Anwendung und das Gateway nicht zusammen passen, ist es wahrscheinlicher, dass ein Netzwerkfehler aufgetreten ist.  Grund: %@";
+"BroadWorks Integration[solutionText]" = "Versuchen Sie, den Fehler zu beheben, indem Sie eine zuverlässige Netzwerkverbindung verwenden, oder melden Sie sich von der Anwendung ab und wieder an. Falls das Problem weiterhin besteht, wenden Sie sich an den Serviceprovider.";
+
+/*
+ Message Gateway Host Resolution
+ */
+"Messaging Gateway Host Resolution[problemText]" = "Kein Messaging-Gateway-Host.";
+"Messaging Gateway Host Resolution[detailText]" = "Der Messaging-Gateway-Host unter %1$@ konnte nicht aufgelöst werden. Grund: %2$@";
+"Messaging Gateway Host Resolution[solutionText]" = "Versuchen Sie, den Fehler zu beheben, indem Sie eine zuverlässige Netzwerkverbindung verwenden. Falls das Problem weiterhin besteht, wenden Sie sich an den Serviceprovider.";
+
+/*
+ Message Gateway Registration
+ */
+"Messaging Gateway Registration[problemText]" = "Fehler bei der Registrierung am Messaging-Gateway.";
+"Messaging Gateway Registration[detailText]" = "Ihr Gerät konnte nicht am Messaging-Gateway registriert werden. Dadurch kann das Senden und Empfangen von Nachrichten beeinträchtigt sein und Ihr Gerät wird möglicherweise nicht über eingehende Nachrichten benachrichtigt. Grund: %@";
+"Messaging Gateway Registration[solutionText]" = "Versuchen Sie, den Fehler zu beheben, indem Sie eine zuverlässige Netzwerkverbindung verwenden. Falls das Problem weiterhin besteht, wenden Sie sich an den Serviceprovider.";
+
+/*
+ Message Gateway Authentication
+ */
+"Messaging Gateway Authentication[problemText]" = "Fehler bei der Authentifizierung am Messaging-Gateway.";
+"Messaging Gateway Authentication[detailText]" = "Ihre Anmeldeinformationen werden vom Messaging-Gateway nicht erkannt. Dies ist in der Regel auf einen Konfigurationskonflikt zurückzuführen. Möglicherweise kann das Problem durch einen erneuten Anmeldeversuch behoben werden. Grund: %@";
+"Messaging Gateway Authentication[solutionText]" = "Versuchen Sie, den Fehler zu beheben, indem Sie eine zuverlässige Netzwerkverbindung verwenden, oder melden Sie sich von der Anwendung ab und wieder an. Falls das Problem weiterhin besteht, wenden Sie sich an den Serviceprovider.";
+
+/*
+ Password Expiry Warning
+ 
+ Special notes:
+ 
+ If the problemText is left undefined, the same localization used on the Update Password view
+ is used for the notification.  For example:
+ "Password will expire in %1$@ %2$@."
+ 
+ For any of the text fields (problemText, detailText and solutionText), two parameters may
+ be included:
+ %1$@ will be replaced with the number of days
+ %2$@ will be replace with the singular or plural form of "days" approprate for the number
+ */
+/*"Password Expiry Warning[problemText]" = "Kennwort läuft bald ab.";*/
+/*"Password Expiry Warning[detailText]" = "Password expires in %1$@ %2$@.";*/
+"Password Expiry Warning[solutionText]" = "Aktualisieren Sie Ihr Kennwort.";
+
+/*"Re-login Required Warning[problemText]" = "";*/
+/*"Re-login Required Warning[detailText]" = "";*/
+"Re-login Required Warning[solutionText]" = "Melden Sie sich erneut an.";
+
+"Avatar upload failure[problemText]" = "Avatar-Aktualisierung fehlgeschlagen";
+"Avatar upload failure[detailText]" = "Avatar kann aufgrund eines Netzwerkfehlers nicht aktualisiert werden.";
+"Avatar upload failure[solutionText]" = "Versuchen Sie, den Fehler zu beheben, indem Sie eine zuverlässige Netzwerkverbindung verwenden.";
+
+"Messaging Service is Currently Unavailable[problemText]"= "Messaging-Service ist zurzeit nicht verfügbar";
+"Messaging Service is Currently Unavailable[detailText]"= "Überprüfen Sie die Netzwerkverbindung";
+"Messaging Service is Currently Unavailable[solutionText]"= "Versuchen Sie, den Fehler zu beheben, indem Sie eine zuverlässige Netzwerkverbindung verwenden.";
+
+"Messaging Guest Client Notification[problemText]" = "Es stehen neue Gastanfragen aus.";
+
+"Contact Storage Modification Failed[problemText]" = "Fehler beim Analysieren der Daten im Kontaktspeicher";
+
+/*
+ Messaging Gateway Misconfigured
+ */
+"Messaging Gateway Misconfigured[problemText]" = "Das Messaging-Gateway ist nicht ordnungsgemäß konfiguriert.";
+"Messaging Gateway Misconfigured[detailText]" = "Das Messaging-Gateway kann aufgrund einer fehlerhaften Konfiguration nicht aktiviert werden.";
+"Messaging Gateway Misconfigured[solutionText]" = "Versuchen Sie, den Fehler zu beheben, indem Sie sich an Ihren Serviceprovider wenden, eine zuverlässige Netzwerkverbindung verwenden, oder sich von der Anwendung ab- und wieder anmelden. Falls das Problem weiterhin besteht, wenden Sie sich an den Serviceprovider.";
+
+/*
+Direct calling not available.
+*/
+"Direct calling not available[problemText]" = "Direktanruf nicht verfügbar.  Weitere Optionen…";
+"Direct calling not available[detailText]" = "Mit diesem Gerät sind keine Direktanrufe möglich. Stattdessen kann die Rückruffunktion genutzt werden. Wechseln Sie zu „%@“ und konfigurieren Sie einen Rückrufdienst (z. B. %@) mit der Rufnummer des Rückrufgeräts. Tätigen Sie dann den Anruf und warten Sie auf den Rückruf.";
+
+/*
+ VoIP Push Registration Failed
+ */
+"VoIP Registration Failed[problemText]" = "Eingehende Anrufe nicht verfügbar";
+"VoIP Registration Failed[detailText]" = "Registrierung fehlgeschlagen";
+
+/*
+ VoIP Push Device Limit Exceeded
+ */
+"VoIP Device Limit Exceeded[problemText]" = "Eingehende Anrufe nicht verfügbar";
+"VoIP Device Limit Exceeded[detailText]" = ">> Zu viele Geräte registriert <<";
+"VoIP Device Limit Exceeded[solutionText]" = "Zur Verwendung des Geräts erneut anmelden";

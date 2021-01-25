@@ -1,0 +1,178 @@
+/* © 2016 BroadSoft. All rights reserved. */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'san francisco', 'helvetica neue', 'helvetica', 'arial', sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+p {
+    font-size: 15px;
+    line-height: 24px;
+	margin-bottom: 16px;
+    /* default WebView padding left(12) + View Padding(8) + margin-left(4) */
+    margin-left:4px;
+    font-weight: normal;
+    letter-spacing: 0;
+    color: #666666;
+}
+
+strong {
+	font-weight: 600;
+}
+
+a {
+	color: #323232;
+	text-decoration: underline;
+}
+
+input[type="text"] {
+	padding: 8px 12px;
+	border-radius: 5px;
+	border:1px solid #eee;
+}
+
+img.about {
+	max-height: 84px;  /* actual image size */
+	height: auto;
+	width: auto;
+	margin: auto;
+    border-radius: 20px;
+	display: block;
+}
+
+h2 {
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 17px;
+    margin-bottom: 6px;
+    line-height: 22px;
+    /* default WebView padding left(12) + View Padding(8) + margin-left(4) */
+    margin-left:4px;
+    height: auto;
+    font-weight: normal;
+    color:#000000;
+}
+
+h4 {
+	margin-bottom: 20px;
+}
+
+h5 {
+	margin-bottom: 12px;
+	font-weight: 600;
+}
+
+ul {
+	margin-bottom: 20px;
+	list-style-type: disc;
+}
+
+li {
+	margin-left:20px;
+	margin-bottom:6px;
+}
+
+.center {
+	margin:auto;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.phone-size-wrapper {
+	padding: 20px 0;
+}
+
+.tutorial {
+	text-align: center;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.tutorial h2 {
+	font-size: 26px;
+	line-height: 32px;
+	margin-top: 45px;
+	margin-bottom: 16px;
+    color: #000000
+}
+
+.tutorial h3 {
+	font-size: 17px; 
+	line-height: 24px;
+	font-weight: 400;
+    color: #666666;
+}
+
+.text-container {
+	padding: 20px;
+	word-wrap: break-word;
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	display: block;
+}
+
+img.about + .text-container {
+	padding-top: 8px;
+}
+
+.header {
+	padding-bottom: 20px;
+}
+
+.dropdown {
+	vertical-align: middle;
+}
+
+/* iPhones */
+@media only screen and (device-width: 320px) and (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+	img.about {
+		padding-top: 4px;
+		max-height: 54px;
+		height: auto;
+		width: auto;
+		margin: auto;
+		display: block;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+    
+    p {
+        color: #C9C9C9
+    }
+    
+    input[type="text"] {
+        border:1px solid #000;
+    }
+    
+    h3 {
+        color: #FFFFFF
+    }
+    
+    .tutorial h2 {
+        color: #FFFFFF
+    }
+
+    .tutorial h3 {
+        color: #C9C9C9;
+    }
+    
+    a {
+        color: #F0F0F0;
+    }
+}

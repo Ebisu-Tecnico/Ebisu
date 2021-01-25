@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/action_menu"
+            android:gravity="top|left"/>
+    </item>
+    <item android:top="5dp">
+    <bitmap android:src="@drawable/notification_icon_background_rect_small"
+        android:gravity="top|left"/>
+    </item>
+    <item android:top="5dp">
+        <bitmap android:src="@drawable/notification_icon_background_small"
+            android:gravity="top|left"/>
+    </item>
+    <item android:top="5dp">
+        <bitmap android:src="@drawable/notification_icon_small"
+            android:gravity="top|left"/>
+    </item>
+</layer-list>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="sso_login_failed">로그인하는 중에 오류가 발생했습니다. 사용자 인증 정보를 다시 입력해 주세요. 문제가 계속되면 시스템 관리자에게 문의하시기 바랍니다.</string>
+    <string name="sign_in">로그인</string>
+    <string name="forgot_my_password">비밀번호 찾기</string>
+    <string name="username_input_check">올바른 사용자 이름을 입력하세요.</string>
+    <string name="enterprise">내 회사 사용자 이름</string>
+
+    <string name="google">Google</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="okta">Okta</string>
+    <string name="other">기타</string>
+    <string name="sso_custom1">고객 IdP 1</string>
+    <string name="sso_custom2">고객 IdP 2</string>
+    <string name="sso_custom3">고객 IdP 3</string>
+    <string name="sso_custom4">고객 IdP 4</string>
+
+    <string name="login_ok">확인</string>
+    <string name="login_cancel">취소</string>
+
+    <string name="app_login_username_hint">사용자 이름</string>
+    <string name="app_login_password_hint">비밀번호</string>
+    <string name="signing">로그인 중</string>
+    <string name="loading">로드 중…</string>
+
+    <string name="settings_button">설정</string>
+    <string name="edit_login_info">로그인 정보 편집</string>
+
+    <string name="login_continue">계속</string>
+    <string name="login_save">저장</string>
+    <string name="login_email_hint">회사 이메일</string>
+    <string name="login_region_hint">지역</string>
+
+    <string name="server_address_capital">서버 주소</string>
+    <string name="xsi_actions_path_hint">XSI 작업 경로</string>
+    <string name="invalid_contact_name">잘못된 문자입니다. 입력한 내용을 확인하세요.</string>
+    <string name="sso_notification">하단의 \&quot;%1$s\” 버튼을 누르면 %2$s 로그인 화면으로 이동합니다.</string>
+    <string name="scf_login_message">하단의 계속 버튼을 클릭하면 Webex Teams 로그인 화면으로 이동합니다.</string>
+
+    <string name="login_failed_wrong_username_and_or_password">로그인 실패: 사용자 이름 또는 암호가 올바르지 않습니다.</string>
+    <string name="sso_authentication_error">인증 오류</string>
+
+    <string name="login_regions_advanced">고급 설정</string>
+    <string name="settings_and_about">설정 및 소개</string>
+    <string name="sign_in_with">다음으로 로그인...</string>
+    <string name="select_region">지역을 선택하세요</string>
+
+	<string name="login_unavailable_network">네트워크 사용 불가</string>
+    <string name="xsi_forced_signout_dialog_message">세션이 만료되었습니다.\n계속하려면 다시 로그인하세요.</string>
+    <string name="xsi_forced_signout_dialog_onaccountdisabled">계정이 비활성화되었습니다. 시스템 관리자에게 문의하십시오.</string>
+
+    <string name="there_is_no_connection_retry">연결이 없습니다. 다시 연결하시겠습니까?</string>
+    <string name="login_try_again">다시 시도</string>
+    <string name="remember_password">로그인 저장</string>
+
+</resources>

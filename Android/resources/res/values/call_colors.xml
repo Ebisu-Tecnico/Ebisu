@@ -1,0 +1,121 @@
+<resources>
+    <color name="CallPrimaryButton">
+        @color/PrimaryButton
+    </color>
+    <color name="CallSecondaryBackground">
+        #627789
+    </color>
+    <color name="CallCellSelected">
+        #08000000
+    </color>
+    <color name="CallPrimaryText">
+        #000000
+    </color>
+    <color name="CallPrimaryButtonReverse">
+        #FFFFFF
+    </color>
+    <color name="CallSecondaryText">
+        #666666
+    </color>
+    <color name="CallAccentText">
+        #e87a1f
+    </color>
+    <color name="CallIncallBackground">
+        #FFFFFF
+    </color>
+    <color name="CallMenuCell">
+        #CC000000
+    </color>
+    <color name="CallPrimarySeparator">
+        @color/CallPrimaryButton
+    </color>
+    <color name="CallPrimaryTabPressed">
+        #33000000
+    </color>
+    <color name="CallMenuCellSelected">
+        @color/CallPrimaryButton
+    </color>
+    <color name="CallMenuCellSelectedInverted">
+        #FFFFFF
+    </color>
+    <color name="CallContentBackground">
+        #FFFFFF
+    </color>
+    <color name="CallPrimaryContentText">
+        @color/CallPrimaryText
+    </color>
+    <color name="CallSecondaryContentText">
+        #646464
+    </color>
+    <color name="CallDisabledCellBackground">
+        #F8F8F8
+    </color>
+    <color name="CallSeparators">
+        #F0F0F0
+    </color>
+    <color name="CallDimmedText">
+        #B4B4B4
+    </color>
+    <color name="CallBadgeBackground">
+        @color/CallSymbolicRed
+    </color>
+    <color name="CallBadgeText">
+        #FFFFFF
+    </color>
+    <color name="CallSymbolicGreen">
+        #28D47B
+    </color>
+    <color name="CallSymbolicRed">
+        #FF3347
+    </color>
+    <color name="CallSymbolicGray">
+        #E0E0E0
+    </color>
+    <color name="call_white">
+        #FFFFFF
+    </color>
+    <color name="call_transparent_overlay">
+        #33000000
+    </color>
+    <color name="call_transparent_white_overlay">
+        #33FFFFFF
+    </color>
+    <color name="call_10_percent_black">
+        #1a000000
+    </color>
+    <color name="call_25_percent_black">
+        #41000000
+    </color>
+    <color name="CallControlButton">
+        #383C40
+    </color>
+
+    <color name="call_more_background">
+        @color/CallIncallBackground
+    </color>
+    <color name="PoorConnectionBackground">
+        #FFFDF2
+    </color>
+    <color name="CallPrimaryBackground">
+        @color/PrimaryBackground
+    </color>
+
+    <color name="CallAvatarBackground">
+        #f0f2f1
+    </color>
+    <color name="CallAvatarFrame">
+        #07c1e4
+    </color>
+    <color name="CallAvatarFrameOut">
+        #8007c1e4
+    </color>
+    <color name="CallItemPressed">
+        #1607c1e4
+    </color>
+    <color name="CallQualityBackground">
+        #F5F5F5
+    </color>
+    <color name="call_notification_text"><!-- Same color for both light and dark mode  -->
+        #666666
+    </color>
+</resources>

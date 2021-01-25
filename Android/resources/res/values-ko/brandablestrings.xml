@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="app_full_name">UC-One Connect</string>
+
+    <string name="copyright">%1$s&lt;br/&gt;© 2021 Cisco. All rights reserved.&lt;br/&gt;www.cisco.com</string>
+    <string name="broadworks_anywhere">BroadWorks Anywhere</string>
+
+    <string name="tutorial_page1_title">간단한 통화</string>
+    <string name="tutorial_page1_description">빠르고 편리하게 전화를 걸 수 있습니다.</string>
+    <string name="tutorial_page2_title">쉽게 연결</string>
+    <string name="tutorial_page2_description">조직의 동료를 쉽게 찾을 수 있습니다.</string>
+    <string name="tutorial_page3_title">확장 가능</string>
+    <string name="tutorial_page3_description">그룹 채팅에서 아이디어를 공유합니다. 또는 오디오 및 비디오를 사용하여 회의에 참가합니다.</string>
+
+    <!--The following string is not used in reference build but only in webex calling. added here to get it translated-->
+    <string name="tutorial_page4_title">손끝으로 조정</string>
+    <string name="tutorial_page4_description">통화 내역을 통해 다시 연결하고 탭으로 음성 메일을 확인합니다.</string>
+
+</resources>

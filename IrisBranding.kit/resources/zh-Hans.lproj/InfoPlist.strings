@@ -1,0 +1,15 @@
+/*
+ InfoPlist.strings
+ Iris
+ 
+ Created by Mark Sellers on 9/9/16.
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+"NSContactsUsageDescription" = "联系人将用于特定搜索以便呼叫。没有明确的用户请求，联系人信息将不会被上传到云端。";
+"NSLocationWhenInUseUsageDescription" = "我们使用您的位置来启用自动分享以及提供建议位置标签。";
+"NSPhotoLibraryUsageDescription" = "我们希望为您的档案和消息附件使用您的相册。";
+"NSCameraUsageDescription" = "我们希望为视频通话、您的档案照片和消息附件使用您的相册。";
+"NSMicrophoneUsageDescription" = "我们希望为语音和视频通话以及消息附件使用麦克风。";
+"NSBluetoothPeripheralUsageDescription" = "我们希望使用蓝牙语音进行通话。";
+"NSBluetoothAlwaysUsageDescription" = "我们希望使用蓝牙语音进行通话。";

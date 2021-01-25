@@ -1,0 +1,164 @@
+<resources>
+    <!--System Notifications-->
+    <string name="no_scf_connection">キャッチアップしています&#8230;</string>
+
+    <!-- Messages Screen Strings -->
+    <string name="you">あなた</string>
+    <string name="scf_today">今日</string>
+    <string name="scf_yesterday">昨日</string>
+    <string name="content_copied">コピーされました</string>
+    <string name="send">送信</string>
+    <string name="chat_hint">メッセージを入れてください。</string>
+    <string name="action_flag">フラグ</string>
+    <string name="action_copytext">テキストをコピー</string>
+    <string name="notification_new_messages">新しいメッセージ</string>
+    <string name="button_new_messages">新しいメッセージ ^</string>
+    <string name="announcement_space_label">これはアナウンススペースです</string>
+
+    <!--Message Types-->
+    <string name="message_participant_added">%1$s が %2$s をこのスペースに追加しました。</string>
+    <string name="message_participant_added_to_team">%1$s が %2$s をこのチームに追加しました。</string>
+    <string name="message_participant_joined">%1$s がこのスペースに参加しました。</string>
+    <string name="message_participant_joined_to_team">%1$s このチームに参加しました。</string>
+    <string name="message_participant_added_by_you">あなたはこのスペースに %1$s を追加しました。</string>
+    <string name="message_participant_added_by_you_to_team">あなたは %1$s をこのチームに追加しました。</string>
+    <string name="message_participant_added_you">%1$s があなたをこのスペースに追加しました。ようこそ。</string>
+    <string name="message_participant_added_you_to_team">%1$s があなたをこのチームに追加しました。ようこそ。</string>
+    <string name="message_you_joined">このスペースに参加しました。</string>
+    <string name="message_you_joined_to_team">このチームに参加しました。</string>
+    <string name="message_participant_removed">%1$s が %2$s をこのスペースから削除しました。</string>
+    <string name="message_participant_removed_to_team">%1$s は %2$s をこのチームから削除しました。</string>
+    <string name="message_participant_left">%1$s がスペースから退出しました。</string>
+    <string name="message_participant_left_to_team">%1$s がチームから退出しました。</string>
+    <string name="message_participant_removed_by_you">あなたは %1$s をこのスペースから削除しました。</string>
+    <string name="message_participant_removed_by_you_to_team">あなたは %1$s をこのチームから削除しました。</string>
+    <string name="message_you_left">スペースから退出しました。</string>
+    <string name="message_you_left_to_team">チームから退出しました。</string>
+    <string name="message_conversation_title_updated_by_you">このスペースの名前を「%1$s」に変更しました。</string>
+    <string name="message_team_title_updated_by_you">あなたはチーム情報を更新しました</string>
+    <string name="message_conversation_title_updated_by_other">%1$s がこのスペースの名前を「%2$s」に変更しました。</string>
+    <string name="message_team_title_updated_by_other">%1$s がチーム情報を更新しました。</string>
+    <string name="message_locus_summary_had_group_call">ミーティングがありました %1$s</string>
+    <string name="message_locus_summary_missed_group_call">ミーティング %1$s を欠席しました</string>
+    <string name="message_locus_summary_unavailable_for_group_call">%1$s がミーティングを開始しましたが、誰も応答しませんでした。</string>
+    <string name="message_locus_summary_had_call">通話がありました (%1$s) %2$s</string>
+    <string name="message_locus_summary_other_missed_call">%1$s は応答しませんでした。</string>
+    <string name="message_locus_summary_unavailable_for_call">通話をキャンセルしました。</string>
+    <string name="message_locus_summary_no_one_joined_call">ミーティングを開始しましたが、誰も利用できませんでした。</string>
+    <string name="message_locus_summary_missed_call">通話できませんでした。</string>
+    <string name="message_room_created_by_self_no_title">スペースを開始します。</string>
+    <string name="message_team_created_by_self_no_title">チームを開始します。</string>
+    <string name="message_room_created_by_self">「%1$s」スペースを開始します。</string>
+    <string name="message_team_created_by_self">「%1$s」チームを開始します。</string>
+    <string name="message_room_created_by_other_no_title">%1$s が作成したスペースを開始します。</string>
+    <string name="message_team_created_by_other_no_title">%1$s が作成したチームを開始します。</string>
+    <string name="message_room_created_by_other">スペース「{0}」(%2$s が作成) を開始します。</string>
+    <string name="message_team_created_by_other">「%1$s」が作成した %2$s チームを開始します。</string>
+    <string name="message_new_team_room_added_by_you">新しいスペース "%1$s" を作成しました。</string>
+    <string name="message_new_team_room_added_by_other">%1$s が新しいスペース "%2$s" を作成しました。</string>
+    <string name="own_message_removed">あなたのメッセージを削除しました。</string>
+    <string name="message_removed">%1$s が自分のメッセージを削除しました。</string>
+    <string name="message_removed_by_you">%1$s のメッセージを削除しました。</string>
+    <string name="message_removed_by_someone">%1$s が %2$s のメッセージを削除しました。</string>
+    <string name="message_event_cancelled">%1$sが ミーティングのスケジュール「%2$s」を でキャンセルしました。</string>
+    <string name="message_event_cancelled_by_you">が でのミーティングのスケジュール「%1$s」の協議事項を更新しました。</string>
+    <string name="message_event_updated">%1$s が でのミーティングのスケジュール「%2$s」の協議事項を更新しました。</string>
+    <string name="message_event_updated_by_you">でのミーティングのスケジュール「%1$s」の協議事項を更新しました。</string>
+    <string name="message_event_scheduled">%1$s が でのミーティングのスケジュール「%2$s」を作成しました。</string>
+    <string name="message_event_scheduled_by_you">でのミーティングのスケジュール「%1$s」を作成しました。</string>
+    <string name="room_avatar_changed_by_you">スペースのアバターを変更しました。</string>
+    <string name="room_avatar_changed_by_other">%1$sさんがスペースの画像を変更しました。</string>
+    <string name="recording_ready">録画準備ができました。</string>
+    <string name="announcement_set_by_you">通知モードをオンにします</string>
+    <string name="announcement_unset_by_you">通知モードをオフにします</string>
+    <string name="announcement_set_by_other">%1$s が通知モードをオンにします</string>
+    <string name="announcement_unset_by_other">%1$s が通知モードをオフにします</string>
+    <string name="invalid_system_message">無効なシステムメッセージ</string>
+    <string name="attachment_default">ファイルを共有しました。</string>
+    <string name="attachment_default_multiple">ファイルの共有。</string>
+    <string name="attachment_download">ダウンロード %1$s</string>
+    <string name="attachment_downloading">ダウンロード中 %1$s</string>
+    <string name="attachment_open">%1$sを開く</string>
+    <string name="attachment_download_progress">ダウンロード中：%1$s</string>
+    <string name="attachment_directory_error">ダウンロードディレクトリを作成できません。</string>
+    <string name="attachment_open_with">開く - 方法：</string>
+    <string name="attachment_size_mb">%1$s MB</string>
+    <string name="attachment_size_kb">%1$s KB</string>
+    <string name="attachment_size_b">%1$s B</string>
+    <string name="seconds_sufix">秒</string>
+    <string name="minutes_sufix">分</string>
+
+    <!--Menu-->
+    <string name="action_video_call">ビデオ通話</string>
+    <string name="action_viewparticipants">参加者一覧</string>
+    <string name="action_viewfiles">ファイルを表示</string>
+    <string name="action_addfavoritespace">お気に入りに追加</string>
+    <string name="action_removefavoritespace">気に入りから削除</string>
+    <string name="action_changenotification">変更通知</string>
+    <string name="action_leavespace">スペースから退出</string>
+    <string name="action_joinroom">ルームに参加</string>
+    <string name="action_leaveroom">ルームから退場</string>
+    <string name="action_callroom">ルームに電話発信</string>
+    <string name="action_viewprofile">プロファイルを見る</string>
+    <string name="action_viewsharedcontent">共有コンテンツの表示</string>
+    <string name="action_leave">退室</string>
+    <string name="action_delete">削除</string>
+    <string name="action_edit">名前を変更</string>
+
+    <!-- Edit Space screen -->
+    <string name="space_name">スペース名</string>
+    <string name="space_name_title">名前を変更</string>
+    <string name="space_name_hint">スペース名を入力</string>
+    <string name="space_name_save">保存</string>
+
+    <!-- Notification settings -->
+    <string name="pref_notification">通知</string>
+    <string name="pref_global_notification">グローバル通知</string>
+    <string name="pref_global_notification_link">[Settings/Notifications]（設定/通知）ですべてのスペースのグローバル通知設定を変更してください。 <a href="Update global settings">グローバル設定の更新</a></string>
+    <string name="notification_all_messages">すべてのメッセージ</string>
+    <string name="notification_mentions_only">\@メンションのみ</string>
+    <string name="notification_off">オフ</string>
+    <string name="notification_spaces">スペース</string>
+    <string name="pref_global_notification_info">上のスペースのグローバル通知の詳細設定を選択してください。</string>
+
+    <!-- Participants screen -->
+    <string name="external_warning">社外の人はこのスペースに含まれています</string>
+
+    <!-- Giphy Messages -->
+    <string name="giphy_empty_search">申し訳ございません。対応する GIF が見つかりませんでした。</string>
+    <string name="no_search_results">結果が見つかりませんでした</string>
+    <string name="search_for_gifs">GIF を検索する</string>
+
+    <!-- Giphy default search terms -->
+    <string name="giphy_search_yes">はい</string>
+    <string name="giphy_search_no">いいえ</string>
+    <string name="giphy_search_agree">はい</string>
+    <string name="giphy_search_awesome">素晴らしい</string>
+    <string name="giphy_search_wow">うわー</string>
+    <string name="giphy_search_high_five">ハイタッチ (High Five)</string>
+    <string name="giphy_search_face_palm">フェイスパーム (Face Palm)</string>
+    <string name="giphy_search_popcorn">ポップコーン</string>
+    <string name="giphy_search_please">どうぞ</string>
+    <string name="giphy_search_thanks">ありがとう</string>
+    <string name="giphy_search_thumbs_up">OK</string>
+    <string name="giphy_search_thumbs_down">NG</string>
+
+    <!-- Presence variations -->
+    <string name="scf_presence_title">着信拒否 (Do Not Disturb) の設定:</string>
+    <string name="scf_presence_time_off">削除</string>
+    <string name="scf_presence_time_half">30 分間</string>
+    <string name="scf_presence_time_one">1時間</string>
+    <string name="scf_presence_time_two">2時間</string>
+    <string name="scf_presence_time_four">4時間</string>
+    <string name="scf_presence_time_eight">8時間</string>
+    <string name="scf_presence_time_day">24時間</string>
+
+    <!-- Presence duration -->
+    <string name="scf_presence_dnd_until">%1$s まで着信拒否</string>
+    <string name="last_active_minutes_ago">%1$s 分前にアクティブ</string>
+    <string name="last_active_one_hour_ago">1 時間前にアクティブ</string>
+    <string name="last_active_hours_ago">%1$s 時間前にアクティブ</string>
+    <string name="last_active_yesterday">昨日アクティブ</string>
+    <string name="last_active_on_date">%1$s でアクティブ</string>
+
+</resources>

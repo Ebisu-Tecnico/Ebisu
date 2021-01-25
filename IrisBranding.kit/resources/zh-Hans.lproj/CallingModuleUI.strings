@@ -1,0 +1,301 @@
+"cmui_BSVideoCallViewController_OK" = "确定";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_OK" = "确定";
+
+"cmui_BSBaseCallViewController_ErrorForCallAlert_OK" = "确定";
+
+"cmui_BSBaseCallViewController_HandoverCannotRecoverAlert_OK" = "确定";
+
+"cmui_BSBaseCallViewController_HandoverFailedAlert_OK" = "确定";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasUpdatedAlert_OK" = "确定";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasDisabledAlert_OK" = "确定";
+
+"cmui_LoginViewController_ErrorLoadingConfigurationAlert_OK" = "确定";
+
+"cmui_ConnecticatorSampleViewController_NotImplementedAlert_OK" = "确定";
+
+"cmui_ConnecticatorSampleViewController_LoginErrorAlert_OK" = "确定";
+
+"cmui_BSAudioCallSecurityLevelPickerView_CancelBarButtonItem_Cancel" = "取消";
+
+"cmui_BSCallScreensButtonProperties_CkBSCallScreensButtonTypeCancelButtonTitle" = "取消";
+
+"cmui_BSCallActionsHandler_InputSourceAlert_Cancel" = "取消";
+
+"cmui_BSCallActionsHandler_TransferToNewAlert_Cancel" = "取消";
+
+"cmui_AppDelegate_NewCallAlert_Cancel" = "取消";
+
+"cmui_AppDelegate_AddToConferenceAlert_Cancel" = "取消";
+
+"cmui_AppDelegate_EnterPhoneNumberAlert_Cancel" = "取消";
+
+"cmui_BSBaseCallViewController_TransferCompleted" = "转移成功";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallTransferToMobileTitle" = "转移至手机";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapTitle" = "切换";
+
+"cmui_BSBaseCallViewController_TransferCompleted_DismissAlert" = "移除";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMuteTitle" = "静音";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddCallTitle" = "新通话";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeViewParticipantsTitle" = "参与者";
+
+"cmui_BSCallScreensDTMFKeypadView_hideKeypadButtonTitle" = "隐藏";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeWebRTCSettingsButtonTitle" = "实时网络通信";
+
+"cmui_CallInfoResolver_TestCall_EchoTest" = "回音测试";
+
+"cmui_BSCallStateView_kBSCallStateCalling_CallStateLabelText" = "正在呼叫";
+
+"cmui_ConferenceDetailsViewController_BarButtonAccessibilityLabel_Back" = "返回";
+
+"cmui_BSAudioCallViewController_BarButtonTitle_Back" = "返回";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_incomingCallLabel" = "在语音通话中添加视频";
+
+"cmui_BSCallActionsHandler_TransferToAlert_TransferToNew" = "转移至新通话";
+
+"cmui_BSIncomingCallViewController_firstAnswerButtonTitle" = "接受视频通话";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_secondAnswerButtonTitle" = "接受视频通话";
+
+"cmui_BSVideoCallViewController_kBSCallScreensButtonTypeSpeaker_Message" = "没有选择耳机或蓝牙";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_incomingCallLabel" = "呼入";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToVideoTitle" = "切换到视频通话";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToAudioTitle" = "切换到音频呼叫";
+
+"cmui_BSCallActionsHandler_TransferCallAlert_TransferToButtonTitle" = "转移至 %@";
+
+"cmui_BSCallActionsHandler_InputSource_iPhoneSpeakerAlert" = "iPhone扬声器";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeDialpadTitle"  = "拨号键盘";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeConferenceTitle" = "会议";
+
+"cmui_CallInfoResolver_formattedPhoneNumberForCall" = "会议";
+
+"cmui_BSAudioCallInfoHandler_phoneNumberForCall" = "会议";
+
+"cmui_CallInfoResolver_ConferenceCallWithNoParticipants" = "会议";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_secondAnswerButtonTitle_Answer" = "应答";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_declineButton_Title" = "拒绝";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_declineButton_Title" = "拒绝";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_declineButton_Title" = "拒绝";
+
+"cmui_BSBaseCallViewController_securityLevelsArrayChangedWithThe_CallSecurityServiceWasUpdatedTitleAlert" = "通话安全服务已更新";
+
+"cmui_ConferenceDetailsViewController_leftBarButtonItem_AccessibilityHint_DoubleTapToReturnToPreviousScreen" = "双击返回上一屏幕";
+
+"cmui_BSCallActionsHandler_TransferCall_InactiveCallDisplayName" = "未知";
+
+"cmui_CallInfoResolver_ProcessDisplayName_Unknown" = "未知";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddParticipantTitle" = "添加参与者";
+
+"cmui_AppDelegate_NewCallAlertTitle" = "新通话";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_Message_Alert" = "无法将参与者添加到会议";
+
+"cmui_BSCallActionsHandler_TransferCallAlertTitle" = "转移呼叫";
+
+"cmui_BSBaseCallViewController_SecurityCallLevelDisabledFromAdminAlertMessage" = "通话安全服务已禁用";
+
+"cmui_BSCallActionsHandler_InputSourceAlertTitle" = "输入来源";
+
+"cmui_BSCallScreensDTMFKeypadView_endCallButtonTitle" = "结束通话";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMergeTitle" = "合并呼叫";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallParkTitle" = "驻留";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSpeakerTitle" = "扬声器";
+
+"cmui_BSCallActionsHandler_InputSource_SpeakerAlert" = "扬声器";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeTransferTitle" = "转移";
+
+"cmui_AppDelegate_TransferAlertTitle" = "转移";
+
+"cmui_BSAudioCallSecurityLevelPickerView_awakeFromNib_toolbarTitleLabelText" = "修改我的级别";
+
+"cmui_BSAudioCallSecurityLevelPickerView_localizeView_toolbarTitleLabelText" = "修改我的级别";
+
+"cmui_BBSCallStateView_setCallState_kBSCallStateOnHold" = "保持";
+
+"cmui_ConferenceDetailsViewController_Title_Participants" = "会议";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAudioSourceTitle" = "音频来源";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_incomingCallLabel" = "呼入视频通话";
+
+"cmui_BSBackToCallControl_awakeFromNib_callStateLabel_Ongoing Call" = "正在进行的通话";
+
+"cmui_BSVideoCallViewController_completeButton_Title_Complete"  = "完成";
+
+"cmui_BSAudioCallViewController_completeButton_Title_Complete"  = "完成";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_secondAnswerButtonTitle" = "接受语音通话";
+
+"cmui_BSAudioCallSecurityLevelPickerView_doneBarButtonItem_Done" = "完成";
+
+"cmui_BSCallActionsHandler_InputSource_HeadsetALert" = "耳机";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_ReconnectingTo" = "重新连接至";
+
+"cmui_BSAudioCallInfoHandler_updateTitleAndPhoneWithDisplayName_reconnectionString_Reconnecting" = "重新连接";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_Reconnecting" = "重新连接";
+
+"cmui_BSBaseCallViewController_callHandoverFailed_message_CallDropped" = "呼叫中断";
+
+"cmui_BSBaseCallViewController_callHandoverStarted_message_CallOnHoldDropped" = "呼叫保持失败";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertMessage" = "传输失败";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertOK" = "确定";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityLabel" = "返回";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityHint" = "双击以返回前一屏幕";
+
+"cmui_BSAudioCallInfoHandler_TitleLabelAccessibilityLabel" = "其他方";
+
+"cmui_BSAudioCallInfoHandler_PhoneLabelAccessibilityLabel" = "电话号码";
+
+"cmui_BSAudioCallInfoHandler_HeldCallAccessibilityHint" = "暂停";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityLabel" = "结束通话";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityHint" = "双击以结束当前通话";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityLabel" = "完成传输";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityHint" = "双击以完成传输";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel" = "更多选项";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint" = "双击以显示更多选项";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel_Hide" = "隐藏更多选项";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint_Hide" = "双击以隐藏更多选项";
+// video call
+"cmui_BSVideoCallViewController_CameraButtonAccessibilityLabel" = "摄像头";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityLabel" = "完成传输";
+
+"cmui_BaseCallViewController_CompleteButtonTitleLabel" = "完成传输";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityHint" = "双击以完成传输";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityLabel" = "音频来源";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityHint" = "双击以显示音频来源";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_message" = "请尝试从本地手机应用程序恢复通话。";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_OK" = "确定";
+
+"cmui_XSICall_DisplayName_Hidden" = "隐藏";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStart" = "开始录音";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingResume" = "恢复录制";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingPause" = "暂停录制";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStop" = "停止录制";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapCamera" = "切换摄像头";
+
+"cmui_CallDialPadViewController_Hide_Button" = "隐藏";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Title" = "拨号键盘";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Title" = "驻留";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Title" = "获取呼叫";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Placeholder" = "拨号";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Placeholder" = "拨打分机或者按 #";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Placeholder" = "拨打分机或者按 #";
+
+"cmui_CallsContainerViewController_Title" = "当前通话";
+
+"cmui_AudioCallViewController_CallingLabel" = "正在呼叫...";
+
+"cmui_AudioCallViewController_RemoteHoldLabel" = "保持";
+
+"cmui_AudioCallViewController_ConnectingLabel" = "正在连接...";
+
+"cmui_BaseCallViewController_ReconnectingPopover_Label" = "正在重新连接…";
+
+"cmui_BaseCallViewController_CameraSwapped_Label" = "已切换摄像头";
+
+"cmui_BaseCallViewController_PoorConnection_Label" = "连接不良";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Title" = "切换到视频通话";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Message" = "%@ 想将通话升级为视频通话";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_DefaultCallerName" = "其他方";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Accept" = "接受";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Decline" = "拒绝";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Title" = "呼入通话";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Message" = "接听来电来自: %@";
+
+"cmui_BaseCallViewController_IncomingCallAlert_DefaultCallerName" = "未知";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Accept" = "接受";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Decline" = "拒绝";
+
+// BSCallScreensButtonProperties
+"cmui_BSCallScreensButtonProperties_MuteAccessibilityLabel" = "静音";
+
+"cmui_BSCallScreensButtonProperties_SpeakerAccessibilityLabel" = "扬声器";
+
+"cmui_BSCallScreensButtonProperties_BluetoothTitle" = "蓝牙";
+
+"cmui_BSCallScreensButtonProperties_BluetoothAccessibilityLabel" = "蓝牙";
+
+"cmui_BSCallScreensButtonProperties_HeadsetTitle" = "耳机";
+
+"cmui_BSCallScreensButtonProperties_HeadsetAccessibilityLabel" = "耳机";
+
+"cmui_BSCallScreensButtonProperties_HoldAccessibilityLabel" = "保持";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel" = "更多选项";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint" = "双击以显示更多选项";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel_Hide" = "隐藏更多选项";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint_Hide" = "双击以隐藏更多选项";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityLabel" = "结束通话";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityHint" = "双击以结束当前通话";
+
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/ContentBackground" />
+    <!--<stroke-->
+        <!--android:width="1dip"-->
+        <!--android:color="@color/PrimaryBackground" />-->
+
+    <corners
+        android:bottomRightRadius="4dp"
+        android:topRightRadius="4dp"/>
+
+    <size android:height="@dimen/about_tab_btn_height" />
+    <padding
+        android:bottom="0dp"
+        android:left="0dp"
+        android:right="0dp"
+        android:top="0dp" />
+
+</shape>

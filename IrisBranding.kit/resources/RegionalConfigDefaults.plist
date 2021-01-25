@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginUrls</key>
+	<array>
+		<dict>
+			<key>domain</key>
+			<string></string>
+			<key>hostname</key>
+			<string></string>
+			<key>locale</key>
+			<string>user_defined</string>
+			<key>regionName</key>
+			<string>Advanced Setup</string>
+			<key>xsiactionsstring</key>
+			<string>com.broadsoft.xsi-actions</string>
+		</dict>
+	</array>
+</dict>
+</plist>

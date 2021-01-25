@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ucaas_locale">0</integer>
+    <integer name="ucaas_label">1</integer>
+    <integer name="ucaas_loginUrl">2</integer>
+    <integer name="ucaas_xsiPath">3</integer>
+    <integer name="ucaas_domain">4</integer>
+
+    <array name="preLoginMenu">
+        <item name="ucaas_locale">en_US</item>
+        <item name="ucaas_label">UCaaS Stage</item>
+        <item name="ucaas_loginUrl">https://finder.uc-one.broadsoft.com</item>
+        <item name="ucaas_xsiPath">com.broadsoft.xsi-actions</item>
+        <item name="ucaas_domain">broadsoft.com</item>
+
+        <!--<item name="ucaas_locale">en_US</item>-->
+        <!--<item name="ucaas_label">UCaaS RnD</item>-->
+        <!--<item name="ucaas_loginUrl">https://bamfinder-beta.rnd.broadsoft.net</item>-->
+        <!--<item name="ucaas_xsiPath">com.broadsoft.xsi-actions</item>-->
+
+        <!--<item name="ucaas_locale">en_US</item>-->
+        <!--<item name="ucaas_label">@string/region_manual</item>-->
+        <!--<item name="ucaas_loginUrl">https://</item>-->
+        <!--<item name="ucaas_xsiPath"></item>-->
+
+    </array>
+
+</resources>

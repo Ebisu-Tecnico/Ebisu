@@ -1,0 +1,290 @@
+/*######################################################################
+
+Branding Directives
+
+2016 BroadSoft, Inc.
+
+The branding directives file contains key/value pair content that
+describes special branding operations related to content control.
+These operations transcend simple content replacement.
+
+The key/value pairs follow Apple's "string" file format:
+- Keys are surrounded by double quotes.
+- Values are surrounded by double quotes.
+- Keys are separated from Values by an equals sign.
+- Lines end with a semicolon.
+- Comments can be multi-line.  They begin with slash-asterisk, and
+  they end with asterisk-slash
+
+Example:
+
+"Key" = "Value";
+
+######################################################################*/
+
+/*======================================================================
+
+Application Name Directives
+
+========================================================================
+
+All customers must change the bundle identifier and application name
+before the branded version can be summitted to the App Store.
+*/
+
+/*----------------------------------------------------------------------
+Key: "CFBundleIdentifier"  [REQUIRED]
+------------------------------------------------------------------------
+This directive uniquely identifies the application bundle.  Each
+distinct app or bundle on the system must have a unique bundle ID.  The
+bundle identifier is used in validating the app's signature, and it
+must be a match for the provisioning profile used for distribution.
+Bundle identifiers are defined on the Apple Developer web site:
+
+https://developer.apple.com/account/ios/identifiers/bundle/bundleList.action
+*/
+"CFBundleIdentifier" = "com.example.HelloWorld";
+
+/*----------------------------------------------------------------------
+Key: "CFBundleName"  [REQUIRED]
+------------------------------------------------------------------------
+This directive identifies the short name of the application bundle.
+This name should be less than 16 characters long and be suitable for
+displaying in the app's navigation bar, menu bars, and Info window.
+
+It is generally recommended that the CFBundleName not contain any
+spaces.  If the application names requires spaces, add them to the
+CFBundleDisplayName instead (see below).
+
+This key can also be localized by modifying the InfoPlist.strings file
+of the appropriate ".lproj" resource subdirectories.
+*/
+"CFBundleName" = "HelloWorld";
+
+/*----------------------------------------------------------------------
+Key: "CFBundleDisplayName"  [OPTIONAL]
+------------------------------------------------------------------------
+This directive identifies the display name of the application bundle.
+It is normal to include this directive, and it is typical that it
+matches the CFBundleName;  however, it is not mandatory to include this
+directive because the bundle name will be used instead when the display
+name is undefined.  When provided, the display name is not required to
+match the bundle name, but it would be awkward if there was much
+variance.  This name is displayed under the icon, in dialog titles, and
+in the settings menu.
+
+If this key is included, and the CFBundleName is localized in the
+InfoPlist.strings file for any ".lproj" resource subdirectory, then
+this key must also be localized to match.
+*/
+/* "CFBundleDisplayName" = "Hello World"; */
+
+/*======================================================================
+
+Version Directives
+
+========================================================================
+
+BroadSoft uses 3 period-separated integers to define the application
+version using the following convention:
+    <major>.<minor>.<maint>
+
+Where:
+    <major> BroadSoft major release number
+    <minor> BroadSoft minor release number
+    <maint> BroadSoft maintenance release number (normally bug fixes)
+
+Example:  20.0.1
+
+Many customers who rebrand and submit OEM versions to the App Store
+prefer to keep a version number that includes the BroadSoft version;
+this simplifies support.  However, if a customer needs to submit a
+follow-up OEM release of the same BroadSoft binary to the App Store
+with updated branding resources, a potential version issue can arise.
+Apple requires that each App Store release must increment the version
+number from the previous release, but this moves the OEM version out of
+alignment with the BroadSoft version.
+
+To help simplify this situation, the branding tools append a branding
+version to the app version number.  Unfortunately, Apple is very
+strict about the version number formatting, and it cannot have more
+than 3 period-separated integers, nor can the numbers contain alpha
+characters like hyphens or colons.  Thus it is not possible to simply
+append a 4th number.  Instead, the branding version is concatenated with
+the maintenance number.  The branding scripts try to make this as easy
+as possible, and the user is always prompted on the command line and
+given the opportunity to change the numbers.
+
+/*----------------------------------------------------------------------
+Key: "BrandingVersion"  [CONDITIONAL]
+------------------------------------------------------------------------
+This directive is defined to simplify the process of updating the
+application release number for branding.  Simply set the branding
+version (a single number), and the branding script will take care of
+the rest.  It is customary to begin with 0, but the number can be set
+otherwise.  The only requirement is that subsequent releases for the
+same branding kit increment the number.
+
+If this key is undefined, the branding version is assumed to be 0
+(zero).
+
+NOTE: When branding a new release from BroadSoft, the branding version
+should be reset to 0.
+*/
+"BrandingVersion" = "0";
+
+/*----------------------------------------------------------------------
+Key: "CFBundleShortVersionString"  [OPTIONAL]
+------------------------------------------------------------------------
+The CFBundleShortVersionString is automatically generated by the
+branding scripts, but it may be set here.  If included, this number
+will used in lieu of a number based on the BroadSoft build number.
+
+If defined, the CFBundleShortVersionString can also be localized in the
+InfoPlist.strings file for any ".lproj" resource subdirectory.
+*/
+/* "CFBundleShortVersionString" = "1.0.0"; */
+
+/*======================================================================
+
+Language Directives
+
+========================================================================
+
+Generally speaking, languages are treated like other content during the
+branding process.  Language files that exist in the application can be
+overwritten with branded versions.  However, it may also be the case
+that marketing requires a new language be added or an existing language
+be removed.
+*/
+
+/*----------------------------------------------------------------------
+Key: "AllowedLanguages" [OPTOINAL]
+------------------------------------------------------------------------
+This directive specifies an explicit subset of languages to support
+from the the complete set of languages defined for the application.
+This list should not contain AddedLanguages (see below).
+
+The value is a comma-separated list language designations (with optional
+regional designations).  Refer to Apple's developer documentation for
+specifics:
+
+https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPInternational/Articles/LanguageDesignations.html
+
+If undefined, all languages defined for the application are allowed.
+*/
+/* "AllowedLanguages" = "en,de,es,fr,it,ja,ko,nl,zh-Hans"; */
+
+/*----------------------------------------------------------------------
+Key: "AddedLanguages"  [OPTOINAL]
+------------------------------------------------------------------------
+This directive is needed to specify the set of languages added to the
+application.  This is not a typical task, and customers should seek
+guidance from BroadSoft branding documentation before making such a
+change.
+
+The value is a comma-separated list language designations (with
+optional regional designations).  Refer to Apple's developer
+documentation for specifics:
+
+https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPInternational/Articles/LanguageDesignations.html
+
+Example:
+"AddedLanguages" = "bg,ro";
+*/
+
+/*======================================================================
+
+URL Scheme Directives
+
+========================================================================
+
+Some BroadSoft apps can be launched by other apps by way of URL Schemes.
+For specifics on this topic, refer to Apple's developer documentation:
+https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html#/apple_ref/doc/uid/TP40007072-CH6-SW1
+
+There are two sides of scheme support:
+1) Handling Schemes (i.e. receiving a scheme URL)
+2) Using Schemes (i.e. opening a scheme URL)
+
+An application can support either, both, or neither.  For applications
+that support scheme handling, it can be disabled here.
+*/
+
+/*----------------------------------------------------------------------
+Key: "EnableBundleURLSchemeHandling"  [OPTIONAL]
+------------------------------------------------------------------------
+Scheme handling for the app can be completely disabled by setting the
+EnableBundleURLSchemeHandling option to NO (case insensitive).  The
+default/assumed value is YES.
+*/
+/* "EnableBundleURLSchemeHandling" = "YES"; */
+
+/*======================================================================
+
+Associated Domains Directives
+
+========================================================================
+
+Applications can be associated to specific web domains to allow extra
+features such as access to shared web credentials. By default Applications
+are not associated to any domain.
+*/
+
+/*----------------------------------------------------------------------
+Key: "WebCredentialsAssociatedDomains" [OPTOINAL]
+------------------------------------------------------------------------
+This directive specifies an explicit set of domains the application
+is associated to. Specifying a domain (or list of domains) will cause
+the iOS device operating system to fetch a JSON file with a specific name and
+path in such domain(s) and will check for match of this applicaiton with the
+application(s) listed in the fetched file. Only when a successful match happens
+the association is completed and the Password Autofill features such as
+offering credentils automatic storage upon login or generation of strong
+passwords in Update Password screen will be offered by the application.
+
+For more details consult:
+https://developer.apple.com/documentation/security/password_autofill/about_the_password_autofill_workflow
+https://developer.apple.com/documentation/security/password_autofill/setting_up_an_app_s_associated_domains
+
+The value is a comma-separated list of domains. You can specify one or several
+(or none) domains. The branding scripts take these domains and prefixes them
+with the "webcredentials:" service string before they are added to the
+application entitlements during signing.
+
+The domain association entitlement has to be enabled in the application
+profle for this domains to be used.
+If undefined, the application will not have a domain to associate with the
+features mentioned above will be disabled.
+*/
+
+/* "WebCredentialsAssociatedDomains" = "example.com,example2.com"; */
+
+/*----------------------------------------------------------------------
+ Key: "AllowedExtensions" [OPTIONAL]
+ ------------------------------------------------------------------------
+ Application extensions can be removed by setting the AllowedExtensions
+ with the list of supported extensions in comma separated values. App
+ extensions not mentioned in the attribute will be removed. If this attribute
+ is not specified all the app extensions are retained.
+ */
+ /* "AllowedExtensions" = "IrisWidget"; */
+
+/*Note: For Removing all the App extensions the value has to be set to
+
+"AllowedExtensions" = "[]";
+*/
+
+/*----------------------------------------------------------------------
+ Key: "DisableDarkMode"  [OPTIONAL]
+ ------------------------------------------------------------------------
+ To disable dark mode, the attribute can be configured as follows:
+ "DisableDarkMode" = "true";
+ */
+
+ /*----------------------------------------------------------------------
+  Key: "DisableCrashLogging"  [OPTIONAL]
+  ------------------------------------------------------------------------
+  To disable crash logging, the attribute can be configured as follows:
+  "DisableCrashLogging" = "true";
+  */

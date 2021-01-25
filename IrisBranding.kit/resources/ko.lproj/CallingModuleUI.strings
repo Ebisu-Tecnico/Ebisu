@@ -1,0 +1,301 @@
+"cmui_BSVideoCallViewController_OK" = "확인";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_OK" = "확인";
+
+"cmui_BSBaseCallViewController_ErrorForCallAlert_OK" = "확인";
+
+"cmui_BSBaseCallViewController_HandoverCannotRecoverAlert_OK" = "확인";
+
+"cmui_BSBaseCallViewController_HandoverFailedAlert_OK" = "확인";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasUpdatedAlert_OK" = "확인";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasDisabledAlert_OK" = "확인";
+
+"cmui_LoginViewController_ErrorLoadingConfigurationAlert_OK" = "확인";
+
+"cmui_ConnecticatorSampleViewController_NotImplementedAlert_OK" = "확인";
+
+"cmui_ConnecticatorSampleViewController_LoginErrorAlert_OK" = "확인";
+
+"cmui_BSAudioCallSecurityLevelPickerView_CancelBarButtonItem_Cancel" = "취소";
+
+"cmui_BSCallScreensButtonProperties_CkBSCallScreensButtonTypeCancelButtonTitle" = "취소";
+
+"cmui_BSCallActionsHandler_InputSourceAlert_Cancel" = "취소";
+
+"cmui_BSCallActionsHandler_TransferToNewAlert_Cancel" = "취소";
+
+"cmui_AppDelegate_NewCallAlert_Cancel" = "취소";
+
+"cmui_AppDelegate_AddToConferenceAlert_Cancel" = "취소";
+
+"cmui_AppDelegate_EnterPhoneNumberAlert_Cancel" = "취소";
+
+"cmui_BSBaseCallViewController_TransferCompleted" = "전환 완료";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallTransferToMobileTitle" = "모바일로 전환";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapTitle" = "바꾸기";
+
+"cmui_BSBaseCallViewController_TransferCompleted_DismissAlert" = "닫기";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMuteTitle" = "음소거";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddCallTitle" = "새로운 통화";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeViewParticipantsTitle" = "참가자";
+
+"cmui_BSCallScreensDTMFKeypadView_hideKeypadButtonTitle" = "숨기기";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeWebRTCSettingsButtonTitle" = "WEBRTC";
+
+"cmui_CallInfoResolver_TestCall_EchoTest" = "에코 테스트";
+
+"cmui_BSCallStateView_kBSCallStateCalling_CallStateLabelText" = "전화 거는 중";
+
+"cmui_ConferenceDetailsViewController_BarButtonAccessibilityLabel_Back" = "뒤로";
+
+"cmui_BSAudioCallViewController_BarButtonTitle_Back" = "뒤로";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_incomingCallLabel" = "음성 통화에 영상 추가";
+
+"cmui_BSCallActionsHandler_TransferToAlert_TransferToNew" = "새로운 통화로 전환";
+
+"cmui_BSIncomingCallViewController_firstAnswerButtonTitle" = "영상 통화 수락";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_secondAnswerButtonTitle" = "영상 통화 수락";
+
+"cmui_BSVideoCallViewController_kBSCallScreensButtonTypeSpeaker_Message" = "감지된 헤드폰 또는 블루투스 없음";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_incomingCallLabel" = "수신";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToVideoTitle" = "영상 통화로 전환";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToAudioTitle" = "음성 통화로 전환";
+
+"cmui_BSCallActionsHandler_TransferCallAlert_TransferToButtonTitle" = "%@(으)로 전환";
+
+"cmui_BSCallActionsHandler_InputSource_iPhoneSpeakerAlert" = "iPhone 스피커";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeDialpadTitle"  = "다이얼 패드";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeConferenceTitle" = "컨퍼런스";
+
+"cmui_CallInfoResolver_formattedPhoneNumberForCall" = "컨퍼런스";
+
+"cmui_BSAudioCallInfoHandler_phoneNumberForCall" = "컨퍼런스";
+
+"cmui_CallInfoResolver_ConferenceCallWithNoParticipants" = "컨퍼런스";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_secondAnswerButtonTitle_Answer" = "응답";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_declineButton_Title" = "거부";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_declineButton_Title" = "거부";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_declineButton_Title" = "거부";
+
+"cmui_BSBaseCallViewController_securityLevelsArrayChangedWithThe_CallSecurityServiceWasUpdatedTitleAlert" = "통화 보안 서비스가 업데이트되었습니다.";
+
+"cmui_ConferenceDetailsViewController_leftBarButtonItem_AccessibilityHint_DoubleTapToReturnToPreviousScreen" = "이전 화면으로 돌아가려면 두 번 탭하세요.";
+
+"cmui_BSCallActionsHandler_TransferCall_InactiveCallDisplayName" = "알 수 없음";
+
+"cmui_CallInfoResolver_ProcessDisplayName_Unknown" = "알 수 없음";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddParticipantTitle" = "참가자 추가";
+
+"cmui_AppDelegate_NewCallAlertTitle" = "새로운 통화";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_Message_Alert" = "컨퍼런스에 참가자를 추가할 수 없습니다.";
+
+"cmui_BSCallActionsHandler_TransferCallAlertTitle" = "통화 전환";
+
+"cmui_BSBaseCallViewController_SecurityCallLevelDisabledFromAdminAlertMessage" = "통화 보안 서비스가 사용 중지되었습니다.";
+
+"cmui_BSCallActionsHandler_InputSourceAlertTitle" = "소스 입력";
+
+"cmui_BSCallScreensDTMFKeypadView_endCallButtonTitle" = "통화 종료";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMergeTitle" = "통화 병합";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallParkTitle" = "파킹";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSpeakerTitle" = "스피커";
+
+"cmui_BSCallActionsHandler_InputSource_SpeakerAlert" = "스피커";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeTransferTitle" = "전환";
+
+"cmui_AppDelegate_TransferAlertTitle" = "전환";
+
+"cmui_BSAudioCallSecurityLevelPickerView_awakeFromNib_toolbarTitleLabelText" = "내 레벨 변경";
+
+"cmui_BSAudioCallSecurityLevelPickerView_localizeView_toolbarTitleLabelText" = "내 레벨 변경";
+
+"cmui_BBSCallStateView_setCallState_kBSCallStateOnHold" = "대기 중";
+
+"cmui_ConferenceDetailsViewController_Title_Participants" = "컨퍼런스";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAudioSourceTitle" = "오디오 소스";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_incomingCallLabel" = "수신 영상 통화";
+
+"cmui_BSBackToCallControl_awakeFromNib_callStateLabel_Ongoing Call" = "현재 진행 중인 통화";
+
+"cmui_BSVideoCallViewController_completeButton_Title_Complete"  = "완료";
+
+"cmui_BSAudioCallViewController_completeButton_Title_Complete"  = "완료";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_secondAnswerButtonTitle" = "음성 통화 수락";
+
+"cmui_BSAudioCallSecurityLevelPickerView_doneBarButtonItem_Done" = "완료";
+
+"cmui_BSCallActionsHandler_InputSource_HeadsetALert" = "헤드셋";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_ReconnectingTo" = "다음에 다시 연결 중";
+
+"cmui_BSAudioCallInfoHandler_updateTitleAndPhoneWithDisplayName_reconnectionString_Reconnecting" = "다시 연결 중";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_Reconnecting" = "다시 연결 중";
+
+"cmui_BSBaseCallViewController_callHandoverFailed_message_CallDropped" = "통화 끊김";
+
+"cmui_BSBaseCallViewController_callHandoverStarted_message_CallOnHoldDropped" = "통화 대기 중 끊김";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertMessage" = "전환 실패";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertOK" = "확인";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityLabel" = "뒤로";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityHint" = "이전 화면으로 돌아가려면 더블 탭";
+
+"cmui_BSAudioCallInfoHandler_TitleLabelAccessibilityLabel" = "상대방";
+
+"cmui_BSAudioCallInfoHandler_PhoneLabelAccessibilityLabel" = "전화번호";
+
+"cmui_BSAudioCallInfoHandler_HeldCallAccessibilityHint" = "보류";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityLabel" = "통화 종료";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityHint" = "현재 통화를 종료하려면 더블 탭";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityLabel" = "전송 완료";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityHint" = "전송을 완료하려면 더블 탭";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel" = "추가 옵션";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint" = "옵션을 더 표시하려면 더블 탭";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel_Hide" = "추가 옵션 숨기기";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint_Hide" = "추가 옵션을 숨기려면 더블 탭";
+// video call
+"cmui_BSVideoCallViewController_CameraButtonAccessibilityLabel" = "카메라";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityLabel" = "전송 완료";
+
+"cmui_BaseCallViewController_CompleteButtonTitleLabel" = "전송 완료";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityHint" = "전송을 완료하려면 더블 탭";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityLabel" = "오디오 소스";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityHint" = "오디오 소스를 표시하려면 더블 탭";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_message" = "기본 전화 애플리케이션에서 통화를 다시 시작하십시오.";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_OK" = "확인";
+
+"cmui_XSICall_DisplayName_Hidden" = "숨겨짐";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStart" = "기록 시작";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingResume" = "기록 재개<";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingPause" = "기록 일시 중지";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStop" = "기록 중단";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapCamera" = "카메라 전환";
+
+"cmui_CallDialPadViewController_Hide_Button" = "숨기기";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Title" = "다이얼 패드";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Title" = "파킹";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Title" = "통화 검색";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Placeholder" = "다이얼";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Placeholder" = "내선 번호 다이얼 또는 # 누름";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Placeholder" = "내선 번호 다이얼 또는 # 누름";
+
+"cmui_CallsContainerViewController_Title" = "활성 통화";
+
+"cmui_AudioCallViewController_CallingLabel" = "전화 거는 중...";
+
+"cmui_AudioCallViewController_RemoteHoldLabel" = "보류 중";
+
+"cmui_AudioCallViewController_ConnectingLabel" = "접속 중...";
+
+"cmui_BaseCallViewController_ReconnectingPopover_Label" = "다시 연결 중…";
+
+"cmui_BaseCallViewController_CameraSwapped_Label" = "카메라 전환됨";
+
+"cmui_BaseCallViewController_PoorConnection_Label" = "연결 불량";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Title" = "영상 통화로 전환";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Message" = "%@은(는) 통화를 영상 통화로 업그레이드하려고 합니다.";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_DefaultCallerName" = "상대방";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Accept" = "수락";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Decline" = "거부";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Title" = "수신 통화";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Message" = "다음 수신 통화 허용: %@";
+
+"cmui_BaseCallViewController_IncomingCallAlert_DefaultCallerName" = "알 수 없음";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Accept" = "수락";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Decline" = "거절";
+
+// BSCallScreensButtonProperties
+"cmui_BSCallScreensButtonProperties_MuteAccessibilityLabel" = "음소거";
+
+"cmui_BSCallScreensButtonProperties_SpeakerAccessibilityLabel" = "스피커";
+
+"cmui_BSCallScreensButtonProperties_BluetoothTitle" = "블루투스";
+
+"cmui_BSCallScreensButtonProperties_BluetoothAccessibilityLabel" = "블루투스";
+
+"cmui_BSCallScreensButtonProperties_HeadsetTitle" = "헤드셋";
+
+"cmui_BSCallScreensButtonProperties_HeadsetAccessibilityLabel" = "헤드셋";
+
+"cmui_BSCallScreensButtonProperties_HoldAccessibilityLabel" = "대기";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel" = "추가 옵션";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint" = "옵션을 더 표시하려면 더블 탭";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel_Hide" = "추가 옵션 숨기기";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint_Hide" = "추가 옵션을 숨기려면 더블 탭";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityLabel" = "통화 종료";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityHint" = "현재 통화를 종료하려면 더블 탭";
+
+
+

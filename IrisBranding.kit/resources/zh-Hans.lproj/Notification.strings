@@ -1,0 +1,106 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+"unspecified" = "未指定";
+"NotificationBarCountFormat" = "（%@）";
+
+/*
+ Missing Device Configuration
+ */
+"Missing Device Configuration[problemText]" = "缺少设备配置";
+"Missing Device Configuration[detailText]" = "尚未为您的帐户指定%1$@设备配置，或出现了网络错误。原因：%2$@";
+"Missing Device Configuration[solutionText]" = "要解决此问题，请使用可靠的网络连接重试。如果问题仍然存在，请联系服务提供方。";
+
+/*
+ APNS Registration
+ */
+"APNS Registration[problemText]" = "无法接收通知。";
+"APNS Registration[detailText]" = "此设备无法接受 Apple 推送通知，当您收到新消息时，您的设备将不会被通知。";
+"APNS Registration[solutionText]" = "如果您的设备无法连接到移动网络或 WiFi，则可能会发生此问题。如果连接没有问题，请联系您的服务提供方。";
+
+/*
+ BroadWorks Integration
+ */
+"BroadWorks Integration[problemText]" = "业务通话集成失败。";
+"BroadWorks Integration[detailText]" = "您的设备未能与业务电话网关集成。可能是应用程序与网关之间匹配不正确，但更有可能是出现了网络错误。原因：%@";
+"BroadWorks Integration[solutionText]" = "要解决此问题，请使用可靠的网络连接重试，或退出应用程序然后重新登录。如果问题仍然存在，请联系服务提供方。";
+
+/*
+ Message Gateway Host Resolution
+ */
+"Messaging Gateway Host Resolution[problemText]" = "无消息网关主机。";
+"Messaging Gateway Host Resolution[detailText]" = "无法解析位于%1$@的消息网关主机。原因：%2$@";
+"Messaging Gateway Host Resolution[solutionText]" = "要解决此问题，请使用可靠的网络连接重试。如果问题仍然存在，请联系服务提供方。";
+
+/*
+ Message Gateway Registration
+ */
+"Messaging Gateway Registration[problemText]" = "消息网关注册失败。";
+"Messaging Gateway Registration[detailText]" = "您的设备未能注册消息网关。这可能会影响您收发消息的能力，在有消息进入时，您的设备可能也不会得到通知。原因： %@";
+"Messaging Gateway Registration[solutionText]" = "要解决此问题，请使用可靠的网络连接重试。如果问题仍然存在，请联系服务提供方。";
+
+/*
+ Message Gateway Authentication
+ */
+"Messaging Gateway Authentication[problemText]" = "消息网关身份验证失败。";
+"Messaging Gateway Authentication[detailText]" = "消息网关未能识别您的凭据。这通常是因为配置匹配错误导致的，尝试重新登录可能可以解决此问题。原因：%@";
+"Messaging Gateway Authentication[solutionText]" = "要解决此问题，请使用可靠的网络连接重试，或退出应用程序然后重新登录。如果问题仍然存在，请联系服务提供方。";
+
+/*
+ Password Expiry Warning
+ 
+ Special notes:
+ 
+ If the problemText is left undefined, the same localization used on the Update Password view
+ is used for the notification.  For example:
+ "Password will expire in %1$@ %2$@."
+ 
+ For any of the text fields (problemText, detailText and solutionText), two parameters may
+ be included:
+ %1$@ will be replaced with the number of days
+ %2$@ will be replace with the singular or plural form of "days" approprate for the number
+ */
+/*"Password Expiry Warning[problemText]" = "密码即将过期。";*/
+/*"Password Expiry Warning[detailText]" = "Password expires in %1$@ %2$@.";*/
+"Password Expiry Warning[solutionText]" = "请更新密码。";
+
+/*"Re-login Required Warning[problemText]" = "";*/
+/*"Re-login Required Warning[detailText]" = "";*/
+"Re-login Required Warning[solutionText]" = "请重新登录。";
+
+"Avatar upload failure[problemText]" = "头像更新失败";
+"Avatar upload failure[detailText]" = "因网络故障，无法更新头像。";
+"Avatar upload failure[solutionText]" = "要解决此问题，请使用可靠的网络连接重试。";
+
+"Messaging Service is Currently Unavailable[problemText]"= "消息服务目前不可用";
+"Messaging Service is Currently Unavailable[detailText]"= "请检查网络连接。";
+"Messaging Service is Currently Unavailable[solutionText]"= "要解决此问题，请使用可靠的网络连接重试。";
+
+"Messaging Guest Client Notification[problemText]" = "您有新的访客请求。";
+
+"Contact Storage Modification Failed[problemText]" = "无法解析联系人存储数据";
+
+/*
+ Messaging Gateway Misconfigured
+ */
+"Messaging Gateway Misconfigured[problemText]" = "消息网关配置错误。";
+"Messaging Gateway Misconfigured[detailText]" = "因配置错误而无法激活消息网关。";
+"Messaging Gateway Misconfigured[solutionText]" = "要解决此问题，请联系您的服务提供商并使用可靠的网络连接重试，或退出应用程序然后重新登录。如果问题仍然存在，请联系您的服务提供商。";
+
+/*
+Direct calling not available.
+*/
+"Direct calling not available[problemText]" = "无法进行直接呼叫展开…";
+"Direct calling not available[detailText]" = "此设备无法进行直接呼叫，但可以使用回呼功能。转到 %@ 并用回呼设备的电话号码配置一个回呼服务（例如 %@）。然后挂上电话，等待回呼。";
+
+/*
+ VoIP Push Registration Failed
+ */
+"VoIP Registration Failed[problemText]" = "来电不可用";
+"VoIP Registration Failed[detailText]" = "注册失败";
+
+/*
+ VoIP Push Device Limit Exceeded
+ */
+"VoIP Device Limit Exceeded[problemText]" = "来电不可用";
+"VoIP Device Limit Exceeded[detailText]" = ">>注册设备过多<<";
+"VoIP Device Limit Exceeded[solutionText]" = "请重新登录以使用此设备";

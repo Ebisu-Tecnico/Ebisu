@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="app_full_name">UC-One Connect</string>
+
+    <string name="copyright">%1$s&lt;br/&gt;© 2021 Cisco. Tutti i diritti riservati.&lt;br/&gt;www.cisco.com</string>
+    <string name="broadworks_anywhere">BroadWorks Anywhere</string>
+
+    <string name="tutorial_page1_title">Chiama con semplicità</string>
+    <string name="tutorial_page1_description">Fai chiamate rapide in modo pratico.</string>
+    <string name="tutorial_page2_title">Mettiti in contatto</string>
+    <string name="tutorial_page2_description">Cerca facilmente i colleghi nella tua organizzazione.</string>
+    <string name="tutorial_page3_title">Allarga i tuoi orizzonti</string>
+    <string name="tutorial_page3_description">Condividi le idee in chat di gruppo oppure partecipa a una riunione con audio e video.</string>
+
+    <!--The following string is not used in reference build but only in webex calling. added here to get it translated-->
+    <string name="tutorial_page4_title">A tua disposizione</string>
+    <string name="tutorial_page4_description">Ristabilisci i contatti con la cronologia delle chiamate e controlla la casella vocale con un tocco.</string>
+
+</resources>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="sso_login_failed">Si è verificato un errore durante il processo di accesso. Provare a immettere nuovamente le proprie credenziali. Se il problema persiste, contattare l\'amministratore del sistema.</string>
+    <string name="sign_in">Accesso</string>
+    <string name="forgot_my_password">Password dimenticata</string>
+    <string name="username_input_check">Immettere il nome utente corretto.</string>
+    <string name="enterprise">Mio nome utente aziendale</string>
+
+    <string name="google">Google</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="okta">Okta</string>
+    <string name="other">Altro</string>
+    <string name="sso_custom1">IdP personalizzato 1</string>
+    <string name="sso_custom2">IdP personalizzato 2</string>
+    <string name="sso_custom3">IdP personalizzato 3</string>
+    <string name="sso_custom4">IdP personalizzato 4</string>
+
+    <string name="login_ok">OK</string>
+    <string name="login_cancel">Annulla</string>
+
+    <string name="app_login_username_hint">Nome utente</string>
+    <string name="app_login_password_hint">Password</string>
+    <string name="signing">Accesso</string>
+    <string name="loading">Caricamento in corso…</string>
+
+    <string name="settings_button">Impostazioni</string>
+    <string name="edit_login_info">Modifica info di accesso</string>
+
+    <string name="login_continue">Continua</string>
+    <string name="login_save">Salva</string>
+    <string name="login_email_hint">E-mail aziendale</string>
+    <string name="login_region_hint">Regione</string>
+
+    <string name="server_address_capital">Indirizzo server</string>
+    <string name="xsi_actions_path_hint">Percorso XSI Actions</string>
+    <string name="invalid_contact_name">Caratteri non validi. Controlla il testo immesso</string>
+    <string name="sso_notification">Facendo clic sul pulsante \&quot;%1$s\&quot; sotto, verrai rediretto all\'accesso %2$s nella schermata.</string>
+    <string name="scf_login_message">Facendo clic sul pulsante Continua sotto, verrai reindirizzato alla schermata di accesso di Webex Teams.</string>
+
+    <string name="login_failed_wrong_username_and_or_password">Accesso non riuscito: nome utente e/o password errati.</string>
+    <string name="sso_authentication_error">Errore di autenticazione</string>
+
+    <string name="login_regions_advanced">Configurazione avanzata</string>
+    <string name="settings_and_about">Impostazioni e informazioni</string>
+    <string name="sign_in_with">Desidero accedere con...</string>
+    <string name="select_region">Seleziona la tua regione</string>
+
+	<string name="login_unavailable_network">Rete non disponibile</string>
+    <string name="xsi_forced_signout_dialog_message">La sessione è scaduta.\nAccedi nuovamente per continuare.</string>
+    <string name="xsi_forced_signout_dialog_onaccountdisabled">L\'account è stato disattivato. Rivolgersi all\'amministratore di sistema.</string>
+
+    <string name="there_is_no_connection_retry">Connessione assente. Provare a connettersi nuovamente?</string>
+    <string name="login_try_again">Riprova</string>
+    <string name="remember_password">Salva accesso</string>
+
+</resources>

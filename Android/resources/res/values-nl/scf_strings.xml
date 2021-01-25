@@ -1,0 +1,163 @@
+<resources>
+    <!--System Notifications-->
+    <string name="no_scf_connection">Bijwerken&#8230;</string>
+
+    <!-- Messages Screen Strings -->
+    <string name="you">U</string>
+    <string name="scf_today">Vandaag</string>
+    <string name="scf_yesterday">Gisteren</string>
+    <string name="content_copied">Gekopieerd</string>
+    <string name="send">Verzenden</string>
+    <string name="chat_hint">Typ uw bericht</string>
+    <string name="action_flag">Markeren</string>
+    <string name="action_copytext">Tekst kopiëren</string>
+    <string name="notification_new_messages">Nieuwe berichten</string>
+    <string name="button_new_messages">Nieuwe berichten ^</string>
+    <string name="announcement_space_label">Dit is een aankondigingsruimte</string>
+
+    <!--Message Types-->
+    <string name="message_participant_added">%1$s heeft %2$s toegevoegd aan deze ruimte.</string>
+    <string name="message_participant_added_to_team">%1$s heeft %2$s aan dit team toegevoegd.</string>
+    <string name="message_participant_joined">%1$s neemt deel aan deze ruimte.</string>
+    <string name="message_participant_joined_to_team">%1$s neemt deel aan dit team.</string>
+    <string name="message_participant_added_by_you">U hebt %1$s aan deze ruimte toegevoegd.</string>
+    <string name="message_participant_added_by_you_to_team">U hebt %1$s aan dit team toegevoegd.</string>
+    <string name="message_participant_added_you">%1$s heeft u toegevoegd aan deze ruimte. Welkom.</string>
+    <string name="message_participant_added_you_to_team">%1$s heeft u aan deze ruimte toegevoegd. Welkom.</string>
+    <string name="message_you_joined">U neemt deel aan deze ruimte.</string>
+    <string name="message_you_joined_to_team">U neemt deel aan dit team.</string>
+    <string name="message_participant_removed">%1$s heeft %2$s uit deze ruimte verwijderd.</string>
+    <string name="message_participant_removed_to_team">%1$s heeft %2$s uit dit team verwijderd.</string>
+    <string name="message_participant_left">%1$s heeft de ruimte verlaten.</string>
+    <string name="message_participant_left_to_team">%1$s heeft het team verlaten.</string>
+    <string name="message_participant_removed_by_you">U hebt %1$s uit deze ruimte verwijderd.</string>
+    <string name="message_participant_removed_by_you_to_team">U hebt %1$s uit dit team verwijderd.</string>
+    <string name="message_you_left">U hebt de ruimte verlaten.</string>
+    <string name="message_you_left_to_team">U hebt het team verlaten.</string>
+    <string name="message_conversation_title_updated_by_you">U hebt de naam van deze ruimte gewijzigd in \'%1$s\'.</string>
+    <string name="message_team_title_updated_by_you">U hebt de teamgegevens bijgewerkt</string>
+    <string name="message_conversation_title_updated_by_other">%1$s heeft deze ruimte de nieuwe naam \'%2$s\' gegeven</string>
+    <string name="message_team_title_updated_by_other">%1$s heeft de teamgegevens bijgewerkt.</string>
+    <string name="message_locus_summary_had_group_call">U had een vergadering %1$s</string>
+    <string name="message_locus_summary_missed_group_call">U hebt een vergadering %1$s gemist</string>
+    <string name="message_locus_summary_unavailable_for_group_call">%1$s heeft een vergadering gestart, maar er was niemand beschikbaar.</string>
+    <string name="message_locus_summary_had_call">U had een gesprek (%1$s) %2$s</string>
+    <string name="message_locus_summary_other_missed_call">%1$s was niet beschikbaar.</string>
+    <string name="message_locus_summary_unavailable_for_call">U hebt een gesprek geannuleerd.</string>
+    <string name="message_locus_summary_no_one_joined_call">U hebt een vergadering gestart, maar er was niemand beschikbaar.</string>
+    <string name="message_locus_summary_missed_call">U hebt een gesprek gemist.</string>
+    <string name="message_room_created_by_self_no_title">Hiermee wordt de ruimte gestart.</string>
+    <string name="message_team_created_by_self_no_title">Hiermee wordt het team gestart.</string>
+    <string name="message_room_created_by_self">THiermee wordt de ruimte \'%1$s\' gestart.</string>
+    <string name="message_team_created_by_self">Hiermee wordt het team \'%1$s\' gestart.</string>
+    <string name="message_room_created_by_other_no_title">Hiermee wordt de ruimte gestart die is gemaakt door %1$s.</string>
+    <string name="message_team_created_by_other_no_title">Hiermee wordt het team gestart dat is gemaakt door %1$s.</string>
+    <string name="message_room_created_by_other">Hiermee wordt de ruimte \'%1$s\' gestart die is gemaakt door %2$s.</string>
+    <string name="message_team_created_by_other">Hiermee wordt het team \'%1$s\' gestart dat is gemaakt door %2$s."</string>
+    <string name="message_new_team_room_added_by_you">U hebt een nieuwe ruimte \"%1$s\" gemaakt.</string>
+    <string name="message_new_team_room_added_by_other">%1$s heeft een nieuwe ruimte \"%2$s\" gemaakt.</string>
+    <string name="own_message_removed">U hebt uw bericht verwijderd.</string>
+    <string name="message_removed">%1$s heeft het eigen bericht verwijderd.</string>
+    <string name="message_removed_by_you">U hebt het bericht van %1$s verwijderd.</string>
+    <string name="message_removed_by_someone">%1$s heeft het bericht van %2$s verwijderd.</string>
+    <string name="message_event_cancelled">%1$s heeft de geplande vergadering \'%2$s\' geannuleerd.</string>
+    <string name="message_event_cancelled_by_you">U hebt de geplande vergadering \'%1$s\' geannuleerd.</string>
+    <string name="message_event_updated">%1$s heeft de agenda voor de geplande vergadering geüpdatet \'%2$s\'.</string>
+    <string name="message_event_updated_by_you">U hebt de agenda voor de geplande vergadering \'%1$s\' bijgewerkt.</string>
+    <string name="message_event_scheduled">%1$s heeft de geplande vergadering \'%2$s\' gemaakt.</string>
+    <string name="message_event_scheduled_by_you">U hebt de geplande vergadering \'%1$s\' gemaakt.</string>
+    <string name="room_avatar_changed_by_you">U hebt de avatar van de ruimte gewijzigd.</string>
+    <string name="room_avatar_changed_by_other">%1$s heeft de afbeelding van de ruimte gewijzigd.</string>
+    <string name="recording_ready">Uw opname is gereed.</string>
+    <string name="announcement_set_by_you">U hebt de aankondigingsmodus ingeschakeld</string>
+    <string name="announcement_unset_by_you">U hebt de aankondigingsmodus uitgeschakeld</string>
+    <string name="announcement_set_by_other">%1$s heeft de aankondigingsmodus ingeschakeld</string>
+    <string name="announcement_unset_by_other">%1$s heeft de aankondigingsmodus uitgeschakeld</string>
+    <string name="invalid_system_message">Ongeldig systeembericht</string>
+    <string name="attachment_default">Compartilhou um arquivo.</string>
+    <string name="attachment_default_multiple">Gedeelde bestanden.</string>
+    <string name="attachment_download">Downloaden %1$s</string>
+    <string name="attachment_downloading">Bezig met downloaden %1$s</string>
+    <string name="attachment_open">%1$s openen</string>
+    <string name="attachment_download_progress">Bezig met downloaden: %1$s</string>
+    <string name="attachment_directory_error">Kan geen downloadmap maken.</string>
+    <string name="attachment_open_with">Openen met</string>
+    <string name="attachment_size_mb">%1$s MB</string>
+    <string name="attachment_size_kb">%1$s KB</string>
+    <string name="attachment_size_b">%1$s B</string>
+    <string name="seconds_sufix">sec</string>
+    <string name="minutes_sufix">min</string>
+
+    <!--Menu-->
+    <string name="action_video_call">Videogesprek</string>
+    <string name="action_viewparticipants">Deelnemers bekijken</string>
+    <string name="action_viewfiles">Bestanden bekijken</string>
+    <string name="action_addfavoritespace">Toevoegen aan favorieten</string>
+    <string name="action_removefavoritespace">Verwijderen uit favorieten</string>
+    <string name="action_changenotification">Melding wijzigen</string>
+    <string name="action_leavespace">Ruimte verlaten</string>
+    <string name="action_joinroom">Deelnemen aan ruimte</string>
+    <string name="action_leaveroom">Kamer verlaten</string>
+    <string name="action_callroom">Gespreksuimte</string>
+    <string name="action_viewprofile">Profiel bekijken</string>
+    <string name="action_viewsharedcontent">Gedeelde inhoud bekijken</string>
+    <string name="action_leave">Verlaten</string>
+    <string name="action_delete">Verwijderen</string>
+    <string name="action_edit">Naam wijzigen</string>
+
+    <!-- Edit Space screen -->
+    <string name="space_name">Naam ruimte</string>
+    <string name="space_name_title">Naam wijzigen</string>
+    <string name="space_name_hint">Naam ruimte invoeren</string>
+    <string name="space_name_save">Opslaan</string>
+
+    <!-- Notification settings -->
+    <string name="pref_notification">Melding</string>
+    <string name="pref_global_notification">Algemene melding</string>
+    <string name="pref_global_notification_link">Wijzig al uw instellingen voor algemene meldingen voor al uw ruimtes in "Instellingen/Meldingen". <a href="Update global settings">Algemene instellingen bijwerken</a></string>
+    <string name="notification_all_messages">Alle berichten</string>
+    <string name="notification_mentions_only">\@Enkel vermeldingen</string>
+    <string name="notification_off">Uit</string>
+    <string name="notification_spaces">Ruimtes</string>
+    <string name="pref_global_notification_info">Selecteer hierboven voorkeuren voor uw algemene meldingen voor ruimtes</string>
+
+    <!-- Participants screen -->
+    <string name="external_warning">Mensen buiten uw bedrijf zijn in deze ruimte opgenomen</string>
+
+    <!-- Giphy Messages -->
+    <string name="giphy_empty_search">Daarvoor hebben we helaas geen GIF gevonden.</string>
+    <string name="no_search_results">Geen resultaten</string>
+    <string name="search_for_gifs">Zoeken naar GIF\'s</string>
+
+    <!-- Giphy default search terms -->
+    <string name="giphy_search_yes">Ja</string>
+    <string name="giphy_search_no">Nee</string>
+    <string name="giphy_search_agree">Akkoord</string>
+    <string name="giphy_search_awesome">Geweldig</string>
+    <string name="giphy_search_wow">Wauw</string>
+    <string name="giphy_search_high_five">High-five</string>
+    <string name="giphy_search_face_palm">Face-palm</string>
+    <string name="giphy_search_popcorn">Popcorn</string>
+    <string name="giphy_search_please">Alstublieft</string>
+    <string name="giphy_search_thanks">Bedankt</string>
+    <string name="giphy_search_thumbs_up">Duim omhoog</string>
+    <string name="giphy_search_thumbs_down">Duim omlaag</string>
+
+    <!-- Presence variations -->
+    <string name="scf_presence_title">Niet storen instellen:</string>
+    <string name="scf_presence_time_off">Wissen</string>
+    <string name="scf_presence_time_half">30 minuten</string>
+    <string name="scf_presence_time_one">1 uur</string>
+    <string name="scf_presence_time_two">2 uur</string>
+    <string name="scf_presence_time_four">4 uur</string>
+    <string name="scf_presence_time_eight">8 uur</string>
+    <string name="scf_presence_time_day">24 uur</string>
+
+    <!-- Presence duration -->
+    <string name="scf_presence_dnd_until">Niet storen tot %1$s</string>
+    <string name="last_active_minutes_ago">%1$s minuten geleden actief</string>
+    <string name="last_active_one_hour_ago">%1$s 1 uur geleden actief</string>
+    <string name="last_active_hours_ago">%1$s uur geleden actief</string>
+    <string name="last_active_yesterday">Gisteren actief</string>
+    <string name="last_active_on_date">Actief op %1$s</string>
+</resources>

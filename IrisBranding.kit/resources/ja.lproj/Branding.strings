@@ -1,0 +1,29 @@
+/* Copyright © 2017 BroadSoft, Inc. All rights reserved. */
+
+/* Application & Company Name */
+"applicationFullName" = "UC-Oneコネクト";
+"applicationCopyright" = "© 2021 Cisco. All rights reserved.";
+"applicationCompanyWebLink" = "www.cisco.com";
+"About Connect" = "コネクトについて";
+
+/* BroadSoft Service Trade Names */
+"BroadWorks" = "BroadWorks";
+"BroadWorks Anywhere" = "BroadWorks Anywhere";
+"BroadWorks Anywhere Location" = "BroadWorks Anywhere ロケーション";
+
+/* External Apps */
+"UC-One Meet" = "UC-One会議";
+
+/*UC-One Hub*/
+"Hub" = "Hub";
+
+/* IdPs */
+"Google" = "Google";
+"Microsoft" = "Microsoft";
+"Okta" = "Okta";
+"Other" = "その他";
+
+"Custom IdP 1" = "カスタム IdP 1";
+"Custom IdP 2" = "カスタム IdP 2";
+"Custom IdP 3" = "カスタム IdP 3";
+"Custom IdP 4" = "カスタム IdP 4";

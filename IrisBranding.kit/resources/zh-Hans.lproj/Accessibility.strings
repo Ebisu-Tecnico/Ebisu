@@ -1,0 +1,35 @@
+/* 
+  Accessibility.strings
+  Iris
+
+  Created by smadhuay on 30/11/18.
+  Copyright © 2018 BroadSoft, Inc. All rights reserved.
+*/
+
+/* Profile */
+"Change Profile Picture button" = "更改个人资料图片(按钮)";
+"Photo" = "照片";
+"Back" = "返回";
+"profile Avatar" = "头像资料";
+"profile Remove from Favorite" = "从收藏夹中移除资料";
+"profile Add to Favorite" = "添加至收藏夹资料";
+"unread" = "未读";
+"Recent MissedCalls" = "最近未接电话";
+"audio call" = "语音通话";
+"View My Profile" = "查看我的个人资料";
+"Double tap to activate." = "双击以激活。";
+"Change Profile Photo" = "修改个人档案照片";
+"New Chat" = "新聊天";
+"Add New Group" = "添加新组";
+"Menu" = "菜单";
+
+/* New Message */
+"Media Attachment Button" = "媒体附件(按钮)";
+
+/* Voice Mail More Options Navigation Item*/
+"Voicemail More Options" = "语音邮件的更多选项";
+
+/* Call History */
+"Outgoing Call" = "呼出通话";
+"Incoming Call" = "呼入通话";
+"Missed call" = "未接电话";

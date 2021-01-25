@@ -1,0 +1,15 @@
+/*
+ InfoPlist.strings
+ Iris
+ 
+ Created by Mark Sellers on 9/9/16.
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+"NSContactsUsageDescription" = "연락처는 전화를 걸기 위한 임시 검색에 사용됩니다. 명시적인 사용자 요청없이는 연락처 정보가 클라우드에 업로드되지 않습니다.";
+"NSLocationWhenInUseUsageDescription" = "위치를 사용하여 자동 공유를 활성화하고 제안 위치 레이블을 제공합니다.";
+"NSPhotoLibraryUsageDescription" = "프로필 및 메시지 첨부 파일에 사진 라이브러리를 사용하려고 합니다.";
+"NSCameraUsageDescription" = "영상 통화에 카메라를 사용하고, 메시지 첨부 파일에 프로필 사진을 사용하려고 합니다.";
+"NSMicrophoneUsageDescription" = "음성 및 영상 통화와 메시지 첨부 파일에 마이크를 사용하려고 합니다.";
+"NSBluetoothPeripheralUsageDescription" = "통화 시 블루투스 오디오를 사용하고자 합니다.";
+"NSBluetoothAlwaysUsageDescription" = "통화 시 블루투스 오디오를 사용하고자 합니다.";

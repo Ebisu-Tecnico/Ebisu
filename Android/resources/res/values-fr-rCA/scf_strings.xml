@@ -1,0 +1,164 @@
+<resources>
+    <!--System Notifications-->
+    <string name="no_scf_connection">Rattrapage&#8230;</string>
+
+    <!-- Messages Screen Strings -->
+    <string name="you">Vous</string>
+    <string name="scf_today">Aujourd’hui</string>
+    <string name="scf_yesterday">Hier</string>
+    <string name="content_copied">Copié(s)</string>
+    <string name="send">Envoyer</string>
+    <string name="chat_hint">Saisissez votre message</string>
+    <string name="action_flag">Marquer</string>
+    <string name="action_copytext">Copier le texte</string>
+    <string name="notification_new_messages">Nouveaux messages</string>
+    <string name="button_new_messages">Nouveaux messages ^</string>
+    <string name="announcement_space_label">Il s’agit d’un espace d’annonces</string>
+
+    <!--Message Types-->
+    <string name="message_participant_added">%1$s a ajouté %2$s à cet espace.</string>
+    <string name="message_participant_added_to_team">%1$s a ajouté %2$s à cette équipe.</string>
+    <string name="message_participant_joined">%1$s a rejoint cet espace.</string>
+    <string name="message_participant_joined_to_team">%1$s a rejoint cette équipe.</string>
+    <string name="message_participant_added_by_you">Vous avez ajouté %1$s à cet espace.</string>
+    <string name="message_participant_added_by_you_to_team">Vous avez ajouté %1$s à cette équipe.</string>
+    <string name="message_participant_added_you">%1$s vous a ajouté à cet espace. Bienvenue.</string>
+    <string name="message_participant_added_you_to_team">%1$s vous a ajouté(e) à cette équipe. Bienvenue.</string>
+    <string name="message_you_joined">Vous avez joint cet espace.</string>
+    <string name="message_you_joined_to_team">Vous vous êtes joint(e) à cette équipe.</string>
+    <string name="message_participant_removed">%1$s a retiré %2$s de cet espace.</string>
+    <string name="message_participant_removed_to_team">%1$s a retiré %2$s de cette équipe.</string>
+    <string name="message_participant_left">%1$s a quitté l’espace.</string>
+    <string name="message_participant_left_to_team">%1$s a quitté l’équipe.</string>
+    <string name="message_participant_removed_by_you">Vous avez retiré %1$s de cet espace.</string>
+    <string name="message_participant_removed_by_you_to_team">Vous avez retiré %1$s de cette équipe.</string>
+    <string name="message_you_left">Vous avez quitté l’espace.</string>
+    <string name="message_you_left_to_team">Vous avez quitté l’équipe.</string>
+    <string name="message_conversation_title_updated_by_you">Vous avez modifié le nom de l’espace comme suit : « %1$s ».</string>
+    <string name="message_team_title_updated_by_you">Vous avez mis à jour les renseignements de l’équipe</string>
+    <string name="message_conversation_title_updated_by_other">%1$s a modifié le nom de l’espace comme suit : « %2$s ».</string>
+    <string name="message_team_title_updated_by_other">%1$s a mis à jour les renseignements de l’équipe.</string>
+    <string name="message_locus_summary_had_group_call">Vous avez eu une réunion %1$s</string>
+    <string name="message_locus_summary_missed_group_call">Vous avez manqué une réunion %1$s</string>
+    <string name="message_locus_summary_unavailable_for_group_call">%1$s a commencé une réunion, mais personne n’était disponible.</string>
+    <string name="message_locus_summary_had_call">Vous avez reçu un appel (%1$s) %2$s</string>
+    <string name="message_locus_summary_other_missed_call">%1$s n’était pas disponible.</string>
+    <string name="message_locus_summary_unavailable_for_call">Vous avez annulé un appel.</string>
+    <string name="message_locus_summary_no_one_joined_call">Vous avez démarré une réunion, mais personne n’était disponible.</string>
+    <string name="message_locus_summary_missed_call">Vous avez manqué un appel.</string>
+    <string name="message_room_created_by_self_no_title">Cela lance l’espace.</string>
+    <string name="message_team_created_by_self_no_title">Cela lance l’équipe.</string>
+    <string name="message_room_created_by_self">Cela démarre l’espace « %1$s ».</string>
+    <string name="message_team_created_by_self">Cela lance l’équipe « %1$s ».</string>
+    <string name="message_room_created_by_other_no_title">Cela démarre l’espace créé par %1$s.</string>
+    <string name="message_team_created_by_other_no_title">Cela lance l’équipe créée par %1$s.</string>
+    <string name="message_room_created_by_other">Cela démarre l’espace « %1$s » créé par %2$s.</string>
+    <string name="message_team_created_by_other">Cela lance l’équipe « %1$s » créée par %2$s.</string>
+    <string name="message_new_team_room_added_by_you">Vous avez créé un nouvel espace "%1$s".</string>
+    <string name="message_new_team_room_added_by_other">%1$s a créé un nouvel espace "%2$s".</string>
+    <string name="own_message_removed">Vous avez supprimé votre message.</string>
+    <string name="message_removed">%1$s a supprimé son propre message.</string>
+    <string name="message_removed_by_you">Vous avez supprimé le message de %1$s.</string>
+    <string name="message_removed_by_someone">%1$s a supprimé le message de %2$s.</string>
+    <string name="message_event_cancelled">%1$s a annulé la réunion programmée « %2$s ».</string>
+    <string name="message_event_cancelled_by_you">Vous avez annulé la réunion programmée « %1$s ».</string>
+    <string name="message_event_updated">%1$s a mis à jour l’ordre du jour de la réunion programmée « %2$s ».</string>
+    <string name="message_event_updated_by_you">Vous avez mis à jour l’ordre du jour de la réunion programmée « %1$s ».</string>
+    <string name="message_event_scheduled">%1$s a créé la réunion programmée « %2$s ».</string>
+    <string name="message_event_scheduled_by_you">Vous avez créé la réunion programmée « %1$s ».</string>
+    <string name="room_avatar_changed_by_you">Vous avez modifié l’avatar de l’espace.</string>
+    <string name="room_avatar_changed_by_other">%1$s a modifié l’image de l’espace.</string>
+    <string name="recording_ready">Votre enregistrement est prêt.</string>
+    <string name="announcement_set_by_you">Vous avez activé le mode d’annonces</string>
+    <string name="announcement_unset_by_you">Vous avez désactivé le mode d’annonces</string>
+    <string name="announcement_set_by_other">%1$s a activé le mode d’annonces</string>
+    <string name="announcement_unset_by_other">%1$s a désactivé le mode d’annonces</string>
+    <string name="invalid_system_message">Message système non valide</string>
+    <string name="attachment_default">A partagé un fichier.</string>
+    <string name="attachment_default_multiple">Fichiers partagés.</string>
+    <string name="attachment_download">Téléchargement %1$s</string>
+    <string name="attachment_downloading">Téléchargement %1$s</string>
+    <string name="attachment_open">Ouvrir %1$s</string>
+    <string name="attachment_download_progress">Téléchargement en cours : %1$s</string>
+    <string name="attachment_directory_error">Impossible de créer le répertoire de téléchargement.</string>
+    <string name="attachment_open_with">Ouvrir avec</string>
+    <string name="attachment_size_mb">%1$s MB</string>
+    <string name="attachment_size_kb">%1$s KB</string>
+    <string name="attachment_size_b">%1$s B</string>
+    <string name="seconds_sufix">sec</string>
+    <string name="minutes_sufix">min</string>
+
+    <!--Menu-->
+    <string name="action_video_call">Appel vidéo</string>
+    <string name="action_viewparticipants">Afficher les participants</string>
+    <string name="action_viewfiles">Afficher des fichiers</string>
+    <string name="action_addfavoritespace">Ajouter aux favoris</string>
+    <string name="action_removefavoritespace">Retirer des favoris</string>
+    <string name="action_changenotification">Modifier les notifications</string>
+    <string name="action_leavespace">Quitter l’espace</string>
+    <string name="action_joinroom">Accéder à la salle</string>
+    <string name="action_leaveroom">Quitter la salle</string>
+    <string name="action_callroom">Salle d\'appel</string>
+    <string name="action_viewprofile">Afficher le profil</string>
+    <string name="action_viewsharedcontent">Afficher le contenu partagé</string>
+    <string name="action_leave">Quitter</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_edit">Modifier le nom</string>
+
+    <!-- Edit Space screen -->
+    <string name="space_name">Nom de l\'espace</string>
+    <string name="space_name_title">Modifier le nom</string>
+    <string name="space_name_hint">Saisir le nom de l\'espace</string>
+    <string name="space_name_save">Enregistrer</string>
+
+    <!-- Notification settings -->
+    <string name="pref_notification">Notification</string>
+    <string name="pref_global_notification">Notification globale</string>
+    <string name="pref_global_notification_link">Modifiez vos paramètres globaux de notification pour tous vos espaces dans "Paramètres/Notifications". <a href="Update global settings">Mettre à jour les paramètres globaux</a></string>
+    <string name="notification_all_messages">Tous les messages</string>
+    <string name="notification_mentions_only">\@Mentions uniquement</string>
+    <string name="notification_off">Désactivé</string>
+    <string name="notification_spaces">Espaces</string>
+    <string name="pref_global_notification_info">Sélectionnez les préférences de notification globales pour les espaces ci-dessus.</string>
+
+    <!-- Participants screen -->
+    <string name="external_warning">Les personnes extérieures à votre entreprise sont incluses dans cet espace</string>
+
+    <!-- Giphy Messages -->
+    <string name="giphy_empty_search">Désolé, impossible de trouver un GIF pour ça.</string>
+    <string name="no_search_results">Aucun résultat</string>
+    <string name="search_for_gifs">Rechercher des GIF</string>
+
+    <!-- Giphy default search terms -->
+    <string name="giphy_search_yes">Oui</string>
+    <string name="giphy_search_no">Non</string>
+    <string name="giphy_search_agree">D’accord</string>
+    <string name="giphy_search_awesome">Super</string>
+    <string name="giphy_search_wow">Waouh</string>
+    <string name="giphy_search_high_five">Tape m’en cinq</string>
+    <string name="giphy_search_face_palm">Face Palm</string>
+    <string name="giphy_search_popcorn">Maïs soufflé</string>
+    <string name="giphy_search_please">S’il vous plaît</string>
+    <string name="giphy_search_thanks">Merci</string>
+    <string name="giphy_search_thumbs_up">Pouce vers le haut</string>
+    <string name="giphy_search_thumbs_down">Pouce vers le bas</string>
+
+    <!-- Presence variations -->
+    <string name="scf_presence_title">Régler à Ne pas déranger :</string>
+    <string name="scf_presence_time_off">Effacer</string>
+    <string name="scf_presence_time_half">30 minutes</string>
+    <string name="scf_presence_time_one">1 heure</string>
+    <string name="scf_presence_time_two">2 heures</string>
+    <string name="scf_presence_time_four">4 heures</string>
+    <string name="scf_presence_time_eight">8 heures</string>
+    <string name="scf_presence_time_day">24 heures</string>
+
+    <!-- Presence duration -->
+    <string name="scf_presence_dnd_until">Ne pas déranger jusqu’à %1$s</string>
+    <string name="last_active_minutes_ago">Actif il y a %1$s minutes</string>
+    <string name="last_active_one_hour_ago">Actif il y a 1 heure</string>
+    <string name="last_active_hours_ago">Actif il y a %1$s heures</string>
+    <string name="last_active_yesterday">Actif hier</string>
+    <string name="last_active_on_date">Actif le %1$s</string>
+
+</resources>

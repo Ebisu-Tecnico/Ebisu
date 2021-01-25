@@ -1,0 +1,203 @@
+"OK" = "确定";
+
+"Cancel" = "取消";
+
+"Transfer completed" = "转移完成";
+
+"Call Back" = "回拨";
+
+"Call Through" = "直通呼叫";
+
+"recording" = "正在录音";
+
+"Transfer to Mobile" = "呼叫转移到手机";
+
+"Your call will be transferred to:" = "您的呼叫将被转接到：";
+
+"Incomplete emergency location configuration" = "不完整的紧急位置配置";
+
+"Location Updated Successfully" = "位置更新成功";
+
+"recording paused" = "录音暂停";
+
+"Swap" = "交换";
+
+"Dismiss" = "踢出";
+
+"NotificationAction >> Answer" = "查看";
+
+"Downgrade call to audio?" = "是否改为音频通话？";
+
+"Yes" = "是";
+
+"recording unavailable" = "录音不可用";
+
+"Transfer to Circuit Switch" = "呼叫转移到手机";
+
+"Mute" = "静音";
+
+"Enter a phone number" = "输入一个电话号码";
+
+"Hide" = "隐藏";
+
+"WEBRTC" = "实时网络通信";
+
+"Echo Test" = "回声测试";
+
+"Calling" = "正在呼叫";
+
+"Update Emergency Location" = "更新紧急位置";
+
+"Back" = "后退";
+
+"SIP Call" = "互联网通话(VoIP)";
+
+"Add video to a voice call" = "添加视频到语音呼叫";
+
+"Transfer to new" = "转接到新";
+
+"Accept Video" = "接受视频";
+
+"Call quality issues" = "通话质量问题";
+
+"No Headphones or Bluetooth detected" = "未检测到耳机或蓝牙设备";
+
+"Incoming" = "正在拨入";
+
+"Accept" = "接受";
+
+"hours" = "小时";
+
+"Add Video" = "添加视频";
+
+"Transfer to" = "转接到 %@";
+
+"WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services." = "警告：除从已注册的物理位置外，切勿使用软件电话拨打 911。在已注册的物理位置之外的位置使用软件电话可能会将 911 通话转到不正确的 911 调度中心，这可能会导致紧急服务延误或无法提供。建议您维持一个 911 服务的备用联系方法。";
+
+"iPhone Speaker" = "iPhone扬声器";
+
+"Keypad" = "键盘";
+
+"Conference" = "会议";
+
+"Missed call" = "未接电话";
+
+"Call Security" = "通话安全";
+
+"Answer" = "应答";
+
+"Decline" = "拒绝";
+
+"The Call Security service was updated" = "呼叫安全服务已更新";
+
+"Double tap to return to previous screen" = "双击以返回前一屏幕";
+
+"Hold" = "暂停";
+
+"minute" = "分钟";
+
+"Validating Location..." = "正在验证位置...";
+
+"Unknown" = "未知";
+
+"second" = "秒";
+
+"Add Participant" = "添加参与者";
+
+"View" = "查看";
+
+"New Call" = "新通话";
+
+"Try again" = "重试";
+
+"hour" = "小时";
+
+"We were not able to validate your Location" = "我们不能验证您的位置";
+
+"Cannot add participant to the conference" = "无法向会议添加参与者";
+
+"Incoming call from" = "来电来自";
+
+"Transfer call" = "转接通话";
+
+"The Call Security service was disabled" = "呼叫安全服务被禁用";
+
+"Input source" = "输入源";
+
+"minutes" = "分钟";
+
+"End call" = "结束通话";
+
+"Merge" = "合并";
+
+"Park Call" = "驻留呼叫";
+
+"Speaker" = "扬声器";
+
+"Transfer" = "传输";
+
+"Change my level" = "更改我的级别";
+
+"On hold" = "暂停";
+
+"Participants" = "参与者";
+
+"seconds" = "秒";
+
+"Touch to return to call" = "轻触可返回通话";
+
+"Voice Only" = "仅语音";
+
+"iPhone - Call Ask" = "iPhone";
+
+"Audio Sources" = "音频来源";
+
+"Incoming video call" = "视频通话来电";
+
+"Ongoing Call" = "进行中的通话";
+
+"Complete" = "完成";
+
+"Accept Audio" = "接受音频";
+
+"Done" = "完成";
+
+"Bluetooth" = "蓝牙";
+
+"Headset" = "耳机";
+
+"Reconnecting to" = "正重新连接到";
+
+"Reconnecting" = "正在重新连接";
+
+"Call dropped" = "通话中断";
+
+"Call on hold dropped" = "通话保持中断";
+
+"cm_XSICall_DisplayName_Hidden" = "隐藏";
+
+"Anonymous" = "匿名";
+
+"Ring Reminder" = "铃声提示";
+
+"Incoming call was redirected" = "来电已转接";
+
+"Headset" = "耳机";
+
+"Reconnecting to" = "正重新连接到";
+
+"Reconnecting" = "正在重新连接";
+
+"Call dropped" = "通话中断";
+
+"Call on hold dropped" = "通话保持中断";
+
+"cm_XSICall_DisplayName_Unknown" = "未知";
+
+"Ring Reminder" = "铃声提示";
+
+"Incoming call was redirected" = "来电已转接";
+
+"cm_XSICall_DisplayName_Hidden" = "隐藏";
+
+"Private" = "私人";

@@ -1,0 +1,54 @@
+<resources>
+    <string name="sso_login_failed">Bei der Anmeldung ist ein Fehler aufgetreten. Geben Sie Ihre Anmeldeinformationen erneut ein. Falls das Problem weiterhin besteht, wenden Sie sich an den Systemadministrator.</string>
+    <string name="sign_in">Anmelden</string>
+    <string name="forgot_my_password">Kennwort vergessen</string>
+    <string name="username_input_check">Geben Sie den korrekten Benutzernamen ein.</string>
+    <string name="enterprise">Benutzername meines Unternehmens</string>
+
+    <string name="google">Google</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="okta">Okta</string>
+    <string name="other">Andere</string>
+    <string name="sso_custom1">Benutzerdefinierter IdP 1</string>
+    <string name="sso_custom2">Benutzerdefinierter IdP 2</string>
+    <string name="sso_custom3">Benutzerdefinierter IdP 3</string>
+    <string name="sso_custom4">Benutzerdefinierter IdP 4</string>
+
+    <string name="login_ok">OK</string>
+    <string name="login_cancel">Abbrechen</string>
+
+    <string name="app_login_username_hint">Benutzername</string>
+    <string name="app_login_password_hint">Kennwort</string>
+    <string name="signing">Anmeldung</string>
+    <string name="loading">Wird geladen…</string>
+
+    <string name="settings_button">Einstellungen</string>
+    <string name="edit_login_info">Anmeldeinformationen bearbeiten</string>
+
+    <string name="login_continue">Weiter</string>
+    <string name="login_save">Speichern</string>
+    <string name="login_email_hint">Unternehmens-E-Mail</string>
+    <string name="login_region_hint">Bereich</string>
+
+    <string name="server_address_capital">Serveradresse</string>
+    <string name="xsi_actions_path_hint">Pfad für XSI-Aktionen</string>
+    <string name="invalid_contact_name">Ungültige Zeichen, bitte überprüfen Sie die Eingabe</string>
+    <string name="sso_notification">Durch einen Klick auf die unten stehende Schaltfläche \&quot;%1$s\&quot; werden Sie zum Anmeldebildschirm von %2$s weitergeleitet.</string>
+    <string name="scf_login_message">Durch einen Klick auf die unten stehende Schaltfläche "Weiter" werden Sie zum Anmeldebildschirm von Webex Teams weitergeleitet.</string>
+
+    <string name="login_failed_wrong_username_and_or_password">Anmeldung fehlgeschlagen: falscher Benutzername und/oder falsches Kennwort.</string>
+    <string name="sso_authentication_error">Authentifizierungsfehler</string>
+
+    <string name="login_regions_advanced">Erweiterte Einrichtung</string>
+    <string name="settings_and_about">Einstellungen und Infos</string>
+    <string name="sign_in_with">Ich möchte mich mit folgendem Konto anmelden...</string>
+    <string name="select_region">Wählen Sie Ihre Region aus</string>
+
+	<string name="login_unavailable_network">Netzwerk nicht verfügbar</string>
+    <string name="xsi_forced_signout_dialog_message">Ihre Sitzung ist abgelaufen.\nMelden Sie sich zum Fortfahren erneut an.</string>
+    <string name="xsi_forced_signout_dialog_onaccountdisabled">Ihr Konto wurde deaktiviert. Wenden Sie sich an den Systemadministrator.</string>
+
+    <string name="there_is_no_connection_retry">Es besteht keine Verbindung. Möchten Sie Ihre Verbindung erneut herstellen?</string>
+    <string name="login_try_again">Erneut versuchen</string>
+    <string name="remember_password">Anmeldedaten speichern</string>
+</resources>

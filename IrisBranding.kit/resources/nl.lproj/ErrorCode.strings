@@ -1,0 +1,60 @@
+/*
+ This file provides localized strings for XSI errors.
+ 
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+/*
+ General error formatting message that includes a message and a code.
+ */
+"%1$@ %2$@" = "%1$@ %2$@";
+
+/*
+ Iris Errors
+ */
+"42000" = "Onbepaalde fout.";
+"42001" = "Interne fout.";
+"42002" = "Bron is niet beschikbaar.";
+"42003" = "Bewerking geannuleerd.";
+"42004" = "Onjuiste bewerkingsparameter.";
+"42005" = "Probeer opnieuw.";
+"42006" = "Benodigde applicatiebenamingen ontbreken.";
+"42007" = "Capability wordt niet ondersteund door configuratie.";
+"42050" = "Verbindingsstoring.";
+"42051" = "Time-out verzoek.";
+"42052" = "Onjuiste authenticatiegegevens.";
+"42053" = "Verzoek verstoord of niet ondersteund.";
+"42054" = "Kan bestand niet openen, wijzigen of sluiten.";
+"42055" = "Te veel HTTP-doorverwijzingen plaatsgevonden.";
+"42056" = "Kan host niet bereiken of oplossen.";
+"42057" = "Verstoord verzoek inhoud.";
+"42058" = "Verstoorde responsgegevens.";
+"42059" = "Kan geen veilig verbinding tot stand brengen met host.";
+"42100" = "Aanmaken van toepassingsdatabase mislukt.";
+"42101" = "Database is niet compatibel met geïnstalleerde toepassingsversie.  Upgraden naar laatste versie.";
+"42102" = "Aanhouden toepassingsdatabase mislukt.";
+"42103" = "Opvraging database produceerde onverwachte lege resultaten.";
+"42200" = "Licentie is niet voldoende om toepassing te gebruiken.";
+"42201" = "Verisie berichten-gateway wordt niet ondersteund.";
+"42202" = "Verkrijgen van profiel toepassingsapparaat mislukt.";
+"42203" = "Fout onbepaald gateway-bericht.";
+"42204" = "Versie Contact store wordt niet ondersteund.";
+"42205" = "Software-as-a-service ontwikkelingsversie wordt niet ondersteund.";
+"42206" = "Het verkrijgen van software-as-a-service lever- en abonneegegevens is mislukt.";
+"42208" = "Uw account is uitgeschakeld. Vraag uw systeembeheerder om meer informatie.";
+"42999" = "Onbepaalde fout";
+
+/*
+ XSI Error Codes
+ */
+"3" = "Aanmelden mislukt: onjuiste gebruikersnaam en/of wachtwoord.";
+"12" = "Uw account is uitgeschakeld. Vraag uw systeembeheerder om meer informatie.";
+"20" = "Onjuist adrespad server.";
+"100443" = "Serveradres is geen geldige host.";
+
+/*
+ iOS Errors
+ */
+"-1001" = "Time-out verzoek.";
+"-1005" = "Verbinding werd verbroken.";
+"-1200" = "Kan geen veilig verbinding tot stand brengen met host.";

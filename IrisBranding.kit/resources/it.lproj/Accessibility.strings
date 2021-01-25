@@ -1,0 +1,35 @@
+/* 
+  Accessibility.strings
+  Iris
+
+  Created by smadhuay on 30/11/18.
+  Copyright © 2018 BroadSoft, Inc. All rights reserved.
+*/
+
+/* Profile */
+"Change Profile Picture button" = "Pulsante per cambiare la foto del profilo";
+"Photo" = "Foto";
+"Back" = "Indietro";
+"profile Avatar" = "profilo Avatar";
+"profile Remove from Favorite" = "profilo Rimuovi dai preferiti";
+"profile Add to Favorite" = "profilo Aggiungi ai preferiti";
+"unread" = "Non letto";
+"Recent MissedCalls" = "Chiamate perse recenti";
+"audio call" = "chiamata audio";
+"View My Profile" = "Visualizza Mio profilo";
+"Double tap to activate." = "Tocca due volte per attivare.";
+"Change Profile Photo" = "Cambia foto del profilo";
+"New Chat" = "Nuova chat";
+"Add New Group" = "Aggiungi nuovo gruppo";
+"Menu" = "Menu";
+
+/* New Message */
+"Media Attachment Button" = "Pulsante per allegare un file multimediale";
+
+/* Voice Mail More Options Navigation Item*/
+"Voicemail More Options" = "Altre opzioni casella vocale";
+
+/* Call History */
+"Outgoing Call" = "Chiamata in uscita";
+"Incoming Call" = "Chiamata in arrivo";
+"Missed call" = "Chiamata persa";

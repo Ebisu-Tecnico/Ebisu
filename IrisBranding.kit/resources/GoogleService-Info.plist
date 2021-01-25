@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB0tt5dcvaaplGzBS5hVu8HFShC9XQ-VsQ</string>
+	<key>BUNDLE_ID</key>
+	<string>com.broadsoft.enterprise.iris.dev</string>
+	<key>CLIENT_ID</key>
+	<string>1080191450846-t4vt594oq2clgddliofh0cg3qlj7b8l1.apps.googleusercontent.com</string>
+	<key>DATABASE_URL</key>
+	<string>https://connecttest-1077.firebaseio.com</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1080191450846</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1080191450846:ios:7ea564900737ecb8ba8c4f</string>
+	<key>GOOGLE_APP_ID-comment</key>
+	<string>This field specifies a service provider Google Analytics tracking ID to receive updates.</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>connecttest-1077</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1080191450846-t4vt594oq2clgddliofh0cg3qlj7b8l1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>connecttest-1077.appspot.com</string>
+	<key>analyticsPropertiesVersion-comment</key>
+	<string>Notes the version of this properties file.  This value should not be modified during branding.</string>
+	<key>sendAnalytics</key>
+	<false/>
+	<key>sendAnalytics-comment</key>
+	<string>This property defines whether the sending of analytics is enabled or disabled after initial install.</string>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+/* 
+  Accessibility.strings
+  Iris
+
+  Created by smadhuay on 30/11/18.
+  Copyright © 2018 BroadSoft, Inc. All rights reserved.
+*/
+
+/* Profile */
+"Change Profile Picture button" = "Change Profile Picture button";
+"Photo" = "Photo";
+"Back" = "Back";
+"profile Remove from Favorite" = "profile Remove from Favorite";
+"profile Add to Favorite" = "profile Add to Favorite";
+"unread" = "unread";
+"Recent MissedCalls" = "Recent MissedCalls";
+"audio call" = "audio call";
+"View My Profile" = "View My Profile";
+"Double tap to activate." = "Double tap to activate.";
+"Change Profile Photo" = "Change Profile Photo";
+"New Chat" = "New Chat";
+"Add New Group" = "Add New Group";
+"Menu" = "Menu";
+
+/* New Message */
+"Media Attachment Button" = "Media Attachment Button";
+
+/* Voice Mail More Options Navigation Item*/
+"Voicemail More Options" = "Voicemail More Options";
+
+/* Call History */
+"Outgoing Call" = "Outgoing Call";
+"Incoming Call" = "Incoming Call";
+"Missed Call" = "Missed Call";

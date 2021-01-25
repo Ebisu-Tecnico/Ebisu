@@ -1,0 +1,214 @@
+<resources>
+    <string name="please_wait">Por favor, espere…</string>
+
+    <!-- Buttons -->
+    <string name="back">Voltar</string>
+    <string name="active_calls">Chamadas ativas</string>
+    <string name="call_ok">OK</string>
+    <string name="call_cancel">Cancelar</string>
+
+    <!-- Welcome -->
+
+    <!--Call -->
+    <string name="btn_call_add_participant">Adicionar participante</string>
+    <string name="btn_manage_conference_value">Participantes</string>
+    <string name="btn_call_merge_value">Unir chamadas</string>
+    <string name="btn_call_swap_value">Trocar</string>
+    <string name="btn_call_park_call_value">Estacionar chamada</string>
+    <string name="call_duration_init">00:00</string>
+
+    <string name="incoming_call">Chamada recebida</string>
+    <string name="accept">Aceitar</string>
+    <string name="decline">Recusar</string>
+
+    <string name="conference">Conferência</string>
+    <string name="transfer">Transferir</string>
+    <string name="conferencing">Fazendo conferência…</string>
+    <string name="transferring">Transferindo…</string>
+    <string name="transfer_completed">Transferência concluída</string>
+    <string name="swapping">Trocando…</string>
+    <string name="merging">Unindo…</string>
+    <string name="ending">Finalizando…</string>
+    <string name="ending_failed">Falha ao encerrar chamada</string>
+    <string name="call_terminated">Chamada terminada</string>
+
+    <string name="operation_failed">Falha na operação</string>
+
+    <string name="text_transfer_to_mobile">Transferir para celular</string>
+    <string name="text_call_will_be_transferred_to">Sua chamada será transferida para:</string>
+    <string name="upgradetovideo_title">Atualizar para o vídeo</string>
+    <string name="upgradetovideo">%s quer atualizar a chamada para uma chamada de vídeo</string>
+    <string name="incoming_video_call">Chamada de vídeo recebida</string>
+    <string name="new_call">Nova chamada</string>
+
+    <string name="text_call">Chamada</string>
+    <string name="dialing">Discando…</string>
+    <string name="answering">Atendendo…</string>
+    <string name="call_calling">Chamando…</string>
+    <string name="call_on_hold">Em espera</string>
+    <string name="ongoing_call">Chamada em curso</string>
+    <string name="onhold_uppercase">EM ESPERA</string>
+
+    <string name="btn_call_recording_pause">Pausar gravação</string>
+    <string name="btn_call_recording_resume">Retomar gravação</string>
+    <string name="btn_call_recording_start">Iniciar gravação</string>
+    <string name="btn_call_recording_stop">Parar gravação</string>
+    <string name="btn_call_speaker_value">Viva-voz</string>
+    <string name="btn_call_handset">Fone de ouvido</string>
+    <string name="btn_call_bluetooth">Bluetooth</string>
+    <string name="btn_call_bluetooth_audio">Áudio Bluetooth</string>
+    <string name="btn_call_swapcamera">Trocar câmara</string>
+    <string name="btn_call_dialpad">Teclado de marcação</string>
+    <string name="btn_call_to_video">Mudar para chamada de vídeo</string>
+    <string name="btn_call_to_audio">Mudar para chamada de áudio</string>
+    <string name="btn_call_complete_transfer">Concluir transferência</string>
+    <string name="btn_call_accept_video_value">Vídeo</string>
+    <string name="btn_call_accept_audio_value">Áudio</string>
+
+    <string name="transfer_call_user_first">Chamar %s primeiro</string>
+    <string name="transfer_to_new">Transferir para novo</string>
+    <string name="transfer_to_user">Transferir para %s</string>
+
+    <string name="call_unknown">Desconhecido</string>
+    <string name="call_private">Privado</string>
+    <string name="call_anonymous">Anónimo</string>
+    <string name="user_busy">Contato ocupado</string>
+    <string name="phonenumber">Número do telefone</string>
+
+    <!-- Notifications -->
+    <string name="missed_calls">Chamada perdida</string>
+    <string name="missed_calls_count">%1$d chamadas perdidas</string>
+    <string name="missed_calls_from">Chamada perdida de %1$s</string>
+    <string name="new_voicemail">Novo correio de voz</string>
+    <string name="notify_new_voicemail_count">Você tem 1 mensagem de voz pendente</string>
+    <string name="notify_new_voicemail_counts">Você tem %1$d mensagens de voz pendentes</string>
+    <string name="ring_splash_notification_title">Lembrete de toque</string>
+    <string name="ring_splash_notification_content">A chamada recebida foi redirecionada</string>
+
+    <!-- BroadWorks service names -->
+    <string name="callsettings_broadworks_anywhere">BroadWorks Anywhere</string>
+    <string name="callsettings_remote_office">Escritório remoto</string>
+    <string name="mobility_enabled">Mobilidade BroadWorks</string>
+
+    <!-- Contact/number selection hints -->
+    <string name="please_configure_my_telephone_number_to_use">Favor configurar Número do Meu Telefone para usar o Número de Chamada</string>
+    <string name="please_enter_number">Digite o número</string>
+    <string name="text_please_input_number">Insira seu número de telefone</string>
+    <string name="selection_text">Selecionar um contato ou discar um número</string>
+
+    <!-- Call-through and call-back -->
+    <string name="callsettings_broadworks_mobility_callthrough_error">Não é possível realizar uma chamada através.</string>
+    <string name="callsettings_broadworks_mobility_callthrough_performing">Realizando chamada através…</string>
+    <string name="callsettings_broadworks_mobility_callback_error">Não é possível realizar um retorno de chamada.</string>
+    <string name="callsettings_broadworks_mobility_callback_performing">Realizando retorno de chamada…</string>
+    <string name="callsettings_broadworks_mobility_callback_success">Você receberá uma chamada em breve.</string>
+    <string name="callsettings_broadworks_mobility_callback_conference_on_old_server_version">Quando conectado, insira o código da Conferência manualmente.</string>
+
+    <!-- Error messages -->
+    <string name="wrong_sip_credentials_message">Suas credenciais SIP estão incorretas. Entre em contato com o administrador do sistema.</string>
+    <string name="autohold_by_mobile_call_in_progress">A chamada está em espera, enquanto a chamada móvel está em andamento</string>
+    <string name="call_establish_failure">Falha ao estabelecer a chamada</string>
+    <string name="call_completed_elsewhere">Chamada atendida em outro dispositivo.</string>
+    <string name="cannot_connect_to_conference_bridge">Não é possível conectar-se à ponte da conferência</string>
+    <string name="cannot_add_participant_to_the_conference">Não é possível adicionar participante à conferência</string>
+    <string name="callsettings_broadworks_mobility_mobile_error">Não é possível iniciar o aplicativo de discagem nativa.</string>
+    <string name="feature_not_supported">Este recurso não é suportado em seu dispositivo</string>
+    <string name="maximum_number_of_calls_reached">Número máximo de chamadas atingido</string>
+    <string name="no_calling_options_available">Não há opções de chamadas disponíveis</string>
+    <string name="connectionlost">Conexão perdida</string>
+    <string name="call_poor_connection">Ligação fraca</string>
+
+
+    <!-- Call Type selection -->
+    <string name="callsettings_broadworks_dialing_service_title">Selecionar serviço de discagem</string>
+    <string name="callsettings_broadworks_option_voip">Chamada via Internet (VoIP)</string>
+    <string name="callsettings_broadworks_option_call_back">Ligar de volta</string>
+    <string name="callsettings_broadworks_option_call_through">Chamada através</string>
+    <string name="callsettings_broadworks_option_mobile">Este telefone</string>
+
+    <string name="contextmenu_voicecall">Chamada de voz</string>
+    <string name="contextmenu_videocall">Chamada em vídeo</string>
+
+    <!-- Permissions -->
+    <string name="permission_error">Permissão necessária: %1$s.\nConceda acesso nas configurações do aplicativo de seu dispositivo.</string>
+    <string name="permission_group_audio">Microfone</string>
+    <string name="permission_group_camera">Câmera</string>
+    <string name="permission_group_calls">Chamadas</string>
+
+    <!-- Push Notifications -->
+    <string name="push_notification_deregister">Você atingiu o número máximo de aplicativos registrados. Este aplicativo terá seu registro cancelado.</string>
+    <string name="push_notification_disable_one">%1$s para esta localização foi desativado automaticamente.</string>
+    <string name="push_notification_disable_both">%1$s e %2$s para esta localização foram desativados automaticamente.</string>
+    <string name="push_notification_disable_all">%1$s, %2$s e %3$s para esta localização foram desativados automaticamente.</string>
+    <string name="push_notification_enable_one">%1$s para esta localização foi ativado automaticamente.</string>
+    <string name="push_notification_enable_both">%1$s e %2$s para esta localização foram ativados automaticamente.</string>
+    <string name="push_notification_enable_all">%1$s, %2$s e %3$s para esta localização foram ativados automaticamente.</string>
+    <string name="push_notification_no_locations">A chamada VoIP está desabilitada. Certifique-se de ativar o número alternativo para fazer e receber chamadas.</string>
+    <string name="push_notification_location_enabled">As chamadas VoIP estão ativadas. Ao ativar esta localização alternativa, pode ocorrer mais de uma chamada recebida simultaneamente.</string>
+    <string name="bwks_services_enabled">Os alertas para serviços móveis da BroadWorks foram ativados para este local.</string>
+
+    <!-- VoIP mode -->
+    <string name="voip_over_celluar_on">Todas as redes</string>
+    <string name="voip_over_celluar_off">Somente Wi-Fi</string>
+    <string name="voip_over_celluar_warn">VoIP sobre rede de dados móveis pode incorrer em taxas adicionais ou taxas de roaming.</string>
+    <string name="voip_over_celluar_disabled">VoIP sobre rede de dados móveis não está ativado no momento.</string>
+
+    <!-- Seamless call handover -->
+    <string name="handover_reconnecting">A ligar outra vez...</string>
+    <string name="handover_error_bg_call">A chamada em espera caiu.</string>
+    <string name="handover_error_all_calls">As chamadas em espera caíram.</string>
+    <string name="handover_error_failed">A chamada caiu.</string>
+
+    <!-- Call Recording -->
+
+    <!-- Security Classifications -->
+
+    <!-- Dual Persona -->
+    <string name="callsettings_dual_persona_dialog_title">Chamada de</string>
+    <string name="dual_persona_business">Comercial (%1$s)</string>
+    <string name="dual_persona_personal">Pessoal (%1$s)</string>
+    <string name="dual_persona_hidden_number">Número oculto</string>
+    <string name="incorrect_my_telephone_number">Número do Meu Telefone incorreto</string>
+
+    <!-- 911 -->
+    <string name="emergency_warning_text_short">Este dispositivo NÃO suporta chamadas 911. Você deve usar um telefone celular ou fixo para chamadas 911.</string>
+    <string name="emergency_warning_title">Divulgação E911</string>
+    <string name="wifi_text_short">Foi colocada uma chamada de emergência de celular.</string>
+    <string name="emergency_location_update_error">Não é possível atualizar sua localização de emergência.</string>
+    <string name="unable_to_validate_location">Não foi possível validar sua Localização</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="incomplete_emergency_location_configuration">Configuração de localização de emergência incompleta.</string>
+    <string name="emergency_location_dialog_body_text">ATENÇÃO: Não use seu telefone virtual para discar 911, exceto em sua localização física registrada. O uso em um local diferente da localização física registrada pode encaminhar as chamadas 911 para um centro de despacho 911 incorreto, potencialmente atrasando ou impedindo os serviços de emergência. Recomenda-se que você mantenha um acesso alternativo aos serviços do 911.</string>
+    <string name="update_911_location">Atualizar local 911</string>
+    <string name="validating_location">Validando localização…</string>
+    <string name="location_updated_successfully">Localização atualizada com sucesso</string>
+    <string name="wifi_btn_ok">Chamar via Voip</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_showcallcontrol">Mostrar controle de chamadas</string>
+    <string name="accessibility_call_quality_low">Qualidade da chamada baixa</string>
+    <string name="accessibility_call_quality_medium">Qualidade da chamada média</string>
+    <string name="accessibility_call_quality_high">Qualidade da chamada alta</string>
+    <string name="accessibility_hold">Reter</string>
+    <string name="accessibility_callrecording_recording">Gravação</string>
+    <string name="accessibility_call_mute">Silenciar</string>
+    <string name="accessibility_call_unmute">Ativar som</string>
+    <string name="accessibility_audio_source">Origem de áudio</string>
+    <string name="accessibility_more_options">Mais opções</string>
+    <string name="accessibility_call_end">Terminar chamada</string>
+    <string name="accessibility_unhold">Sair de espera</string>
+    <string name="accessibility_speaker_active">Altifalante ligado</string>
+    <string name="accessibility_speaker_inactive">Altifalante desligado</string>
+    <string name="accessibility_call_hold">Chamada em espera com %s</string>
+
+    <!-- Mid-call controls error codes -->
+    <string name="bw_error_101002">Chamada não encontrada.</string>
+    <string name="bw_error_110648">A chamada já está na conferência.</string>
+    <string name="bw_error_110581">Chamada de emergência presente.</string>
+    <string name="bw_error_100022">Bloqueado por restrições de chamada de zona.</string>
+    <string name="bw_error_110640">Nenhuma conferência presente.</string>
+    <string name="bw_error_110649">Já no máximo de participantes.</string>
+    <string name="bw_error_100026">Bloqueado pelo grupo de Controle de Admissão da Sessão.</string>
+    <string name="bw_error_100021">Por favor tente voltar à chamada directamente do telefone.</string>
+
+</resources>

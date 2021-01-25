@@ -1,0 +1,690 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+/* General */
+"Dismiss" = "Dismiss";
+"None" = "None";
+"Yes" = "Yes";
+"No" = "No";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Retry" = "Retry";
+"edit" = "edit";
+
+/* EULA */
+"Decline" = "Decline";
+"Accept" = "Accept";
+"Accept the terms & conditions." = "Accept the terms & conditions.";
+"%@ cannot be used unless the terms of the end-user license agreement are accepted." = "%@ cannot be used unless the terms of the end-user license agreement are accepted.";
+"Decline & Exit" = "Decline & Exit";
+"Review EULA" = "Review EULA";
+"License Agreement" = "License Agreement";
+"Send by Email" = "Send by Email";
+
+/* Tutorial */
+"Close" = "Close";
+"Skip" = "Skip";
+"Get Started" = "Get Started";
+
+/* Sign In / Out */
+"Username" = "Username";
+"Your iPhone Number" = "Your iPhone Number";
+"Select Region" = "Select Region";
+"Advanced Setup" = "Advanced Setup";
+"Server Address" = "Server Address";
+"XSI Actions" = "XSI Actions";
+"Password" = "Password";
+"Sign In" = "Sign In";
+"Additional Options ▾" = "Additional Options ▾";
+"Show Less ▴" = "Show Less ▴";
+"Forgot Password" = "Forgot Password";
+"Signing in..." = "Signing in…";
+"A connection failure occurred" = "A connection failure occurred";
+"Login Failed" = "Login Failed";
+"Are you sure you want to sign out?" = "Are you sure you want to sign out?";
+"The %@ field is required." = "The %@ field is required.";
+"Host Name" = "Host Name";
+"Phone Number" = "Phone Number";
+"Login Error" = "Login Error";
+"Sign Out Warning" = "Sign Out Warning";
+"User Name" = "User Name";
+"Unknown Login Error.  Verify your connection settings and try again." = "Unknown Login Error.  Verify your connection settings and try again.";
+"Your account is not authorized to use %@.  Contact your service provider for assistance." = "Your account is not authorized to use %@.  Contact your service provider for assistance.";
+"Authentication needed" = "Authentication needed";
+"Would you like to receive business calls while signed out?" = "Would you like to receive business calls while signed out?";
+"Access Code" = "Access Code";
+"Continue" = "Continue";
+"I don't have an Access Code" = "I don't have an Access Code";
+"Loading..." = "Loading…";
+"WARNING: Do not use your soft phone to dial emergency services (e.g. 911) except from your registered physical location. Dialing emergency services at a location other than the registered physical location may route emergency calls to an incorrect dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access for emergency dialing." = "WARNING: Do not use your soft phone to dial emergency services (e.g. 911) except from your registered physical location. Dialing emergency services at a location other than the registered physical location may route emergency calls to an incorrect dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access for emergency dialing.";
+"Update Emergency Location" = "Update Emergency Location";
+"Validating location..." = "Validating location…";
+"Location could not be validated." = "Location could not be validated.";
+"Location could not be validated. Contact your system administrator." = "Location could not be validated. Contact your system administrator.";
+"Location updated." = "Location updated.";
+"Update 911 Location" = "Update 911 Location";
+"A cellular emergency call was placed" = "A cellular emergency call was placed";
+"Incomplete emergency location configuration" = "Incomplete emergency location configuration";
+"E911 Disclosure" = "E911 Disclosure";
+"This device does NOT support 911 calling. You MUST use a cellular or landline phone for 911 calls." = "This device does NOT support 911 calling. You MUST use a cellular or landline phone for 911 calls.";
+"Call via VoIP" = "Call via VoIP";
+"Clear Access Code" = "Clear Access Code";
+"I want to sign in with..." = "I want to sign in with...";
+"Your iPhone number is required to allow full calling capability support." = "Your iPhone number is required to allow full calling capability support.";
+"Enterprise Email" = "Enterprise Email";
+"Save login" = "Save login";
+"Login Information Title" = "E911 Disclosure";
+"Login Information message" = "WARNING: Do not use your soft phone to dial emergency services (e.g. 911) except from your registered physical location. Dialing emergency services at a location other than the registered physical location may route emergency calls to an incorrect dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access for emergency dialing.";
+"Enter iPhone Number" = "Enter iPhone Number";
+
+/* Side Menu */
+"Dialpad" = "Dialpad";
+"Do Not Disturb" = "Do Not Disturb";
+"for calls" = "for calls";
+"Call My Room" = "Call My Room";
+"About" = "About";
+"Version" = "Version";
+"Help" = "Help";
+"Sign Out" = "Sign Out";
+"Apps" = "Apps";
+"Web Links" = "Web Links";
+"Use VoIP" = "Use VoIP";
+"Voicemail" = "Voicemail";
+"DnD enabled" = "DnD enabled";
+"Dial" = "Dial";
+"Type to dial" = "Type to dial";
+"From %@" = "From %@";
+
+/* About */
+"Info" = "Info";
+"License" = "License";
+"Legal Notices" = "Legal Notices";
+"App Id" = "App Id";
+"Build" = "Build";
+"Welcome Screens" = "Welcome Screens";
+"Privacy Policy" = "Privacy Policy";
+"IPV6 SUPPORT" = "IPV6 SUPPORT";
+"Server Setup" = "Server Setup";
+
+/* Search Bar */
+"Search Messages" = "Search Messages";
+
+/* Messages */
+"Messages" = "Messages";
+"You have no messages yet" = "You have no messages yet";
+"Compose a new chat" = "Compose a new chat";
+"New Message" = "New Message";
+"New Announcement" = "New Announcement";
+"New SMS" = "New SMS";
+"To:" = "To:";
+"Add Members:" = "Add Members:";
+"Send" = "Send";
+"Get New Messages" = "Get New Messages";
+"Invalid Recipients" = "Invalid Recipients";
+"At least one recipient must have a valid messaging ID." = "At least one recipient must have a valid messaging ID.";
+"Missing IM Address in contact" = "Missing IM Address in contact";
+"Invalid IM Address:" = "Invalid IM Address:";
+"Too Many Recipients" = "Too Many Recipients";
+"There is a %@ recipient limit for group messages." = "There is a %@ recipient limit for group messages.";
+"Type your announcement" = "Type your announcement";
+"Type your message" = "Type your message";
+"You" = "You";
+"Choose from Photo Library" = "Choose from Photo Library";
+"No photos or videos are available in your photo library or the camera is being used" = "No photos or videos are available in your photo library or the camera is being used";
+"No Message Selected" = "No Message Selected";
+"No Call Selected" = "No Call Selected";
+"Reply" = "Reply";
+"New Space" = "New Space";
+"Name" = "Name";
+"Failed to start chat with this contact." = "Failed to start chat with this contact.";
+
+/* My Profile */
+"My Profile" = "My Profile";
+"⇣ Pull to Update" = "⇣ Pull to Update";
+"IM Address" = "IM Address";
+"Call Room" = "Call Room";
+"Call" = "Call";
+"Join Room" = "Join Room";
+"Pull Call" = "Pull Call";
+"Retrieve Call" = "Retrieve Call";
+"Change Profile Photo" = "Change Profile Photo";
+"Clear Profile Photo" = "Clear Profile Photo";
+"Choose Existing Photo" = "Choose Existing Photo";
+"Use Camera" = "Use Camera";
+"What's on your mind?" = "What's on your mind?";
+"My Status" = "My Status";
+"Set My Availability" = "Set My Availability";
+"Set My Location" = "Set My Location";
+"View Shared Content" = "View Shared Content";
+"Complete your profile so your team can recognize you." = "Complete your profile so your team can recognize you.";
+"from iPhone Contacts" = "from iPhone Contacts";
+"View in iPhone Contacts" = "View in iPhone Contacts";
+"Edit My Profile" = "Edit My Profile";
+"Edit Profile" = "Edit Profile";
+
+/* Location */
+"Suggested" = "Suggested";
+"Add Label" = "Add Label";
+"SET LOCATION AUTOMATICALLY" = "SET LOCATION AUTOMATICALLY";
+"SET LOCATION MANUALLY" = "SET LOCATION MANUALLY";
+"CLEAR LOCATION AND TIME ZONE" = "CLEAR LOCATION AND TIME ZONE";
+"No Location" = "No Location";
+"Automatic Location" = "Automatic Location";
+"Turn on Location Services in %1$@ to enable Automatic Location sharing and to provide suggested location labels." = "Turn on Location Services in %1$@ to enable Automatic Location sharing and to provide suggested location labels.";
+"Share" = "Share";
+"Enter Location Name" = "Enter Location Name";
+"Show Time" = "Show Time";
+"Set Location Automatically" = "Set Location Automatically";
+"Set Location Manually" = "Set Location Manually";
+"Label Name" = "Label Name";
+
+/* Availability */
+"Automatic" = "Automatic";
+"Available" = "Available";
+"Away" = "Away";
+"Busy" = "Busy";
+"Offline" = "Offline";
+"Call" = "Call";
+"Meeting" = "Meeting";
+"Unavailable" = "Unavailable";
+"Business trip - PA" = "Business trip";
+"Gone for the day - PA" = "Gone for the day";
+"Lunch - PA" = "Lunch";
+"Meeting - PA" = "In Meeting";
+"Out of office - PA" = "Out of office";
+"Temporarily out - PA" = "Temporarily out";
+"Training - PA" = "Training";
+"Unavailable - PA" = "Unavailable";
+"Vacation - PA" = "Vacation";
+"Choose from Directory" = "Choose from Directory";
+"Work" = "Work";
+"Personal" = "Personal";
+"Mobile" = "Mobile";
+"If the Transfer Calls option is turned on, callers have an option to be transferred to the specified number before going to voicemail." = "If the Transfer Calls option is turned on, callers have an option to be transferred to the specified number before going to voicemail.";
+"If the Transfer Calls option is turned off, unanswered calls will be sent to your voicemail." = "If the Transfer Calls option is turned off, unanswered calls will be sent to your voicemail.";
+"Add a Transfer Number" = "Add a Transfer Number";
+"Recent Numbers" = "Recent Numbers";
+"Add a New Number" = "Add a New Number";
+"Enter a Number" = "Enter a Number";
+"until %@" = "until %@";
+"Until %@" = "Until %@";
+"%@, until %@" = "%@, until %@";
+"Standard Options" = "Standard Options";
+"Configurable Options" = "Configurable Options";
+"Silent Alert" = "Silent Alert";
+"Duration" = "Duration";
+"Transfer Calls" = "Transfer Calls";
+"Do Not Transfer" = "Do Not Transfer";
+"Forever" = "Forever";
+"30 Minutes" = "30 Minutes";
+"45 Minutes" = "45 Minutes";
+"1 Hour" = "1 Hour";
+"2 Hours" = "2 Hours";
+"4 Hours" = "4 Hours";
+"1 Day" = "1 Day";
+"24 Hours" = "24 Hours";
+"End of Today" = "End of Today";
+"Custom" = "Custom";
+"Choose a number for %@" = "Choose a number for %@";
+"No phone numbers available." = "No phone numbers available.";
+"Availability settings could not be loaded." = "Availability settings could not be loaded.";
+"Your availability could not be updated." = "Your availability could not be updated.";
+"Alerting" = "Alerting";
+"Select the number of rings" = "Select the number of rings";
+"No Alert" = "No Alert";
+"Ring Reminder" = "Ring Reminder";
+"Alert Me First" = "Alert Me First";
+"Ring Reminder requires VoIP mode. Go to the Main Menu to turn on VoIP." = "Ring Reminder requires VoIP mode. Go to the Main Menu to turn on VoIP.";
+"Unable to process your request. Please upgrade your current client and try again." = "Unable to process your request. Please upgrade your current client and try again.";
+"Ends" = "Ends";
+
+/* Call My Room */
+"Call Failed" = "Call Failed";
+/* %1$@ is replaced with the "UC-One Meet" branding string; %2$@ is replaced by the contact name; %3$@ is the localized error reason */
+"Could not launch %1$@ to join the room of %2$@.  %3$@" = "Could not launch %1$@ to join the room of %2$@.  %3$@";
+
+/* Dial */
+"Direct calling not available.  More..." = "Direct calling not available.  More…";
+"Phone" = "Phone";
+"Call Settings" = "Call Settings";
+"This device cannot make direct calls, but the call back feature can be used instead. Go to %@ and configure a call back service (such as %@) with the telephone number of the call back device. Then place the call and wait for the call back." = "This device cannot make direct calls, but the call back feature can be used instead. Go to %@ and configure a call back service (such as %@) with the telephone number of the call back device. Then place the call and wait for the call back.";
+"Attention" = "Attention";
+"Call Pull" = "Pull Call";
+"Call Voicemail" = "Call Voicemail";
+"Dialing..." = "Dialing…";
+"Cellular Call" = "Cellular Call";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Additional charges may apply." = "The data network is unavailable, would you like to make the call using the cellular network instead? Additional charges may apply.";
+"Personal Cellular Call" = "Personal Cellular Call";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Your call will be placed from this device's phone number. Additional charges may apply." = "The data network is unavailable, would you like to make the call using the cellular network instead? Your call will be placed from this device's phone number. Additional charges may apply.";
+"There is no network available to make the call. Please try again later." = "There is no network available to make the call. Please try again later.";
+
+/* Directory */
+"Directory" = "Directory";
+"Search Contacts" = "Search Contacts";
+"Use search to find contacts." = "Use search to find contacts.";
+"iPhone Address Book" = "iPhone Address Book";
+"No matches found." = "No matches found.";
+"Quick Results" = "Quick Results";
+"Unable to search directory" = "Unable to search directory";
+
+/* Call History */
+"Call History" = "Call History";
+"Private" = "Private";
+"Anonymous" = "Anonymous";
+"You have no calls yet." = "You have no calls yet.";
+"to" = "to";
+"Delete Call History?" = "Delete Call History?";
+"Delete History" = "Delete History";
+"Missed call" = "Missed call";
+
+/* Profile */
+"Profile" = "Profile";
+"Title" = "Title";
+"Location" = "Location";
+"Work Phone" = "Work Phone";
+"Extension" = "Extension";
+"Email" = "Email";
+"Chat" = "Chat";
+"Department" = "Department";
+"Mobile Phone" = "Mobile Phone";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Personal Phone" = "Personal Phone";
+"Address" = "Address";
+"Display Name" = "Display Name";
+"Enter Display Name" = "Enter Display Name";
+"Enter Personal Phone" = "Enter Personal Phone";
+"More" = "More";
+"Pager" = "Other Number";
+"Webex Email" = "Webex Email";
+
+/* Contacts */
+"Announcement" = "Announcement";
+"Members" = "Members";
+"lastNameFirstSeparator" = ", ";
+
+/* System Notification View */
+"System Notifications" = "System Notifications";
+"More ▾" = "More ▾";
+"Less ▴" = "Less ▴";
+"Clear" = "Clear";
+"Try Again" = "Try Again";
+"Update" = "Update";
+
+/* Settings */
+"Settings" = "Settings";
+"Settings & About" = "Settings & About";
+"Calling" = "Calling";
+"Call Settings" = "Call Settings";
+"Troubleshooting" = "Troubleshooting";
+"Detailed Logging" = "Detailed Logging";
+"Email Logs to Support" = "Email Logs to Support";
+"Send Analytics" = "Send Analytics";
+"Testing" = "Testing";
+"Create Notification Alert" = "Create Notification Alert";
+"Unable to create email log attachment." = "Unable to create email log attachment.";
+"Enabled" = "Enabled";
+"Disabled" = "Disabled";
+"Call From" = "Call From";
+"Hidden Number" = "Hidden Number";
+"Business Phone" = "Business Phone";
+"Select a number for outgoing calls." = "Select a number for outgoing calls.";
+"Press and hold on the call buttons to select an outgoing number." = "Press and hold on the call buttons to select an outgoing number.";
+"Allow 3rd party Keyboard" = "Allow 3rd party Keyboard";
+"Allow Full Access for 3rd Party Keyboards?" = "Allow Full Access for 3rd Party Keyboards?";
+"Allow" = "Allow";
+"Don't Allow" = "Don't Allow";
+"Disabling third party keyboard requires application restart. Please restart the application for the change to take effect." = "Disabling third party keyboard requires application restart. Please restart the application for the change to take effect.";
+"Warning" = "Warning";
+"Selecting \"Email Logs to Support” above will send your application activity logs to us, so that we can help you, and improve the product. These logs identify you, your device, other users you've communicated with, and optionally, your employer. The logs do not include any user generated content like messages. For more information see our %@" = "Selecting \"Email Logs to Support” above will send your application activity logs to us, so that we can help you, and improve the product. These logs identify you, your device, other users you've communicated with, and optionally, your employer. The logs do not include any user generated content like messages. For more information see our %@";
+"This option allows 3rd party keyboards to access all the data that is typed, including personal data. Are you sure you want to allow 3rd party keyboards?" = "This option allows 3rd party keyboards to access all the data that is typed, including personal data. Are you sure you want to allow 3rd party keyboards?";
+
+/* Hub Messages */
+"Enable %@" = "Enable %@";
+"%@ authentication failed." = "%@ authentication failed.";
+"Could not reach %@ server." = "Could not reach %@ server.";
+"Enable Hub to access your cloud applications like Google, Twitter, O365, and others.\n\nHub integrates your email, documents, meetings, and other cloud application data into your Connect experience." = "Enable Hub to access your cloud applications like Google, Twitter, O365, and others.\n\nHub integrates your email, documents, meetings, and other cloud application data into your Connect experience.";
+"The Hub Server cannot be accessed while offline." = "The Hub Server cannot be accessed while offline.";
+
+"Loading" = "Loading";
+"Unknown" = "Unknown";
+"Not Enabled" = "Not Enabled";
+"Sending logs to support by email is not enabled." = "Sending logs to support by email is not enabled.";
+"Crash Reporting" = "Crash Reporting";
+"Crash reporting is turned on" = "Crash reporting is turned on";
+"Crash reporting is turned off" = "Crash reporting is turned off";
+"The change will take effect after the app is restarted." = "The change will take effect after the app is restarted.";
+
+/* Calling Configuration */
+"VoIP uses your internet data connection for incoming and outgoing calls." = "VoIP uses your internet data connection for incoming and outgoing calls.";
+"iPhone Number" = "iPhone Number";
+"Validate Call Back" = "Validate Call Back";
+"Your Number" = "Your Number";
+"Dialing Service" = "Dialing Service";
+"VoIP Network" = "VoIP Network";
+"All Networks" = "All Networks";
+"WiFi Only" = "WiFi Only";
+"Cannot Call" = "Cannot Call";
+"Select an available Dialing Service, or adjust Calling Settings." = "Select an available Dialing Service, or adjust Calling Settings.";
+"Mobile dialing is unavailable." = "Mobile dialing is unavailable.";
+"WiFi Unavailable" = "WiFi Unavailable";
+"Alerting for BroadWorks mobile services has been enabled for this location." = "Alerting for BroadWorks mobile services has been enabled for this location.";
+"Alerting for BroadWorks mobile services has been disabled for this location." = "Alerting for BroadWorks mobile services has been disabled for this location.";
+"VoIP calling is disabled. Make sure to enable alternative number in order to make and receive calls." = "VoIP calling is disabled. Make sure to enable alternative number in order to make and receive calls.";
+"VoIP calling is enabled. By enabling this alternative location you may experience simultaneous incoming calls." = "VoIP calling is enabled. By enabling this alternative location you may experience simultaneous incoming calls.";
+"VoIP over mobile data network may incur additional charges or roaming fees" = "VoIP over mobile data network may incur additional charges or roaming fees";
+"VoIP over mobile data network is not available." = "VoIP over mobile data network is not available.";
+
+/* Anywhere Service Configuration */
+"Save" = "Save";
+"The server responded with an error: %@" = "The server responded with an error: %@";
+"alertAllLocationsForClickToDialCalls" = "Alert All Locations";
+"phoneNumber" = "Telephone #";
+"description" = "Description";
+"active" = "Active";
+"broadworksCallControl" = "Call Control";
+"useDiversionInhibitor" = "Don’t Divert Calls";
+"answerConfirmationRequired" = "Answer Confirmation";
+"Add Location" = "Add Location";
+"Delete Location" = "Delete Location";
+"Mobile Business Calling" = "Mobile Business Calling";
+"Would you like to make and receive calls on your mobile phone using your business phone number?" = "Would you like to make and receive calls on your mobile phone using your business phone number?";
+"Confirm your mobile number." = "Confirm your mobile number.";
+"Not Now" = "Not Now";
+"Unable to Set Up" = "Unable to Set Up";
+"To set up mobile business calling contact the administrator." = "To set up mobile business calling contact the administrator.";
+
+/* Logging & Analytics Configuration */
+"Email Logs" = "Email Logs";
+"Use an actual device to send support logs via email." = "Use an actual device to send support logs via email.";
+
+/* Event summary */
+"Mark All as Read" = "Mark All as Read";
+"Delete" = "Delete";
+"Mark as Read" = "Mark as Read";
+"View Profile" = "View Profile";
+
+/* Arriving message banner display.  Parm 1 is the name.  Parm 2 is the message.*/
+"NEW_TEXT_MSG" = "%1$@: %2$@";
+"ROOM_INVITE_TITLE" = "My Room Invitation";
+"ROOM_INVITE_INFO" = "%@ Invited you to join My Room";
+"ROOM_JOINREQUEST_TITLE" = "My Room Join Request";
+"ROOM_JOINREQUEST_INFO" = "%@ has requested to join room";
+"ROOM_JOINREQUEST_PENDING" = "You have new subscriber requests pending.";
+"MUC_SELF_KICK" = "You have been dismissed from %2$@ Room";
+"MWI_UPDATE" = "You have %1$@ pending voicemail message";
+"RING_SPLASH" = "Incoming call was redirected";
+"DEREG_TEXT_LIMIT_EXCEEDED" = "Too many devices registered. Please re-login to use this device";
+"DEREG_TEXT_REGISTRATION_FAILED" = "Incoming Calls Unavailable";
+
+/* Dialing Services */
+"imrn" = "Call Through";
+"callback" = "Call Back";
+"native" = "iPhone";
+"ask" = "Always Ask";
+"none" = "No Calling";
+"voip" = "VoIP";
+
+/* Call Forwarding */
+"Call Forwarding" = "Call Forwarding";
+"Call Forwarding Always" = "Always";
+"Call Forwarding Busy" = "When Busy";
+"Call Forwarding No Answer" = "When No Answer";
+"Call Forwarding Not Reachable" = "When Not Reachable";
+"mobilePhoneNumber" = "Mobile Phone #";
+"Forward to #" = "Forward to #";
+"numberOfRings" = "Number Of Rings";
+"Ring Splash" = "Ring Splash";
+"On" = "On";
+"Off" = "Off";
+"Always Forward" = "Always Forward";
+
+/* My Room*/
+"My Room" = "My Room";
+"Room – %@" = "Room – %@";
+"Room – " = "Room – ";
+"Join Room…" = "Join Room…";
+"Joining Room" = "Joining Room";
+"Leaving Room" = "Leaving Room";
+"Leave Room" = "Leave Room";
+"Leave" = "Leave";
+"Join" = "Join";
+"Joining" = "Joining";
+"Leaving" = "Leaving";
+"Joined Rooms" = "Joined Rooms";
+"Pull to Update Participant List" = "Pull to Update Participant List";
+"View Participants" = "View Participants";
+"My Room Invitation" = "My Room Invitation";
+"%@ Invited you to join My Room" = "%@ Invited you to join My Room";
+"%@ joined the room." = "%@ joined the room.";
+"You joined the room." = "You joined the room.";
+"%@ left the room. %@" = "%@ left the room. %@";
+"%@ left the room." = "%@ left the room.";
+"My Room Join Request" = "My Room Join Request";
+"%@ has requested to join room" = "%@ has requested to join room";
+"View" = "View";
+"%@'s Room" = "%@'s Room";
+"In room: %@" = "In room: %@";
+"Access to this room requires approval." = "Access to this room requires approval.";
+"Your request to join the room has been declined." = "Your request to join the room has been declined.";
+"Your request has timed out." = "Your request has timed out.";
+"Request Access" = "Request Access";
+"Join the room to see any new messages." = "Join the room to see any new messages.";
+"You have been invited to join %@'s room for a meeting.\n\nGuest Participants:" = "You have been invited to join %@'s room for a meeting.\n\nGuest Participants:";
+"Guest Participants:" = "Guest Participants:";
+"You have been dismissed from" = "You have been dismissed from";
+"and" = "and";
+"Room Dismissal" = "Room Dismissal";
+"Owner" = "Owner";
+"Enable Meeting" = "Enable Meeting";
+"Webex - My Personal Room" = "Webex - My Personal Room";
+"Webex My Personal Room" = "Webex My Personal Room";
+"START MEETING IN" = "START MEETING IN";
+"Enter your Webex Personal Room address" = "Enter your Webex Personal Room address";
+"When you change these settings, it may take up to a few hours for your contacts to see your updated selection." = "When you change these settings, it may take up to a few hours for your contacts to see your updated selection.";
+"To join %@'s meeting, click %@." = "To join %@'s meeting, click %@.";
+"You cannot change your selection while you are joined to your My Room. Please leave your My Room to be able to make changes to these settings." = "You cannot change your selection while you are joined to your My Room. Please leave your My Room to be able to make changes to these settings.";
+"Guest Requests" = "Guest Requests";
+"Launch Webex Meetings" = "Launch Webex Meetings";
+"Audio Only" = "Audio Only";
+"Ignore" = "Ignore";
+"Room" = "Room";
+"You have new guest requests pending." = "You have new guest requests pending.";
+"Copy Guest Link" = "Copy Guest Link";
+
+/* Favorites */
+"Favorites" = "Favorites";
+"⇣ Pull to Update Availability" = "⇣ Pull to Update Availability";
+"Updating Availability..." = "Updating Availability…";
+"Add to Favorites" = "Add to Favorites";
+"Remove from Favorites" = "Remove from Favorites";
+"You have no favorites" = "You have no favorites";
+"To add a favorite tap the star icon in profiles" = "To add a favorite tap the star icon in profiles";
+
+/* Groups */
+"Groups" = "Groups";
+"Chat Room %@" = "Chat Room %@";
+"Chat Room" = "Chat Room";
+"Some Chat" = "Some Chat";
+"You have no groups" = "You have no groups";
+"You have no group members" = "You have no group members";
+"Read only" = "Read only";
+"Read Only Chat" = "Read Only Chat";
+"One-way Announcement" = "One-way Announcement";
+"Rooms are not supported in this App. You can view conversations, but not send messages." = "Rooms are not supported in this App. You can view conversations, but not send messages.";
+"Select Groups" = "Select Groups";
+"Add Group" = "Add Group";
+"Enter Group Name" = "Enter Group Name";
+"Group Messaging" = "Group Messaging";
+"Participants" = "Participants";
+"Recipients" = "Recipients";
+"Delete Group" = "Delete Group";
+"Are you sure you want to delete the group \"%@\" (%@ members)?" = "Are you sure you want to delete the group \"%@\" (%@ members)?";
+"Are you sure you want to delete the group \"%@\" (1 member)?" = "Are you sure you want to delete the group \"%@\" (1 member)?";
+"Add To Group" = "Add To Group";
+"one-way message" = "one-way message";
+"Edit Group Name" = "Edit Group Name";
+"Edit" = "Edit";
+
+/* Update Password */
+"Update Password" = "Update Password";
+"Current Password" = "Current Password";
+"New Password" = "New Password";
+"Type current password" = "Type current password";
+"Type new password" = "Type new password";
+"Verify new password" = "Verify new password";
+"Show passwords" = "Show passwords";
+"Hide passwords" = "Hide passwords";
+"New passwords must match" = "New passwords must match";
+"Current password is incorrect" = "Current password is incorrect";
+/* Parm 1 is the number of days.  Parm 2 is the singlular or plural form of "days" */
+"Password will expire in %1$@ %2$@." = "Password will expire in %1$@ %2$@.";
+"Your password has expired." = "Your password has expired.";
+"Password expired - update now" = "Password expired - update now";
+"Password will not expire." = "Password will not expire.";
+"day" = "day";
+"days" = "days";
+
+/* Actions */
+"A valid room number for %@ has not been determined. Try again later, or contact support if the problem persists." = "A valid room number for %@ has not been determined. Try again later, or contact support if the problem persists.";
+"Valid phone number not specified for %@." = "Valid phone number not specified for %@.";
+"Calling %@..." = "Calling %@…";
+"Waiting for call back..." = "Waiting for call back…";
+"Warning: Calling back at a different location." = "Warning: Calling back at a different location.";
+
+/* Voip */
+"ON HOLD" = "ON HOLD";
+"Recommended" = "Recommended";
+"Voice Call" = "Voice Call";
+"Video Call" = "Video Call";
+"New Call" = "New Call";
+"Transfer" = "Transfer";
+"Conference" = "Conference";
+"Transfer Call" = "Transfer Call";
+"Select Dialing Service" = "Select Dialing Service";
+"Call First" = "Call First";
+"Transfer to %@" = "Transfer to %@";
+"VoIP is Off" = "VoIP is Off";
+"To make a call, turn VoIP on" = "To make a call, turn VoIP on";
+"VoIP - Audio Call" = "VoIP - Audio Call";
+"VoIP - Video Call" = "VoIP - Video Call";
+"Call answered on another device" = "Call answered on another device";
+"Call dropped" = "Call dropped";
+"Call on hold dropped" = "Call on hold dropped";
+"Call %@ First" = "Call %@ First";
+"Call Terminated" = "Call Terminated";
+
+/* Visual Voicemail */
+"Speaker" = "Speaker";
+"Unknown Caller" = "Unknown Caller";
+"Mark as New" = "Mark as New";
+"Unknown Number" = "Unknown Number";
+"You have no voicemails." = "You have no voicemails.";
+"Mark All as Played" = "Mark All as Played";
+"Voicemail Settings" = "Voicemail Settings";
+"Mark as Played" = "Mark as Played";
+"Confidential" = "Confidential";
+"Urgent" = "Urgent";
+"New voicemail" = "New voicemail";
+"You have %d pending voicemail message" = "You have %d pending voicemail message";
+"You have %d pending voicemail messages" = "You have %d pending voicemail messages";
+"Speaker off" = "Speaker off";
+
+/* External Downloads */
+"Missing App" = "Missing App";
+/* %@ is replaced with the "UC-One Meet" branding string */
+"%@ is required to join a room.  Would you like to download it from the App Store now?" = "%@ is required to join a room.  Would you like to download it from the App Store now?";
+
+/* Misc */
+"Error" = "Error";
+"Done" = "Done";
+"service unavailable" = "service unavailable";
+"Network Error: %@" = "Network Error: %@";
+"Create" = "Create";
+"Cannot create data model." = "Cannot create data model.";
+"Cannot find data model." = "Cannot find data model.";
+"Invalid store location." = "Invalid store location.";
+"Persistent store is inconsistent with application version." = "Persistent store is inconsistent with application version.";
+"Persistent store error." = "Persistent store error.";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Network Unavailable" = "Network Unavailable";
+"Application is not compatible with jailbroken devices." = "Application is not compatible with jailbroken devices.";
+"Exit" = "Exit";
+
+/* Errors */
+"Private contact store is not valid." = "Private contact store is not valid.";
+"Received version %@; expecting version >= %@." = "Received version %@; expecting version >= %@.";
+"No valid messaging gateway hosts." = "No valid messaging gateway hosts.";
+"Unsupported messaging gateway interface version %@." = "Unsupported messaging gateway interface version %@.";
+"The request timed out" = "The request timed out";
+"The request was cancelled" = "The request was cancelled";
+"The request failed because it redirected too many times" = "The request failed because it redirected too many times";
+"Unable to deliver message." = "Unable to deliver message.";
+"Could not mark voicemail as played." = "Could not mark voicemail as played.";
+"Could not mark voicemail as new." = "Could not mark voicemail as new.";
+"Could not mark all voicemail messages as played." = "Could not mark all voicemail messages as played.";
+"Voicemail could not be downloaded." = "Voicemail could not be downloaded.";
+"Voicemails could not be downloaded." = "Voicemails could not be downloaded.";
+"Voicemail could not be deleted." = "Voicemail could not be deleted.";
+"Unsupported Software-as-a-Service interface version %@." = "Unsupported Software-as-a-Service interface version %@.";
+"There was a content loading error." = "There was a content loading error.";
+"Your device failed to deregister from the messaging gateway successfully. This may lead to continued notifications. To resolve the issue, try to sign-in and sign-out again with a reliable network connection." = "Your device failed to deregister from the messaging gateway successfully. This may lead to continued notifications. To resolve the issue, try to sign-in and sign-out again with a reliable network connection.";
+
+/* Region or countries List*/
+"USA IHS" = "USA IHS";
+"USA Cloud" = "USA Cloud";
+"USA Beta" = "USA Beta";
+"EMEA" = "EMEA";
+"AUS" = "AUS";
+"FED" = "FED";
+
+/** Transfer to Mobile List*/
+"Transfer to Circuit Switch" = "Transfer to Mobile";
+"Your call will be transferred to:" = "Your call will be transferred to:";
+"Enter a phone number" = "Enter a phone number";
+
+/* Token Login */
+"Edit Login Info" = "Edit Login Info";
+"My Enterprise Username" = "My Enterprise Username";
+"IdP Info" = "By clicling the \"%@\" button below, you will be redirected to the %@ login screen";
+"Continue Info" = "By clicking the \"%@\" button below, you will be redirected to the %@ sign in screen";
+"Single Continue Info" = "By clicking the \"%@\" button below, you will be redirected to the sign in screen";
+
+"Signle Idp Text Description" = "On selecting \"Continue\" you will be redirected for authorization.\n\nOnce authorized this step will be skipped and you will be logged in automatically.";
+
+"No Connection" = "No Connection";
+"Check your connection and try again." = "Check your connection and try again.";
+"Username or password is incorrect" = "Username or password is incorrect";
+
+"Re-login required in 1 day. Please signout, re-type your password and signin again." = "Re-login required in 1 day. Please signout, re-type your password and signin again.";
+"Re-login required in %ld days. Please signout, re-type your password and signin again." = "Re-login required in %ld days. Please signout, re-type your password and signin again.";
+"Re-login required today. Please signout, re-type your password and signin again." = "Re-login required today. Please signout, re-type your password and signin again.";
+"Your session has expired. Sign in again to continue." = "Your session has expired. Sign in again to continue.";
+"Your account has been disabled. Please check with your System Administrator." = "Your account has been disabled. Please check with your System Administrator.";
+"You have reached the maximum number of registered applications.This application will be unregistered." = "You have reached the maximum number of registered applications.This application will be unregistered.";
+"Forced sign out." = "Forced sign out.";
+"Select your region" = "Select your region";
+"Region" = "Region";
+
+/* Version Control */
+"A new version of the application is available." = "A new version of the application is available.";
+"A new version of the application is available. Would you like to upgrade now?" = "A new version of the application is available. Would you like to upgrade now?";
+"Upgrade" = "Upgrade";
+
+/* Permission Accessories */
+"Camera" = "Camera";
+"Microphone" = "Microphone";
+"%@ does not have access to your %@. To enable access, tap %@ and turn on %@" = "%@ does not have access to your %@. To enable access, tap %@ and turn on %@";
+
+/* Privacy Policy */
+"Accept the privacy policy." = "Accept the privacy policy.";
+"%@ cannot be used unless the privacy policy is accepted." = "%@ cannot be used unless the privacy policy is accepted.";
+"Review Policy" = "Review Policy";
+
+/* Appearance */
+"Appearance" = "Appearance";
+"THEME" = "THEME";
+"Light" = "Light";
+"Dark" = "Dark";
+"System" = "System";
+"Changing the theme will apply it to the entire app." = "Changing the theme will apply it to the entire app.";

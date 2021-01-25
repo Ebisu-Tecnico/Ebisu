@@ -1,0 +1,188 @@
+"OK" = "OK";
+
+"Cancel" = "Annuler";
+
+"Transfer completed" = "Transfert terminé";
+
+"Call Back" = "Rappel";
+
+"Call Through" = "Appeler via le service de liaison";
+
+"recording" = "enregistrement";
+
+"Transfer to Mobile" = "Transférer vers le mobile";
+
+"Your call will be transferred to:" = "Votre appel sera transféré à :";
+
+"Incomplete emergency location configuration" = "Configuration du lieu d'urgence incomplète";
+
+"Location Updated Successfully" = "Lieu correctement mis à jour";
+
+"recording paused" = "enregistrement en pause";
+
+"Swap" = "Permuter";
+
+"Dismiss" = "Exclure";
+
+"NotificationAction >> Answer" = "Afficher";
+
+"Downgrade call to audio?" = "Passer l'appel en audio seulement ?";
+
+"Yes" = "Oui";
+
+"recording unavailable" = "enregistrement indisponible";
+
+"Transfer to Circuit Switch" = "Transférer vers le mobile";
+
+"Mute" = "Mettre en silencieux";
+
+"Enter a phone number" = "Entrer un numéro de téléphone";
+
+"Hide" = "Masquer";
+
+"WEBRTC" = "WEBRTC";
+
+"Echo Test" = "Test d'écho";
+
+"Calling" = "Appel";
+
+"Update Emergency Location" = "Mettre à jour le lieu d'urgence";
+
+"Back" = "Retour";
+
+"SIP Call" = "Appel Internet (VoIP)";
+
+"Add video to a voice call" = "Ajouter une vidéo à un appel vocal";
+
+"Transfer to new" = "Transférer vers nouv.";
+
+"Accept Video" = "Accepter la vidéo";
+
+"Call quality issues" = "Problèmes de qualité d'appel";
+
+"No Headphones or Bluetooth detected" = "Aucun casque, écouteur ou dispositif Bluetooth détecté";
+
+"Incoming" = "Entrant";
+
+"Accept" = "Accepter";
+
+"hours" = "heures";
+
+"Add Video" = "Ajouter la vidéo";
+
+"Transfer to" = "Transférer vers %@";
+
+"WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services." = "ATTENTION : N'utilisez pas votre téléphone logiciel pour contacter les services d'urgence (tels que le 911), sauf à partir du lieu physique correspondant au numéro. Toute utilisation dans un lieu autre que le lieu physique correspondant au numéro pourra entraîner la transmission de votre appel à un centre d'urgence incorrect, ce qui risquerait de retarder les services de secours ou d'empêcher leur intervention. Il est recommandé de conserver un autre moyen de contact des numéros d'urgence.";
+
+"iPhone Speaker" = "Haut-parleur de l'iPhone";
+
+"Keypad" = "Clavier";
+
+"Conference" = "Conférence";
+
+"Missed call" = "Appel manqué";
+
+"Call Security" = "Sécurité d'appel";
+
+"Answer" = "Répondre";
+
+"Decline" = "Refuser";
+
+"The Call Security service was updated" = "Le service Sécurité d'appel a été mis à jour";
+
+"Double tap to return to previous screen" = "Appuyez deux fois pour revenir à l'écran précédent";
+
+"Hold" = "Mettre en attente";
+
+"minute" = "minute";
+
+"Validating Location..." = "Validation du lieu...";
+
+"Unknown" = "Inconnu";
+
+"second" = "seconde";
+
+"Add Participant" = "Ajouter un participant";
+
+"View" = "Afficher";
+
+"New Call" = "Nouvel appel";
+
+"Try again" = "Réessayer";
+
+"hour" = "heure";
+
+"We were not able to validate your Location" = "Impossible de valider votre emplacement";
+
+"Cannot add participant to the conference" = "Impossible d'ajouter un participant à la conférence";
+
+"Incoming call from" = "Appel entrant de";
+
+"Transfer call" = "Transférer l'appel";
+
+"The Call Security service was disabled" = "Le service Sécurité d'appel a été désactivé";
+
+"Input source" = "Source d'entrée";
+
+"minutes" = "minutes";
+
+"End call" = "Raccrocher";
+
+"Merge" = "Fusionner";
+
+"Park Call" = "Mettre l'appel en attente";
+
+"Speaker" = "Haut-parleur";
+
+"Transfer" = "Transférer";
+
+"Change my level" = "Changer mon niveau";
+
+"On hold" = "EN ATTENTE";
+
+"Participants" = "Participants";
+
+"seconds" = "secondes";
+
+"Touch to return to call" = "Toucher pour revenir à l'appel";
+
+"Voice Only" = "Voix uniquement";
+
+"iPhone - Call Ask" = "iPhone";
+
+"Audio Sources" = "Sources audio";
+
+"Incoming video call" = "Appel vidéo entrant";
+
+"Ongoing Call" = "Appel en cours";
+
+"Complete" = "Terminé";
+
+"Accept Audio" = "Accepter l'audio";
+
+"Done" = "Terminé";
+
+"Bluetooth" = "Bluetooth";
+
+"Headset" = "Casque";
+
+"Reconnecting to" = "Reconnexion à";
+
+"Reconnecting" = "Reconnexion en cours";
+
+"Call dropped" = "Appel interrompu";
+
+"Call on hold dropped" = "Appel en attente interrompu";
+
+"cm_XSICall_DisplayName_Unknown" = "Inconnu";
+
+"Ring Reminder" = "Rappel de sonnerie";
+
+"Incoming call was redirected" = "L’appel entrant a été redirigé";
+
+"cm_XSICall_DisplayName_Hidden" = "Masqué";
+
+"Private" = "Privé";
+
+"Anonymous" = "Anonyme";
+

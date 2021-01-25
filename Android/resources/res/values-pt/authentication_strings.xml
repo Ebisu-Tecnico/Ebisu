@@ -1,0 +1,55 @@
+<resources>
+    <string name="sso_login_failed">Ocorreu um erro durante o processo de início de sessão. Tente voltar a introduzir as suas credenciais. Se o problema persistir, contacte o Administrador do sistema.</string>
+    <string name="sign_in">Iniciar sessão</string>
+    <string name="forgot_my_password">Esqueceu a palavra-passe</string>
+    <string name="username_input_check">Introduza um nome de utilizador correto</string>
+    <string name="enterprise">Nome de utilizador da minha empresa</string>
+
+    <string name="google">Google</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="okta">Okta</string>
+    <string name="other">Outro</string>
+    <string name="sso_custom1">Personalizar IdP 1</string>
+    <string name="sso_custom2">Personalizar IdP 2</string>
+    <string name="sso_custom3">Personalizar IdP 3</string>
+    <string name="sso_custom4">Personalizar IdP 4</string>
+
+    <string name="login_ok">OK</string>
+    <string name="login_cancel">Cancelar</string>
+
+    <string name="app_login_username_hint">Nome de utilizador</string>
+    <string name="app_login_password_hint">Palavra-passe</string>
+    <string name="signing">A iniciar sessão</string>
+    <string name="loading">A carregar...</string>
+
+    <string name="settings_button">Definições</string>
+    <string name="edit_login_info">Editar informações de início de sessão</string>
+
+    <string name="login_continue">Continuar</string>
+    <string name="login_save">Guardar</string>
+    <string name="login_email_hint">E-mail da empresa</string>
+    <string name="login_region_hint">Região</string>
+
+    <string name="server_address_capital">Endereço do servidor</string>
+    <string name="xsi_actions_path_hint">Caminho de ações XSI</string>
+    <string name="invalid_contact_name">Caracteres inválidos, verifique os dados</string>
+    <string name="sso_notification">Ao clicar no botão \&quot;%1$s\&quot; abaixo, será redirecionado para o ecrã de início de sessão %2$s.</string>
+    <string name="scf_login_message">Ao clicar no botão Continuar, abaixo, será redirecionado para o ecrã de início de sessão do Webex Teams.</string>
+
+    <string name="login_failed_wrong_username_and_or_password">Falha ao iniciar sessão: nome de utilizador e/ou palavra-passe incorretos.</string>
+    <string name="sso_authentication_error">Erro de autenticação</string>
+
+    <string name="login_regions_advanced">Configuração avançada</string>
+    <string name="settings_and_about">Configurações e sobre</string>
+    <string name="sign_in_with">Pretendo iniciar sessão com...</string>
+    <string name="select_region">Selecione a sua região</string>
+
+	<string name="login_unavailable_network">Rede indisponível</string>
+    <string name="xsi_forced_signout_dialog_message">A sua sessão expirou.\nInicie novamente sessão para continuar.</string>
+    <string name="xsi_forced_signout_dialog_onaccountdisabled">A sua conta foi desativada. Consulte o seu Administrador do sistema.</string>
+
+    <string name="there_is_no_connection_retry">Não há qualquer ligação. Pretende tentar novamente a ligação?</string>
+    <string name="login_try_again">Tentar novamente</string>
+    <string name="remember_password">Guardar início de sessão</string>
+
+</resources>

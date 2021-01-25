@@ -1,0 +1,690 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+/* General */
+"Dismiss" = "踢出";
+"None" = "无";
+"Yes" = "是";
+"No" = "否";
+"OK" = "确定";
+"Cancel" = "取消";
+"Retry" = "重试";
+"edit" = "编辑";
+
+/* EULA */
+"Decline" = "拒绝";
+"Accept" = "接受";
+"Accept the terms & conditions." = "接受条款与条件。";
+"%@ cannot be used unless the terms of the end-user license agreement are accepted." = "必须接受《最终用户许可协议》方可使用 %@。";
+"Decline & Exit" = "拒绝并退出";
+"Review EULA" = "查看《最终用户许可协议》";
+"License Agreement" = "许可协议";
+"Send by Email" = "通过电子邮件发送";
+
+/* Tutorial */
+"Close" = "关闭";
+"Skip" = "跳过";
+"Get Started" = "开始";
+
+/* Sign In / Out */
+"Username" = "用户名";
+"Your iPhone Number" = "您的 iPhone 号码";
+"Select Region" = "选择区域";
+"Advanced Setup" = "高级设置";
+"Server Address" = "服务器地址";
+"XSI Actions" = "XSI 操作";
+"Password" = "密码";
+"Sign In" = "登录";
+"Additional Options ▾" = "其他选项 ▾";
+"Show Less ▴" = "收起 ▴";
+"Forgot Password" = "忘记密码";
+"Signing in..." = "正在登录…";
+"A connection failure occurred" = "发生连接故障";
+"Login Failed" = "登录失败";
+"Are you sure you want to sign out?" = "确定要注销吗？";
+"The %@ field is required." = "%@ 为必填字段。";
+"Host Name" = "主机名";
+"Phone Number" = "电话号码";
+"Login Error" = "登录错误";
+"Sign Out Warning" = "注销警告";
+"User Name" = "用户名";
+"Unknown Login Error.  Verify your connection settings and try again." = "位置登录错误。请确认您的连接设置并重试。";
+"Your account is not authorized to use %@.  Contact your service provider for assistance." = "您的帐户未取得使用 %@ 的授权。请联系您的服务提供方获取帮助。";
+"Authentication needed" = "需要身份验证";
+"Would you like to receive business calls while signed out?" = "是否希望在注销后仍接听业务通话？";
+"Access Code" = "访问码";
+"Continue" = "继续";
+"I don't have an Access Code" = "我没有访问码";
+"Loading..." = "正在加载...";
+"WARNING: Do not use your soft phone to dial emergency services (e.g. 911) except from your registered physical location. Dialing emergency services at a location other than the registered physical location may route emergency calls to an incorrect dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access for emergency dialing." = "警告：不要使用您的软电话拨打紧急服务（如911），除非您的物理位置已注册。若在已注册物理位置以外的地点拨打紧急服务，紧急呼叫可能转移到错误的调度中心，从而可能延迟或阻止紧急服务。建议您保持紧急拨号的备用拨接";
+"Update Emergency Location" = "更新急救位置";
+"Validating location..." = "正在验证位置…";
+"Location could not be validated." = "无法验证位置。";
+"Location could not be validated. Contact your system administrator." = "无法验证位置。请联系您的系统管理员。";
+"Location updated." = "位置已更新。";
+"Update 911 Location" = "更新 911 位置";
+"A cellular emergency call was placed" = "蜂窝紧急呼叫被挂断";
+"Incomplete emergency location configuration" = "不完整的紧急位置配置";
+"E911 Disclosure" = "E911公告";
+"This device does NOT support 911 calling. You MUST use a cellular or landline phone for 911 calls." = "本设备不支持拨打紧急号码。您必须使用手机或固定电话拨打紧急号码。";
+"Call via VoIP" = "通过VoIP呼叫";
+"Clear Access Code" = "清除访问码";
+"I want to sign in with..." = "我想要通过以下方式登录：";
+"Your iPhone number is required to allow full calling capability support." = "您的 iPhone 号码需要允许完整的通话支持功能。";
+"Enterprise Email" = "企业电子邮件";
+"Save login" = "保存登录";
+"Login Information Title" = "E911 公告";
+"Login Information message" = "警告: 请不要使用软件电话拨打紧急服务电话 (如 911)，除非从您注册的实际位置拨出。在注册的实际位置之外拨打紧急服务电话可能会将紧急呼叫连接到不正确的调度中心，很有可能延迟或妨碍执行紧急服务。建议您保留紧急呼叫的其他访问方式。";
+"Enter iPhone Number" = "输入 iPhone 号码";
+
+/* Side Menu */
+"Dialpad" = "拨号键盘";
+"Do Not Disturb" = "请勿打扰";
+"for calls" = "用于通话";
+"Call My Room" = "呼叫我的房间";
+"About" = "关于";
+"Version" = "版本";
+"Help" = "帮助";
+"Sign Out" = "注销";
+"Apps" = "应用";
+"Web Links" = "网络链接";
+"Use VoIP" = "使用VoIP";
+"Voicemail" = "语音邮件";
+"DnD enabled" = "已启用免打扰";
+"Dial" = "拨号";
+"Type to dial" = "键入以拨号";
+"From %@" = "来自 %@";
+
+/* About */
+"Info" = "信息";
+"License" = "许可";
+"Legal Notices" = "法律声明";
+"App Id" = "应用 Id";
+"Build" = "编译次数";
+"Welcome Screens" = "欢迎屏幕";
+"Privacy Policy" = "隐私政策";
+"IPV6 SUPPORT" = "IPV6支持";
+"Server Setup" = "服务器设置";
+
+/* Search Bar */
+"Search Messages" = "搜索消息";
+
+/* Messages */
+"Messages" = "消息";
+"You have no messages yet" = "您尚未收到消息";
+"Compose a new chat" = "创建新聊天";
+"New Message" = "新消息";
+"New Announcement" = "新通知";
+"New SMS" = "新SMS";
+"To:" = "致：";
+"Add Members:" = "添加成员:";
+"Send" = "发送";
+"Get New Messages" = "获取新消息";
+"Invalid Recipients" = "无效收件人";
+"At least one recipient must have a valid messaging ID." = "至少一个收件人必须有一个有效即时消息 ID。";
+"Missing IM Address in contact" = "联系人缺少 IM 地址";
+"Invalid IM Address:" = "无效 IM 地址";
+"Too Many Recipients" = "收件人过多";
+"There is a %@ recipient limit for group messages." = "群发消息限制最多 %@ 个收件人。";
+"Type your announcement" = "输入您的通知";
+"Type your message" = "输入您的消息";
+"You" = "您";
+"Choose from Photo Library" = "从图库中选择";
+"No photos or videos are available in your photo library or the camera is being used" = "图库中无可用相片或视频或摄像头已开启";
+"No Message Selected" = "没有选中消息";
+"No Call Selected" = "没有选中呼叫";
+"Reply" = "答复";
+"New Space" = "新空间";
+"Name" = "名称";
+"Failed to start chat with this contact." = "与此联系人开始聊天失败。";
+
+/* My Profile */
+"My Profile" = "我的配置文件";
+"⇣ Pull to Update" = "⇣ 向下拉动以更新";
+"IM Address" = "IM 地址";
+"Call Room" = "呼叫房间";
+"Call" = "呼叫";
+"Join Room" = "加入房间";
+"Pull Call" = "拉取呼叫";
+"Retrieve Call" = "获取呼叫";
+"Change Profile Photo" = "修改个人档案照片";
+"Clear Profile Photo" = "清除个人档案照片";
+"Choose Existing Photo" = "选择现有照片";
+"Use Camera" = "使用摄像头";
+"What's on your mind?" = "您在想什么？";
+"My Status" = "我的状态";
+"Set My Availability" = "设置我的在线状态";
+"Set My Location" = "设置我的位置";
+"View Shared Content" = "查看共享内容";
+"Complete your profile so your team can recognize you." = "完善配置文件以便您的团队识别您。";
+"from iPhone Contacts" = "来自 iPhone 联系人";
+"View in iPhone Contacts" = "查看 iPhone 联系人";
+"Edit My Profile" = "编辑我的配置文件";
+"Edit Profile" = "编辑配置文件";
+
+/* Location */
+"Suggested" = "建议";
+"Add Label" = "添加标签";
+"SET LOCATION AUTOMATICALLY" = "自动设置位置";
+"SET LOCATION MANUALLY" = "手动设置位置";
+"CLEAR LOCATION AND TIME ZONE" = "清除位置与时区";
+"No Location" = "无位置";
+"Automatic Location" = "自动位置";
+"Turn on Location Services in %1$@ to enable Automatic Location sharing and to provide suggested location labels." = "在%1$@中打开位置服务以启用自动位置分享以及提供建议位置标签。";
+"Share" = "分享";
+"Enter Location Name" = "设置位置名称";
+"Show Time" = "显示时间";
+"Set Location Automatically" = "自动设置位置";
+"Set Location Manually" = "手动设置位置";
+"Label Name" = "标签名称";
+
+/* Availability */
+"Automatic" = "自动";
+"Available" = "可用";
+"Away" = "离开";
+"Busy" = "忙碌";
+"Offline" = "离线";
+"Call" = "呼叫";
+"Meeting" = "会议";
+"Unavailable" = "不可用";
+"Business trip - PA" = "出差";
+"Gone for the day - PA" = "今天已下班";
+"Lunch - PA" = "午餐";
+"Meeting - PA" = "会议中";
+"Out of office - PA" = "外出";
+"Temporarily out - PA" = "暂时外出";
+"Training - PA" = "培训";
+"Unavailable - PA" = "不可用";
+"Vacation - PA" = "休假";
+"Choose from Directory" = "从目录中选择";
+"Work" = "工作电话";
+"Personal" = "私人";
+"Mobile" = "手机";
+"If the Transfer Calls option is turned on, callers have an option to be transferred to the specified number before going to voicemail." = "如果打开转移呼叫选项，呼叫者有一个选项，可在语音信箱接通前被转移到指定的号码。";
+"If the Transfer Calls option is turned off, unanswered calls will be sent to your voicemail." = "如果关闭转移呼叫选项，未接来电将转移到语音信箱。";
+"Add a Transfer Number" = "添加转接号码";
+"Recent Numbers" = "最近通话";
+"Add a New Number" = "添加新号码";
+"Enter a Number" = "输入号码";
+"until %@" = "直到 %@";
+"Until %@" = "直到 %@";
+"%@, until %@" = "%@，直到 %@";
+"Standard Options" = "标准选项";
+"Configurable Options" = "可配置选项";
+"Silent Alert" = "无声警报";
+"Duration" = "持续时间";
+"Transfer Calls" = "转移呼叫";
+"Do Not Transfer" = "请勿转移";
+"Forever" = "永久";
+"30 Minutes" = "30分钟";
+"45 Minutes" = "45分钟";
+"1 Hour" = "1 小时";
+"2 Hours" = "2 小时";
+"4 Hours" = "4 小时";
+"1 Day" = "1 天";
+"24 Hours" = "24 小时";
+"End of Today" = "今天结束";
+"Custom" = "自定义";
+"Choose a number for %@" = "为 %@选择一个号码";
+"No phone numbers available." = "无法获得电话号码。";
+"Availability settings could not be loaded." = "无法加载可用性设置。";
+"Your availability could not be updated." = "无法更新您的可用性。";
+"Alerting" = "提醒";
+"Select the number of rings" = "选择铃声次数";
+"No Alert" = "无提醒";
+"Ring Reminder" = "铃声提示";
+"Alert Me First" = "首先提醒我";
+"Ring Reminder requires VoIP mode. Go to the Main Menu to turn on VoIP." = "无声警报需要VoIP模式。进入主菜单打开VoIP。";
+"Unable to process your request. Please upgrade your current client and try again." = "无法处理您的请求。 请升级您当前的客户端，然后重试";
+"Ends" = "结束";
+
+/* Call My Room */
+"Call Failed" = "呼叫失败";
+/* %1$@ is replaced with the "UC-One Meet" branding string; %2$@ is replaced by the contact name; %3$@ is the localized error reason */
+"Could not launch %1$@ to join the room of %2$@.  %3$@" = "无法启动%1$@以加入%2$@的房间。  %3$@";
+
+/* Dial */
+"Direct calling not available.  More..." = "无法进行直接呼叫展开…";
+"Phone" = "电话";
+"Call Settings" = "通话设置";
+"This device cannot make direct calls, but the call back feature can be used instead. Go to %@ and configure a call back service (such as %@) with the telephone number of the call back device. Then place the call and wait for the call back." = "此设备无法进行直接呼叫，但可以使用回呼功能。转到 %@ 并用回呼设备的电话号码配置一个回呼服务（例如 %@）。然后挂上电话，等待回呼。";
+"Attention" = "注意";
+"Call Pull" = "通话拉取";
+"Call Voicemail" = "呼叫语音邮件";
+"Dialing..." = "正在拨号...";
+"Cellular Call" = "手机呼叫";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Additional charges may apply." = "数据网不可用，您是否愿意用手机网呼叫？这可能会产生额外费用。";
+"Personal Cellular Call" = "个人手机呼叫";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Your call will be placed from this device's phone number. Additional charges may apply." = "数据网不可用，您是否愿意用手机网呼叫？将用该设备的手机号拨出。这可能会产生额外费用。";
+"There is no network available to make the call. Please try again later." = "目前网络不支持呼叫。请稍后再试。";
+
+/* Directory */
+"Directory" = "目录";
+"Search Contacts" = "搜索联系人";
+"Use search to find contacts." = "使用搜索来找到联系人";
+"iPhone Address Book" = "iPhone 地址簿";
+"No matches found." = "未找到匹配。";
+"Quick Results" = "快速结果";
+"Unable to search directory" = "无法搜索目录";
+
+/* Call History */
+"Call History" = "通话历史记录";
+"Private" = "私人";
+"Anonymous" = "匿名";
+"You have no calls yet." = "您尚无通话记录。";
+"to" = "至";
+"Delete Call History?" = "是否删除通话记录？";
+"Delete History" = "删除历史记录";
+"Missed call" = "未接电话";
+
+/* Profile */
+"Profile" = "配置文件";
+"Title" = "职务";
+"Location" = "位置";
+"Work Phone" = "工作电话";
+"Extension" = "分机";
+"Email" = "电子邮件";
+"Chat" = "聊天";
+"Department" = "部门";
+"Mobile Phone" = "手机";
+"First Name" = "名";
+"Last Name" = "姓";
+"Personal Phone" = "私人电话";
+"Address" = "地址";
+"Display Name" = "显示名称";
+"Enter Display Name" = "输入显示名称";
+"Enter Personal Phone" = "输入私人电话";
+"More" = "展开";
+"Pager" = "其他号码";
+"Webex Email" = "Webex 电子邮件";
+
+/* Contacts */
+"Announcement" = "通知";
+"Members" = "成员";
+"lastNameFirstSeparator" = "， ";
+
+/* System Notification View */
+"System Notifications" = "系统通知";
+"More ▾" = "展开 ▾";
+"Less ▴" = "收起 ▴";
+"Clear" = "清除";
+"Try Again" = "重试";
+"Update" = "更新";
+
+/* Settings */
+"Settings" = "设置";
+"Settings & About" = "设置与关于";
+"Calling" = "正在呼叫";
+"Call Settings" = "通话设置";
+"Troubleshooting" = "故障排除";
+"Detailed Logging" = "详细日志记录";
+"Email Logs to Support" = "用电子邮件发送日志给技术支持";
+"Send Analytics" = "发送分析数据";
+"Testing" = "正在测试";
+"Create Notification Alert" = "创建通知提醒";
+"Unable to create email log attachment." = "无法创建电子邮件日志附件";
+"Enabled" = "启用";
+"Disabled" = "禁用";
+"Call From" = "呼叫自";
+"Hidden Number" = "隐藏号码";
+"Business Phone" = "业务电话";
+"Select a number for outgoing calls." = "请选择拨出通话的号码。";
+"Press and hold on the call buttons to select an outgoing number." = "按住通话按钮以选择拨出号码。";
+"Allow 3rd party Keyboard" = "允许第三方键盘";
+"Allow Full Access for 3rd Party Keyboards?" = "是否允许完全访问第三方键盘？";
+"Allow" = "允许";
+"Don't Allow" = "不允许";
+"Disabling third party keyboard requires application restart. Please restart the application for the change to take effect." = "要禁用第三方键盘，必须重新启动应用程序。请重新启动应用程序，以使更改生效。";
+"Warning" = "警告";
+"Selecting \"Email Logs to Support” above will send your application activity logs to us, so that we can help you, and improve the product. These logs identify you, your device, other users you've communicated with, and optionally, your employer. The logs do not include any user generated content like messages. For more information see our %@" = "选择上方的“用电子邮件发送日志到技术支持”将会向我们发送您的应用程序活动日志，这样我们便可以为您提供帮助并改进产品。这些日志可用于识别您的身份、您的设备、其他与您进行了交流的用户以及您的雇主。日志不包含任何用户生成的内容，例如消息。有关更多信息，请参见我们的 %@";
+"This option allows 3rd party keyboards to access all the data that is typed, including personal data. Are you sure you want to allow 3rd party keyboards?" = "此选项允许第三方键盘访问键入的所有数据 (包括个人数据)。是否确定要允许第三方键盘?";
+
+/* Hub Messages */
+"Enable %@" = "启用%@";
+"%@ authentication failed." = "%@身份验证失败。";
+"Could not reach %@ server." = "无法连接到%@服务器。";
+"Enable Hub to access your cloud applications like Google, Twitter, O365, and others.\n\nHub integrates your email, documents, meetings, and other cloud application data into your Connect experience." = "启用中心以访问 Google、Twitter、O365 和其他云应用。\n\n中心可将您的电子邮件、文档、会议和其他云应用数据集成到您的 Connect 体验中。";
+"The Hub Server cannot be accessed while offline." = "离线时，无法访问枢纽服务器。";
+
+"Loading" = "正在加载";
+"Unknown" = "未知";
+"Not Enabled" = "未启用";
+"Sending logs to support by email is not enabled." = "通过电子邮件发送日志给技术支持功能尚未启用。";
+"Crash Reporting" = "崩溃报告";
+"Crash reporting is turned on" = "崩溃报告已经打开";
+"Crash reporting is turned off" = "崩溃报告已经关闭";
+"The change will take effect after the app is restarted." = "更改将在应用重启后生效。";
+
+/* Calling Configuration */
+"VoIP uses your internet data connection for incoming and outgoing calls." = "VoIP 将您的互联网数据连接用于来电和去电。";
+"iPhone Number" = "iPhone 号码";
+"Validate Call Back" = "验证回拨";
+"Your Number" = "您的号码";
+"Dialing Service" = "拨号服务";
+"VoIP Network" = "VoIP网络";
+"All Networks" = "所有网络";
+"WiFi Only" = "仅Wi-Fi";
+"Cannot Call" = "无法通话";
+"Select an available Dialing Service, or adjust Calling Settings." = "选择可用的拨号服务，或调整通话设置。";
+"Mobile dialing is unavailable." = "移动拨号不可用。";
+"WiFi Unavailable" = "WiFi 不可用";
+"Alerting for BroadWorks mobile services has been enabled for this location." = "BroadWorks移动服务提醒已经对此地点启用。";
+"Alerting for BroadWorks mobile services has been disabled for this location." = "BroadWorks移动服务提醒已经对此地点禁用。";
+"VoIP calling is disabled. Make sure to enable alternative number in order to make and receive calls." = "VoIP呼叫已禁用。请确保启用替代号码以便拨打和接收呼叫。";
+"VoIP calling is enabled. By enabling this alternative location you may experience simultaneous incoming calls." = "VoIP呼叫已启用。通过启用此替代位置，您可能遇到同时呼入的来电。";
+"VoIP over mobile data network may incur additional charges or roaming fees" = "通过移动数据网络进行VoIP通话可能会产生额外费用或漫游费用";
+"VoIP over mobile data network is not available." = "无法通过移动数据网络进行VoIP通话。";
+
+/* Anywhere Service Configuration */
+"Save" = "保存";
+"The server responded with an error: %@" = "服务器回应了一个错误： %@";
+"alertAllLocationsForClickToDialCalls" = "提醒所有位置";
+"phoneNumber" = "电话号码";
+"description" = "说明";
+"active" = "有效";
+"broadworksCallControl" = "呼叫控制";
+"useDiversionInhibitor" = "不要转接来电";
+"answerConfirmationRequired" = "应答确认";
+"Add Location" = "添加位置";
+"Delete Location" = "删除位置";
+"Mobile Business Calling" = "移动业务呼叫";
+"Would you like to make and receive calls on your mobile phone using your business phone number?" = "是否愿意使用工作电话拨打和接听您移动电话的来电？";
+"Confirm your mobile number." = "确认您的手机号码。";
+"Not Now" = "不是现在";
+"Unable to Set Up" = "无法设置";
+"To set up mobile business calling contact the administrator." = "如果设置移动业务呼叫，请联系管理员。";
+
+/* Logging & Analytics Configuration */
+"Email Logs" = "电子邮件记录";
+"Use an actual device to send support logs via email." = "使用实际设备通过电子邮件发送支持日志。";
+
+/* Event summary */
+"Mark All as Read" = "全部标记为“已读”";
+"Delete" = "删除";
+"Mark as Read" = "标记为已读";
+"View Profile" = "查看配置文件";
+
+/* Arriving message banner display.  Parm 1 is the name.  Parm 2 is the message.*/
+"NEW_TEXT_MSG" = "%1$@： %2$@";
+"ROOM_INVITE_TITLE" = "“我的房间”邀请";
+"ROOM_INVITE_INFO" = "%@邀请您加入“我的房间”。";
+"ROOM_JOINREQUEST_TITLE" = "我的房间加入请求";
+"ROOM_JOINREQUEST_INFO" = "%@请求加入房间。";
+"ROOM_JOINREQUEST_PENDING" = "您有新的访客请求。";
+"MUC_SELF_KICK" = "您已被迫退出 %2$@ 房间";
+"MWI_UPDATE" = "您有 %1$@ 条未读语音邮件信息";
+"RING_SPLASH" = "来电转接";
+"DEREG_TEXT_LIMIT_EXCEEDED" = "注册的设备过多。请重新登录以使用此设备";
+"DEREG_TEXT_REGISTRATION_FAILED" = "来电不可用";
+
+/* Dialing Services */
+"imrn" = "呼叫代理";
+"callback" = "回拨";
+"native" = "iPhone";
+"ask" = "总是询问";
+"none" = "无通话";
+"voip" = "VoIP通话";
+
+/* Call Forwarding */
+"Call Forwarding" = "呼叫转移";
+"Call Forwarding Always" = "始终";
+"Call Forwarding Busy" = "遇忙时";
+"Call Forwarding No Answer" = "无应答时";
+"Call Forwarding Not Reachable" = "无法接通时";
+"mobilePhoneNumber" = "手机号码";
+"Forward to #" = "转接到号码";
+"numberOfRings" = "响铃次数";
+"Ring Splash" = "自动呼叫转移";
+"On" = "开";
+"Off" = "关";
+"Always Forward" = "始终转接";
+
+/* My Room*/
+"My Room" = "我的房间";
+"Room – %@" = "房间 – %@";
+"Room – " = "房间 – ";
+"Join Room…" = "加入房间…";
+"Joining Room" = "正在加入房间";
+"Leaving Room" = "正在退出房间";
+"Leave Room" = "退出房间";
+"Leave" = "离开";
+"Join" = "加入";
+"Joining" = "正在加入";
+"Leaving" = "正在离开";
+"Joined Rooms" = "已加入房间";
+"Pull to Update Participant List" = "拉动以更新参与者名单";
+"View Participants" = "查看参与者";
+"My Room Invitation" = "“我的房间”邀请";
+"%@ Invited you to join My Room" = "%@邀请您加入“我的房间”。";
+"%@ joined the room." = "%@已加入房间。";
+"You joined the room." = "您已加入房间。";
+"%@ left the room. %@" = "%@已退出房间。%@";
+"%@ left the room." = "%@已退出房间。";
+"My Room Join Request" = "我的房间加入请求";
+"%@ has requested to join room" = "%@请求加入房间。";
+"View" = "查看";
+"%@'s Room" = "%@房间";
+"In room: %@" = "在房间内：%@";
+"Access to this room requires approval." = "经批准后方可访问该房间。";
+"Your request to join the room has been declined." = "已拒绝您加入房间的请求。";
+"Your request has timed out." = "您的请求已超时。";
+"Request Access" = "请求访问";
+"Join the room to see any new messages." = "加入房间以查看所有新消息。";
+"You have been invited to join %@'s room for a meeting.\n\nGuest Participants:" = "您被邀请加入 %@'s 房间参加会议。\n\n访客参与者：";
+"Guest Participants:" = "访客参与者：";
+"You have been dismissed from" = "您已被移出";
+"and" = "以及";
+"Room Dismissal" = "移出会议室";
+"Owner" = "创建人";
+"Enable Meeting" = "启用会议";
+"Webex - My Personal Room" = "WebEx - 我的个人会议室";
+"Webex My Personal Room" = "WebEx 我的个人会议室";
+"START MEETING IN" = "开始会议于";
+"Enter your Webex Personal Room address" = "输入您的 Webex 个人会议室地址";
+"When you change these settings, it may take up to a few hours for your contacts to see your updated selection." = "更改这些设置后，联系人最多可能需要几个小时才能看到更新后的选择。";
+"To join %@'s meeting, click %@." = "如要加入％@的会议，请点击％@。";
+"You cannot change your selection while you are joined to your My Room. Please leave your My Room to be able to make changes to these settings." = "您加入“我的房间”后无法更改选择。 请离开“我的房间”以便能够更改这些设置";
+"Guest Requests" = "访客请求";
+"Launch Webex Meetings" = "启动 Webex Meetings";
+"Audio Only" = "仅限音频";
+"Ignore" = "忽略";
+"Room" = "房间";
+"You have new guest requests pending." = "您有新的访客请求。";
+"Copy Guest Link" = "复制访客链接";
+
+/* Favorites */
+"Favorites" = "收藏夹";
+"⇣ Pull to Update Availability" = "⇣ 向下拉动以更新状态";
+"Updating Availability..." = "正在更新状态…";
+"Add to Favorites" = "添加至“常用联系人”";
+"Remove from Favorites" = "从“常用联系人”删除";
+"You have no favorites" = "您没有常用联系人";
+"To add a favorite tap the star icon in profiles" = "要添加一个常用联系人，请在配置文件上点击星星图标";
+
+/* Groups */
+"Groups" = "组";
+"Chat Room %@" = "聊天室 %@";
+"Chat Room" = "聊天室";
+"Some Chat" = "部分聊天";
+"You have no groups" = "您没有群组";
+"You have no group members" = "您没有群组成员";
+"Read only" = "只读";
+"Read Only Chat" = "只读聊天";
+"One-way Announcement" = "单向通知";
+"Rooms are not supported in this App. You can view conversations, but not send messages." = "在此应用中不支持房间。您可以查看对话，但不能发送消息。";
+"Select Groups" = "选择组";
+"Add Group" = "添加组";
+"Enter Group Name" = "输入组名称";
+"Group Messaging" = "组消息传送";
+"Participants" = "参与者";
+"Recipients" = "接收者";
+"Delete Group" = "删除组";
+"Are you sure you want to delete the group \"%@\" (%@ members)?" = "是否确定要删除组 \"%@\"（%@ 个成员）？";
+"Are you sure you want to delete the group \"%@\" (1 member)?" = "是否确定要删除组 \"%@\"（1 个成员）？";
+"Add To Group" = "添加到组";
+"one-way message" = "单向消息";
+"Edit Group Name" = "编辑组名";
+"Edit" = "编辑";
+
+/* Update Password */
+"Update Password" = "更新密码";
+"Current Password" = "当前密码";
+"New Password" = "新密码";
+"Type current password" = "输入当前密码";
+"Type new password" = "输入新密码";
+"Verify new password" = "验证新密码";
+"Show passwords" = "显示密码";
+"Hide passwords" = "隐藏密码";
+"New passwords must match" = "新密码必须匹配";
+"Current password is incorrect" = "当前密码不正确";
+/* Parm 1 is the number of days.  Parm 2 is the singlular or plural form of "days" */
+"Password will expire in %1$@ %2$@." = "密码将在 %1$@ %2$@ 失效。";
+"Your password has expired." = "您的密码已失效。";
+"Password expired - update now" = "密码已失效 - 立即更新";
+"Password will not expire." = "密码将不会失效。";
+"day" = "天";
+"days" = "天";
+
+/* Actions */
+"A valid room number for %@ has not been determined. Try again later, or contact support if the problem persists." = "未能确定 %@ 的有效房间号。稍后重试，如果问题持续出现，请联系技术支持。";
+"Valid phone number not specified for %@." = "%@ 未指定有效的电话号码。";
+"Calling %@..." = "正在呼叫%@…";
+"Waiting for call back..." = "正在等待回呼...";
+"Warning: Calling back at a different location." = "警告：回拨在另一个位置。";
+
+/* Voip */
+"ON HOLD" = "暂停";
+"Recommended" = "推荐";
+"Voice Call" = "语音通话";
+"Video Call" = "视频通话";
+"New Call" = "新通话";
+"Transfer" = "传输";
+"Conference" = "会议";
+"Transfer Call" = "转接通话";
+"Select Dialing Service" = "选择拨号服务";
+"Call First" = "首先呼叫";
+"Transfer to %@" = "转接到 %@";
+"VoIP is Off" = "VoIP已关";
+"To make a call, turn VoIP on" = "如需呼叫，请先开启VoIP。";
+"VoIP - Audio Call" = "VoIP  - 音频呼叫";
+"VoIP - Video Call" = "VoIP  - 视频通话";
+"Call answered on another device" = "其他设备应答的呼叫";
+"Call dropped" = "通话中断";
+"Call on hold dropped" = "通话保持中断";
+"Call %@ First" = "首先呼叫%@";
+"Call Terminated" = "呼叫终止";
+
+/* Visual Voicemail */
+"Speaker" = "扬声器";
+"Unknown Caller" = "不知名的来电者";
+"Mark as New" = "标记为新";
+"Unknown Number" = "未知号码";
+"You have no voicemails." = "您没有语音邮件。";
+"Mark All as Played" = "全部标记为“已播放”";
+"Voicemail Settings" = "语音邮件设置";
+"Mark as Played" = "标记为“已播放”";
+"Confidential" = "机密";
+"Urgent" = "紧急";
+"New voicemail" = "新语音邮件";
+"You have %d pending voicemail message" = "您有 %d 条未读语音邮件信息";
+"You have %d pending voicemail messages" = "您有 %d 条未读语音邮件信息";
+"Speaker off" = "关闭扬声器";
+
+/* External Downloads */
+"Missing App" = "缺失应用程序";
+/* %@ is replaced with the "UC-One Meet" branding string */
+"%@ is required to join a room.  Would you like to download it from the App Store now?" = "%@正要求加入您的房间。您想要从应用商店中下载该应用程序吗？";
+
+/* Misc */
+"Error" = "错误";
+"Done" = "完成";
+"service unavailable" = "服务不可用";
+"Network Error: %@" = "网络错误： %@";
+"Create" = "创建";
+"Cannot create data model." = "无法创建数据模型。";
+"Cannot find data model." = "无法找到数据模型。";
+"Invalid store location." = "无效存储位置。";
+"Persistent store is inconsistent with application version." = "持续存储与应用版本不一致。";
+"Persistent store error." = "持续存储错误。";
+"Today" = "今天";
+"Yesterday" = "昨天";
+"Network Unavailable" = "网络不可用";
+"Application is not compatible with jailbroken devices." = "应用程序与越狱后的设备不兼容。";
+"Exit" = "退出";
+
+/* Errors */
+"Private contact store is not valid." = "私人联系人存储区无效。";
+"Received version %@; expecting version >= %@." = "收到的版本为 %@；期望版本 >= %@。";
+"No valid messaging gateway hosts." = "无有效消息网关主机。";
+"Unsupported messaging gateway interface version %@." = "不支持消息网关接口版本 %@。";
+"The request timed out" = "请求超时";
+"The request was cancelled" = "请求已取消";
+"The request failed because it redirected too many times" = "因为重定向次数太多，请求失败";
+"Unable to deliver message." = "无法送达消息。";
+"Could not mark voicemail as played." = "无法将语音邮件标记为“已播放”。";
+"Could not mark voicemail as new." = "无法标记语音邮件为新的。";
+"Could not mark all voicemail messages as played." = "无法将所有语音邮件消息标记为“已播放”。";
+"Voicemail could not be downloaded." = "无法下载语音邮件。";
+"Voicemails could not be downloaded." = "无法下载语音邮件。";
+"Voicemail could not be deleted." = "无法删除语音邮件。";
+"Unsupported Software-as-a-Service interface version %@." = "不支持软件即服务接口版本%@。";
+"There was a content loading error." = "内容导入出错。";
+"Your device failed to deregister from the messaging gateway successfully. This may lead to continued notifications. To resolve the issue, try to sign-in and sign-out again with a reliable network connection." = "您的设备未能成功从消息网关注销。您可能会继续收到通知。要解决此问题，请尝试使用可靠的网络连接再次登录并注销。";
+
+/* Region or countries List*/
+"USA IHS" = "USA IHS";
+"USA Cloud" = "USA Cloud";
+"USA Beta" = "USA Beta";
+"EMEA" = "EMEA";
+"AUS" = "AUS";
+"FED" = "FED";
+
+/** Transfer to Mobile List*/
+"Transfer to Circuit Switch" = "呼叫转移到手机";
+"Your call will be transferred to:" = "您的呼叫将被转接到：";
+"Enter a phone number" = "输入一个电话号码";
+
+/* Token Login */
+"Edit Login Info" = "编辑登录信息";
+"My Enterprise Username" = "我的企业用户名";
+"IdP Info" = "单击下方的“%@”按钮，您将会被重定向至 %@ 登录界面";
+"Continue Info" = "单击下方的“%@”按钮，您将会被重定向至屏幕上的 %@ 标签";
+"Single Continue Info" = "单击下方的 \"%@\" 按钮，系统会将您重定向至登录屏幕";
+
+"Signle Idp Text Description" = "选择“继续”后，您将被重新定向到授权。\n\n一旦被授权，将会跳过此步骤，您将自动登录。";
+
+"No Connection" = "无连接";
+"Check your connection and try again." = "请检查您的连接，然后重试。";
+"Username or password is incorrect" = "用户名或密码不正确";
+
+"Re-login required in 1 day. Please signout, re-type your password and signin again." = "需要在 1 天内重新登录。请注销，重新输入您的密码，然后再次登录。";
+"Re-login required in %ld days. Please signout, re-type your password and signin again." = "需要在 %ld 天内重新登录。请注销，重新输入您的密码，然后再次登录。";
+"Re-login required today. Please signout, re-type your password and signin again." = "需要在今天重新登录。请注销，重新输入您的密码，然后再次登录。";
+"Your session has expired. Sign in again to continue." = "会话已过期。重新登录以继续。";
+"Your account has been disabled. Please check with your System Administrator." = "您的帐户已被禁用。请与您的系统管理员联系。";
+"You have reached the maximum number of registered applications.This application will be unregistered." = "您的注册应用已达到最大量。此应用程序将被解除注册。";
+"Forced sign out." = "强制注销。";
+"Select your region" = "选择您所在的区域";
+"Region" = "地区";
+
+/* Version Control */
+"A new version of the application is available." = "新版应用程序现已可用。";
+"A new version of the application is available. Would you like to upgrade now?" = "新版应用程序现已可用。您是否要现在升级？";
+"Upgrade" = "升级";
+
+/* Permission Accessories */
+"Camera" = "摄像头";
+"Microphone" = "麦克风";
+"%@ does not have access to your %@. To enable access, tap %@ and turn on %@" = "%@ 无权访问您的 %@。要启用访问权限，请点击 %@ 并打开 %@";
+
+/* Privacy Policy */
+"Accept the privacy policy."= "接受隐私政策。";
+"%@ cannot be used unless the privacy policy is accepted."= "除非接受隐私政策，否则无法使用 %@。";
+"Review Policy" = "查看政策";
+
+/* Appearance */
+"Appearance" = "外观";
+"THEME" = "主题";
+"Light" = "指示灯";
+"Dark" = "深色";
+"System" = "系统";
+"Changing the theme will apply it to the entire app." = "更改主题会将其应用于整个应用程序";

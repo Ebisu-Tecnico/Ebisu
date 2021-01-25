@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="locale">0</integer>
+    <integer name="regionName">1</integer>
+    <integer name="hostname">2</integer>
+    <integer name="xsiactionsstring">3</integer>
+    <integer name="domain">4</integer>
+
+
+    <array name="loginMenu">
+        <item name="locale">en_US</item>
+        <item name="regionName">@string/ihs_1</item>
+        <item name="hostname">https://btbc.ihs.broadsoft.com</item>
+        <item name="xsiactionsstring">com.broadsoft.xsi-actions</item>
+        <item name="domain">broadsoft.com</item>
+
+        <item name="locale">en_GB</item>
+        <item name="regionName">@string/ihs_2</item>
+        <item name="hostname">https://apps.ihs.broadsoft.com</item>
+        <item name="xsiactionsstring">com.broadsoft.xsi-actions</item>
+        <item name="domain">broadsoft.com</item>
+
+        <item name="locale">user_defined</item>
+        <item name="regionName">@string/region_manual</item>
+        <item name="hostname">https://</item>
+        <item name="xsiactionsstring"></item>
+        <item name="domain"></item>
+    </array>
+
+</resources>

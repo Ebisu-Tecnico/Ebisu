@@ -1,0 +1,164 @@
+<resources>
+    <!--System Notifications-->
+    <string name="no_scf_connection">처리 중&#8230;</string>
+
+    <!-- Messages Screen Strings -->
+    <string name="you">본인</string>
+    <string name="scf_today">오늘</string>
+    <string name="scf_yesterday">어제</string>
+    <string name="content_copied">복사됨</string>
+    <string name="send">보내기</string>
+    <string name="chat_hint">메시지 입력</string>
+    <string name="action_flag">플래그</string>
+    <string name="action_copytext">텍스트 복사</string>
+    <string name="notification_new_messages">새 메시지</string>
+    <string name="button_new_messages">새 메시지 ^</string>
+    <string name="announcement_space_label">이는 알림 스페이스입니다.</string>
+
+    <!--Message Types-->
+    <string name="message_participant_added">%1$s 님이 %2$s 님을 이 스페이스에 추가했습니다.</string>
+    <string name="message_participant_added_to_team">%1$s 님이 %2$s 님을 이 그룹에 추가했습니다.</string>
+    <string name="message_participant_joined">%1$s 님이 이 스페이스에 참여했습니다.</string>
+    <string name="message_participant_joined_to_team">%1$s 님이 이 그룹에 참여했습니다.</string>
+    <string name="message_participant_added_by_you">%1$s 님을 이 스페이스에 추가하셨습니다.</string>
+    <string name="message_participant_added_by_you_to_team">%1$s 님을 이 그룹에 추가했습니다.</string>
+    <string name="message_participant_added_you">%1$s 님이 귀하를 이 스페이스에 추가했습니다. 환영합니다.</string>
+    <string name="message_participant_added_you_to_team">%1$s 님이 귀하를 이 그룹에 추가했습니다. 환영합니다.</string>
+    <string name="message_you_joined">이 스페이스에 참여하셨습니다.</string>
+    <string name="message_you_joined_to_team">이 그룹에 참여했습니다.</string>
+    <string name="message_participant_removed">%1$s 님이 %2$s 님을 이 스페이스에서 내보냈습니다.</string>
+    <string name="message_participant_removed_to_team">%1$s 님이 %2$s 님을 이 그룹에서 내보냈습니다.</string>
+    <string name="message_participant_left">%1$s 님이 스페이스에서 나갔습니다.</string>
+    <string name="message_participant_left_to_team">%1$s 님이 그룹에서 나갔습니다.</string>
+    <string name="message_participant_removed_by_you">%1$s 님을 이 스페이스에서 내보내셨습니다.</string>
+    <string name="message_participant_removed_by_you_to_team">%1$s 님을 이 그룹에서 내보내셨습니다.</string>
+    <string name="message_you_left">스페이스에서 나왔습니다.</string>
+    <string name="message_you_left_to_team">그룹에서 나왔습니다.</string>
+    <string name="message_conversation_title_updated_by_you">이 스페이스 이름을 \"%1$s\"(으)로 변경하셨습니다.</string>
+    <string name="message_team_title_updated_by_you">그룹 정보를 업데이트했습니다</string>
+    <string name="message_conversation_title_updated_by_other">%1$s 님이 이 스페이스 이름을 \"%2$s\"(으)로 변경했습니다.</string>
+    <string name="message_team_title_updated_by_other">%1$s 님이 그룹 정보를 업데이트했습니다.</string>
+    <string name="message_locus_summary_had_group_call">귀하가 미팅을 했습니다 %1$s</string>
+    <string name="message_locus_summary_missed_group_call">부재중 미팅이 있습니다 %1$s</string>
+    <string name="message_locus_summary_unavailable_for_group_call">%1$s 님이 미팅을 시작했으나 대화 가능한 사람이 없었습니다.</string>
+    <string name="message_locus_summary_had_call">귀하가 통화를 했습니다 (%1$s) %2$s</string>
+    <string name="message_locus_summary_other_missed_call">%1$s 님이 전화를 받지 못했습니다.</string>
+    <string name="message_locus_summary_unavailable_for_call">통화를 취소했습니다.</string>
+    <string name="message_locus_summary_no_one_joined_call">귀하가 미팅을 시작했으나 대화 가능한 사람이 없었습니다.</string>
+    <string name="message_locus_summary_missed_call">부재중 전화가 있습니다.</string>
+    <string name="message_room_created_by_self_no_title">여기에서부터 스페이스를 시작합니다.</string>
+    <string name="message_team_created_by_self_no_title">여기에서부터 그룹을 시작합니다.</string>
+    <string name="message_room_created_by_self">여기에서부터 \"%1$s\" 스페이스를 시작합니다.</string>
+    <string name="message_team_created_by_self">여기에서부터 \"%1$s\" 그룹을 시작합니다.</string>
+    <string name="message_room_created_by_other_no_title">여기에서부터 %1$s 님께서 만든 스페이스를 시작합니다.</string>
+    <string name="message_team_created_by_other_no_title">여기에서부터 %1$s 님께서 만든 그룹을 시작합니다.</string>
+    <string name="message_room_created_by_other">여기에서부터 \"%1$s\" 스페이스를 시작합니다. 만든 이: %2$s</string>
+    <string name="message_team_created_by_other">여기에서부터 \"%1$s\" 그룹을 시작합니다. 만든 이: %2$s</string>
+    <string name="message_new_team_room_added_by_you">새로운 스페이스 \"%1$s\"을(를) 만들었습니다.</string>
+    <string name="message_new_team_room_added_by_other">%1$s 님이 새 스페이스 \"%2$s\"을(를) 만들었습니다.</string>
+    <string name="own_message_removed">메시지를 삭제했습니다.</string>
+    <string name="message_removed">%1$s 님이 자신의 메시지를 삭제했습니다.</string>
+    <string name="message_removed_by_you">%1$s 님의 메시지를 삭제하셨습니다.</string>
+    <string name="message_removed_by_someone">%1$s 님이 %2$s 님의 메시지를 삭제했습니다.</string>
+    <string name="message_event_cancelled">%1$s 님이 예약된 미팅 \"%2$s\"을(를) 취소했습니다.</string>
+    <string name="message_event_cancelled_by_you">예약된 미팅 \"%1$s\"을(를) 취소했습니다.</string>
+    <string name="message_event_updated">%1$s 님이 예약된 미팅 \"%2$s\"에 대한 의제를 업데이트했습니다</string>
+    <string name="message_event_updated_by_you">예약된 미팅 \"%1$s\"에 대한 의제를 업데이트하셨습니다.</string>
+    <string name="message_event_scheduled">%1$s 님이 예약된 미팅 \"%2$s\"을(를) 만들었습니다.</string>
+    <string name="message_event_scheduled_by_you">예약된 미팅 \"%1$s\"을(를) 만들었습니다.</string>
+    <string name="room_avatar_changed_by_you">스페이스 아바타를 변경했습니다.</string>
+    <string name="room_avatar_changed_by_other">%1$s 님이 스페이스 이미지를 변경했습니다.</string>
+    <string name="recording_ready">녹화가 준비되었습니다.</string>
+    <string name="announcement_set_by_you">알림 모드를 켰습니다</string>
+    <string name="announcement_unset_by_you">알림 모드를 껐습니다</string>
+    <string name="announcement_set_by_other">%1$s 님이 알림 모드를 켰습니다</string>
+    <string name="announcement_unset_by_other">%1$s 님이 알림 모드를 껐습니다</string>
+    <string name="invalid_system_message">잘못된 시스템 메시지</string>
+    <string name="attachment_default">파일 공유됨.</string>
+    <string name="attachment_default_multiple">공유 파일.</string>
+    <string name="attachment_download">다운로드 %1$s</string>
+    <string name="attachment_downloading">다운로드 중 %1$s</string>
+    <string name="attachment_open">%1$s 열기</string>
+    <string name="attachment_download_progress">다운로드 진행 중: %1$s</string>
+    <string name="attachment_directory_error">다운로드 디렉터리를 만들 수 없습니다.</string>
+    <string name="attachment_open_with">연결 프로그램</string>
+    <string name="attachment_size_mb">%1$s MB</string>
+    <string name="attachment_size_kb">%1$s KB</string>
+    <string name="attachment_size_b">%1$s B</string>
+    <string name="seconds_sufix">초</string>
+    <string name="minutes_sufix">분</string>
+
+    <!--Menu-->
+    <string name="action_video_call">영상통화</string>
+    <string name="action_viewparticipants">참가자 보기</string>
+    <string name="action_viewfiles">파일 보기</string>
+    <string name="action_addfavoritespace">즐겨찾기에 추가</string>
+    <string name="action_removefavoritespace">즐겨찾기에서 제거</string>
+    <string name="action_changenotification">알림 변경</string>
+    <string name="action_leavespace">스페이스 나가기</string>
+    <string name="action_joinroom">방에 참여하기</string>
+    <string name="action_leaveroom">회의실 나가기</string>
+    <string name="action_callroom">방에 전화하기</string>
+    <string name="action_viewprofile">프로필 보기</string>
+    <string name="action_viewsharedcontent">공유 콘텐츠 보기</string>
+    <string name="action_leave">나가기</string>
+    <string name="action_delete">삭제</string>
+    <string name="action_edit">이름 변경</string>
+
+    <!-- Edit Space screen -->
+    <string name="space_name">스페이스 이름</string>
+    <string name="space_name_title">이름 변경</string>
+    <string name="space_name_hint">스페이스 이름 입력</string>
+    <string name="space_name_save">저장</string>
+
+    <!-- Notification settings -->
+    <string name="pref_notification">알림</string>
+    <string name="pref_global_notification">전역 알림</string>
+    <string name="pref_global_notification_link">"설정/알림" 내에서 모든 스페이스에 대한 전역 알림 설정을 변경하십시오. <a href="Update global settings">전역 설정 업데이트</a></string>
+    <string name="notification_all_messages">모든 메시지</string>
+    <string name="notification_mentions_only">\@멘션만</string>
+    <string name="notification_off">끔</string>
+    <string name="notification_spaces">스페이스</string>
+    <string name="pref_global_notification_info">위의 스페이스에 대한 전역 알림 환경 설정을 선택하십시오.</string>
+
+    <!-- Participants screen -->
+    <string name="external_warning">회사 외부의 사람들이이 스페이스에 포함되어 있습니다.</string>
+
+    <!-- Giphy Messages -->
+    <string name="giphy_empty_search">해당하는 GIF를 찾을 수 없습니다.</string>
+    <string name="no_search_results">결과 없음</string>
+    <string name="search_for_gifs">GIF 검색</string>
+
+    <!-- Giphy default search terms -->
+    <string name="giphy_search_yes">예</string>
+    <string name="giphy_search_no">아니오</string>
+    <string name="giphy_search_agree">동의</string>
+    <string name="giphy_search_awesome">대박</string>
+    <string name="giphy_search_wow">와우</string>
+    <string name="giphy_search_high_five">하이 파이브</string>
+    <string name="giphy_search_face_palm">절망</string>
+    <string name="giphy_search_popcorn">팝콘</string>
+    <string name="giphy_search_please">제발</string>
+    <string name="giphy_search_thanks">감사</string>
+    <string name="giphy_search_thumbs_up">엄지 척</string>
+    <string name="giphy_search_thumbs_down">거절</string>
+
+    <!-- Presence variations -->
+    <string name="scf_presence_title">수신거부 설정:</string>
+    <string name="scf_presence_time_off">삭제</string>
+    <string name="scf_presence_time_half">30분</string>
+    <string name="scf_presence_time_one">1시간</string>
+    <string name="scf_presence_time_two">2시간</string>
+    <string name="scf_presence_time_four">4시간</string>
+    <string name="scf_presence_time_eight">8시간</string>
+    <string name="scf_presence_time_day">24시간</string>
+
+    <!-- Presence duration -->
+    <string name="scf_presence_dnd_until">%1$s까지 수신거부</string>
+    <string name="last_active_minutes_ago">%1$s분 전 활성</string>
+    <string name="last_active_one_hour_ago">1시간 전 활성</string>
+    <string name="last_active_hours_ago">%1$s시간 전 활성</string>
+    <string name="last_active_yesterday">어제 활성</string>
+    <string name="last_active_on_date">%1$s에 활성</string>
+
+</resources>

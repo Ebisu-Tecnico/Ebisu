@@ -1,0 +1,54 @@
+<resources>
+    <string name="sso_login_failed">An error occurred during the login process. Try re-entering your credentials. If the problem persists contact your System Administrator.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_my_password">Forgot password</string>
+    <string name="username_input_check">Please enter correct username.</string>
+    <string name="enterprise">My Enterprise Username</string>
+
+    <string name="google">Google</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="okta">Okta</string>
+    <string name="other">Other</string>
+    <string name="sso_custom1">Custom IdP 1</string>
+    <string name="sso_custom2">Custom IdP 2</string>
+    <string name="sso_custom3">Custom IdP 3</string>
+    <string name="sso_custom4">Custom IdP 4</string>
+
+    <string name="login_ok">OK</string>
+    <string name="login_cancel">Cancel</string>
+
+    <string name="app_login_username_hint">Username</string>
+    <string name="app_login_password_hint">Password</string>
+    <string name="signing">Signing in</string>
+    <string name="loading">Loading…</string>
+
+    <string name="settings_button">Settings</string>
+    <string name="edit_login_info">Edit Login Info</string>
+
+    <string name="login_continue">Continue</string>
+    <string name="login_save">Save</string>
+    <string name="login_email_hint">Enterprise Email</string>
+    <string name="login_region_hint">Region</string>
+
+    <string name="server_address_capital">Server Address</string>
+    <string name="xsi_actions_path_hint">XSI Actions Path</string>
+    <string name="invalid_contact_name">Invalid characters, please check your input</string>
+    <string name="sso_notification">By clicking the \"%1$s\" button below, you will be redirected to the %2$s sign in screen.</string>
+    <string name="scf_login_message">By clicking the Continue button below, you will be redirected to the Webex Teams sign in screen.</string>
+
+    <string name="login_failed_wrong_username_and_or_password">Login failed: wrong username and/or password.</string>
+    <string name="sso_authentication_error">Authentication Error</string>
+
+    <string name="login_regions_advanced">Advanced Setup</string>
+    <string name="settings_and_about">Settings &amp; About</string>
+    <string name="sign_in_with">I want to sign in with…</string>
+    <string name="select_region">Select your region</string>
+
+    <string name="login_unavailable_network">Network Unavailable</string>
+    <string name="xsi_forced_signout_dialog_message">Your session has expired.\nSign in again to continue.</string>
+    <string name="xsi_forced_signout_dialog_onaccountdisabled">Your account has been disabled. Please check with your System Administrator.</string>
+
+    <string name="there_is_no_connection_retry">There is no connection. Would you like to try your connection again?</string>
+    <string name="login_try_again">Try Again</string>
+    <string name="remember_password">Save login</string>
+</resources>

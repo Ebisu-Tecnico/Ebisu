@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allowThirdPartyKeyboard</key>
+	<false/>
+	<key>allowThirdPartyKeyboard-comment</key>
+	<string>When true, enables or allows third party keyboards in app. When false, disables third party keyboards in app.</string>
+	<key>dialingService</key>
+	<string>imrn</string>
+	<key>dialingService-comment</key>
+	<string>Set the default dialing service setting.  The choices are: native, imrn, callback, ask.  Default: imrn</string>
+	<key>hostname</key>
+	<string></string>
+	<key>hostname-comment</key>
+	<string>Defines the host address used for login.  If no scheme is specified, https is assumed.  Default: None</string>
+	<key>overrideconfig</key>
+	<false/>
+	<key>overrideconfig-comment</key>
+	<string>When false, the device Telephone Number must match either the Mobility number, an Anywhere location, or the Remote Office number.  When true, number matching is ignored.  This behavior is useful in certain countries where the device number includes the country code, and when BroadWorks strips the country code for in-country calls (e.g. Australia).  Default: false</string>
+	<key>overrideconfigusesmobility</key>
+	<false/>
+	<key>overrideconfigusesmobility-comment</key>
+	<string>When true, the Mobility service is used for Call Back whenever possible.  When false, BroadWorks chooses the service used for Call Back if multiple services can be used.  Default: false</string>
+	<key>xsiactionsstring</key>
+	<string>com.broadsoft.xsi-actions</string>
+	<key>xsiactionsstring-comment</key>
+	<string>Defines the string use for XSI actions requests.  Default: com.broadsoft.xsi-actions</string>
+</dict>
+</plist>

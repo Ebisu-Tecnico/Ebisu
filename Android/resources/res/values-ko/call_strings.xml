@@ -1,0 +1,207 @@
+<resources>
+    <string name="please_wait">잠시 기다려주세요…</string>
+
+    <!-- Buttons -->
+    <string name="back">뒤로</string>
+    <string name="active_calls">활성 통화</string>
+    <string name="call_ok">확인</string>
+    <string name="call_cancel">취소</string>
+
+    <!-- Welcome -->
+    <!--Call -->
+    <string name="btn_call_add_participant">참가자 추가</string>
+    <string name="btn_manage_conference_value">참여자</string>
+    <string name="btn_call_merge_value">통화 병합</string>
+    <string name="btn_call_swap_value">전환</string>
+    <string name="btn_call_park_call_value">통화 대기</string>
+    <string name="call_duration_init">00:00</string>
+
+    <string name="incoming_call">수신 전화</string>
+    <string name="accept">수락</string>
+    <string name="decline">거부</string>
+
+    <string name="conference">회의</string>
+    <string name="transfer">전달</string>
+    <string name="conferencing">회의중…</string>
+    <string name="transferring">전달 중…</string>
+    <string name="transfer_completed">전환 완료</string>
+    <string name="swapping">전환 중…</string>
+    <string name="merging">병합 중…</string>
+    <string name="ending">종료 중…</string>
+    <string name="ending_failed">통화 종료 실패</string>
+    <string name="call_terminated">통화 종료</string>
+
+    <string name="operation_failed">동작 실패</string>
+
+    <string name="text_transfer_to_mobile">모바일로 전달</string>
+    <string name="text_call_will_be_transferred_to">통화가 다음으로 전달됩니다:</string>
+    <string name="upgradetovideo_title">영상 통화로 전환</string>
+    <string name="upgradetovideo">%s님이 영상 통화를 요청합니다.</string>
+    <string name="incoming_video_call">영상 통화 수신 중</string>
+    <string name="new_call">새로운 통화</string>
+
+    <string name="text_call">통화</string>
+    <string name="dialing">발신 중…</string>
+    <string name="answering">응답 중…</string>
+    <string name="call_calling">발신 중…</string>
+    <string name="call_on_hold">보류</string>
+    <string name="ongoing_call">통화 계속</string>
+    <string name="onhold_uppercase">대기 중</string>
+
+    <string name="btn_call_recording_pause">기록 일시 중지</string>
+    <string name="btn_call_recording_resume">기록 재개</string>
+    <string name="btn_call_recording_start">기록 시작</string>
+    <string name="btn_call_recording_stop">기록 중단</string>
+    <string name="btn_call_speaker_value">스피커</string>
+    <string name="btn_call_handset">수화기</string>
+    <string name="btn_call_bluetooth">블루투스</string>
+    <string name="btn_call_bluetooth_audio">블루투스 오디오</string>
+    <string name="btn_call_swapcamera">카메라 전환</string>
+    <string name="btn_call_dialpad">키패드</string>
+    <string name="btn_call_to_video">영상 통화로 전환</string>
+    <string name="btn_call_to_audio">음성 통화로 전환</string>
+    <string name="btn_call_complete_transfer">전송 완료</string>
+    <string name="btn_call_accept_video_value">비디오</string>
+    <string name="btn_call_accept_audio_value">오디오</string>
+
+    <string name="transfer_call_user_first">%s에 먼저 전화</string>
+    <string name="transfer_to_new">새로 전달</string>
+    <string name="transfer_to_user">%s에 전달</string>
+
+    <string name="call_unknown">알 수 없음</string>
+    <string name="call_private">비공개</string>
+    <string name="call_anonymous">익명</string>
+    <string name="user_busy">상대방이 통화 중입니다.</string>
+    <string name="phonenumber">전화번호</string>
+    <!-- Notifications --><string name="missed_calls">부재중 전화</string>
+    <string name="missed_calls_count">부재중 전화 %1$d건</string>
+    <string name="missed_calls_from">부재중 통화 발신자: %1$s</string>
+    <string name="new_voicemail">새로운 음성 메일</string>
+    <string name="notify_new_voicemail_count">음성 메일이 1개 있습니다.</string>
+    <string name="notify_new_voicemail_counts">음성 메일이 %1$d개 있습니다.</string>
+    <string name="ring_splash_notification_title">소리 알림</string>
+    <string name="ring_splash_notification_content">수신 통화가 전환되었습니다.</string>
+
+    <!-- BroadWorks service names -->
+    <string name="callsettings_broadworks_anywhere">BroadWorks Anywhere</string>
+    <string name="callsettings_remote_office">원격 사무실</string>
+    <string name="mobility_enabled">BroadWorks Mobility</string>
+
+    <!-- Contact/number selection hints -->
+    <string name="please_configure_my_telephone_number_to_use">통화 번호를 사용하려면 내 전화번호를 구성하세요.</string>
+    <string name="please_enter_number">번호를 입력하세요.</string>
+    <string name="text_please_input_number">전화번호를 입력하세요.</string>
+    <string name="selection_text">연락처 선택 또는 번호로 전화 걸기</string>
+
+    <!-- Call-through and call-back -->
+    <string name="callsettings_broadworks_mobility_callthrough_error">통화 연결 서비스를 수행할 수 없습니다.</string>
+    <string name="callsettings_broadworks_mobility_callthrough_performing">통화 연결 서비스 수행 중…</string>
+    <string name="callsettings_broadworks_mobility_callback_error">콜백을 사용할 수 없습니다.</string>
+    <string name="callsettings_broadworks_mobility_callback_performing">콜백 중…</string>
+    <string name="callsettings_broadworks_mobility_callback_success">잠시 후 전화를 받게 됩니다.</string>
+    <string name="callsettings_broadworks_mobility_callback_conference_on_old_server_version">연결되면 회의 코드를 수동으로 입력하세요.</string>
+
+    <!-- Error messages -->
+    <string name="wrong_sip_credentials_message">SIP 자격 증명이 다릅니다. 시스템 관리자에게 문의해 주세요.</string>
+    <string name="autohold_by_mobile_call_in_progress">모바일 통화 중에는 통화가 보류됩니다.</string>
+    <string name="call_establish_failure">전화 연결 실패</string>
+    <string name="call_completed_elsewhere">다른 기기에서 전화를 받음</string>
+    <string name="cannot_connect_to_conference_bridge">회의통화 브리지에 연결할 수 없습니다.</string>
+    <string name="cannot_add_participant_to_the_conference">회의통화에 참가자를 추가할 수 없습니다.</string>
+    <string name="callsettings_broadworks_mobility_mobile_error">기본 전화 걸기 애플리케이션을 시작할 수 없습니다.</string>
+    <string name="feature_not_supported">기기에서 지원되지 않는 기능입니다.</string>
+    <string name="maximum_number_of_calls_reached">최대 통화 횟수에 도달함</string>
+    <string name="no_calling_options_available">사용 가능한 통화 옵션이 없습니다.</string>
+    <string name="connectionlost">연결이 끊어졌습니다.</string>
+    <string name="call_poor_connection">연결 상태 불량</string>
+
+    <!-- Call Type selection -->
+    <string name="callsettings_broadworks_dialing_service_title">전화 걸기 서비스 선택</string>
+    <string name="callsettings_broadworks_option_voip">인터넷 전화(VoIP)</string>
+    <string name="callsettings_broadworks_option_call_back">콜백</string>
+    <string name="callsettings_broadworks_option_call_through">통화 연결</string>
+    <string name="callsettings_broadworks_option_mobile">이 전화</string>
+
+    <string name="contextmenu_voicecall">음성 통화</string>
+    <string name="contextmenu_videocall">영상 통화</string>
+
+    <!-- Permissions -->
+    <string name="permission_error">필요한 권한: %1$s.\n기기 앱의 설정에서 액세스를 허용하십시오.</string>
+    <string name="permission_group_audio">마이크</string>
+    <string name="permission_group_camera">카메라</string>
+    <string name="permission_group_calls">통화</string>
+
+    <!-- Push Notifications -->
+    <string name="push_notification_deregister">최대 등록된 애플리케이션 수를 초과했습니다. 이 애플리케이션은 등록되지 않습니다.</string>
+    <string name="push_notification_disable_one">이 위치에 대한 %1$s이(가) 자동으로 비활성화되었습니다.</string>
+    <string name="push_notification_disable_both">이 위치에 대한 %1$s 및 %2$s이(가) 자동으로 비활성화되었습니다.</string>
+    <string name="push_notification_disable_all">이 위치에 대한 %1$s, %2$s 및 %3$s이(가) 자동으로 비활성화되었습니다.</string>
+    <string name="push_notification_enable_one">이 위치에 대한 %1$s이(가) 자동으로 활성화되었습니다.</string>
+    <string name="push_notification_enable_both">이 위치에 대한 %1$s 및 %2$s이(가) 자동으로 활성화되었습니다.</string>
+    <string name="push_notification_enable_all">이 위치에 대한 %1$s, %2$s 및 %3$s이(가) 자동으로 활성화되었습니다.</string>
+    <string name="push_notification_no_locations">VoIP 전화 걸기가 사용 중지되어 있습니다. 전화를 걸고 받으려면 다른 번호를 사용 설정해야 합니다.</string>
+    <string name="push_notification_location_enabled">VoIP 전화 걸기가 사용 설정되었습니다. 이 대체 위치를 사용 설정하면 전화가 동시에 걸려 올 수 있습니다.</string>
+    <string name="bwks_services_enabled">BroadWorks 모바일 서비스 알림이 이 위치에 대해 활성화되었습니다.</string>
+
+    <!-- VoIP mode -->
+    <string name="voip_over_celluar_on">모든 네트워크</string>
+    <string name="voip_over_celluar_off">WIFI 전용</string>
+    <string name="voip_over_celluar_warn">모바일 데이터 네트워크를 통해 VoIP를 사용하면 추가 요금 또는 로밍 요금이 발생할 수 있습니다.</string>
+    <string name="voip_over_celluar_disabled">모바일 데이터 네트워크를 통한 VoIP를 사용할 수 없습니다.</string>
+
+    <!-- Seamless call handover -->
+    <string name="handover_reconnecting">다시 연결 중…</string>
+    <string name="handover_error_bg_call">통화 대기가 끊겼습니다.</string>
+    <string name="handover_error_all_calls">통화 대기가 끊겼습니다.</string>
+    <string name="handover_error_failed">통화가 끊겼습니다.</string>
+
+    <!-- Call Recording -->
+    <!-- Security Classifications -->
+    <!-- Dual Persona --><string name="callsettings_dual_persona_dialog_title">발신자:</string>
+    <string name="dual_persona_business">업체(%1$s)</string>
+    <string name="dual_persona_personal">개인(%1$s)</string>
+    <string name="dual_persona_hidden_number">숨긴 번호</string>
+    <string name="incorrect_my_telephone_number">잘못된 내 전화번호</string>
+
+    <!-- 911 -->
+    <string name="emergency_warning_text_short">이 기기는 119 통화를 지원하지 않습니다. 119 통화 이용 시 셀룰러 네트워크 이용 장치나 유선 전화를 사용하시기 바랍니다.</string>
+    <string name="emergency_warning_title">119 서비스 공개</string>
+    <string name="wifi_text_short">셀룰러 긴급 통화가 진행되었습니다.</string>
+    <string name="emergency_location_update_error">긴급 통화 위치를 업데이트할 수 없습니다.</string>
+    <string name="unable_to_validate_location">위치를 확인할 수 없음</string>
+    <string name="try_again">다시 시도</string>
+    <string name="incomplete_emergency_location_configuration">긴급 통화 위치 구성이 완료되지 않았습니다.</string>
+    <string name="emergency_location_dialog_body_text">경고: 등록된 실제 위치에서 전화하는 경우 외에는 소프트폰에서 119에 전화를 걸지 마시기 바랍니다. 등록한 실제 위치가 아닌 경우 잘못된 119 상황실로 연결되어 구급 지원이 지연되거나 어려워질 수 있습니다. 이러한 경우 다른 수단을 통해 119 서비스를 요청하시기 바랍니다.</string>
+    <string name="update_911_location">119 위치 업데이트</string>
+    <string name="validating_location">위치 확인 중…</string>
+    <string name="location_updated_successfully">위치 업데이트 성공</string>
+    <string name="wifi_btn_ok">VOIP 통화</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_showcallcontrol">통화 제어 표시</string>
+    <string name="accessibility_call_quality_low">통화 품질 낮음</string>
+    <string name="accessibility_call_quality_medium">통화 품질 보통</string>
+    <string name="accessibility_call_quality_high">통화 품질 높음</string>
+    <string name="accessibility_hold">보류</string>
+    <string name="accessibility_callrecording_recording">기록</string>
+    <string name="accessibility_call_mute">음소거</string>
+    <string name="accessibility_call_unmute">음소거 해제</string>
+    <string name="accessibility_audio_source">오디오 소스</string>
+    <string name="accessibility_more_options">추가 옵션</string>
+    <string name="accessibility_call_end">통화 종료</string>
+    <string name="accessibility_unhold">대기 해제</string>
+    <string name="accessibility_speaker_active">스피커 켜기</string>
+    <string name="accessibility_speaker_inactive">스피커 끄기</string>
+    <string name="accessibility_call_hold">%s을(를) 사용하여 통화 대기</string>
+
+    <!-- Mid-call controls error codes -->
+    <string name="bw_error_101002">통화를 찾을 수 없습니다.</string>
+    <string name="bw_error_110648">통화가 이미 회의에 접속되었습니다.</string>
+    <string name="bw_error_110581">긴급 통화가 있습니다.</string>
+    <string name="bw_error_100022">지역 통화 제한으로 차단되었습니다.</string>
+    <string name="bw_error_110640">현재 회의가 없습니다.</string>
+    <string name="bw_error_110649">이미 최대 참가자 수에 도달했습니다.</string>
+    <string name="bw_error_100026">세션 관리 제어 그룹에 의해 차단되었습니다.</string>
+    <string name="bw_error_100021">휴대폰으로 통화를 재 시도 하십시오</string>
+
+</resources>

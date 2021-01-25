@@ -1,0 +1,188 @@
+"OK" = "확인";
+
+"Cancel" = "취소";
+
+"Transfer completed" = "돌려주기 완료";
+
+"Call Back" = "콜백";
+
+"Call Through" = "통화연결 서비스";
+
+"recording" = "레코딩";
+
+"Transfer to Mobile" = "모바일로";
+
+"Your call will be transferred to:" = "통화가 다음으로 전달됩니다:";
+
+"Incomplete emergency location configuration" = "불완전한 긴급 위치 설정";
+
+"Location Updated Successfully" = "위치 업데이트 성공";
+
+"recording paused" = "레코딩 일시중지됨";
+
+"Swap" = "전환";
+
+"Dismiss" = "강퇴";
+
+"NotificationAction >> Answer" = "보기";
+
+"Downgrade call to audio?" = "음성통화로 전환하시겠습니까?";
+
+"Yes" = "예";
+
+"recording unavailable" = "레코딩 사용불가";
+
+"Transfer to Circuit Switch" = "모바일로 전달";
+
+"Mute" = "음소거";
+
+"Enter a phone number" = "전화번호 입력";
+
+"Hide" = "숨기기";
+
+"WEBRTC" = "WEBRTC";
+
+"Echo Test" = "에코 테스트";
+
+"Calling" = "발신 중";
+
+"Update Emergency Location" = "긴급 위치 업데이트";
+
+"Back" = "뒤로";
+
+"SIP Call" = "인터넷전화(VoIP)";
+
+"Add video to a voice call" = "영상 전환";
+
+"Transfer to new" = "새로 돌려주기";
+
+"Accept Video" = "영상통화 수락";
+
+"Call quality issues" = "통화 품질 문제";
+
+"No Headphones or Bluetooth detected" = "감지된 헤드폰 또는 블루투스 없음";
+
+"Incoming" = "수신";
+
+"Accept" = "수락";
+
+"hours" = "시간";
+
+"Add Video" = "비디오 추가";
+
+"Transfer to" = "%@님에게 돌려주기";
+
+"WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services." = "경고: 등록한 실제 위치가 아닌 경우 소프트폰에서는 119와 같은 긴급전화 이용을 삼가시기 바랍니다. 등록한 실제 위치가 아닌 경우 다른 지역 119 센터로 연결되어 구급 지원이 지연되거나 어려워질 수 있습니다. 이러한 경우 다른 수단을 통해 긴급 서비스를 요청하시기 바랍니다.";
+
+"iPhone Speaker" = "iPhone 스피커";
+
+"Keypad" = "키패드";
+
+"Conference" = "컨퍼런스";
+
+"Missed call" = "부재중 전화";
+
+"Call Security" = "통화 보안";
+
+"Answer" = "응답";
+
+"Decline" = "거절";
+
+"The Call Security service was updated" = "통화 보안 서비스가 업데이트되었습니다.";
+
+"Double tap to return to previous screen" = "이전 화면으로 돌아가려면 더블 탭";
+
+"Hold" = "보류";
+
+"minute" = "분";
+
+"Validating Location..." = "위치 확인 중...";
+
+"Unknown" = "알 수 없음";
+
+"second" = "초";
+
+"Add Participant" = "참가자 추가";
+
+"View" = "보기";
+
+"New Call" = "새로운 통화";
+
+"Try again" = "다시 시도";
+
+"hour" = "시간";
+
+"We were not able to validate your Location" = "위치를 확인할 수 없음";
+
+"Cannot add participant to the conference" = "컨퍼런스에 참가자를 추가할 수 없습니다.";
+
+"Incoming call from" = "수신전화:";
+
+"Transfer call" = "돌려주기";
+
+"The Call Security service was disabled" = "통화 보안 서비스가 비활성화되었습니다.";
+
+"Input source" = "소스 입력";
+
+"minutes" = "분";
+
+"End call" = "종료";
+
+"Merge" = "병합";
+
+"Park Call" = "통화 파킹";
+
+"Speaker" = "스피커";
+
+"Transfer" = "돌려주기";
+
+"Change my level" = "내 레벨 변경";
+
+"On hold" = "보류 중";
+
+"Participants" = "참가자";
+
+"seconds" = "초";
+
+"Touch to return to call" = "통화로 돌아가려면 터치하세요";
+
+"Voice Only" = "음성통화";
+
+"iPhone - Call Ask" = "iPhone";
+
+"Audio Sources" = "오디오 소스";
+
+"Incoming video call" = "영상통화 수신";
+
+"Ongoing Call" = "진행중인 통화";
+
+"Complete" = "완료";
+
+"Accept Audio" = "음성통화 수락";
+
+"Done" = "완료";
+
+"Bluetooth" = "블루투스";
+
+"Headset" = "헤드셋";
+
+"Reconnecting to" = "다음에 다시 연결 중";
+
+"Reconnecting" = "다시 연결 중";
+
+"Call dropped" = "통화가 끊김";
+
+"Call on hold dropped" = "통화 대기 중 끊김";
+
+"cm_XSICall_DisplayName_Unknown" = "알 수 없음";
+
+"Ring Reminder" = "소리 알림";
+
+"Incoming call was redirected" = "수신 통화가 전환되었습니다.";
+
+"cm_XSICall_DisplayName_Hidden" = "숨겨짐";
+
+"Private" = "비공개";
+
+"Anonymous" = "익명";
+

@@ -1,0 +1,55 @@
+<resources>
+    <string name="sso_login_failed">ログイン処理でエラーが発生した。認証情報を再入力してください。問題が解決しない場合は、システム管理者に連絡してください。</string>
+    <string name="sign_in">サインイン</string>
+    <string name="forgot_my_password">パスワードを忘れてしまった</string>
+    <string name="username_input_check">有効なユーザ名を入れてください。</string>
+    <string name="enterprise">私のエンタープライズユーザー名</string>
+
+    <string name="google">グーグル</string>
+    <string name="microsoft">マイクロソフト</string>
+    <string name="okta">オクタ</string>
+    <string name="other">その他</string>
+    <string name="sso_custom1">カスタム IdP 1</string>
+    <string name="sso_custom2">カスタム IdP 2</string>
+    <string name="sso_custom3">カスタム IdP 3</string>
+    <string name="sso_custom4">カスタム IdP 4</string>
+
+    <string name="login_ok">はい</string>
+    <string name="login_cancel">取り消す</string>
+
+    <string name="app_login_username_hint">ユーザー名</string>
+    <string name="app_login_password_hint">パスワード</string>
+    <string name="signing">サインイン中</string>
+    <string name="loading">読み込み中...</string>
+
+    <string name="settings_button">設定</string>
+    <string name="edit_login_info">ログイン情報の編集</string>
+
+    <string name="login_continue">つづく</string>
+    <string name="login_save">保存</string>
+    <string name="login_email_hint">企業Eメール</string>
+    <string name="login_region_hint">地域</string>
+
+    <string name="server_address_capital">サーバアドレス</string>
+    <string name="xsi_actions_path_hint">XSIアクションのパス</string>
+    <string name="invalid_contact_name">無効な文字が入っています。入力を確認してください。</string>
+    <string name="sso_notification">下の \&quot;%1$s\&quot; ボタンをクリックすると、 %2$s サインイン画面にリダイレクトされます。</string>
+    <string name="scf_login_message">下の続行ボタンをクリックすると、Webex Teamsサインイン画面にリダイレクトされます。</string>
+
+    <string name="login_failed_wrong_username_and_or_password">ログイン失敗：ユーザー名またはパスワードが不正確です。</string>
+    <string name="sso_authentication_error">認証エラー</string>
+
+    <string name="login_regions_advanced">詳細設定</string>
+    <string name="settings_and_about">設定と詳細情報</string>
+    <string name="sign_in_with">私は...にサインインしたいのです</string>
+    <string name="select_region">お客様の地域を選択する</string>
+
+	<string name="login_unavailable_network">ネットワークを利用できない</string>
+    <string name="xsi_forced_signout_dialog_message">あなたのセッションは期限切れです。\nもう一度サインインして続行してください。</string>
+    <string name="xsi_forced_signout_dialog_onaccountdisabled">アカウントが無効になっています。システム管理者に確認してください。</string>
+
+    <string name="there_is_no_connection_retry">接続はありません。もう一度接続してみませんか？</string>
+    <string name="login_try_again">もう一度試してください</string>
+    <string name="remember_password">ログインの保存</string>
+
+</resources>

@@ -1,0 +1,206 @@
+<resources>
+    <string name="please_wait">しばらくお待ちください…</string>
+
+    <!-- Buttons -->
+    <string name="back">後ろへ</string>
+    <string name="active_calls">アクティブな通話</string>
+    <string name="call_ok">OK</string>
+    <string name="call_cancel">キャンセル</string>
+
+    <!-- Welcome -->
+    <!--Call -->
+    <string name="btn_call_add_participant">参加者追加</string>
+    <string name="btn_manage_conference_value">参加者</string>
+    <string name="btn_call_merge_value">通話の統合</string>
+    <string name="btn_call_swap_value">交換</string>
+    <string name="btn_call_park_call_value">通話をパーク</string>
+    <string name="call_duration_init">00:00</string>
+
+    <string name="incoming_call">着信コール</string>
+    <string name="accept">対応</string>
+    <string name="decline">拒否する</string>
+
+    <string name="conference">カンファレンス</string>
+    <string name="transfer">転送</string>
+    <string name="conferencing">カンファレンス中…</string>
+    <string name="transferring">転送中…</string>
+    <string name="transfer_completed">転送完了</string>
+    <string name="swapping">切替中…</string>
+    <string name="merging">統合中…</string>
+    <string name="ending">終了中…</string>
+    <string name="ending_failed">通話終了が失敗しました</string>
+    <string name="call_terminated">通話が終了されました。</string>
+
+    <string name="operation_failed">操作失敗</string>
+
+    <string name="text_transfer_to_mobile">モバイルに転送</string>
+    <string name="text_call_will_be_transferred_to">あなたの通話は次に転送されます：</string>
+    <string name="upgradetovideo_title">ビデオへのアップグレード</string>
+    <string name="upgradetovideo">%sがビデオ通話を要請しています。</string>
+    <string name="incoming_video_call">ビデオ通話着信</string>
+    <string name="new_call">新しい通話</string>
+
+    <string name="text_call">コール</string>
+    <string name="dialing">ダイヤル中…</string>
+    <string name="answering">応答中…</string>
+    <string name="call_calling">呼び出し…</string>
+    <string name="call_on_hold">保留</string>
+    <string name="ongoing_call">接続中の通話</string>
+    <string name="onhold_uppercase">保留</string>
+
+    <string name="btn_call_recording_pause">録音一時停止</string>
+    <string name="btn_call_recording_resume">録音再開</string>
+    <string name="btn_call_recording_start">録音開始</string>
+    <string name="btn_call_recording_stop">録音停止</string>
+    <string name="btn_call_speaker_value">スピーカー</string>
+    <string name="btn_call_handset">ハンドセットイアフォン</string>
+    <string name="btn_call_bluetooth">Bluetooth</string>
+    <string name="btn_call_bluetooth_audio">Bluetooth Audio</string>
+    <string name="btn_call_swapcamera">カメラ切り替え</string>
+    <string name="btn_call_dialpad">ダイヤルパッド</string>
+    <string name="btn_call_to_video">ビデオ通話に切り替え</string>
+    <string name="btn_call_to_audio">音声通話に切り替え</string>
+    <string name="btn_call_complete_transfer">転送完了</string>
+    <string name="btn_call_accept_video_value">ビデオ</string>
+    <string name="btn_call_accept_audio_value">音声</string>
+
+    <string name="transfer_call_user_first">まず%sに発信</string>
+    <string name="transfer_to_new">新しく転送</string>
+    <string name="transfer_to_user">%sに転送</string>
+
+    <string name="call_unknown">不明</string>
+    <string name="call_private">プライベート</string>
+    <string name="call_anonymous">匿名</string>
+    <string name="user_busy">コンタクトは通話中です。</string>
+    <string name="phonenumber">電話番号</string>
+    <!-- Notifications --><string name="missed_calls">不在着信</string>
+    <string name="missed_calls_count">%1$d 不在着信</string>
+    <string name="missed_calls_from">%1$sから不在着信が有りました。</string>
+    <string name="new_voicemail">新しいボイスメール</string>
+    <string name="notify_new_voicemail_count">ボイスメッセージが1つあります。</string>
+    <string name="notify_new_voicemail_counts">ボイスメッセージが%1$dつあります。</string>
+    <string name="ring_splash_notification_title">リングリマインダー</string>
+    <string name="ring_splash_notification_content">着信コールがリダイレクトされた</string>
+
+    <!-- BroadWorks service names -->
+    <string name="callsettings_broadworks_anywhere">BroadWorks Anywhere</string>
+    <string name="callsettings_remote_office">リモートオフィス</string>
+    <string name="mobility_enabled">BroadWorks Mobility</string>
+
+    <!-- Contact/number selection hints -->
+    <string name="please_configure_my_telephone_number_to_use">発信者番号の選択時のため、現端末の電話番号を設定してください。</string>
+    <string name="please_enter_number">番号を入力してください。</string>
+    <string name="text_please_input_number">あなたの電話番号を入力してください</string>
+    <string name="selection_text">コンタクトを選択または番号にダイヤルしてください。</string>
+
+    <!-- Call-through and call-back -->
+    <string name="callsettings_broadworks_mobility_callthrough_error">通話転送を実行できません</string>
+    <string name="callsettings_broadworks_mobility_callthrough_performing">コールスルーを実施中…</string>
+    <string name="callsettings_broadworks_mobility_callback_error">コールバックを実施できません。</string>
+    <string name="callsettings_broadworks_mobility_callback_performing">コールバック実施中…</string>
+    <string name="callsettings_broadworks_mobility_callback_success">まもなくあなたに電話が発信されます。</string>
+    <string name="callsettings_broadworks_mobility_callback_conference_on_old_server_version">接続されたらカンファレンスコードを入力してください。</string>
+
+    <!-- Error messages -->
+    <string name="wrong_sip_credentials_message">SIPアカウントが無効です。管理者に連絡してください。</string>
+    <string name="autohold_by_mobile_call_in_progress">モバイル通話のため通話を自動に保留します。</string>
+    <string name="call_establish_failure">通話確立が失敗しました。</string>
+    <string name="call_completed_elsewhere">他のデバイスで応答した通話</string>
+    <string name="cannot_connect_to_conference_bridge">カンファレンスブリッジに接続できません。</string>
+    <string name="cannot_add_participant_to_the_conference">カンファレンスに参加者を追加することができませんでした。</string>
+    <string name="callsettings_broadworks_mobility_mobile_error">端末本体のダイヤラを起動できません。</string>
+    <string name="feature_not_supported">このデバイスでは対応していない機能です。</string>
+    <string name="maximum_number_of_calls_reached">最大通話数に達しました</string>
+    <string name="no_calling_options_available">選択可能な通話オプションはありません</string>
+    <string name="connectionlost">接続が切れました。</string>
+    <string name="call_poor_connection">接続不良</string>
+
+    <!-- Call Type selection -->
+    <string name="callsettings_broadworks_dialing_service_title">発信サービス選択</string>
+    <string name="callsettings_broadworks_option_voip">インターネット通話(VoIP)</string>
+    <string name="callsettings_broadworks_option_call_back">コールバッグ発信</string>
+    <string name="callsettings_broadworks_option_call_through">コールスルー</string>
+    <string name="callsettings_broadworks_option_mobile">この電話機の元の発信機能で発信</string>
+
+    <string name="contextmenu_voicecall">音声通話</string>
+    <string name="contextmenu_videocall">ビデオ通話</string>
+
+    <!-- Permissions -->
+    <string name="permission_error">権限が必要: %1$s\nデバイスのアプリ設定にて許可してください。</string>
+    <string name="permission_group_audio">マイク</string>
+    <string name="permission_group_camera">カメラ</string>
+    <string name="permission_group_calls">通話</string>
+
+    <!-- Push Notifications -->
+    <string name="push_notification_deregister">アプリケーションの登録可能数を超えました。このアプリケーションは登録されません。</string>
+    <string name="push_notification_disable_one">このロケーションの%1$sは自動的に無効になりました。</string>
+    <string name="push_notification_disable_both">このロケーションの%1$sと%2$sは自動的に無効になりました。</string>
+    <string name="push_notification_disable_all">%1$s, %2$s と %3$s のロケーションは自動的に無効になりました。</string>
+    <string name="push_notification_enable_one">%1$s ロケーションは自動的に無効になりました。</string>
+    <string name="push_notification_enable_both">%1$s と%2$s ロケーションは自動的に無効になりました。</string>
+    <string name="push_notification_enable_all">%1$s, %2$s と %3$s のロケーションは自動的に有効になりました。</string>
+    <string name="push_notification_no_locations">VoIP通話が無効状態です。通話の着発信のため代替番号を有効にしているかご確認ください。</string>
+    <string name="push_notification_location_enabled">VoIP通話が有効状態です。この代替場所を有効にすると同時に、着信が発生することがあります。</string>
+    <string name="bwks_services_enabled">このロケーションに対してBroadWorksモバイルサービス着信が有効になりました。</string>
+
+    <!-- VoIP mode -->
+    <string name="voip_over_celluar_on">全てのネットワーク</string>
+    <string name="voip_over_celluar_off">WiFiのみ</string>
+    <string name="voip_over_celluar_warn">モバイルデータの上でのVoIP通信は追加通信費が掛かる場合があります。</string>
+    <string name="voip_over_celluar_disabled">モバイルデータ上でのVoIPはサポートされておりません。</string>
+
+    <!-- Seamless call handover -->
+    <string name="handover_reconnecting">再接続中...</string>
+    <string name="handover_error_bg_call">保留中の通話が切断されました。</string>
+    <string name="handover_error_all_calls">保留中の通話が切断されました。</string>
+    <string name="handover_error_failed">通話が切断されました。</string><!-- Call Recording -->
+
+    <!-- Security Classifications -->
+    <!-- Dual Persona -->
+    <string name="callsettings_dual_persona_dialog_title">発信者選択</string>
+    <string name="dual_persona_business">企業番号 (%1$s)</string>
+    <string name="dual_persona_personal">個人電話番号 (%1$s)</string>
+    <string name="dual_persona_hidden_number">非通知</string>
+    <string name="incorrect_my_telephone_number">現端末の電話番号が正しくありません。</string>
+
+    <!-- 911 --><string name="emergency_warning_text_short">警告：実際のロケーションが登録されていない限り、このソフトフォンから緊急通話発信は行わないでください。詳細はサービス・プロバイダにお問い合わせください。</string>
+    <string name="emergency_warning_title">E911開示</string>
+    <string name="wifi_text_short">端末から緊急呼が発信されました。</string>
+    <string name="emergency_location_update_error">緊急ロケーションを更新できません。</string>
+    <string name="unable_to_validate_location">ロケーションを正しく検証できません。</string>
+    <string name="try_again">再度実行</string>
+    <string name="incomplete_emergency_location_configuration">緊急ロケーション設定が完全ではありません。</string>
+    <string name="emergency_location_dialog_body_text">注意：911に電話をかけることについて、あなたの登録された実際の位置以外、あなたのソフトフォンを使用しないでください。登録された実際の位置以外の場所で使用すると、911のコールが不正確な911派遣センターに送られ、救急サービスが遅延または阻止される可能性があります。911サービスへの代替アクセスを維持することをお勧めします。</string>
+    <string name="update_911_location">緊急電話発信用の住所をアップデート</string>
+    <string name="validating_location">ロケーションの有効性を確認中…</string>
+    <string name="location_updated_successfully">ロケーションが正しく更新されました。</string>
+    <string name="wifi_btn_ok">VoIP発信</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_showcallcontrol">コールコントロールを表示</string>
+    <string name="accessibility_call_quality_low">通話品質低</string>
+    <string name="accessibility_call_quality_medium">通話品質：中</string>
+    <string name="accessibility_call_quality_high">通話品質：高</string>
+    <string name="accessibility_hold">待つ</string>
+    <string name="accessibility_callrecording_recording">通話録音</string>
+    <string name="accessibility_call_mute">弱める</string>
+    <string name="accessibility_call_unmute">ミュート解除</string>
+    <string name="accessibility_audio_source">オーディオソース</string>
+    <string name="accessibility_more_options">他のオプション</string>
+    <string name="accessibility_call_end">通話終了</string>
+    <string name="accessibility_unhold">保留解除</string>
+    <string name="accessibility_speaker_active">スピーカーオン</string>
+    <string name="accessibility_speaker_inactive">スピーカーオフ</string>
+    <string name="accessibility_call_hold">%s で保留になります</string>
+
+    <!-- Mid-call controls error codes -->
+    <string name="bw_error_101002">通話がありません</string>
+    <string name="bw_error_110648">すでにカンファレンス通話中です。</string>
+    <string name="bw_error_110581">緊急発信可能です。</string>
+    <string name="bw_error_100022">ゾーン発信規制により遮断されました。</string>
+    <string name="bw_error_110640">カンファレンスはありません。</string>
+    <string name="bw_error_110649">すでに最大参加者数に足しました。</string>
+    <string name="bw_error_100026">セッションアドミッショングループにより遮断されました。</string>
+    <string name="bw_error_100021">端末標準電話アプリから通話を継続するようお試しください。</string>
+
+</resources>

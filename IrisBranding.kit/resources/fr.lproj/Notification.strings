@@ -1,0 +1,106 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+"unspecified" = "non défini";
+"NotificationBarCountFormat" = "(%@)";
+
+/*
+ Missing Device Configuration
+ */
+"Missing Device Configuration[problemText]" = "Configuration de l'appareil manquante.";
+"Missing Device Configuration[detailText]" = "La configuration de l'appareil %1$@ n'a pas été attribuée à votre compte ou une erreur réseau s'est produite. Motif : %2$@";
+"Missing Device Configuration[solutionText]" = "Pour résoudre le problème, essayez à nouveau avec une connexion réseau fiable. Si le problème persiste, contactez votre prestataire de services.";
+
+/*
+ APNS Registration
+ */
+"APNS Registration[problemText]" = "Impossible de recevoir des notifications.";
+"APNS Registration[detailText]" = "Cet appareil ne peut pas recevoir de notifications push Apple. Votre appareil ne sera pas notifié de la réception de nouveaux messages.";
+"APNS Registration[solutionText]" = "Ce problème peut se produire si votre appareil ne peut pas se connecter à un réseau cellulaire ou WiFi.  Si la connectivité n'est pas un problème, contactez votre prestataire de services.";
+
+/*
+ BroadWorks Integration
+ */
+"BroadWorks Integration[problemText]" = "Échec d'intégration aux appels professionnels.";
+"BroadWorks Integration[detailText]" = "L'intégration de votre appareil à la passerelle d'appels professionnels a échoué. Cela pourrait être le résultat d'une incohérence entre l'application et la passerelle, mais il est plus probable qu'une erreur réseau se soit produite. Motif : %@";
+"BroadWorks Integration[solutionText]" = "Pour résoudre le problème, essayez à nouveau avec une connexion réseau fiable, ou déconnectez-vous de l'application, puis reconnectez-vous. Si le problème persiste, contactez votre prestataire de services.";
+
+/*
+ Message Gateway Host Resolution
+ */
+"Messaging Gateway Host Resolution[problemText]" = "Aucun hôte de passerelle de messagerie.";
+"Messaging Gateway Host Resolution[detailText]" = "L'hôte de passerelle de messagerie à %1$@ n'a pas pu être résolu. Motif : %2$@";
+"Messaging Gateway Host Resolution[solutionText]" = "Pour résoudre le problème, essayez à nouveau avec une connexion réseau fiable. Si le problème persiste, contactez votre prestataire de services.";
+
+/*
+ Message Gateway Registration
+ */
+"Messaging Gateway Registration[problemText]" = "Échec de l'enregistrement auprès de la passerelle de messagerie.";
+"Messaging Gateway Registration[detailText]" = "Votre appareil n'a pas réussi à s'enregistrer auprès de la passerelle de messagerie. Cela pourra affecter votre capacité à envoyer et recevoir des messages, et votre appareil pourra ne pas être notifié de la réception de nouveaux messages. Motif : %@";
+"Messaging Gateway Registration[solutionText]" = "Pour résoudre le problème, essayez à nouveau avec une connexion réseau fiable. Si le problème persiste, contactez votre prestataire de services.";
+
+/*
+ Message Gateway Authentication
+ */
+"Messaging Gateway Authentication[problemText]" = "Échec de l'authentification auprès de la passerelle de messagerie.";
+"Messaging Gateway Authentication[detailText]" = "Vos identifiants ne sont pas reconnus par la passerelle de messagerie. Cela est généralement lié à une incohérence dans la configuration, mais il est possible qu'une nouvelle tentative de connexion puisse corriger le problème. Motif : %@";
+"Messaging Gateway Authentication[solutionText]" = "Pour résoudre le problème, essayez à nouveau avec une connexion réseau fiable, ou déconnectez-vous de l'application, puis reconnectez-vous. Si le problème persiste, contactez votre prestataire de services.";
+
+/*
+ Password Expiry Warning
+ 
+ Special notes:
+ 
+ If the problemText is left undefined, the same localization used on the Update Password view
+ is used for the notification.  For example:
+ "Password will expire in %1$@ %2$@."
+ 
+ For any of the text fields (problemText, detailText and solutionText), two parameters may
+ be included:
+ %1$@ will be replaced with the number of days
+ %2$@ will be replace with the singular or plural form of "days" approprate for the number
+ */
+/*"Password Expiry Warning[problemText]" = "Le mot de passe expirera bientôt.";*/
+/*"Password Expiry Warning[detailText]" = "Password expires in %1$@ %2$@.";*/
+"Password Expiry Warning[solutionText]" = "Veuillez mettre à jour votre mot de passe.";
+
+/*"Re-login Required Warning[problemText]" = "";*/
+/*"Re-login Required Warning[detailText]" = "";*/
+"Re-login Required Warning[solutionText]" = "Veuillez vous reconnecter.";
+
+"Avatar upload failure[problemText]" = "Échec de la mise à jour de l’avatar";
+"Avatar upload failure[detailText]" = "Impossible de mettre à jour l’avatar en raison d’une panne réseau.";
+"Avatar upload failure[solutionText]" = "Pour résoudre le problème, essayez à nouveau avec une connexion réseau fiable.";
+
+"Messaging Service is Currently Unavailable[problemText]"= "Le service de messagerie est actuellement indisponible";
+"Messaging Service is Currently Unavailable[detailText]"= "Veuillez vérifier votre connexion réseau";
+"Messaging Service is Currently Unavailable[solutionText]"= "Pour résoudre le problème, essayez à nouveau avec une connexion réseau fiable.";
+
+"Messaging Guest Client Notification[problemText]" = "Vous avez de nouvelles demandes d’invités en attente.";
+
+"Contact Storage Modification Failed[problemText]" = "Impossible d’analyser les données de stockage du contact";
+
+/*
+ Messaging Gateway Misconfigured
+ */
+"Messaging Gateway Misconfigured[problemText]" = "La passerelle de messagerie est mal configurée.";
+"Messaging Gateway Misconfigured[detailText]" = "Impossible d’activer la passerelle de messagerie à cause d’une mauvaise configuration.";
+"Messaging Gateway Misconfigured[solutionText]" = "Pour résoudre le problème, contactez votre fournisseur de services et essayez à nouveau avec une connexion réseau fiable ou déconnectez-vous de l’application, puis reconnectez-vous. Si le problème persiste, contactez votre prestataire de services.";
+
+/*
+Direct calling not available.
+*/
+"Direct calling not available[problemText]" = "Appels directs indisponibles.  Plus…";
+"Direct calling not available[detailText]" = "Cet appareil ne permet pas les appels directs, mais permet d'utiliser la fonction de rappel à la place. Accédez à %@ et configurez un service de rappel (tel que %@) avec le numéro de téléphone de l'appareil à rappeler. Puis passez l'appel et attendez le rappel.";
+
+/*
+ VoIP Push Registration Failed
+ */
+"VoIP Registration Failed[problemText]" = "Appels entrants non disponibles";
+"VoIP Registration Failed[detailText]" = "Échec de l'enregistrement";
+
+/*
+ VoIP Push Device Limit Exceeded
+ */
+"VoIP Device Limit Exceeded[problemText]" = "Appels entrants non disponibles";
+"VoIP Device Limit Exceeded[detailText]" = ">> Trop de périphériques enregistrés <<";
+"VoIP Device Limit Exceeded[solutionText]" = "Veuillez vous reconnecter pour utiliser ce périphérique";

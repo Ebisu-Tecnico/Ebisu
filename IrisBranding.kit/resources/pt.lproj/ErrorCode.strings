@@ -1,0 +1,60 @@
+/*
+ This file provides localized strings for XSI errors.
+ 
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+/*
+ General error formatting message that includes a message and a code.
+ */
+"%1$@ %2$@" = "%1$@ %2$@";
+
+/*
+ Iris Errors
+ */
+"42000" = "Erro indefinido.";
+"42001" = "Erro interno.";
+"42002" = "O recurso não está disponível.";
+"42003" = "Operação cancelada.";
+"42004" = "Parâmetro de operação inválido.";
+"42005" = "Tente novamente.";
+"42006" = "Os direitos de aplicação necessários estão em falta.";
+"42007" = "A capacidade não é suportada pela configuração.";
+"42050" = "Falha na ligação.";
+"42051" = "Tempo limite de solicitação.";
+"42052" = "Credenciais de autenticação inválidas.";
+"42053" = "Pedido malformado ou não suportado.";
+"42054" = "Não é possível abrir, modificar ou fechar o ficheiro.";
+"42055" = "Ocorreram muitos redirecionamentos de HTTP.";
+"42056" = "Não é possível aceder ou resolver o anfitrião.";
+"42057" = "Corpo de solicitação malformada.";
+"42058" = "Dados de resposta malformados.";
+"42059" = "Não é possível estabelecer uma ligação segura com o anfitrião.";
+"42100" = "Falha ao criar a base de dados da aplicação.";
+"42101" = "A base de dados não é compatível com a versão instalada da aplicação. Atualize para a versão mais recente.";
+"42102" = "Falha ao persistir base de dados da aplicação.";
+"42103" = "A consulta à base de dados produziu resultados vazios inesperados.";
+"42200" = "A licença é insuficiente para utilizar a aplicação.";
+"42201" = "A versão do gateway de mensagem não é suportada.";
+"42202" = "Falha ao obter o perfil do dispositivo da aplicação.";
+"42203" = "Erro de gateway de mensagem não especificado.";
+"42204" = "A versão da loja de contactos não é suportada.";
+"42205" = "A versão da loja de contactos não é suportada.";
+"42206" = "Falha ao obter os dados de fornecimento e subscritor do Software-como-um-serviço.";
+"42208" = "A sua conta foi desativada. Consulte o seu Administrador do sistema.";
+"42999" = "Erro não especificado.";
+
+/*
+ XSI Error Codes
+ */
+"3" = "Falha ao iniciar sessão: nome de utilizador e/ou palavra-passe incorretos.";
+"12" = "A sua conta foi desativada. Consulte o seu Administrador do sistema.";
+"20" = "Caminho do endereço do servidor incorreto.";
+"100443" = "O endereço do servidor não é um anfitrião válido.";
+
+/*
+ iOS Errors
+ */
+"-1001" = "Tempo limite de solicitação.";
+"-1005" = "A ligação foi perdida.";
+"-1200" = "Não é possível estabelecer uma ligação segura com o anfitrião.";

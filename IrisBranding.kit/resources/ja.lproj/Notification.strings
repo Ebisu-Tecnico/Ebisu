@@ -1,0 +1,106 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+"unspecified" = "未指定";
+"NotificationBarCountFormat" = "(%@)";
+
+/*
+ Missing Device Configuration
+ */
+"Missing Device Configuration[problemText]" = "デバイス設定無し";
+"Missing Device Configuration[detailText]" = "%1$@デバイス設定がされていないか、ネットワークエラーです。理由：%2$@";
+"Missing Device Configuration[solutionText]" = "問題解決のため、安定なネットワークを利用し再度お試しください。問題が継続する場合はサービス・プロバイダにお問い合わせください。";
+
+/*
+ APNS Registration
+ */
+"APNS Registration[problemText]" = "通知が受信できません。";
+"APNS Registration[detailText]" = "Appleのプッシュ通知が受け取れないため、新しいメッセージは通知されません。";
+"APNS Registration[solutionText]" = "この問題はモバイルネットワークまたはWifiネットワークに接続できない場合に発生します。接続が正しい場合はサービス・プロバイダにお問い合わせください。";
+
+/*
+ BroadWorks Integration
+ */
+"BroadWorks Integration[problemText]" = "ビジネス通話のインテグレート失敗";
+"BroadWorks Integration[detailText]" = "このデバイスはビジネス通話ゲートウェイとインテグレートすることができませんでした。アプリケーションとゲートウェイが正しくない可能性があります。またネットワーク問題の可能性があります。理由：%@";
+"BroadWorks Integration[solutionText]" = "問題解決のため、安定したネットワークを利用し再度お試し、またはサインアウトし再度サインインください。問題が継続する場合はサービス・プロバイダにお問い合わせください。";
+
+/*
+ Message Gateway Host Resolution
+ */
+"Messaging Gateway Host Resolution[problemText]" = "メッセージゲートウェイホストがありません。";
+"Messaging Gateway Host Resolution[detailText]" = "%1$@のメッセージゲートウェイホストが解析できません。理由：%2$@";
+"Messaging Gateway Host Resolution[solutionText]" = "問題解決のため、安定したネットワークを利用し再度お試しください。問題が継続する場合はサービス・プロバイダにお問い合わせください。";
+
+/*
+ Message Gateway Registration
+ */
+"Messaging Gateway Registration[problemText]" = "メッセージゲートウェイに登録することができませんでした。";
+"Messaging Gateway Registration[detailText]" = "メッセージゲートウェイに登録することができませんでした。メッセージの送信・受信・新着メッセージ通知に影響する可能性があります。理由： %@";
+"Messaging Gateway Registration[solutionText]" = "問題解決のため、安定したネットワークを利用し再度お試しください。問題が継続する場合はサービス・プロバイダにお問い合わせください。";
+
+/*
+ Message Gateway Authentication
+ */
+"Messaging Gateway Authentication[problemText]" = "メッセージゲートウェイ認証に失敗しました。";
+"Messaging Gateway Authentication[detailText]" = "メッセージゲートウェイにあなたのログイン情報がないようです。一般的に設定に問題がある可能性があります。またログインを再度行うことで解決する可能性もあります。理由：%@";
+"Messaging Gateway Authentication[solutionText]" = "問題解決のため、安定したネットワークを利用し再度お試し、またはサインアウトし再度サインインください。問題が継続する場合はサービス・プロバイダにお問い合わせください。";
+
+/*
+ Password Expiry Warning
+ 
+ Special notes:
+ 
+ If the problemText is left undefined, the same localization used on the Update Password view
+ is used for the notification.  For example:
+ "Password will expire in %1$@ %2$@."
+ 
+ For any of the text fields (problemText, detailText and solutionText), two parameters may
+ be included:
+ %1$@ will be replaced with the number of days
+ %2$@ will be replace with the singular or plural form of "days" approprate for the number
+ */
+/*"Password Expiry Warning[problemText]" = "パスワードがまもなく期限切れとなります。";*/
+/*"Password Expiry Warning[detailText]" = "Password expires in %1$@ %2$@.";*/
+"Password Expiry Warning[solutionText]" = "パスワードを更新してください。";
+
+/*"Re-login Required Warning[problemText]" = "";*/
+/*"Re-login Required Warning[detailText]" = "";*/
+"Re-login Required Warning[solutionText]" = "再ログインしてください。";
+
+"Avatar upload failure[problemText]" = "アバターの更新に失敗しました";
+"Avatar upload failure[detailText]" = "ネットワーク障害のためにアバターを更新できません。";
+"Avatar upload failure[solutionText]" = "問題解決のため、安定したネットワークを利用し再度お試しください。";
+
+"Messaging Service is Currently Unavailable[problemText]"= "メッセージングサービスは現在利用できません";
+"Messaging Service is Currently Unavailable[detailText]"= "ネットワーク接続を確認してください";
+"Messaging Service is Currently Unavailable[solutionText]"= "問題解決のため、安定したネットワークを利用し再度お試しください。";
+
+"Messaging Guest Client Notification[problemText]" = "新しいゲストの要請が保留中です。";
+
+"Contact Storage Modification Failed[problemText]" = "連絡先ストレージデータを解析できません。";
+
+/*
+ Messaging Gateway Misconfigured
+ */
+"Messaging Gateway Misconfigured[problemText]" = "メッセージゲートウェイが正しく構成されていません。";
+"Messaging Gateway Misconfigured[detailText]" = "不適当な構成のため、メッセージゲートウェイをアクティブ化できません。";
+"Messaging Gateway Misconfigured[solutionText]" = "問題解決のため、サービス提供者に連絡して、信頼性の高いネットワーク接続またはアプリケーションのサインアウトをやり直してもう一度サインインしてください。問題が継続する場合はサービス提供者にお問い合わせください。";
+
+/*
+Direct calling not available.
+*/
+"Direct calling not available[problemText]" = "直接電話することができません。詳細…";
+"Direct calling not available[detailText]" = "このデバイスでは直接電話をかけることができませんが、代わりにコールバックを利用可能です。%@にて電話番号とコールバックサービスを設定（%@のように）し、発信を行いコールバックをお待ち下さい。";
+
+/*
+ VoIP Push Registration Failed
+ */
+"VoIP Registration Failed[problemText]" = "着信できません";
+"VoIP Registration Failed[detailText]" = "登録失敗";
+
+/*
+ VoIP Push Device Limit Exceeded
+ */
+"VoIP Device Limit Exceeded[problemText]" = "着信できません";
+"VoIP Device Limit Exceeded[detailText]" = ">>登録しているデバイスが多すぎます<<";
+"VoIP Device Limit Exceeded[solutionText]" = "このデバイスを利用するには、再度ログインしてください";

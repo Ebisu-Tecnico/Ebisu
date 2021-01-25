@@ -1,0 +1,301 @@
+"cmui_BSVideoCallViewController_OK" = "OK";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_OK" = "OK";
+
+"cmui_BSBaseCallViewController_ErrorForCallAlert_OK" = "OK";
+
+"cmui_BSBaseCallViewController_HandoverCannotRecoverAlert_OK" = "OK";
+
+"cmui_BSBaseCallViewController_HandoverFailedAlert_OK" = "OK";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasUpdatedAlert_OK" = "OK";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasDisabledAlert_OK" = "OK";
+
+"cmui_LoginViewController_ErrorLoadingConfigurationAlert_OK" = "OK";
+
+"cmui_ConnecticatorSampleViewController_NotImplementedAlert_OK" = "OK";
+
+"cmui_ConnecticatorSampleViewController_LoginErrorAlert_OK" = "OK";
+
+"cmui_BSAudioCallSecurityLevelPickerView_CancelBarButtonItem_Cancel" = "Abbrechen";
+
+"cmui_BSCallScreensButtonProperties_CkBSCallScreensButtonTypeCancelButtonTitle" = "Abbrechen";
+
+"cmui_BSCallActionsHandler_InputSourceAlert_Cancel" = "Abbrechen";
+
+"cmui_BSCallActionsHandler_TransferToNewAlert_Cancel" = "Abbrechen";
+
+"cmui_AppDelegate_NewCallAlert_Cancel" = "Abbrechen";
+
+"cmui_AppDelegate_AddToConferenceAlert_Cancel" = "Abbrechen";
+
+"cmui_AppDelegate_EnterPhoneNumberAlert_Cancel" = "Abbrechen";
+
+"cmui_BSBaseCallViewController_TransferCompleted" = "Übergabe abgeschlossen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallTransferToMobileTitle" = "An Mobiltelefon übergeben";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapTitle" = "Makeln";
+
+"cmui_BSBaseCallViewController_TransferCompleted_DismissAlert" = "Verweisen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMuteTitle" = "Stumm schalten";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddCallTitle" = "Neuer Anruf";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeViewParticipantsTitle" = "Teilnehmer";
+
+"cmui_BSCallScreensDTMFKeypadView_hideKeypadButtonTitle" = "Ausblenden";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeWebRTCSettingsButtonTitle" = "WEBRTC";
+
+"cmui_CallInfoResolver_TestCall_EchoTest" = "Echotest";
+
+"cmui_BSCallStateView_kBSCallStateCalling_CallStateLabelText" = "Anrufen";
+
+"cmui_ConferenceDetailsViewController_BarButtonAccessibilityLabel_Back" = "Zurück";
+
+"cmui_BSAudioCallViewController_BarButtonTitle_Back" = "Zurück";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_incomingCallLabel" = "Video zu Sprachanruf hinzufügen";
+
+"cmui_BSCallActionsHandler_TransferToAlert_TransferToNew" = "An \"Neu\" übergeben";
+
+"cmui_BSIncomingCallViewController_firstAnswerButtonTitle" = "Video annehmen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_secondAnswerButtonTitle" = "Video annehmen";
+
+"cmui_BSVideoCallViewController_kBSCallScreensButtonTypeSpeaker_Message" = "Kopfhörer oder Bluetooth nicht erkannt";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_incomingCallLabel" = "Eingehend";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToVideoTitle" = "Zu Videoanruf wechseln";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToAudioTitle" = "Zu Audioanruf wechseln";
+
+"cmui_BSCallActionsHandler_TransferCallAlert_TransferToButtonTitle" = "Übergeben an %@";
+
+"cmui_BSCallActionsHandler_InputSource_iPhoneSpeakerAlert" = "iPhone-Lautsprecher";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeDialpadTitle"  = "Tastenfeld";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeConferenceTitle" = "Konferenz";
+
+"cmui_CallInfoResolver_formattedPhoneNumberForCall" = "Konferenz";
+
+"cmui_BSAudioCallInfoHandler_phoneNumberForCall" = "Konferenz";
+
+"cmui_CallInfoResolver_ConferenceCallWithNoParticipants" = "Konferenz";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_secondAnswerButtonTitle_Answer" = "Annehmen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_declineButton_Title" = "Ablehnen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_declineButton_Title" = "Ablehnen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_declineButton_Title" = "Ablehnen";
+
+"cmui_BSBaseCallViewController_securityLevelsArrayChangedWithThe_CallSecurityServiceWasUpdatedTitleAlert" = "Der Dienst \"Anrufsicherheit\" wurde aktualisiert";
+
+"cmui_ConferenceDetailsViewController_leftBarButtonItem_AccessibilityHint_DoubleTapToReturnToPreviousScreen" = "Doppeltippen, um zum vorherigen Bildschirm zurückzukehren";
+
+"cmui_BSCallActionsHandler_TransferCall_InactiveCallDisplayName" = "Unbekannt";
+
+"cmui_CallInfoResolver_ProcessDisplayName_Unknown" = "Unbekannt";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddParticipantTitle" = "Teilnehmer hinzufügen";
+
+"cmui_AppDelegate_NewCallAlertTitle" = "Neuer Anruf";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_Message_Alert" = "Teilnehmer kann nicht zur Konferenz hinzugefügt werden";
+
+"cmui_BSCallActionsHandler_TransferCallAlertTitle" = "Anruf weiterleiten";
+
+"cmui_BSBaseCallViewController_SecurityCallLevelDisabledFromAdminAlertMessage" = "Der Dienst \"Anrufsicherheit\" wurde deaktiviert";
+
+"cmui_BSCallActionsHandler_InputSourceAlertTitle" = "Eingabequelle";
+
+"cmui_BSCallScreensDTMFKeypadView_endCallButtonTitle" = "Anruf beenden";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMergeTitle" = "Anrufe zusammenführen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallParkTitle" = "Parken";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSpeakerTitle" = "Lautsprecher";
+
+"cmui_BSCallActionsHandler_InputSource_SpeakerAlert" = "Lautsprecher";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeTransferTitle" = "Weiterleiten";
+
+"cmui_AppDelegate_TransferAlertTitle" = "Weiterleiten";
+
+"cmui_BSAudioCallSecurityLevelPickerView_awakeFromNib_toolbarTitleLabelText" = "Meine Stufe ändern";
+
+"cmui_BSAudioCallSecurityLevelPickerView_localizeView_toolbarTitleLabelText" = "Meine Stufe ändern";
+
+"cmui_BBSCallStateView_setCallState_kBSCallStateOnHold" = "GEHALTEN";
+
+"cmui_ConferenceDetailsViewController_Title_Participants" = "Konferenz";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAudioSourceTitle" = "Audioquellen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_incomingCallLabel" = "Eingehender Videoanruf";
+
+"cmui_BSBackToCallControl_awakeFromNib_callStateLabel_Ongoing Call" = "Aktiver Anruf";
+
+"cmui_BSVideoCallViewController_completeButton_Title_Complete"  = "Abgeschlossen";
+
+"cmui_BSAudioCallViewController_completeButton_Title_Complete"  = "Abgeschlossen";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_secondAnswerButtonTitle" = "Audio annehmen";
+
+"cmui_BSAudioCallSecurityLevelPickerView_doneBarButtonItem_Done" = "Fertig";
+
+"cmui_BSCallActionsHandler_InputSource_HeadsetALert" = "Headset";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_ReconnectingTo" = "Verbindung erneut herstellen mit";
+
+"cmui_BSAudioCallInfoHandler_updateTitleAndPhoneWithDisplayName_reconnectionString_Reconnecting" = "Verbindung wird erneut hergestellt";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_Reconnecting" = "Verbindung wird erneut hergestellt";
+
+"cmui_BSBaseCallViewController_callHandoverFailed_message_CallDropped" = "Anruf beendet";
+
+"cmui_BSBaseCallViewController_callHandoverStarted_message_CallOnHoldDropped" = "Gehaltener Anruf beendet";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertMessage" = "Weiterleitung fehlgeschlagen";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertOK" = "OK";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityLabel" = "Zurück";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityHint" = "Doppeltippen, um zum vorherigen Bildschirm zurückzukehren";
+
+"cmui_BSAudioCallInfoHandler_TitleLabelAccessibilityLabel" = "Andere Partei";
+
+"cmui_BSAudioCallInfoHandler_PhoneLabelAccessibilityLabel" = "Telefonnummer";
+
+"cmui_BSAudioCallInfoHandler_HeldCallAccessibilityHint" = "Gehalten";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityLabel" = "Anruf beenden";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityHint" = "Doppeltippen, um den aktuellen Anruf zu beenden";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityLabel" = "Übertragung abschließen";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityHint" = "Doppeltippen, um die Übertragung abzuschließen";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel" = "Weitere Optionen";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint" = "Doppeltippen, um weitere Optionen anzuzeigen";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel_Hide" = "Weitere Optionen ausblenden";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint_Hide" = "Doppeltippen, um die weiteren Optionen auszublenden";
+// video call
+"cmui_BSVideoCallViewController_CameraButtonAccessibilityLabel" = "Kamera";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityLabel" = "Übertragung abschließen";
+
+"cmui_BaseCallViewController_CompleteButtonTitleLabel" = "Übertragung abschließen";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityHint" = "Doppeltippen, um die Übertragung abzuschließen";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityLabel" = "Audioquelle";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityHint" = "Doppeltippen, um die Audioquellen anzuzeigen";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_message" = "Versuchen Sie, den Anruf über die systemeigene Telefonanwendung wiederaufzunehmen.";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_OK" = "OK";
+
+"cmui_XSICall_DisplayName_Hidden" = "Unterdrückt";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStart" = "Aufzeichnung starten";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingResume" = "Aufzeichnung fortsetzen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingPause" = "Aufzeichnung unterbrechen";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStop" = "Aufzeichnung beenden";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapCamera" = "Kamera wechseln";
+
+"cmui_CallDialPadViewController_Hide_Button" = "Ausblenden";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Title" = "Tastenfeld";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Title" = "Parken";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Title" = "Anruf fortsetzen";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Placeholder" = "Wählen";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Placeholder" = "Durchwahl eingeben oder # drücken";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Placeholder" = "Durchwahl eingeben oder # drücken";
+
+"cmui_CallsContainerViewController_Title" = "Aktive Anrufe";
+
+"cmui_AudioCallViewController_CallingLabel" = "Wird angerufen ...";
+
+"cmui_AudioCallViewController_RemoteHoldLabel" = "Gehalten";
+
+"cmui_AudioCallViewController_ConnectingLabel" = "Verbindung wird hergestellt...";
+
+"cmui_BaseCallViewController_ReconnectingPopover_Label" = "Verbindung wird erneut hergestellt...";
+
+"cmui_BaseCallViewController_CameraSwapped_Label" = "Kamera gewechselt";
+
+"cmui_BaseCallViewController_PoorConnection_Label" = "Schwache Verbindung";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Title" = "Zu Videoanruf wechseln";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Message" = "%@ möchte den Anruf in einen Videoanruf umwandeln.";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_DefaultCallerName" = "Andere Partei";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Accept" = "Accepter";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Decline" = "Ablehnen";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Title" = "Eingehender Anruf";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Message" = "Eingehenden Anruf von %@ annehmen";
+
+"cmui_BaseCallViewController_IncomingCallAlert_DefaultCallerName" = "Unbekannt";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Accept" = "Accepter";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Decline" = "Ablehnen";
+
+// BSCallScreensButtonProperties
+"cmui_BSCallScreensButtonProperties_MuteAccessibilityLabel" = "Stumm schalten";
+
+"cmui_BSCallScreensButtonProperties_SpeakerAccessibilityLabel" = "Lautsprecher";
+
+"cmui_BSCallScreensButtonProperties_BluetoothTitle" = "Bluetooth";
+
+"cmui_BSCallScreensButtonProperties_BluetoothAccessibilityLabel" = "Bluetooth";
+
+"cmui_BSCallScreensButtonProperties_HeadsetTitle" = "Headset";
+
+"cmui_BSCallScreensButtonProperties_HeadsetAccessibilityLabel" = "Headset";
+
+"cmui_BSCallScreensButtonProperties_HoldAccessibilityLabel" = "Halten";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel" = "Weitere Optionen";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint" = "Doppeltippen, um weitere Optionen anzuzeigen";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel_Hide" = "Weitere Optionen ausblenden";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint_Hide" = "Doppeltippen, um die weiteren Optionen auszublenden";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityLabel" = "Anruf beenden";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityHint" = "Doppeltippen, um den aktuellen Anruf zu beenden";
+
+
+

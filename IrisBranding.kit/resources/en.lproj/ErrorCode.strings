@@ -1,0 +1,60 @@
+/* 
+  This file provides localized strings for XSI errors.
+
+  Copyright © 2016 BroadSoft, Inc. All rights reserved.
+*/
+
+/*
+ General error formatting message that includes a message and a code.
+ */
+"%1$@ %2$@" = "%1$@ %2$@";
+
+/*
+ Iris Errors
+ */
+"42000" = "Undefined error.";
+"42001" = "Internal error.";
+"42002" = "Resource is not available.";
+"42003" = "Operation cancelled.";
+"42004" = "Invalid operation parameter.";
+"42005" = "Try again.";
+"42006" = "Necessary application entitlements are missing.";
+"42007" = "Capability is not supported by configuration.";
+"42050" = "Connection failure.";
+"42051" = "Request time out.";
+"42052" = "Invalid authentication credentials.";
+"42053" = "Request malformed or unsupported.";
+"42054" = "Cannot open, modify or close file.";
+"42055" = "Too many HTTP redirects occurred.";
+"42056" = "Cannot reach or resolve host.";
+"42057" = "Malformed request body.";
+"42058" = "Malformed response data.";
+"42059" = "Cannot establish a secure connection to host.";
+"42100" = "Failed to create application database.";
+"42101" = "Database is not compatible with installed application version.  Upgrade to latest version.";
+"42102" = "Failed to persist application database.";
+"42103" = "Database query produced unexpected empty results.";
+"42200" = "License is insufficient to use application.";
+"42201" = "Mesasge gateway version is not supported.";
+"42202" = "Failed to obtain application device profile.";
+"42203" = "Unspecified message gateway error.";
+"42204" = "Contact store version is not supported.";
+"42205" = "Software-as-a-Service deployment version is not supported.";
+"42206" = "Failed to obtain Software-as-a-Service provisioning and subscriber data.";
+"42208" = "Your account has been disabled. Please check with your System Administrator.";
+"42999" = "Unspecified error.";
+
+/*
+ XSI Error Codes
+ */
+"3" = "Login failed: wrong username and/or password.";
+"12" = "Your account has been disabled. Please check with your System Administrator.";
+"20" = "Incorrect server address path.";
+"100443" = "Server address is not a valid host.";
+
+/*
+ iOS Errors
+*/
+"-1001" = "Request time out.";
+"-1005" = "Connection was lost.";
+"-1200" = "Cannot establish a secure connection to host.";

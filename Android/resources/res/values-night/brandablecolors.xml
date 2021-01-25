@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Simple & Standard Branding Colors -->
+    <!-- Simple Branding colors -->
+    <color name="PrimaryBackground">#171B1F</color>
+    <color name="SecondaryBackground">#B4B6B8</color>
+    <color name="ChatBackground">#1c2024</color>
+    <color name="IncomingChatBalloonBackground">#24282B</color>
+    <color name="OutgoingChatBalloonBackground">#24282B</color>
+
+    <!-- Standard Branding Color which includes simple branding colors -->
+    <color name="SecondaryGradient">#7891A8</color>
+    <color name="PrimaryText">#FFFFFF</color>
+    <color name="SecondaryText">#FFFFFF</color>
+    <color name="PrimaryButtonReverse">#FFFFFF</color>
+    <color name="IncomingChatBalloonText">#E6E8E8</color>
+    <color name="OutgoingChatBalloonText">#E6E8E8</color>
+    <color name="ChatPrimaryText">#B4B6B8</color>
+    <color name="ChatSecondaryText">#B4B6B8</color>
+    <color name="LoginBackground">#171B1F</color>
+
+    <!-- Color scheme for widget and notification -->
+    <color name="NotificationBg">#FFFFFF</color>
+    <color name="NougatNotificationButtonBg">#F0F0F0</color>
+    <color name="NotificationPersonaText">#808080</color>
+    <color name="WidgetBackgroundColor">#F9F7F7</color>
+    <color name="WidgetActionButtonTextColor">#000000</color>
+    <color name="WidgetButtonBackground">#FFFFFF</color>
+    <color name="WidgetHorizontalLine">#F0F0F0</color>
+
+
+    <!--newly added colors-->
+    <color name="TertiaryBackground">#44CF50</color>
+    <color name="CellSelectedBackground">#b8f2ff</color>
+    <color name="AvatarBackground">#383C40</color>
+    <color name="AvatarInitialText">#B4B6B8</color>
+    <color name="ChatIndicator">#1DC4F2</color>
+    <color name="SearchBackground">#40929596</color>
+    <color name="SearchBackgroundFocus">#40535759</color>
+    <color name="WidgetOff">#383C40</color>
+    <color name="NotificationBackground">#FFFDF2</color>
+    <color name="NotificationText">#535759</color>
+    <color name="NotificationContentText">#666666</color>
+    <color name="ProfileBackground">#24282B</color>
+
+    <!-- Advanced Branding Colors -->
+    <color name="LoginGradient">#171B1F</color>
+    <color name="ContentBackground">#1c2024</color>
+    <color name="PrimaryContentText">#FFFFFF</color>
+    <color name="SecondaryContentText">#808385</color>
+    <color name="TertiaryContentText">#737678</color>
+    <color name="Separators">#656565</color>
+    <color name="ControlBackground">#000000</color>
+    <color name="ControlText">#000000</color>
+    <color name="MenuBackground">#171B1F</color>
+    <color name="MenuText">#FFFFFF</color>
+    <color name="HeadersBackground">#171B1F</color>
+    <color name="HeadersText">#FFFFFF</color>
+    <color name="Watermark">#F0F0F0</color>
+    <color name="DimmedText">#949494</color>
+    <color name="AccentUnread">#FFFFFF</color>
+    <color name="AccentMissedCalls">#D93829</color>
+    <color name="HighlightText">#FFFFFF</color>
+    <color name="HighlightBackground">#171B1F</color>
+    <color name="AppNotification">#F2A62C</color>
+    <color name="BadgeBackground">#D93829</color>
+    <color name="BadgeText">#FFFFFF</color>
+    <color name="SymbolicGreen">#44CF50</color>
+    <color name="SymbolicOrange">#F2A62C</color>
+    <color name="SymbolicRed">#FF5C4A</color>
+    <color name="SymbolicGray">#929596</color>
+    <color name="SymbolicBlack">#FFFFFF</color>
+
+    <color name="AccentText">@color/PrimaryButton</color>
+    <color name="WidgetOn">@color/PrimaryButton</color>
+    <color name="MenuIcon">@color/PrimaryButton</color>
+
+</resources>

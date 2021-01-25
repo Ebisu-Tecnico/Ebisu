@@ -1,0 +1,15 @@
+/*
+ InfoPlist.strings
+ Iris
+ 
+ Created by Mark Sellers on 9/9/16.
+ Copyright © 2016 BroadSoft, Inc. All rights reserved.
+ */
+
+"NSContactsUsageDescription" = "De contactpersonen worden gebruikt in ad-hoc-zoeken om ze op te bellen. Er worden geen contactgegevens naar de cloud geüpload zonder uitdrukkelijk verzoek van de gebruiker.";
+"NSLocationWhenInUseUsageDescription" = "We gebruiken uw locatie om het automatisch delen van uw locatie in te schakelen en voorgestelde locatielabels te laten zien.";
+"NSPhotoLibraryUsageDescription" = "We willen graag uw fotobibliotheek gebruiken voor uw profiel en voor berichtbijlagen.";
+"NSCameraUsageDescription" = "Wij willen graag uw camera gebruiken voor videogesprekken, uw profielfoto en voor berichtbijlagen.";
+"NSMicrophoneUsageDescription" = "We willen graag de microfoon gebruiken voor audio- en videogesprekken en berichtbijlagen.";
+"NSBluetoothPeripheralUsageDescription" = "We willen graag het Bluetooth-geluid gebruiken om te bellen.";
+"NSBluetoothAlwaysUsageDescription" = "We willen graag het Bluetooth-geluid gebruiken om te bellen.";

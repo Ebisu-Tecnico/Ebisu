@@ -1,0 +1,690 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+/* General */
+"Dismiss" = "解散";
+"None" = "無し";
+"Yes" = "はい";
+"No" = "いいえ";
+"OK" = "OK";
+"Cancel" = "取り消し";
+"Retry" = "再試行";
+"edit" = "編集";
+
+/* EULA */
+"Decline" = "拒否";
+"Accept" = "同意";
+"Accept the terms & conditions." = "条件に同意する";
+"%@ cannot be used unless the terms of the end-user license agreement are accepted." = "%@の利用にはエンドユーザーライセンス契約に同意が必要です。";
+"Decline & Exit" = "拒否し終了";
+"Review EULA" = "EULAを見る";
+"License Agreement" = "ライセンス契約";
+"Send by Email" = "メールで送信";
+
+/* Tutorial */
+"Close" = "閉じる";
+"Skip" = "スキップ";
+"Get Started" = "いますぐ開始";
+
+/* Sign In / Out */
+"Username" = "ユーザ名";
+"Your iPhone Number" = "あなたのiPhone電話番号";
+"Select Region" = "地域選択";
+"Advanced Setup" = "詳細設定";
+"Server Address" = "サーバーアドレス";
+"XSI Actions" = "XSI アクション";
+"Password" = "パスワード";
+"Sign In" = "サインイン";
+"Additional Options ▾" = "追加オプション▾";
+"Show Less ▴" = "省略し表示 ▴";
+"Forgot Password" = "パスワードを忘れた場合";
+"Signing in..." = "サインイン中…";
+"A connection failure occurred" = "接続に問題が発生しました。";
+"Login Failed" = "ログイン失敗";
+"Are you sure you want to sign out?" = "本当にサインアウトしますか？";
+"The %@ field is required." = "%@欄は必須です。";
+"Host Name" = "ホスト名";
+"Phone Number" = "電話番号";
+"Login Error" = "ログインエラー";
+"Sign Out Warning" = "ログアウト警告";
+"User Name" = "ユーザ名";
+"Unknown Login Error.  Verify your connection settings and try again." = "不明のログインエラー。接続をご確認の上、再度お試しください。";
+"Your account is not authorized to use %@.  Contact your service provider for assistance." = "あなたのアカウントは%@の利用が許可されておりません。サービスプロバイダにお問い合わせください。";
+"Authentication needed" = "認証が必要";
+"Would you like to receive business calls while signed out?" = "サインアウトしてからも会社電話を受け取りますか？";
+"Access Code" = "アクセスコード";
+"Continue" = "つづく";
+"I don't have an Access Code" = "アクセスコードを持っていません";
+"Loading..." = "読み込み中...";
+"WARNING: Do not use your soft phone to dial emergency services (e.g. 911) except from your registered physical location. Dialing emergency services at a location other than the registered physical location may route emergency calls to an incorrect dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access for emergency dialing." = "警告：あなたの登録された物理的位置以外の救急サービス（例えば、119）に、ダイヤルするためにあなたのソフトフォンを使用しないでください。登録された物理的位置以外の位置で救急サービスにダイヤルすると、不正な派遣センターに救急サービスがルーティングされ、救急サービスが遅延または阻止される可能性があります。救急ダイヤルの代替アクセスを維持することをお勧めします。";
+"Update Emergency Location" = "緊急ロケーションを更新";
+"Validating location..." = "ロケーションを検証中…";
+"Location could not be validated." = "ロケーションは検証できません。";
+"Location could not be validated. Contact your system administrator." = "ロケーションは検証できません。システム管理者にお問い合わせください。";
+"Location updated." = "ロケーションが更新されました。";
+"Update 911 Location" = "緊急ロケーションをアップデート";
+"A cellular emergency call was placed" = "モバイル緊急通話が発信されました";
+"Incomplete emergency location configuration" = "緊急電話番号設定が未設定です。";
+"E911 Disclosure" = "E911開示";
+"This device does NOT support 911 calling. You MUST use a cellular or landline phone for 911 calls." = "警告：実際のロケーションが登録されていない限り、このソフトフォンから緊急通話発信は行わないでください。詳細はサービス・プロバイダにお問い合わせください。";
+"Call via VoIP" = "VoIP発信";
+"Clear Access Code" = "アクセスコードをクリア";
+"I want to sign in with..." = "以下の内容でサインインします";
+"Your iPhone number is required to allow full calling capability support." = "フル機能の通話サポートには、iPhone 番号が必要です。";
+"Enterprise Email" = "企業メール";
+"Save login" = "ログインの保存";
+"Login Information Title" = "E911公開";
+"Login Information message" = "警告：登録された物理的なロケーション以外から、ソフトフォンを使用して登録された物理的ロケーション以外の緊急サービス（例：911）にダイヤルしないでください。登録された物理的なロケーション以外の場所で緊急サービスに電話すると、緊急通話が誤ったディスパッチセンターへルーティングされ、緊急サービスを遅延させたり妨げたりする可能性があります。 緊急呼への代替アクセス方法を維持することをお勧めします。";
+"Enter iPhone Number" = "電話番号の入力";
+
+/* Side Menu */
+"Dialpad" = "ダイヤルパッド";
+"Do Not Disturb" = "着信拒否";
+"for calls" = "通話";
+"Call My Room" = "マイルームに電話発信";
+"About" = "詳細";
+"Version" = "バージョン";
+"Help" = "ヘルプ";
+"Sign Out" = "サインアウト";
+"Apps" = "アプリ";
+"Web Links" = "ウェブリンク";
+"Use VoIP" = "VoIP利用";
+"Voicemail" = "ボイスメール";
+"DnD enabled" = "着信拒否有効";
+"Dial" = "ダイヤル";
+"Type to dial" = "ダイヤルする";
+"From %@" = "%@ から";
+
+/* About */
+"Info" = "情報";
+"License" = "ライセンス";
+"Legal Notices" = "法的通知";
+"App Id" = "アプリID";
+"Build" = "ビルド";
+"Welcome Screens" = "ウェルカム画面";
+"Privacy Policy" = "プライバシー ポリシー";
+"IPV6 SUPPORT" = "IPV6サポート";
+"Server Setup" = "サーバのセットアップ";
+
+/* Search Bar */
+"Search Messages" = "メッセージ検索";
+
+/* Messages */
+"Messages" = "メッセージ";
+"You have no messages yet" = "まだメッセージがありません。";
+"Compose a new chat" = "チャットを作成";
+"New Message" = "新しいメッセージ";
+"New Announcement" = "新規アナウンス";
+"New SMS" = "新規SMS";
+"To:" = "宛先：";
+"Add Members:" = "メンバーの追加:";
+"Send" = "送信";
+"Get New Messages" = "新しいメッセージを取得";
+"Invalid Recipients" = "正しくない宛先";
+"At least one recipient must have a valid messaging ID." = "1つ以上の宛先に正しいメッセージングIDが必要です。";
+"Missing IM Address in contact" = "コンタクトにIMアドレスがありません。";
+"Invalid IM Address:" = "正しくないIMアドレス：";
+"Too Many Recipients" = "宛先が多すぎます。";
+"There is a %@ recipient limit for group messages." = "グループメッセージングは%@宛先までに制限されています。";
+"Type your announcement" = "アナウンスを入力してください";
+"Type your message" = "メッセージを入れてください";
+"You" = "あなた";
+"Choose from Photo Library" = "フォトライブラリーから選択";
+"No photos or videos are available in your photo library or the camera is being used" = "フォトライブラリーで写真やビデオを使用できない、またはカメラが使用中です。";
+"No Message Selected" = "メッセージが選択されていません。";
+"No Call Selected" = "通話が選択されていません。";
+"Reply" = "返信";
+"New Space" = "新しいスペース";
+"Name" = "名前";
+"Failed to start chat with this contact." = "この連絡先とのチャットを開始できませんでした。";
+
+/* My Profile */
+"My Profile" = "私のプロファイル";
+"⇣ Pull to Update" = "⇣ 更新するには引っ張ってください。";
+"IM Address" = "IMアドレス";
+"Call Room" = "ルームに電話発信";
+"Call" = "通話";
+"Join Room" = "ルームに参加";
+"Pull Call" = "コールプル";
+"Retrieve Call" = "通話を取り出す";
+"Change Profile Photo" = "プロファイル写真の更新";
+"Clear Profile Photo" = "プロファイル写真を削除";
+"Choose Existing Photo" = "既存の写真から選択";
+"Use Camera" = "カメラを利用";
+"What's on your mind?" = "いま思っていることは？";
+"My Status" = "状態";
+"Set My Availability" = "状態を設定";
+"Set My Location" = "自分のロケーションを設定";
+"View Shared Content" = "共有コンテンツの表示";
+"Complete your profile so your team can recognize you." = "チームのメンバーがあなたを認識できるよう、プロファイルを完成してください。";
+"from iPhone Contacts" = "iPhone連絡先より";
+"View in iPhone Contacts" = "iPhone連絡先で見る";
+"Edit My Profile" = "自分のプロファイルの編集";
+"Edit Profile" = "プロファイル編集";
+
+/* Location */
+"Suggested" = "案";
+"Add Label" = "ラベル";
+"SET LOCATION AUTOMATICALLY" = "ロケーションを自動設定";
+"SET LOCATION MANUALLY" = "ロケーションを手動設定";
+"CLEAR LOCATION AND TIME ZONE" = "ロケーションと時間帯を空欄にする";
+"No Location" = "ロケーションなし";
+"Automatic Location" = "自動ロケーション";
+"Turn on Location Services in %1$@ to enable Automatic Location sharing and to provide suggested location labels." = "%1$@からロケーションサービスをONにしてから、自動ロケーション共有とロケーション案の提供が可能となります。";
+"Share" = "共有";
+"Enter Location Name" = "ロケーション名入力";
+"Show Time" = "時間を表示";
+"Set Location Automatically" = "自動設定";
+"Set Location Manually" = "手動設定";
+"Label Name" = "ラベル名";
+
+/* Availability */
+"Automatic" = "自動";
+"Available" = "利用可能";
+"Away" = "離席中";
+"Busy" = "通話中";
+"Offline" = "オフライン";
+"Call" = "通話";
+"Meeting" = "会議";
+"Unavailable" = "確認不可";
+"Business trip - PA" = "出張";
+"Gone for the day - PA" = "退社中";
+"Lunch - PA" = "昼食";
+"Meeting - PA" = "会議中";
+"Out of office - PA" = "外出中";
+"Temporarily out - PA" = "臨時不在中";
+"Training - PA" = "トレーニング中";
+"Unavailable - PA" = "利用不可";
+"Vacation - PA" = "休暇中";
+"Choose from Directory" = "ディレクトリから選択";
+"Work" = "勤務";
+"Personal" = "個人";
+"Mobile" = "携帯電話";
+"If the Transfer Calls option is turned on, callers have an option to be transferred to the specified number before going to voicemail." = "通話転送オプションをオンにした場合、ボイスメールに送信する前に、発信者は指定した番号に転送することを選択できます。";
+"If the Transfer Calls option is turned off, unanswered calls will be sent to your voicemail." = "通話転送オプションをオフにすると、未応答の通話がボイスメールに送信されます。";
+"Add a Transfer Number" = "転送番号を追加";
+"Recent Numbers" = "最近の番号";
+"Add a New Number" = "新しい番号を追加します";
+"Enter a Number" = "番号を入れてください";
+"until %@" = "%@まで";
+"Until %@" = "%@まで";
+"%@, until %@" = "%@、%@まで";
+"Standard Options" = "標準オプション";
+"Configurable Options" = "設定可能なオプション";
+"Silent Alert" = "無音アラート";
+"Duration" = "通話時間";
+"Transfer Calls" = "通話転送";
+"Do Not Transfer" = "転送しません";
+"Forever" = "永久";
+"30 Minutes" = "30 分間";
+"45 Minutes" = "45 分間";
+"1 Hour" = "1時間";
+"2 Hours" = "2時間";
+"4 Hours" = "4時間";
+"1 Day" = "1日";
+"24 Hours" = "24時間";
+"End of Today" = "一日の終わり";
+"Custom" = "カスタム";
+"Choose a number for %@" = "%@に番号を選んでください。";
+"No phone numbers available." = "利用可能な電話番号はありません。";
+"Availability settings could not be loaded." = "可用性設定を読み込めません。";
+"Your availability could not be updated." = "あなたの可用性を更新できません。";
+"Alerting" = "アラート";
+"Select the number of rings" = "呼出し回数の選択";
+"No Alert" = "アラートなし";
+"Ring Reminder" = "呼出しリマインダー";
+"Alert Me First" = "最初に自分にアラート";
+"Ring Reminder requires VoIP mode. Go to the Main Menu to turn on VoIP." = "無オンアラートにはVoIPモードが必要です。メインメニューに移動してVoIPをオンにします。";
+"Unable to process your request. Please upgrade your current client and try again." = "リクエストを処理できませんでした。クライアントをアップグレードし、再実行してください。";
+"Ends" = "終わり";
+
+/* Call My Room */
+"Call Failed" = "通話失敗";
+/* %1$@ is replaced with the "UC-One Meet" branding string; %2$@ is replaced by the contact name; %3$@ is the localized error reason */
+"Could not launch %1$@ to join the room of %2$@.  %3$@" = "%2$@のルームに参加する%1$@を起動できません。  %3$@";
+
+/* Dial */
+"Direct calling not available.  More..." = "直接電話することができません。詳細…";
+"Phone" = "電話";
+"Call Settings" = "通話設定";
+"This device cannot make direct calls, but the call back feature can be used instead. Go to %@ and configure a call back service (such as %@) with the telephone number of the call back device. Then place the call and wait for the call back." = "このデバイスでは直接電話をかけることができませんが、代わりにコールバックを利用可能です。%@にて電話番号とコールバックサービスを設定（%@のように）し、発信を行いコールバックをお待ち下さい。";
+"Attention" = "警告";
+"Call Pull" = "コールプル";
+"Call Voicemail" = "ボイスメールに発信";
+"Dialing..." = "ダイヤル…";
+"Cellular Call" = "携帯電話";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Additional charges may apply." = "データネットワークは利用できません。代わりに携帯電話ネットワークを使用して電話をかけますか？追加料金がかかる場合があります。";
+"Personal Cellular Call" = "個人携帯電話";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Your call will be placed from this device's phone number. Additional charges may apply." = "データネットワークは利用できません。代わりに携帯電話ネットワークを使用して電話をかけますか？電話はこのデバイスの電話番号から発信されます。追加料金がかかる場合があります。";
+"There is no network available to make the call. Please try again later." = "通話に使用できるネットワークはありません。後ほどお試しください。";
+
+/* Directory */
+"Directory" = "ディレクトリ";
+"Search Contacts" = "コンタクト検索";
+"Use search to find contacts." = "コンタクト検索";
+"iPhone Address Book" = "iPhone電話帳";
+"No matches found." = "該当する件がありません。";
+"Quick Results" = "即時結果";
+"Unable to search directory" = "ディレクトリを検索できません";
+
+/* Call History */
+"Call History" = "通話履歴";
+"Private" = "プライベート";
+"Anonymous" = "匿名";
+"You have no calls yet." = "通話なし";
+"to" = "に";
+"Delete Call History?" = "通話履歴を削除しますか?";
+"Delete History" = "履歴削除";
+"Missed call" = "不在着信";
+
+/* Profile */
+"Profile" = "プロファイル";
+"Title" = "タイトル";
+"Location" = "ロケーション";
+"Work Phone" = "会社電話";
+"Extension" = "内線番号";
+"Email" = "メール";
+"Chat" = "チャット";
+"Department" = "部署";
+"Mobile Phone" = "携帯電話";
+"First Name" = "名前";
+"Last Name" = "苗字";
+"Personal Phone" = "個人電話";
+"Address" = "住所";
+"Display Name" = "表示名";
+"Enter Display Name" = "表示名を入力";
+"Enter Personal Phone" = "個人電話を入力";
+"More" = "更に";
+"Pager" = "ページャー";
+"Webex Email" = "Webexメール";
+
+/* Contacts */
+"Announcement" = "アナウンス";
+"Members" = "メンバー";
+"lastNameFirstSeparator" = ", ";
+
+/* System Notification View */
+"System Notifications" = "システム通知";
+"More ▾" = "詳細 ▾";
+"Less ▴" = "隠す ▴";
+"Clear" = "削除";
+"Try Again" = "再度お試しください。";
+"Update" = "更新";
+
+/* Settings */
+"Settings" = "設定";
+"Settings & About" = "設定と詳細情報";
+"Calling" = "通話";
+"Call Settings" = "通話設定";
+"Troubleshooting" = "トラブルシュート";
+"Detailed Logging" = "詳細ログ取得";
+"Email Logs to Support" = "サポートにログをメール送信";
+"Send Analytics" = "利用統計を送信";
+"Testing" = "テスト";
+"Create Notification Alert" = "通知アラートを生成";
+"Unable to create email log attachment." = "ログをメールに添付できません。";
+"Enabled" = "有効";
+"Disabled" = "無効";
+"Call From" = "発信者";
+"Hidden Number" = "非表示";
+"Business Phone" = "会社電話";
+"Select a number for outgoing calls." = "発信者番号を選択してください。";
+"Press and hold on the call buttons to select an outgoing number." = "発信ボタンを長押しすることで発信者番号を選択することが出来ます。";
+"Allow 3rd party Keyboard" = "3rdパーティのキーボードを許可する";
+"Allow Full Access for 3rd Party Keyboards?" = "3rdパーティのキーボードのフルアクセスを許可しますか？";
+"Allow" = "許可";
+"Don't Allow" = "許可しない";
+"Disabling third party keyboard requires application restart. Please restart the application for the change to take effect." = "3rdパーティのキーボードを無効にするには、アプリケーションの再起動が必要です。変更を有効にするには、アプリケーションを再起動してください。";
+"Warning" = "警告";
+"Selecting \"Email Logs to Support” above will send your application activity logs to us, so that we can help you, and improve the product. These logs identify you, your device, other users you've communicated with, and optionally, your employer. The logs do not include any user generated content like messages. For more information see our %@" = "上記の「サポートにログをメール送信」を選択すると、お客様のアプリケーションアクティビティログが当社に送信されますので、製品を改善することができます。これらのログは、お客様、お客様のデバイス、お客様と通信した他のユーザー、そしてオプションでお客様の雇用主を識別します。ログには、メッセージなどのユーザー生成コンテンツは含まれません。詳細について、当社の%@をご覧ください。";
+"This option allows 3rd party keyboards to access all the data that is typed, including personal data. Are you sure you want to allow 3rd party keyboards?" = "このオプションによりサードパーティキーボードは個人データを含むタイプされたデータすべてにアクセス可能になります。本当にサードパーティキーボードを許可しますか？";
+
+/* Hub Messages */
+"Enable %@" = "%@を有効にする";
+"%@ authentication failed." = "%@認証失敗";
+"Could not reach %@ server." = "%@サーバにアクセス不可";
+"Enable Hub to access your cloud applications like Google, Twitter, O365, and others.\n\nHub integrates your email, documents, meetings, and other cloud application data into your Connect experience." = "Google、Twitter、 O365などのクラウドサービスにアクセスするよう、Hubを有効にします。\n\nHubはメール・ドキュメント・ミーティングまたその他のクラウドアプリケーションのデータをコネクトと連携可能にします。";
+"The Hub Server cannot be accessed while offline." = "オフラインの間Hubサーバにアクセスできません。";
+
+"Loading" = "読込中";
+"Unknown" = "不明";
+"Not Enabled" = "無効";
+"Sending logs to support by email is not enabled." = "サポートへのログメール送信が無効です。";
+"Crash Reporting" = "クラッシュ報告";
+"Crash reporting is turned on" = "クラッシュ報告は有効です。";
+"Crash reporting is turned off" = "クラッシュ報告は無効です。";
+"The change will take effect after the app is restarted." = "変更はアプリの再起動時に適応されます。";
+
+/* Calling Configuration */
+"VoIP uses your internet data connection for incoming and outgoing calls." = "VoIP は、着信および発信通話にインターネットデータ接続を使用します。";
+"iPhone Number" = "iPhone電話番号";
+"Validate Call Back" = "コールバック検証";
+"Your Number" = "あなたの番号";
+"Dialing Service" = "ダイヤリングサービス";
+"VoIP Network" = "VoIPネットワーク";
+"All Networks" = "全てのネットワーク";
+"WiFi Only" = "WiFiのみ";
+"Cannot Call" = "通話不可";
+"Select an available Dialing Service, or adjust Calling Settings." = "使用可能な発信サービスを利用するか、通話設定にて設定を行ってください。";
+"Mobile dialing is unavailable." = "モバイルからのダイヤルが利用できません。";
+"WiFi Unavailable" = "WiFi 利用不可";
+"Alerting for BroadWorks mobile services has been enabled for this location." = "このロケーションに対してBroadWorksモバイルサービス着信が有効になりました。";
+"Alerting for BroadWorks mobile services has been disabled for this location." = "このロケーションに対してはBroadWorksモバイルサービスが有効化されていません。";
+"VoIP calling is disabled. Make sure to enable alternative number in order to make and receive calls." = "VoIP通話が無効です。通話の着発信のため代替番号を有効にしているかご確認ください。";
+"VoIP calling is enabled. By enabling this alternative location you may experience simultaneous incoming calls." = "VoIP通話が有効です。この代替ロケーションを有効にすると同時に、着信が発生することがあります。";
+"VoIP over mobile data network may incur additional charges or roaming fees" = "モバイルデータの上でのVoIP通信は追加通信費が掛かる場合があります。";
+"VoIP over mobile data network is not available." = "モバイルデータ上でのVoIPはサポートされておりません。";
+
+/* Anywhere Service Configuration */
+"Save" = "保存";
+"The server responded with an error: %@" = "サーバからエラーが返されました： %@";
+"alertAllLocationsForClickToDialCalls" = "全てのロケーションに通知";
+"phoneNumber" = "電話番号";
+"description" = "説明";
+"active" = "アクティブ";
+"broadworksCallControl" = "通話コントロール";
+"useDiversionInhibitor" = "転送を防ぐ";
+"answerConfirmationRequired" = "応答確認";
+"Add Location" = "ロケーション追加";
+"Delete Location" = "ロケーション削除";
+"Mobile Business Calling" = "モバイルビジネスコール";
+"Would you like to make and receive calls on your mobile phone using your business phone number?" = "携帯電話の発着信で会社の電話番号を使用しますか？";
+"Confirm your mobile number." = "あなたの携帯電話番号を確認してください";
+"Not Now" = "後で";
+"Unable to Set Up" = "設定できません";
+"To set up mobile business calling contact the administrator." = "モバイルビジネスコールを設定するには、管理者に連絡してください。";
+
+/* Logging & Analytics Configuration */
+"Email Logs" = "ログのメール送信";
+"Use an actual device to send support logs via email." = "サポートログのメール送信にデバイスを利用";
+
+/* Event summary */
+"Mark All as Read" = "全てを既読にする";
+"Delete" = "削除";
+"Mark as Read" = "既読にする";
+"View Profile" = "プロファイルを見る";
+
+/* Arriving message banner display.  Parm 1 is the name.  Parm 2 is the message.*/
+"NEW_TEXT_MSG" = "%1$@： %2$@";
+"ROOM_INVITE_TITLE" = "マイルーム招待状";
+"ROOM_INVITE_INFO" = "%@ はマイルームに参加するように招待されました";
+"ROOM_JOINREQUEST_TITLE" = "マイルームへの参加リクエスト";
+"ROOM_JOINREQUEST_INFO" = "%@部屋に参加することを要求しました";
+"ROOM_JOINREQUEST_PENDING" = "保留中の新規参加者依頼があります。";
+"MUC_SELF_KICK" = "%2$@ ルームから解散されました";
+"MWI_UPDATE" = "保留中のボイスメールメッセージが%1$@ 件あります";
+"RING_SPLASH" = "着信コールがリダイレクトされた";
+"DEREG_TEXT_LIMIT_EXCEEDED" = "登録されているデバイスが多すぎます。このデバイスを使用するには、再度ログインしてください";
+"DEREG_TEXT_REGISTRATION_FAILED" = "着信できません";
+
+/* Dialing Services */
+"imrn" = "コールスルー";
+"callback" = "コールバック";
+"native" = "iPhone";
+"ask" = "常時確認";
+"none" = "通話無し";
+"voip" = "VoIP発信";
+
+/* Call Forwarding */
+"Call Forwarding" = "転送";
+"Call Forwarding Always" = "無条件";
+"Call Forwarding Busy" = "話中";
+"Call Forwarding No Answer" = "無応答";
+"Call Forwarding Not Reachable" = "未到達";
+"mobilePhoneNumber" = "携帯電話";
+"Forward to #" = "転送先番号";
+"numberOfRings" = "呼出し音回数";
+"Ring Splash" = "リングスプラッシュ";
+"On" = "オン";
+"Off" = "オフ";
+"Always Forward" = "常時転送";
+
+/* My Room*/
+"My Room" = "マイルーム";
+"Room – %@" = "ルーム – %@";
+"Room – " = "ルーム – ";
+"Join Room…" = "ルームに参加…";
+"Joining Room" = "ルームに参加中";
+"Leaving Room" = "ルームを出ている";
+"Leave Room" = "ルームを出る";
+"Leave" = "離れる";
+"Join" = "参加する";
+"Joining" = "参加中";
+"Leaving" = "離れています";
+"Joined Rooms" = "参加したルーム";
+"Pull to Update Participant List" = "参加者リストを更新するために引っ張ります";
+"View Participants" = "パーティーの表示";
+"My Room Invitation" = "マイルーム招待状";
+"%@ Invited you to join My Room" = "%@ はマイルームに参加するように招待されました";
+"%@ joined the room." = "%@ はこのルームに参加しました。";
+"You joined the room." = "あなた はこのルームに参加しました。";
+"%@ left the room. %@" = "%@ はこのルームを出ました。 %@";
+"%@ left the room." = "%@ はこのルームを出ました。";
+"My Room Join Request" = "マイルームへの参加リクエスト";
+"%@ has requested to join room" = "%@部屋に参加することを要求しました";
+"View" = "見る";
+"%@'s Room" = "%@のルーム";
+"In room: %@" = "ルーム: %@";
+"Access to this room requires approval." = "この部屋へのアクセスには承認が必要です。";
+"Your request to join the room has been declined." = "あなたのルームへの参加依頼が拒否されました。";
+"Your request has timed out." = "あなたの依頼はタイムアウトです。";
+"Request Access" = "アクセスを依頼する";
+"Join the room to see any new messages." = "新しいメッセージを見るには、ルームに参加します。";
+"You have been invited to join %@'s room for a meeting.\n\nGuest Participants:" = "%@ のルームでの会議に招待されました。\n\nゲスト出席者：";
+"Guest Participants:" = "ゲスト参加者:";
+"You have been dismissed from" = "次の会議室から退出しました：";
+"and" = "および";
+"Room Dismissal" = "ルーム解散";
+"Owner" = "オーナー";
+"Enable Meeting" = "ミーティング有効化";
+"Webex - My Personal Room" = "Webex - パーソナル会議室";
+"Webex My Personal Room" = "Webex パーソナル会議室";
+"START MEETING IN" = "会議を開始するルーム";
+"Enter your Webex Personal Room address" = "Webexパーソナル会議室のアドレスを入力してください";
+"When you change these settings, it may take up to a few hours for your contacts to see your updated selection." = "これらの変更をすると、反映には数時間かかることがあります。";
+"To join %@'s meeting, click %@." = "%@さんのミーティングへは%@ から参加してください。";
+"You cannot change your selection while you are joined to your My Room. Please leave your My Room to be able to make changes to these settings." = "マイルーム参加中は選択変更できません。マイルームから退出してから設定変更してください。";
+"Guest Requests" = "ゲストリクエスト";
+"Launch Webex Meetings" = "Webexミーティングを起動";
+"Audio Only" = "音声のみ";
+"Ignore" = "無視する";
+"Room" = "ルーム";
+"You have new guest requests pending." = "新しいゲストの要請が保留中です。";
+"Copy Guest Link" = "ゲスト・リンクをコピー";
+
+/* Favorites */
+"Favorites" = "お気に入り";
+"⇣ Pull to Update Availability" = "⇣ 状態を更新するには引っ張ってください。";
+"Updating Availability..." = "状態更新中…";
+"Add to Favorites" = "お気に入りに追加";
+"Remove from Favorites" = "お気に入りから削除";
+"You have no favorites" = "お気に入りが未登録です";
+"To add a favorite tap the star icon in profiles" = "プロファイルで星をタップするとお気に入りに保存されます。";
+
+/* Groups */
+"Groups" = "グループ";
+"Chat Room %@" = "チャットルーム %@";
+"Chat Room" = "チャットルーム";
+"Some Chat" = "チャット";
+"You have no groups" = "グループがありません。";
+"You have no group members" = "グループメンバーがいません。";
+"Read only" = "読み取り専用";
+"Read Only Chat" = "読み取り専用チャット";
+"One-way Announcement" = "片方向アナウンス";
+"Rooms are not supported in this App. You can view conversations, but not send messages." = "このアプリではルームはサポートされておりません。コミュニケーションを見ることはできますがメッセージを送信することはできません。";
+"Select Groups" = "グループ選択";
+"Add Group" = "グループ追加";
+"Enter Group Name" = "グループ名入力";
+"Group Messaging" = "グループメッセージング";
+"Participants" = "参加者";
+"Recipients" = "宛先";
+"Delete Group" = "グループを削除";
+"Are you sure you want to delete the group \"%@\" (%@ members)?" = "本当に\"%@\" (%@メンバーが所属)グループを削除しますか？";
+"Are you sure you want to delete the group \"%@\" (1 member)?" = "本当に\"%@\" (1メンバーが所属)グループを削除しますか？";
+"Add To Group" = "グループに追加";
+"one-way message" = "片方向メッセージ";
+"Edit Group Name" = "グループ名編集";
+"Edit" = "編集";
+
+/* Update Password */
+"Update Password" = "パスワード更新";
+"Current Password" = "現在のパスワード";
+"New Password" = "新しいパスワード";
+"Type current password" = "現在のパスワードを入力";
+"Type new password" = "新しいパスワードを入力";
+"Verify new password" = "新しいパスワードをテスト";
+"Show passwords" = "パスワードを見る";
+"Hide passwords" = "パスワードを隠す";
+"New passwords must match" = "新しいパスワードがマッチしません";
+"Current password is incorrect" = "現在のパスワードが異なります";
+/* Parm 1 is the number of days.  Parm 2 is the singlular or plural form of "days" */
+"Password will expire in %1$@ %2$@." = "パスワードは%1$@ %2$@で期限が切れます。";
+"Your password has expired." = "あなたのパスワードは期限が切れました。";
+"Password expired - update now" = "パスワード期限が切れました。すぐ更新してください。";
+"Password will not expire." = "パスワードは期限切れしません。";
+"day" = "日";
+"days" = "日";
+
+/* Actions */
+"A valid room number for %@ has not been determined. Try again later, or contact support if the problem persists." = "%@ルームの正しい番号が確認できませんでした。後ほどお試し頂くか問題が継続する場合はサポートにご連絡ください。";
+"Valid phone number not specified for %@." = "%@に正しい番号が設定されていません。";
+"Calling %@..." = "%@に発信中…";
+"Waiting for call back..." = "コールバック待機中…";
+"Warning: Calling back at a different location." = "警告：他のロケーションがコールバックされています。";
+
+/* Voip */
+"ON HOLD" = "保留";
+"Recommended" = "推奨";
+"Voice Call" = "音声通話";
+"Video Call" = "ビデオ通話";
+"New Call" = "新しい通話";
+"Transfer" = "転送";
+"Conference" = "カンファレンス";
+"Transfer Call" = "通話を転送";
+"Select Dialing Service" = "発信サービス選択";
+"Call First" = "まず発信";
+"Transfer to %@" = "%@に転送";
+"VoIP is Off" = "VoIPはオフ";
+"To make a call, turn VoIP on" = "電話をかけるには、VoIPをオンにする";
+"VoIP - Audio Call" = "VoIP - 音声通話";
+"VoIP - Video Call" = "VoIP - ビデオ通話";
+"Call answered on another device" = "他のデバイスで応答した通話";
+"Call dropped" = "通話が切断されました";
+"Call on hold dropped" = "保留中の通話が切断されました";
+"Call %@ First" = "まず%@に発信";
+"Call Terminated" = "通話が終了されました。";
+
+/* Visual Voicemail */
+"Speaker" = "スピーカー";
+"Unknown Caller" = "不明な発信者";
+"Mark as New" = "未読にする";
+"Unknown Number" = "不明な番号";
+"You have no voicemails." = "ボイスメールはありません。";
+"Mark All as Played" = "すべてを再生済みにマークする";
+"Voicemail Settings" = "ボイスメール設定";
+"Mark as Played" = "再生済みとしてマークする";
+"Confidential" = "機密";
+"Urgent" = "緊急";
+"New voicemail" = "新しいボイスメール";
+"You have %d pending voicemail message" = "保留中のボイスメールメッセージが%d件あります";
+"You have %d pending voicemail messages" = "保留中のボイスメールメッセージが%d件あります";
+"Speaker off" = "スピーカーオフ";
+
+/* External Downloads */
+"Missing App" = "アプリケーションがありません";
+/* %@ is replaced with the "UC-One Meet" branding string */
+"%@ is required to join a room.  Would you like to download it from the App Store now?" = "ルームに参加するには%@が必要です。Appストアからダウンロードしますか？";
+
+/* Misc */
+"Error" = "エラー";
+"Done" = "完了";
+"service unavailable" = "サービス利用不可";
+"Network Error: %@" = "ネットワークエラー： %@";
+"Create" = "作成";
+"Cannot create data model." = "データモデルが作成不可です。";
+"Cannot find data model." = "データモデルが検索不可です。";
+"Invalid store location." = "店舗ロケーションが正しくありません。";
+"Persistent store is inconsistent with application version." = "永続化ストアがアプリバージョンと整合しません。";
+"Persistent store error." = "永続化ストア エラー";
+"Today" = "今日";
+"Yesterday" = "昨日";
+"Network Unavailable" = "ネットワーク利用不可";
+"Application is not compatible with jailbroken devices." = "このアプリケーションはJailbreakデバイスでは利用不可です。";
+"Exit" = "終了";
+
+/* Errors */
+"Private contact store is not valid." = "プライベートコンタクト保存場所が正しくありません。";
+"Received version %@; expecting version >= %@." = "取得したバージョン %@; 期待されるバージョン >= %@。";
+"No valid messaging gateway hosts." = "正しいメッセージゲートウェイホストがありません。";
+"Unsupported messaging gateway interface version %@." = "バージョン%@のメッセージゲートウェイインタフェースは対応していません。";
+"The request timed out" = "リクエストがタイムアウトとなりました。";
+"The request was cancelled" = "リクエストが取り消しとなりました。";
+"The request failed because it redirected too many times" = "リクエストが複数のリダイレクションにより失敗しました。";
+"Unable to deliver message." = "メッセージを配達することができません。";
+"Could not mark voicemail as played." = "ボイスメールを再生済としてマークできません。";
+"Could not mark voicemail as new." = "ボイスメールを新しいものとしてマークできません。";
+"Could not mark all voicemail messages as played." = "すべてのボイスメールメッセージを再生済としてマークできません。";
+"Voicemail could not be downloaded." = "ボイスメールはダウンロードできません。";
+"Voicemails could not be downloaded." = "ボイスメールはダウンロードできません。";
+"Voicemail could not be deleted." = "ボイスメールは削除できません。";
+"Unsupported Software-as-a-Service interface version %@." = "サポートされていないSaaSインターフェイスバージョン%@。";
+"There was a content loading error." = "コンテンツの読み込みエラーです。";
+"Your device failed to deregister from the messaging gateway successfully. This may lead to continued notifications. To resolve the issue, try to sign-in and sign-out again with a reliable network connection." = "お使いのデバイスがメッセージ・ゲートウェイから登録解除を正常に行えませんでした。これにより、継続的な通知を引き起こされる可能性があります。この問題を解決するには、信頼性の高いネットワーク接続を使用してログインおよびログアウトをもう一度お試しください。";
+
+/* Region or countries List*/
+"USA IHS" = "HIS (米国)";
+"USA Cloud" = "USA クラウド";
+"USA Beta" = "Beta (米国)";
+"EMEA" = "EMEA";
+"AUS" = "AUS";
+"FED" = "FED";
+
+/** Transfer to Mobile List*/
+"Transfer to Circuit Switch" = "モバイルに転送";
+"Your call will be transferred to:" = "あなたの通話は次に転送されます：";
+"Enter a phone number" = "電話番号を入れてください。";
+
+/* Token Login */
+"Edit Login Info" = "ログイン情報の編集";
+"My Enterprise Username" = "エンタープライズユーザー名";
+"IdP Info" = "下の「%@」ボタンをクリックすると、%@サインイン画面にリダイレクトされます。";
+"Continue Info" = "下の「%@」ボタンをクリックすると、%@サインイン画面にリダイレクトされます。";
+"Single Continue Info" = "下の \"%@\" ボタンをクリックすると、サインイン画面にリダイレクトされます";
+
+"Signle Idp Text Description" = "「続行」を選択すると、許可の申請が送られます。\n\n一度許可されると、このステップは省略され、自動でログインします。";
+
+"No Connection" = "接続なし";
+"Check your connection and try again." = "接続を確認して、もう一度お試しください。";
+"Username or password is incorrect" = "ユーザー名またはパスワードが間違っています";
+
+"Re-login required in 1 day. Please signout, re-type your password and signin again." = "1 日後に再ログインが必要です。 ログアウトし、パスワードを再入力して再ログインしてください。";
+"Re-login required in %ld days. Please signout, re-type your password and signin again." = "%ld 日後に再ログインが必要です。 ログアウトし、パスワードを再入力して再ログインしてください。";
+"Re-login required today. Please signout, re-type your password and signin again." = "本日、再ログインが必要です。 ログアウトし、パスワードを再入力して再ログインしてください。";
+"Your session has expired. Sign in again to continue." = "お使いのセッションは期限切れです。続けるにはもう一度ログインしてください。";
+"Your account has been disabled. Please check with your System Administrator." = "お客様のアカウントは無効になっています。システム管理者に連絡して確認してください。";
+"You have reached the maximum number of registered applications.This application will be unregistered." = "アプリケーションの登録可能数を超えました。このアプリケーションは登録されません。";
+"Forced sign out." = "強制的にログアウトされました。";
+"Select your region" = "地域を選択する";
+"Region" = "地域";
+
+/* Version Control */
+"A new version of the application is available." = "アプリケーションの新しいバージョンが利用可能です。";
+"A new version of the application is available. Would you like to upgrade now?" = "アプリケーションの新しいバージョンが利用可能です。今すぐアップグレードしますか？";
+"Upgrade" = "アップグレード";
+
+/* Permission Accessories */
+"Camera" = "カメラ";
+"Microphone" = "マイク";
+"%@ does not have access to your %@. To enable access, tap %@ and turn on %@" = "%@ は %@ にアクセスできません。アクセスを有効にするには、%@ をタップして %@ をオンにします";
+
+/* Privacy Policy */
+"Accept the privacy policy."= "個人情報保護方針に同意する。";
+"%@ cannot be used unless the privacy policy is accepted." = "%@ は、個人情報保護方針に同意しなければ使用できません。";
+"Review Policy" = "方針を見る";
+
+/* Appearance */
+"Appearance" = "外見";
+"THEME" = "テーマ";
+"Light" = "明るい";
+"Dark" = "暗い";
+"System" = "システム";
+"Changing the theme will apply it to the entire app." = "テーマを変更すると、アプリ全体に適用されます";

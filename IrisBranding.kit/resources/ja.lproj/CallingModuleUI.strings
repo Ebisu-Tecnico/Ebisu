@@ -1,0 +1,301 @@
+"cmui_BSVideoCallViewController_OK" = "はい";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_OK" = "はい";
+
+"cmui_BSBaseCallViewController_ErrorForCallAlert_OK" = "はい";
+
+"cmui_BSBaseCallViewController_HandoverCannotRecoverAlert_OK" = "はい";
+
+"cmui_BSBaseCallViewController_HandoverFailedAlert_OK" = "はい";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasUpdatedAlert_OK" = "はい";
+
+"cmui_BSBaseCallViewController_CallSecurityServiceWasDisabledAlert_OK" = "はい";
+
+"cmui_LoginViewController_ErrorLoadingConfigurationAlert_OK" = "はい";
+
+"cmui_ConnecticatorSampleViewController_NotImplementedAlert_OK" = "はい";
+
+"cmui_ConnecticatorSampleViewController_LoginErrorAlert_OK" = "はい";
+
+"cmui_BSAudioCallSecurityLevelPickerView_CancelBarButtonItem_Cancel" = "キャンセル";
+
+"cmui_BSCallScreensButtonProperties_CkBSCallScreensButtonTypeCancelButtonTitle" = "キャンセル";
+
+"cmui_BSCallActionsHandler_InputSourceAlert_Cancel" = "キャンセル";
+
+"cmui_BSCallActionsHandler_TransferToNewAlert_Cancel" = "キャンセル";
+
+"cmui_AppDelegate_NewCallAlert_Cancel" = "キャンセル";
+
+"cmui_AppDelegate_AddToConferenceAlert_Cancel" = "キャンセル";
+
+"cmui_AppDelegate_EnterPhoneNumberAlert_Cancel" = "キャンセル";
+
+"cmui_BSBaseCallViewController_TransferCompleted" = "転送完了";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallTransferToMobileTitle" = "モバイルに転送する";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapTitle" = "交換する";
+
+"cmui_BSBaseCallViewController_TransferCompleted_DismissAlert" = "却下する";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMuteTitle" = "ミュート";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddCallTitle" = "新しい通話";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeViewParticipantsTitle" = "参加者";
+
+"cmui_BSCallScreensDTMFKeypadView_hideKeypadButtonTitle" = "隠す";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeWebRTCSettingsButtonTitle" = "WEBRTC";
+
+"cmui_CallInfoResolver_TestCall_EchoTest" = "エコーテスト";
+
+"cmui_BSCallStateView_kBSCallStateCalling_CallStateLabelText" = "呼び出す";
+
+"cmui_ConferenceDetailsViewController_BarButtonAccessibilityLabel_Back" = "戻る";
+
+"cmui_BSAudioCallViewController_BarButtonTitle_Back" = "戻る";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_incomingCallLabel" = "音声通話にビデオを追加する";
+
+"cmui_BSCallActionsHandler_TransferToAlert_TransferToNew" = "新規に転送する";
+
+"cmui_BSIncomingCallViewController_firstAnswerButtonTitle" = "ビデオを承認する";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_secondAnswerButtonTitle" = "ビデオを承認する";
+
+"cmui_BSVideoCallViewController_kBSCallScreensButtonTypeSpeaker_Message" = "ヘッドフォンやブルートゥースが検出されない";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_incomingCallLabel" = "着信電話";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToVideoTitle" = "ビデオ通話に切り替える";
+
+"cmui_BSCallScreensButtonProperties_BSCallScreensButtonTypeSwitchToAudioTitle" = "音声通話に切り替える";
+
+"cmui_BSCallActionsHandler_TransferCallAlert_TransferToButtonTitle" = "%@に転送する";
+
+"cmui_BSCallActionsHandler_InputSource_iPhoneSpeakerAlert" = "iPhoneスピーカー";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeDialpadTitle"  = "ダイヤルパッド";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeConferenceTitle" = "会議";
+
+"cmui_CallInfoResolver_formattedPhoneNumberForCall" = "会議";
+
+"cmui_BSAudioCallInfoHandler_phoneNumberForCall" = "会議";
+
+"cmui_CallInfoResolver_ConferenceCallWithNoParticipants" = "会議";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_secondAnswerButtonTitle_Answer" = "回答";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleAudioCall_declineButton_Title" = "拒否する";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_declineButton_Title" = "拒否する";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeAddVideo_declineButton_Title" = "拒否する";
+
+"cmui_BSBaseCallViewController_securityLevelsArrayChangedWithThe_CallSecurityServiceWasUpdatedTitleAlert" = "コールセキュリティサービスが更新された";
+
+"cmui_ConferenceDetailsViewController_leftBarButtonItem_AccessibilityHint_DoubleTapToReturnToPreviousScreen" = "ダブルタップして前の画面に戻る";
+
+"cmui_BSCallActionsHandler_TransferCall_InactiveCallDisplayName" = "不明";
+
+"cmui_CallInfoResolver_ProcessDisplayName_Unknown" = "不明";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAddParticipantTitle" = "参加者を追加する";
+
+"cmui_AppDelegate_NewCallAlertTitle" = "新しい通話";
+
+"cmui_BSBaseCallViewController_ConferenceFailedToAdd_Message_Alert" = "参加者を会議に追加できない";
+
+"cmui_BSCallActionsHandler_TransferCallAlertTitle" = "転送コール";
+
+"cmui_BSBaseCallViewController_SecurityCallLevelDisabledFromAdminAlertMessage" = "コールセキュリティサービスが無効になった";
+
+"cmui_BSCallActionsHandler_InputSourceAlertTitle" = "入力ソース";
+
+"cmui_BSCallScreensDTMFKeypadView_endCallButtonTitle" = "通話終了";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeMergeTitle" = "通話の統合";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeCallParkTitle" = "パーク";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSpeakerTitle" = "スピーカー";
+
+"cmui_BSCallActionsHandler_InputSource_SpeakerAlert" = "スピーカー";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeTransferTitle" = "転送";
+
+"cmui_AppDelegate_TransferAlertTitle" = "転送";
+
+"cmui_BSAudioCallSecurityLevelPickerView_awakeFromNib_toolbarTitleLabelText" = "私のレベルを変更する";
+
+"cmui_BSAudioCallSecurityLevelPickerView_localizeView_toolbarTitleLabelText" = "私のレベルを変更する";
+
+"cmui_BBSCallStateView_setCallState_kBSCallStateOnHold" = "保留";
+
+"cmui_ConferenceDetailsViewController_Title_Participants" = "会議";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeAudioSourceTitle" = "オーディオソース";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_incomingCallLabel" = "着信ビデオ通話";
+
+"cmui_BSBackToCallControl_awakeFromNib_callStateLabel_Ongoing Call" = "通話中";
+
+"cmui_BSVideoCallViewController_completeButton_Title_Complete"  = "転送完了";
+
+"cmui_BSAudioCallViewController_completeButton_Title_Complete"  = "転送完了";
+
+"cmui_BSIncomingCallViewController_kBSIncomingControllerTypeSingleVideoCall_secondAnswerButtonTitle" = "オーディオを受け入れる";
+
+"cmui_BSAudioCallSecurityLevelPickerView_doneBarButtonItem_Done" = "完了";
+
+"cmui_BSCallActionsHandler_InputSource_HeadsetALert" = "ヘッドセット";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_ReconnectingTo" = "再接続する";
+
+"cmui_BSAudioCallInfoHandler_updateTitleAndPhoneWithDisplayName_reconnectionString_Reconnecting" = "再接続する";
+
+"cmui_BSAudioCallInfoHandler_updateForCall_reconnectionString_Reconnecting" = "再接続する";
+
+"cmui_BSBaseCallViewController_callHandoverFailed_message_CallDropped" = "電話が切れた";
+
+"cmui_BSBaseCallViewController_callHandoverStarted_message_CallOnHoldDropped" = "保留中のコールが切れた";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertMessage" = "転送に失敗した";
+
+"cmui_BSBaseCallViewController_TransferFailedAlertOK" = "はい";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityLabel" = "戻る";
+
+"cmui_BSBaseCallViewController_BackButtonAccessibilityHint" = "ダブルタップすると以前画面に移動する";
+
+"cmui_BSAudioCallInfoHandler_TitleLabelAccessibilityLabel" = "他の加入者";
+
+"cmui_BSAudioCallInfoHandler_PhoneLabelAccessibilityLabel" = "電話番号";
+
+"cmui_BSAudioCallInfoHandler_HeldCallAccessibilityHint" = "保留";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityLabel" = "通話終了";
+
+"cmui_BSAudioCallViewController_EndCallAccessibilityHint" = "ダブルタップで現在通話を切断";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityLabel" = "完全転送";
+
+"cmui_BSAudioCallViewController_CompleteButtonAccessibilityHint" = "ダブルタップして転送を完了する";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel" = "他のオプション";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint" = "ダブルタップで詳細オプションを見る";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityLabel_Hide" = "詳細オプションを隠す";
+
+"cmui_BSAudioCallViewController_MoreButtonAccessibilityHint_Hide" = "ダブルタップで詳細オプションを隠す";
+// video call
+"cmui_BSVideoCallViewController_CameraButtonAccessibilityLabel" = "カメラ";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityLabel" = "完全転送";
+
+"cmui_BaseCallViewController_CompleteButtonTitleLabel" = "完全転送";
+
+"cmui_BaseCallViewController_CompleteButtonAccessibilityHint" = "ダブルタップして転送を完了する";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityLabel" = "オーディオソース";
+
+"cmui_BSVideoCallViewController_AudioSourceButtonAccessibilityHint" = "ダブルタップで音声デバイスを表示する";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_message" = "ネイティブの電話アプリケーションから通話の再開を試みてください。";
+
+"cmui_BSBaseCallViewController_XSICall_resumeFailed_OK" = "OK";
+
+"cmui_XSICall_DisplayName_Hidden" = "隠された";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStart" = "レコードの開始";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingResume" = "録音再開";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingPause" = "録音一時停止";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeRecordingStop" = "録音停止";
+
+"cmui_BSCallScreensButtonProperties_kBSCallScreensButtonTypeSwapCamera" = "カメラ切り替え";
+
+"cmui_CallDialPadViewController_Hide_Button" = "隠す";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Title" = "ダイヤルパッド";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Title" = "パーク";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Title" = "回線の回復";
+
+"cmui_CallDialPadViewController_Dialpad_Dtmf_Placeholder" = "ダイヤル";
+
+"cmui_CallDialPadViewController_Dialpad_CallPark_Placeholder" = "内線番号をダイアルするか#を押す";
+
+"cmui_CallDialPadViewController_Dialpad_CallRetrieve_Placeholder" = "内線番号をダイアルするか#を押す";
+
+"cmui_CallsContainerViewController_Title" = "アクティブな通話";
+
+"cmui_AudioCallViewController_CallingLabel" = "呼び出し中...";
+
+"cmui_AudioCallViewController_RemoteHoldLabel" = "保留";
+
+"cmui_AudioCallViewController_ConnectingLabel" = "接続中...";
+
+"cmui_BaseCallViewController_ReconnectingPopover_Label" = "再接続中...";
+
+"cmui_BaseCallViewController_CameraSwapped_Label" = "カメラが切り替わりました";
+
+"cmui_BaseCallViewController_PoorConnection_Label" = "接続不良";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Title" = "ビデオ通話に切り替える";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Message" = "%@ が通話をビデオ通話にアップグレードするよう要請しています";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_DefaultCallerName" = "他の加入者";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Accept" = "承認";
+
+"cmui_AudioCallViewController_UpgradeToVideoAlert_Decline" = "拒否";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Title" = "着信通話";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Message" = "次の着信通話を受信する: %@";
+
+"cmui_BaseCallViewController_IncomingCallAlert_DefaultCallerName" = "不明";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Accept" = "同意";
+
+"cmui_BaseCallViewController_IncomingCallAlert_Decline" = "拒否";
+
+// BSCallScreensButtonProperties
+"cmui_BSCallScreensButtonProperties_MuteAccessibilityLabel" = "消音";
+
+"cmui_BSCallScreensButtonProperties_SpeakerAccessibilityLabel" = "スピーカー";
+
+"cmui_BSCallScreensButtonProperties_BluetoothTitle" = "ブルートゥース";
+
+"cmui_BSCallScreensButtonProperties_BluetoothAccessibilityLabel" = "ブルートゥース";
+
+"cmui_BSCallScreensButtonProperties_HeadsetTitle" = "ヘッドセット";
+
+"cmui_BSCallScreensButtonProperties_HeadsetAccessibilityLabel" = "ヘッドセット";
+
+"cmui_BSCallScreensButtonProperties_HoldAccessibilityLabel" = "保留";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel" = "他のオプション";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint" = "ダブルタップで詳細オプションを見る";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityLabel_Hide" = "詳細オプションを隠す";
+
+"cmui_BSCallScreensButtonProperties_MoreAccessibilityHint_Hide" = "ダブルタップで詳細オプションを隠す";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityLabel" = "通話終了";
+
+"cmui_BSCallScreensButtonProperties_EndAccessibilityHint" = "ダブルタップで現在通話を切断";
+
+
+

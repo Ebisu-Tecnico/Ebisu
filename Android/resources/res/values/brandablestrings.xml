@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="app_full_name">UC-One Connect</string>
+    <string name="copyright">%1$s&lt;br/&gt; © 2021 Cisco. All rights reserved.&lt;br/&gt;www.cisco.com</string>
+    <string name="broadworks_anywhere">BroadWorks Anywhere</string>
+
+    <string name="tutorial_page1_title">Simple Calling</string>
+    <string name="tutorial_page1_description">Make quick and convenient calls.</string>
+    <string name="tutorial_page2_title">Reach Out</string>
+    <string name="tutorial_page2_description">Easily look up colleagues in your organization.</string>
+    <string name="tutorial_page3_title">Scale It Up</string>
+    <string name="tutorial_page3_description">Share ideas in group chats. Or jump in a meeting with audio and video.</string>
+
+    <!--The following string is not used in reference build but only in webex calling. added here to get it translated-->
+    <string name="tutorial_page4_title">At Your Fingertips</string>
+    <string name="tutorial_page4_description">Re-connect through your call history, and check voicemail with a tap.</string>
+
+    <string name="login_footer_text"></string>
+    <string name="login_footer_linkText1"></string>
+    <string name="login_footer_linkText2"></string>
+    <string name="login_footer_linkText3"></string>
+
+    <string name="login_footer_link1"></string>
+    <string name="login_footer_link2"></string>
+    <string name="login_footer_link3"></string>
+
+</resources>

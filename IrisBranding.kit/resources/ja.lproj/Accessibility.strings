@@ -1,0 +1,35 @@
+/* 
+  Accessibility.strings
+  Iris
+
+  Created by smadhuay on 30/11/18.
+  Copyright © 2018 BroadSoft, Inc. All rights reserved.
+*/
+
+/* Profile */
+"Change Profile Picture button" = "プロファイル写真変更ボタン";
+"Photo" = "写真";
+"Back" = "後ろへ";
+"profile Avatar" = "プロファイル アバター";
+"profile Remove from Favorite" = "プロファイル お気に入りからの削除";
+"profile Add to Favorite" = "プロファイル お気に入りへの追加";
+"unread" = "未読";
+"Recent MissedCalls" = "不在着信履歴";
+"audio call" = "音声通話";
+"View My Profile" = "マイプロフィールを見る";
+"Double tap to activate." = "ダブルタップしてアクティブ化します。";
+"Change Profile Photo" = "プロファイル写真の更新";
+"New Chat" = "新規チャット";
+"Add New Group" = "新規グループの追加 ";
+"Menu" = "メニュー";
+
+/* New Message */
+"Media Attachment Button" = "添付ボタン";
+
+/* Voice Mail More Options Navigation Item*/
+"Voicemail More Options" = "ボイスメール詳細オプション";
+
+/* Call History */
+"Outgoing Call" = "発信";
+"Incoming Call" = "着信通話";
+"Missed call" = "不在着信";

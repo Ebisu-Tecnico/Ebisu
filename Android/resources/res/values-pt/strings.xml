@@ -1,0 +1,771 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="sign_out">Terminar sessão</string>
+    <string name="search_contacts">Pesquisar contactos</string>
+    <string name="join_my_room">Entrar na minha sala</string>
+    <string name="favorites">Favoritos</string>
+    <string name="groups">Grupos</string>
+    <string name="participant">Participantes</string>
+    <string name="directory">Diretório</string>
+    <string name="dialpad">Teclado de ligação</string>
+    <string name="call_history">Histórico de chamadas</string>
+    <string name="dnd">Não perturbar</string>
+    <string name="call_forward">Encaminhamento de chamadas</string>
+    <string name="pa">Assistente pessoal</string>
+    <string name="update_password">Atualizar palavra-passe</string>
+    <string name="about">Sobre</string>
+    <string name="help">Ajuda</string>
+    <string name="messages">Mensagens</string>
+
+    <string name="signing_in">A iniciar sessão...</string>
+    <string name="signing_out">A terminar sessão...</string>
+    <string name="username_hint">Nome de utilizador</string>
+    <string name="password_hint">Palavra-passe</string>
+
+    <string name="domain_hint">Ações do XSI</string>
+    <string name="eula_decline">Recusar</string>
+    <string name="eula_accept">Aceitar</string>
+    <string name="eula">EULA</string>
+
+    <string name="advance_less_option">Mostrar menos</string>
+    <string name="about_u"><u>Sobre</u></string>
+    <string name="about_header">Sobre %1$s</string>
+    <!--Added-->
+    <string name="settings_about">Configurações e sobre</string>
+    <string name="crash_reporting">Relatório de falhas</string>
+    <string name="networkerror">Falha na rede</string>
+    <string name="skip">Ignorar</string>
+    <string name="get_started">Iniciar</string>
+    <string name="send">Enviar</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="chat">Conversa</string>
+    <string name="ok">OK</string>
+    <string name="delete">Apagar</string>
+    <string name="signout_cfm">Tem certeza que deseja sair?</string>
+    <string name="delete_call_history_message"><b>Apagar histórico de chamadas?</b></string>
+    <string name="delete_history">Apagar histórico</string>
+    <string name="error">Erro</string>
+    <string name="pull_call_error">Não é possível puxar chamada.</string>
+    <!-- Action Menu Strings -->
+    <!-- Messages Screen Strings -->
+    <string name="no_messages">Ainda não tem mensagens.</string>
+    <string name="messages_suggestion">Criar uma nova conversa</string>
+    <string name="new_chat">Nova conversa</string>
+    <string name="broadcast_all">Transmitir todos</string>
+    <string name="broadcast_all_body">Esta mensagem será enviada para todos os %s. Tem certeza de que deseja enviar?</string>
+    <string name="allow_replies">Permitir respostas</string>
+    <string name="today">Hoje %s</string>
+    <string name="yesterday">Ontem %s</string>
+    <string name="to">Para:</string>
+    <string name="read_only">Apenas leitura</string>
+    <string name="chat_hint">Digite a sua mensagem</string>
+    <string name="reply_to">Responder a %s</string>
+    <string name="my_room">A minha sala</string>
+    <string name="others_room">Sala - %s</string>
+    <string name="group_chat">Sala de conversa</string>
+    <string name="company_broadcast">Transmissão da empresa</string>
+    <string name="group_name_more_user" formatted="false">%s e %s mais</string>
+    <string name="read_only_chat">Conversa apenas leitura</string>
+    <string name="launch_meet">Lançar</string>
+    <string name="read_only_message">As salas não são suportadas nesta aplicação Pode ver conversas, mas não enviar mensagens.</string>
+
+    <string name="view_profile">Exibir perfil</string>
+    <!-- Favorites Screen Strings -->
+    <string name="favorites_suggestion">Para adicionar um Favorito, toque o ícone da estrela em Perfis.</string>
+    <!-- Groups Screen Strings -->
+    <string name="no_groups">Não tem grupos.</string>
+    <string name="no_group_members">Ainda não tem membros do grupo.</string>
+    <string name="groups_suggestion">+ Adicionar grupo</string>
+    <string name="groups_members_suggestion">+ Adicionar membros do grupo</string>
+    <string name="add_group">Adicionar grupo</string>
+    <string name="select_groups">Selecionar grupos</string>
+    <string name="add_to_group">Adicionar a grupo</string>
+    <string name="enter_group_name">Inserir nome do grupo</string>
+    <string name="delete_group">Apagar grupo</string>
+    <string name="group_messaging">Mensagens de grupo</string>
+    <string name="delete_group_body" formatted="false">Tem certeza de que deseja apagar o grupo \&quot;%s\&quot; (%s membros)\?</string>
+    <string name="add_to_groups">Adicionar a grupos</string>
+    <string name="max_limit_group_title">Muitas pessoas no grupo</string>
+    <string name="max_limit_group_body">As conversas não podem ser iniciadas com mais de %s pessoas.</string>
+    <string name="group_msg_body" formatted="false">%s: %s</string>
+    <string name="you">Você</string>
+    <!-- Contacts Screen Strings -->
+    <string name="find_contacts">Utilize a pesquisa para encontrar contactos.</string>
+    <string name="no_matches_found">Nenhuma correspondência encontrada.</string>
+    <!-- DialPad Screen Strings -->
+    <string name="dialpad_digit_1">1</string>
+    <string name="dialpad_digit_2">2</string>
+    <string name="dialpad_digit_2_abc">ABC</string>
+    <string name="dialpad_digit_3">3</string>
+    <string name="dialpad_digit_3_def">DEF</string>
+    <string name="dialpad_digit_4">4</string>
+    <string name="dialpad_digit_4_ghi">GHI</string>
+    <string name="dialpad_digit_5">5</string>
+    <string name="dialpad_digit_5_jkl">JKL</string>
+    <string name="dialpad_digit_6">6</string>
+    <string name="dialpad_digit_6_mno">MNO</string>
+    <string name="dialpad_digit_7">7</string>
+    <string name="dialpad_digit_7_pqrs">PQRS</string>
+    <string name="dialpad_digit_8">8</string>
+    <string name="dialpad_digit_8_tuv">TUV</string>
+    <string name="dialpad_digit_9">9</string>
+    <string name="dialpad_digit_9_wxyz">WXYZ</string>
+    <string name="dialpad_digit_asterix">\u2217</string>
+    <string name="dialpad_digit_0">0</string>
+    <string name="dialpad_digit_0_plus">+</string>
+    <string name="dialpad_digit_ash">#</string>
+    <string name="call">Chamada</string>
+    <!-- User Profile/PresenceBean Screen Strings -->
+    <string name="my_profile">O meu perfil</string>
+    <string name="my_status">O meu status</string>
+    <string name="profile">Perfil</string>
+    <string name="add_to_favorite">Adicionar aos favoritos</string>
+    <string name="remove_favorite">Remover dos favoritos</string>
+    <string name="call_room">Ligar para a sala</string>
+    <string name="join_room">Entrar na sala</string>
+    <string name="pull_call">Puxar chamada</string>
+    <string name="profile_display_name">Nome de exibição</string>
+    <string name="profile_first_name">Nome</string>
+    <string name="profile_last_name">Apelido</string>
+    <string name="profile_title">Título</string>
+    <string name="profile_department">Departamento</string>
+    <string name="profile_location">Localização</string>
+    <string name="profile_work_phone">Telefone de trabalho</string>
+    <string name="profile_extension">Ramal</string>
+    <string name="profile_dial_in">Informações de ligação da minha sala</string>
+    <string name="profile_mobile">Telemóvel</string>
+    <string name="profile_personal_phone">Telefone pessoal</string>
+    <string name="profile_enter_personal_phone">Inserir telefone pessoal</string>
+    <string name="profile_email">Endereço de e-mail</string>
+    <string name="profile_address">Endereço</string>
+    <string name="profile_im">Endereço IM</string>
+    <string name="change_photo">Alterar foto de perfil</string>
+    <string name="use_camera">Usar a câmara</string>
+    <string name="choose_existing">Escolher foto existente</string>
+    <string name="clear_photo">Apagar foto de perfil</string>
+    <!-- BroadWorks Error Strings -->
+    <string name="bw_error_111020">O serviço Mobilidade BroadWorks não está atribuído a este utilizador.</string>
+    <string name="bw_error_111021">O serviço Mobilidade BroadWorks não está ativado para este utilizador.</string>
+    <string name="bw_error_111022">O endereço da parte que liga não foi encontrado. Este dispositivo pode não ter sido configurado para DM.</string>
+    <string name="bw_error_111023">Pedido duplicado para o mesmo contexto de chamada.</string>
+    <string name="bw_error_111024">Pedido IMRN não permitido.</string>
+    <string name="bw_error_111025">A atribuição de IMRN falhou. Isso pode indicar que todos os números IMRN estão atualmente a ser utilizados.</string>
+    <string name="bw_error_6004">Erro de validação de solicitação de XML OCI. Verifique se todos os campos foram preenchidos corretamente.</string>
+    <string name="invalidpassword">Erro: Nome de utilizador/palavra-passe inválidos</string>
+    <string name="user_name_missing">O campo Nome de utilizador é obrigatório.</string>
+    <string name="password_missing">O campo Palavra-passe é obrigatório.</string>
+    <string name="phone_number_missing">O campo Número de telefone é obrigatório.</string>
+    <string name="host_name_missing">O campo Nome do anfitrião é obrigatório.</string>
+    <string name="login_error">Erro de início de sessão</string>
+    <string name="login_failed">Falha no início de sessão</string>
+    <string name="login_error_message">Falha no início de sessão: %s. Verifique as suas configurações de início de sessão.</string>
+    <!-- BroadWorks Error Strings Ends -->
+    <string name="xsi_no_auth_error">Utilizador não autorizado</string>
+    <!-- Miscellaneous -->
+    <string name="notification_new_message">Nova mensagem</string>
+    <!--Call Options-->
+    <string name="call_option_use_system_dialer">Utilizar a aplicação de ligação padrão do sistema</string>
+    <string name="call_option_use_call_through">Utilizar o serviço de chamada através</string>
+    <string name="call_option_use_call_back">Utilizar o serviço de devolução de chamada</string>
+    <string name="call_options">Opções de chamada realizada</string>
+    <string name="pleasewait">Aguarde...</string>
+    <string name="callback_on_primarynumber">Atenção: A devolver a chamada a um local diferente!</string>
+    <string name="callbacktimeout">Erro: Tempo-limite atingido no serviço de devolução de chamada</string>
+    <!--System Notifications-->
+    <string name="system_notifications">Notificações do sistema</string>
+    <string name="edit">Editar</string>
+    <string name="done">Pronto</string>
+    <string name="clear">Limpar</string>
+    <string name="more">Mais</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="network_unavailable">A rede está atualmente indisponível</string>
+    <string name="device_registration_failed">Falha no registo de emissão com erro %s</string>
+    <string name="message_retrieval_failed">Não foi possível obter as últimas mensagens do servidor. Tente novamente mais tarde.</string>
+
+    <string name="cs_retrieval_failed">Não foi possível analisar os dados de armazenamento de contactos. Erro: %s</string>
+    <!-- Call Type Screen Strings -->
+    <string name="call_through">Chamada através</string>
+    <!-- update password -->
+    <string name="update">Atualizar</string>
+    <string name="old_password">Palavra-passe atual</string>
+    <string name="new_password">Nova palavra-passe</string>
+    <string name="type_old_password">Introduza a palavra-passe atual</string>
+    <string name="type_new_password">Introduza a nova palavra-passe</string>
+    <string name="verify_new_password">Verifique a nova palavra-passe</string>
+    <string name="old_password_incorrect">A palavra.passe atual está incorreta.</string>
+    <string name="new_password_match">As novas palavras-passe devem corresponder.</string>
+    <string name="invalid_password">Palavra-passe inválida.</string>
+    <string name="password_success_title">Palavra-passe atualizada com sucesso</string>
+    <string name="password_success_message">A palavra-passe foi alterada com sucesso.</string>
+    <string name="show_passwords">Mostrar palavras-passe</string>
+    <string name="hide_passwords">Ocultar palavras-passe</string>
+    <!-- Preferences -->
+    <string name="calling">A ligar</string>
+    <string name="dialing_service">Serviço de ligação</string>
+    <string name="dialing_method">Método de ligação</string>
+    <string name="call_back">Ligar de volta</string>
+
+
+    <string name="email_logs_to_support">Registos de e-mail para suporte</string>
+    <string name="send_analytics">Enviar análises</string>
+
+    <string name="create_notification_alert">Criar alerta de notificação</string>
+    <string name="alert_all_locations">Alertar todas as localizações</string>
+    <!--any where location-->
+    <string name="telephone_no">Número de telefone</string>
+    <string name="description">Descrição</string>
+    <string name="active">Ativo</string>
+    <string name="call_control">Controlo de chamadas</string>
+    <string name="answer_confirmation">Confirmação de resposta</string>
+    <string name="delete_location">Apagar localização</string>
+    <string name="add_location">Adicionar local</string>
+
+
+    <string name="crop__saving">A guardar imagem...</string>
+    <string name="crop__wait">Aguarde…</string>
+    <string name="crop__pick_error">Nenhuma fonte de imagem disponível</string>
+    <string name="crop__done">PRONTO</string>
+    <string name="crop__cancel" tools:ignore="ButtonCase">CANCELAR</string>
+    <!-- Publish Location-->
+    <string name="set_location">Definir localização</string>
+    <!-- About Screen Strings -->
+    <string name="tutorial">Ecrãs de boas-vindas</string>
+    <string name="info">Informações</string>
+    <string name="license">Licença</string>
+    <string name="legal">Avisos legais</string>
+
+
+    <string name="unavailable">Indisponível</string>
+    <string name="set_contact_storage_error">Não é possível atualizar o armazenamento de contactos</string>
+    <string name="number_not_available">Número indisponível</string>
+    <string name="room_info_not_available">Informações da sala indisponíveis</string>
+
+    <string name="call_fwd_busy">Quando ocupado</string>
+    <string name="call_fwd_no_answer">Quando não houver resposta</string>
+    <string name="call_fwd_not_reachable">Quando não acessível</string>
+    <string name="off">Desativar</string>
+    <string name="on">Ativar</string>
+    <string name="number_of_rings">Número de toques</string>
+    <string name="ring_splash">Encaminhamento de chamada</string>
+    <string name="forward_to">Encaminhar para #</string>
+    <string name="none">Nenhum</string>
+    <string name="license_not_available">A sua conta não está autorizada para esta aplicação - entre em contacto com o fornecedor de serviços para obter assistência.</string>
+
+    <string name="name_unavailable">Nome indisponível</string>
+    <string name="send_email_label">Escolha um cliente de e-mail a partir de...</string>
+    <string name="request_cancelled">Solicitação cancelada...</string>
+    <string name="testing_notification">A testar:</string>
+
+    <string name="message_delivery_failed">Não é possível entregar a mensagem.</string>
+    <string name="server_hint">Endereço do servidor</string>
+    <string name="ctd_userPhoto">Foto do perfil do utilizador</string>
+    <string name="ctd_logo">Logótipo</string>
+    <string name="ctd_close">Fechar</string>
+    <string name="ctd_back">Voltar</string>
+    <string name="ctd_searchButton">Pesquisar</string>
+    <string name="ctd_fab_new_chat">Nova conversa</string>
+    <string name="call_fwd_invalid_phno">Número do telefone inválido</string>
+    <string name="mood_hint">O que está a pensar?</string>
+    <string name="settings">Definições</string>
+    <string name="chat_heads">Cabeças da conversa</string>
+    <string name="broadcast_with_reply">com opção de resposta</string>
+    <string name="broadcast_one_way_message">mensagem de sentido único</string>
+    <string name="phone_number_hint">Número desse telefone</string>
+    <string name="advance_more_option">Opções adicionais</string>
+    <string name="get_new_msg">Obter novas mensagens</string>
+    <string name="content_copied">Copiado</string>
+    <string name="mark_as_read">Marcar como lido</string>
+    <string name="this_phone_number">Número desse telefone</string>
+    <string name="troubleshooting">Solução de problemas</string>
+    <string name="detailed_logging">Registo detalhado</string>
+    <string name="notifications">Notificações</string>
+    <string name="view_in_android_contacts">Visualizar nos contactos do Android</string>
+    <string name="unavailable_for_androidcontacts">Não disponível para contactos do Android</string>
+    <string name="create">Criar</string>
+    <string name="less">Menos</string>
+    <string name="password_no_expiry">A palavra-passe não expirará.</string>
+    <string name="incomplaint_server_version">Versão %s de interface de gateway de mensagens não suportadas</string>
+    <string name="call_fwd_always">Encaminhar Sempre</string>
+    <string name="password_expires_in_day">A sua palavra-passe expirará em %s dia.</string>
+    <string name="password_expires_in_days">A sua palavra-passe expirará em %s dias.</string>
+    <string name="error_password_expires_in_day">A sua palavra-passe expira em %s dia.&lt;br/&gt; Atualize a sua palavra-passe.</string>
+    <string name="error_password_expires_in_days">A sua palavra-passe expira em %s dias.&lt;br/&gt; Atualize a sua palavra-passe.</string>
+    <string name="error_password_expired_in_day">A sua palavra-passe expirou há %s dia atrás.&lt;br/&gt; Atualize a sua palavra-passe.</string>
+    <string name="error_password_expired_in_days">A sua palavra-passe expirou há %s dias atrás.&lt;br/&gt; Atualize a sua palavra-passe.</string>
+    <string name="password_expired_update_now">A sua palavra-passe expirou.</string>
+    <string name="this_phone">Este telefone</string>
+    <string name="business_call">Chamada comercial</string>
+    <string name="quick_results">Resultados rápidos</string>
+    <string name="dnd_for_calls">para chamadas</string>
+    <string name="close">Fechar</string>
+    <string name="lastNameFirstSeparator">,</string>
+
+    <string name="dialing_unavailable">Ligação indisponível</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="license_agreement">Termos de licença</string>
+    <string name="decline_exit">Recusar e sair</string>É
+    <string name="review_eula">Rever o EULA</string>
+    <string name="send_by_email">Enviar por e-mail</string>
+    <string name="forgot_password">Esqueceu a palavra-passe</string>
+    <string name="apps">Aplicações</string>
+    <string name="notification_reply">Responder</string>
+    <string name="availability">Definir a minha disponibilidade ...</string>
+    <string name="publish_location">Definir a minha localização ...</string>
+    <string name="availability_header">Definir a minha disponibilidade</string>
+    <string name="publish_location_header">Definir a minha localização</string>
+    <string name="location_set_automatically">Definir localização automaticamente</string>
+    <string name="location_set_manually">Definir localização manualmente</string>
+    <string name="automatic_location">Localização automática</string>
+    <string name="add_label_title">Adicionar etiqueta</string>
+    <string name="suggested">Sugerido</string>
+    <string name="share_location">Partilhar</string>
+    <string name="location_name">Inserir nome da localização</string>
+    <string name="location_include_time">Incluir hora do Android</string>
+    <string name="error_deleting_location">Não é possível apagar a localização. Tente novamente mais tarde.</string>
+    <string name="clear_location_and_timezone">Apagar localização e fuso horário</string>
+    <string name="enter_location_name">Inserir nome da localização</string>
+    <string name="show_time">Mostrar hora</string>
+    <string name="location_name_error">Introduza um nome de localização válido.</string>
+    <string name="unable_to_process">Não é possível processar o seu pedido. Tente novamente mais tarde.</string>
+    <string name="hub_authentication_failed">A autenticação %1$s falhou.</string>
+    <string name="hub_not_reachable_error">Não foi possível aceder ao servidor %1$s.</string>
+    <string name="enable_hub">Ativar %1$s</string>
+    <string name="bw_error_configuration_not_assigned">A configuração do dispositivo %1$s não foi atribuída à sua conta.&lt;br/&gt; Contacte o administrador do sistema.</string>
+    <string name="config_file_error">Erro ao descarregar o ficheiro de configuração %1$s.</string>
+    <string name="decline_content">%1$s não pode ser usado a menos que os termos do contrato de licença de utilizador final sejam aceites</string>
+    <string name="location_service_off">Ative os Serviços de localização em &lt;a href=&quot;&quot;&gt;%1$s&lt;/a&gt; para ativar a partilha automática de localização e fornecer as etiquetas de localização sugeridas.</string>
+    <string name="accept_content">Aceitar os termos e condições</string>
+    <string name="action_settings">Definições</string>
+    <!-- Presence State -->
+    <string name="status_offline">desligado</string>
+    <string name="status_online">disponível</string>
+    <string name="status_unavailable">indisponível</string>
+    <string name="status_away">ausente</string>
+    <string name="status_busy">ocupado</string>
+    <string name="status_call">chamada</string>
+    <string name="status_dnd">dnd</string>
+    <string name="status_meeting">reunião</string>
+    <string name="status_pending">pendente</string>
+    <string name="status_mobile">telemóvel</string>
+    <string name="status_automatic">automático</string>
+    <string name="status_away_mobile">telemóvel</string>
+    <string name="status_offline_call">chamar</string>
+    <string name="status_presenting">A apresentar</string>
+    <string name="profile_send_sms">Enviar SMS pessoal</string>
+    <!-- New states added in 2.2 -->
+    <string name="send_media">Enviar multimédia</string>
+    <string name="speak_now">Falar agora</string>
+
+    <string name="title_mark_all_messages_read">Marcar todas as mensagens como lidas?</string>
+    <string name="contacts_header">Contactos</string>
+    <string name="display_by">Visualizar por</string>
+    <string name="last_name_first">Apelido primeiro</string>
+    <string name="first_name_first">Nome primeiro</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="first_name">Nome</string>
+    <string name="last_name">Apelido</string>
+    <string name="config_file_parse_error">Erro ao obter o ficheiro de configuração %1$s.</string>
+    <string name="expired">expirado</string>
+    <string name="download">Descarregar</string>
+
+    <string name="invalid_server_path">Caminho do endereço do servidor incorreto.</string>
+    <string name="invalid_server_host">O endereço do servidor não é um anfitrião válido.</string>
+
+    <string name="hub_disabled_info">Ative %1$s para aceder às suas aplicações na nuvem, como Google, Twitter, O365 e outras. &lt;br/&gt;&lt;br/&gt;%1$s integra seus e-mails, documentos, reuniões e outros dados de aplicações na nuvem na sua experiência do %2$s.</string>
+    <string name="prevent_diverting_calls">Não desviar chamadas</string>
+    <string name="hint_display_name">Inserir nome de visualização</string>
+    <string name="title_send_email">Enviar e-mail utilizando:</string>
+    <string name="action_mark">Marcar todas como lidas</string>
+
+    <string name="new_call_room">Sala</string>
+    <string name="transfer_call">Transferir chamada</string>
+
+    <string name="use_voip">Utilizar VoIP</string>
+    <string name="voip_network">Rede VoIP</string>
+    <string name="all_network">Todas as redes</string>
+    <string name="wifi_only">Apenas Wi-Fi</string>
+    <string name="call_from">Chamada de</string>
+    <string name="hidden_number">Número oculto</string>
+    <string name="dnd_enabled">DnD ativado</string>
+    <string name="dnd_disabled">DnD desativado</string>
+    <string name="cannot_call">Não é possível ligar</string>
+    <string name="call_wifi_unavailable">O Wi-Fi não está disponível. Selecione outro serviço de ligação ou ajuste as Configurações de chamada.</string>
+    <string name="dual_persona_label">Selecione um número para realizar chamadas.</string>
+    <string name="dual_persona_business_label">Telefone comercial</string>
+    <string name="dual_persona_personal_label">Telefone pessoal</string>
+    <string name="dual_persona_apply">Prima sem soltar os botões de chamada para selecionar um número de saída.</string>
+    <string name="callbar_format">%1$s - %2$s</string>
+
+    <string name="push_notification_logout_enable">Gostaria de receber chamadas comerciais quando estiver desligado?</string>
+    <string name="yes">Sim</string>
+    <string name="push_notification_enable_deny">Não</string>
+
+    <string name="bwks_services_disabled">Os alertas para serviços móveis da BroadWorks foram desativados para este local.</string>
+    <string name="bwks_services_enabled">Os alertas para serviços móveis da BroadWorks foram ativados para este local.</string>
+    <string name="bwks_services_unavailable">A ligação com o serviço móvel da BroadWorks não está disponível.</string>
+    <string name="bwks_voip_services_enabled">A chamada VoIP está ativada. Ao ativar esta localização alternativa, pode ocorrer mais de uma chamada recebida simultaneamente.</string>
+    <string name="missing_device_config">Configuração do dispositivo ausente</string>
+    <string name="voicemail">Correio de voz</string>
+    <string name="support_links">Ligações da web</string>
+    <string name="voip_mode">Modo VoIP</string>
+
+    <string name="permission_group_storage">Armazenamento</string>
+    <string name="permission_group_contacts">Contactos</string>
+    <string name="permission_group_location">Localização</string>
+    <string name="permission_error_title">Erro de permissão</string>
+    <string name="permission_group_drawoverapps">Obter outras aplicações</string>
+
+    <string name="choose_attachment">Escolher</string>
+    <string name="attachment_preview_title">Anexo</string>
+    <string name="error_message_gateway">Nenhum anfitrião de gateway de mensagens.</string>
+
+    <string name="leave_room">Sair&lt;br/&gt; da sala</string>
+    <string name="call_room_swipe_btn">Ligar&lt;br/&gt; para a sala</string>
+    <string name="leave_all_joined_rooms">Sair de todas as salas atuais</string>
+    <string name="leave_rooms">Sair de todas as salas</string>
+    <string name="copy_my_room_invitation">Copiar o convite da minha sala</string>
+    <string name="email_my_room_invitation">Enviar o convite da minha sala por e-mail</string>
+    <string name="copy_guest_join_link">Copiar ligação do convidado</string>
+    <string name="joined_rooms">Salas atuais</string>
+    <string name="participants">Participantes</string>
+    <string name="leave">Sair</string>
+    <string name="myroom_invitation_gc">Participantes convidados: &lt;br/&gt;%1$s</string>
+    <string name="myroom_invitation_audio">&lt;br/&gt;Apenas áudio: %1$s</string>
+    <string name="myroom_invitation_subject">%1$s : Entrar na Minha sala</string>
+    <string name="user_leftroom_message"><![CDATA[<b>%1$s</b>]]>saiu da sala. %2$s</string>
+    <string name="user_joinroom_message"><![CDATA[<b>%1$s</b>]]>entrou na sala. %2$s</string>
+    <string name="your_joinroom_message"><![CDATA[<b>Você</b>]]>entrou na sala. %1$s</string>
+    <string name="user_inroom_message"><![CDATA[<b>Na sala:</b>]]>%1$s</string>
+    <string name="pn_room_invite_content">%1$s convidou para entrar na Minha sala.</string>
+    <string name="pn_room_invite_title">Convite para a Minha sala</string>
+    <string name="view_participants">Visualizar participantes</string>
+    <string name="leave_all_room_message">Tem a certeza que pretende sair de todas as salas em que entrou?</string>
+    <string name="leave_all_rooms_dialog_title">Sair de todas as salas atuais?</string>
+    <string name="menu_call">Chamada</string>
+    <string name="leave_room_message">Sair de uma sala encerrará as chamadas e partilha correspondentes</string>
+    <string name="menu_leave_room">Sair da sala</string>
+    <string name="unable_to_deliver_message">Não é possível entregar a mensagem</string>
+    <string name="reject">Rejeitar</string>
+    <string name="your_joinroom_message_history">Você entrou na sala.</string>
+    <string name="user_joinroom_message_history">%1$s entrou na sala.</string>
+    <string name="user_leaveroom_message_history">%1$s saiu da sala.</string>
+    <string name="guest_requests">Pedidos de convidados</string>
+    <string name="guest_pending_request">Tem novos pedidos de convidados pendentes.</string>
+    <string name="guest_request_join_message">%1$s convidou para entrar na sala</string>
+    <string name="guest_request_join_title">Pedido para entrar na minha sala</string>
+    <string name="view">Visualizar</string>
+    <string name="continue_button">Continuar</string>
+    <string name="access_code">Código de acesso</string>
+    <string name="no_access_code">Eu não tenho um código de acesso</string>
+    <string name="load">A carregar...</string>
+    <string name="preferences">Preferências</string>
+    <string name="unable_to_start_call">Não é possível iniciar a chamada. Tente novamente mais tarde.</string>
+    <string name="invalid_access_code">Código de acesso inválido</string>
+    <!-- Voicemail Changes -->
+    <string name="empty_call_log">O histórico de chamadas está vazio.</string>
+    <string name="calllog_title_not_today">%1$s&lt;br/&gt;%2$s</string>
+    <string name="voicemail_title_not_today">%1$s %2$s</string>
+    <string name="calllog_title_today">%1$s</string>
+    <string name="calllog_title_yesterday">Ontem, às %1$s</string>
+    <string name="calllog_details_today">Hoje</string>
+    <string name="calllog_details_yesterday">Ontem</string>
+    <string name="voicemail_action_button_speaker">Alta-voz</string>
+    <string name="voicemail_action_button_call">Chamada</string>
+    <string name="voicemail_action_button_delete">Apagar</string>
+    <string name="voicemail_action_button_mark_new">Marcar como novo</string>
+    <string name="delete_voice_message">Apagar correio de voz</string>
+    <string name="confirm_voice_mail_deletion">Tem a certeza que pretende eliminar o seu correio de voz?</string>
+    <string name="confirm_all_voice_mail_deletion">Tem a certeza que pretende eliminar todos os correios de voz?</string>
+    <string name="empty_voice_mail">A caixa de entrada do correio de voz está vazia.</string>
+    <string name="title_select_ucaas">Selecionar UCaaS</string>
+    <!-- temp -->
+    <string name="unable_to_download_voicemails">Não foi possível descarregar os correios de voz</string>
+    <string name="unable_to_download_voicemail">Não foi possível descarregar o correio de voz</string>
+    <string name="unable_to_play_video_voicemail">O correio de voz em vídeo não pode ser reproduzido</string>
+    <string name="unable_to_voicemail_new">Não foi possível marcar o correio de voz como novo</string>
+    <string name="unable_to_delete_voicemail">Não foi possível eliminar o correio de voz</string>
+    <string name="btn_join_room">Entrar&lt;br/&gt; na sala</string>
+    <string name="unknown_caller">Chamador desconhecido</string>
+    <string name="unknown_number">Número desconhecido</string>
+    <!-- SMS Changes -->
+    <string name="new_sms">Nova SMS</string>
+    <string name="new_sms_message">Nova mensagem SMS</string>
+    <string name="new_sms_message_hint">Escreva a sua mensagem SMS</string>
+    <string name="sms_message">Mensagem SMS</string>
+    <string name="sms">SMS</string>
+    <string name="add_to_phone_contacts">Adicionar aos contactos do telefone</string>
+    <string name="add_to_existing_contact">Adicionar ao contacto existente</string>
+    <string name="voip_unavailable_emergency_number">Selecione um Serviço de marcação disponível ou ajuste as Configurações de chamada.</string>
+    <!--strings moved from brandable strings starts here-->
+    <string name="version_number">Versão %s</string>
+    <string name="build_number">Compilação %s</string>
+    <string name="UC_One_Hub">Terminal</string>
+    <string name="app_id">ID da aplicação</string>
+    <string name="call_settings">Configurações de chamada</string>
+    <string name="title_select_region">Selecionar a região</string>
+    <string name="ihs_1">BTBC IHS</string>
+    <string name="ihs_2">BroudCloud PBX</string>
+    <string name="region_manual">Configuração avançada</string>
+    <string name="application_not_compatible_with_rooted_devices">O aplicativo não é compatível com dispositivos roteados.</string>
+    <!-- To be translate the below string later.. Don't include any strings in this section -->
+    <!--Nordic presence string changes -->
+    <string name="presence_nordic_duration">Duração</string>
+    <string name="presence_nordic_transfer_call">Transferir chamadas</string>
+    <string name="presence_nordic_silent_mode">Alerta de silêncio</string>
+    <string name="presence_nordic_silent_note">O alerta de silêncio requer o modo VoIP. Aceda ao Menu principal para ligar o VoIP.</string>
+    <string name="presence_nordic_dnt">Não transferir</string>
+    <string name="presence_nordic_duration_option_1">Para sempre</string>
+    <!--<string name="presence_nordic_duration_option_2">30 Minutes</string>-->
+    <!--<string name="presence_nordic_duration_option_3">45 Minutes</string>-->
+    <!--<string name="presence_nordic_duration_option_4">1 Hour</string>-->
+    <!--<string name="presence_nordic_duration_option_5">2 Hours</string>-->
+    <!--<string name="presence_nordic_duration_option_6">4 Hours</string>-->
+    <!--<string name="presence_nordic_duration_option_7">24 Hours</string>-->
+    <string name="presence_nordic_duration_option_8">Fim de hoje</string>
+    <string name="presence_nordic_duration_option_9">Personalizar</string>
+    <string name="presence_nordic_duration_option_10">Termina</string>
+    <string name="presence_nordic_transfer_call_option_1">Adicionar um novo número</string>
+    <string name="presence_nordic_transfer_call_option_2">Escolher a partir do diretório</string>
+    <string name="presence_nordic_transfer_call_enabled_note">Se a opção de Transferir chamadas estiver ligado, os chamadores poderão ser transferidos para o número especificado antes do correio de voz.</string>
+    <string name="presence_nordic_transfer_call_disabled_note">Se a opção de Transferir chamadas estiver desligada, as chamadas não atendidas serão enviadas para o correio de voz.</string>
+    <string name="presence_nordic_transfer_call_number_title1">Adicionar um número de transferência</string>
+    <string name="presence_nordic_transfer_call_number_title2">Números recentes</string>
+    <string name="presence_nordic_choose_date">Escolher data</string>
+    <string name="presence_nordic_choose_contact">Escolher um número para</string>
+    <string name="presence_nordic_work">Trabalho</string>
+    <string name="presence_nordic_mobile">Telemóvel</string>
+    <string name="presence_nordic_until">Até\u0020</string>
+    <string name="presence_nordic_until_exp">até\u0020</string>
+    <string name="presence_wrong_date_title">Não pode guardar data</string>
+    <string name="presence_wrong_date_message">Selecione uma hora no futuro.</string>
+    <!-- New Presence states -->
+    <string name="status_default_presence_label">Opções padrão</string>
+    <string name="status_nordic_presence_label">Opções configuráveis</string>
+    <string name="status_business_trip">viagem de negócios</string>
+    <string name="status_gone_for_day">fim para o dia</string>
+    <string name="status_lunch">almoço</string>
+    <string name="status_out_of_office">ausente do escritório</string>
+    <string name="status_temp_out">temporariamente ausente</string>
+    <string name="status_training">formação</string>
+    <string name="status_vacation">férias</string>
+    <string name="status_advance_meeting">reunião</string>
+    <!-- Nordic Error Strings -->
+    <string name="nordic_set_presence_fails">A sua disponibilidade não pode ser atualizada.</string>
+    <string name="nordic_presence_directory_lookup_fails">Nenhum número de telefone atribuído.</string>
+    <string name="nordic_presence_edit_fails">A configurações de disponibilidade não foram carregadas.</string>
+
+    <string name="nordic_presence_one_minute">Um minuto</string>
+    <string name="nordic_presence_minutes">%d minutos</string>
+    <string name="nordic_presence_hour">%d Hora</string>
+    <string name="nordic_presence_hours">%d Horas</string>
+
+    <!-- #1 Ends here -->
+    <string name="privacy_policy">Política de privacidade</string>
+    <string name="disabled">Desativado</string>
+    <string name="mobile_business_calling">Chamada comercial de telemóvel</string>
+    <string name="phNum_config_not_now">Não agora</string>
+    <string name="unable_to_setup">Impossível configurar</string>
+    <string name="unable_to_setup_msg">Para configurar as chamadas comerciais de telemóvel contacte o administrador.</string>
+    <string name="confirm_mobile_number">Confirme o seu número de telemóvel.</string>
+    <string name="bwks_number_config_text">Pretende efetuar e receber chamadas no seu telemóvel utilizando o seu número de telemóvel comercial?</string>
+    <string name="language_code">pt_PT</string>
+    <string name="edit_access_code">Limpar código de acesso</string>
+    <string name="notification_channel_sound">Notificações de conversa (Som)</string>
+    <string name="notification_channel_silent">Notificações de conversa (Silêncio)</string>
+
+
+    <string name="new_broadcast">Novo anúncio</string>
+    <string name="broadcast_hint">Introduza o seu anúncio</string>
+    <string name="broadcast">Novo anúncio</string>
+    <string name="one_way">Anúncio de sentido único</string>
+    <string name="view_shared_content">Visualizar conteúdo partilhado</string>
+    <string name="unavailable_network">Rede indisponível</string>
+    <string name="cellular_call">Chamada de telemóvel</string>
+    <string name="ott_with_broadworks">A rede de dados está indisponível. Em alternativa, pretende fazer a chamada utilizando a rede celular? Podem ser aplicadas tarifas adicionais.</string>
+    <string name="personal_cellular_call">Chamada de telemóvel pessoal</string>
+    <string name="ott_with_out_broadworks">A rede de dados está indisponível. Em alternativa, pretende fazer a chamada utilizando a rede celular? A sua chamada será efetuada a partir deste número de telefone. Podem ser aplicadas tarifas adicionais.</string>
+    <string name="access_to_room_title">Entrar na sala %1$s</string>
+    <string name="access_to_room_content">O acesso a esta sala requer aprovação.</string>
+    <string name="request_access">Solicitar acesso</string>
+    <string name="access_to_room_declined">Pediu para entrar na sala e foi recusado.</string>
+    <string name="access_to_room_time_out">O seu pedido expirou.</string>
+    <string name="subscriber_request_pending">Tem novos pedidos de subscritor pendentes.</string>
+    <string name="subscriber_requests">Pedidos para entrar na sala</string>
+    <string name="access_to_room_accepted">O seu pedido para entrar na sala foi aceite.</string>
+    <string name="pager_number">Outro número</string>
+    <string name="call_no_network">Não há qualquer rede disponível para fazer a chamada. Tente novamente mais tarde.</string>
+    <string name="request_accepted">%1$s foi aceite</string>
+    <string name="request_declined">%1$s foi recusado</string>
+    <string name="request_processing">Pedido em processamento</string>
+    <string name="voicemail_action_button_mark_read">Marcar como reproduzida</string>
+    <string name="voicemail_settings">Configurações do correio de voz</string>
+    <string name="call_voicemail">Chamar correio de voz</string>
+    <string name="unable_to_voicemail_read">Não foi possível marcar o correio de voz como reproduzido</string>
+    <string name="guest_link_text">Foi convidado para entrar na sala de %1$s para uma reunião\.&lt;br/&gt;Utilizadores de %2$s:&lt;br/&gt;Entrar na sala de %1$s\ em %2$s.&lt;br/&gt;Participantes convidados&lt;br/&gt;%3$s</string>
+    <string name="voip_is_off">O VoIP está desligado</string>
+    <string name="voip_off_make_call">Para efetuar uma chamada, ligue o VoIP.</string>
+    <string name="request_timeout">O pedido expirou</string>
+    <string name="no_guest_request">Não tem pedidos de convidados pendentes</string>
+
+    <!-- Strings to get Translated -->
+    <string name="voicemail_confidential">Confidencial</string>
+    <string name="voicemail_urgent">Urgente</string>
+    <string name="email_logs_disclaimer_message">Selecionando \&quot;Enviar por e-mail registos para assistência\&quot; acima enviará para nós os seus registos de atividade da aplicação, de modo a podermos ajudá-lo e a melhorar o produto. Estes registos identificam o utilizador, o seu dispositivo, outros utilizadores com quem comunicou e, opcionalmente, o seu funcionário. Os registos não incluem quaisquer conteúdos gerados do utilizador, como mensagens. Para obter mais informações, consulte a nossa %1$s.</string>
+    <string name="join_room_message">Entre na sala para ver todas as novas mensagens.</string>
+    <string name="room_dismissal_title">Saída da sala</string>
+    <string name="room_dismissal_content">Saiu da sala %s</string>
+
+    <!-- Unused Strings -->
+    <string name="pager">Pager</string>
+
+    <!-- Foreground Notification Service -->
+
+    <string name="foreground_notification_signin">Iniciar sessão</string>
+    <string name="foreground_notification_call_transfer">Transferir chamada</string>
+    <string name="foreground_notification_call_pull">Mover chamada</string>
+    <string name="foreground_notification_settings">Definições</string>
+    <string name="callback_number_string">*11</string>
+
+    <!-- Call Feature Widget -->
+    <string name="widget_login_text">Iniciar sessão</string>
+    <string name="widget_call_transfer">Transferir chamada</string>
+    <string name="widget_call_move">Mover chamada</string>
+    <string name="widget_call_settings">Definições</string>
+    <string name="widget_network_unavailable">A ligação de rede não está disponível.</string>
+    <string name="widget_call_transfer_error">Transferir chamada liga uma chamada efetuada a uma segunda chamada.</string>
+    <string name="widget_call_move_error">Mover chamada move uma chamada efetuada entre o seu telemóvel e outro dispositivo.</string>
+    <string name="widget_call_api_error">O pedido expirou.</string>
+    <string name="widget_tap_to_continue_text">Toque para continuar.</string>
+    <string name="widget_call_transfer_success">Chamada transferida.</string>
+
+    <!-- Persona Information -->
+    <string name="persona_default_text_nougat" formatted="false">\u2022 %s %s</string>
+    <string name="persona_default_text" formatted="false">%s %s</string>
+    <string name="persona_widget_default_text" formatted="false">\u2022 %s %s</string>
+    <string name="persona_hidden_text">Oculto</string>
+    <string name="persona_business_text">Comercial</string>
+    <string name="persona_personal_text">Pessoal</string>
+    <string name="notification_channel_ongoing_widget">Notificações de miniaplicação (em curso)</string>
+
+    <string name="room_owner">Proprietário</string>
+    <string name="room_dismissal_content_owner">%s foi retirado da sua Sala</string>
+    <string name="short_name">Formato de nome abreviado</string>
+    <string name="fullName">Nome completo</string>
+    <string name="first_name_last_initial">Nome e inicial do apelido</string>
+    <string name="first_initial_last_name">Inicial do nome e apelido</string>
+    <string name="first_name_only">Apenas nome</string>
+    <string name="last_name_only">Apenas apelido</string>
+    <string name="short_name_message_for_non_asian_name">Os nomes em chinês, japonês e coreano não são afetados por esta configuração e aparecerão como nomes completos.</string>
+    <string name="alert_me_first">Alertar-me primeiro</string>
+    <string name="no_alert">Nenhum alerta</string>
+    <string name="select_number_of_rings">Selecione o número de toques</string>
+    <string name="ring_reminder">Lembrete de toque</string>
+    <string name="alerting">Alertas</string>
+    <string name="voip_video_call">VoIP - Chamada de vídeo</string>
+    <string name="voip_audio_call">VoIP - Chamada de áudio</string>
+    <string name="to_hunt_group_name">para %s</string>
+    <string name="webex_my_personal_room">Webex - A minha sala pessoal</string>
+    <string name="meeting">Reunião</string>
+    <string name="start_meeting_in">INÍCIO DA REUNIÃO EM</string>
+    <string name="webex_url_pre_text">Introduza o endereço da sua Sala pessoal Webex</string>
+    <string name="webex_room_description">A seleção de \&quot;Webex-A minha sala pessoal\&quot; acima terá impacto na sua próxima experiência de reunião.</string>
+    <string name="private_number">Privado</string>
+
+    <string name="error_token_expires_in_day">Novo login necessário em 1 dia. Encerre a sessão, volte a introduzir a sua palavra-passe e inicie sessão novamente.</string>
+    <string name="error_token_expires_in_days">Novo login necessário em %s dias. Encerre a sessão, volte a introduzir a sua palavra-passe e inicie sessão novamente.</string>
+    <string name="error_token_expires_today">Novo login necessário hoje. Encerre a sessão, volte a introduzir a sua palavra-passe e inicie sessão novamente.</string>
+    <string name="joining_room">Entrar na sala</string>
+
+    <string name="call_control_notification">Notificação de controlo de chamadas</string>
+    <string name="presence_v3_v4_compatability_issue">Não é possível proceder com o seu pedido. Por favor atualize a sua aplicacão e tente de novo.</string>
+    <string name="side_menu_icon">Menu Lateral</string>
+    <string name="native_contacts_hint">Botão dos Contactos Locais</string>
+    <string name="play_pause_button">Botão de ouvir e de pausa do Voice Mail</string>
+    <string name="contact_profile_photo">Fotografia do perfil do contacto</string>
+    <string name="webex_join_room">Para entrar na reunião do %1$s, clique em %2$s.</string>
+    <string name="webex_room_disabled">Não é possível alterar a sua seleção ao mesmo tempo que está a utilizar a sua sala My Room. Por favor saia da sua sala My Room para poder proceder com a alteracão destas preferências.</string>
+    <string name="international_number_rejected">O número marcado %1$s foi rejeitado porque chamadas internacionais nao sao permitidas pelo Plano de marcações de Saida.</string>
+    <string name="dialpad_hint">Marcar</string>
+    <string name="landing_page_error">@string/unable_to_process</string>
+    <string name="add_label">Adicionar etiqueta</string>
+    <string name="clear_location">Não definir a localização</string>
+    <string name="android_contact">dos contactos Android</string>
+    <string name="speaker_off">Altifalante desligado</string>
+    <string name="dialpad_sip_hint">Digitar para marcar</string>
+    <string name="edit_profile">Editar perfil</string>
+    <string name="enter_number">Introduzir número</string>
+    <string name="label_name">Nome da etiqueta</string>
+    <string name="avatar_note">Complete o seu perfil para que a sua equipa possa reconhecê-lo.</string>
+    <string name="edit_my_profile">Editar o meu perfil</string>
+    <string name="webex_call">Webex Calling</string>
+    <string name="no_voicemails">Não tem mensagens de voz.</string>
+    <string name="no_calls">Não tem chamadas.</string>
+    <string name="no_favorites">Não tem favoritos.</string>
+    <string name="dual_persona_dialpad">De %s</string>
+    <string name="enter_phone_number">Introduzir número de telefone</string>
+    <string name="voicemail_action_mark__all_played">Marcar todas como reproduzidas</string>
+    <string name="launch_webex_meeting">Inicia o Webex Meetings</string>
+    <string name="enable_meeting">Ativar reunião</string>
+    <string name="myroom_invitation">Foi convidado a entrar na sala de %1$s\ para uma reunião.&lt;br/&gt;&lt;br/&gt;</string>
+    <string name="room_not_active_general_messgae">Ao alterar estas definições, os seus contactos podem demorar algumas horas a ver a sua seleção atualizada</string>
+    <string name="unrestricted_data_message"><![CDATA[Para receber <b>Mensagens e chamadas</b> com a aplicação em segundo plano, ative <b>Utilização de dados ilimitada</b>]]></string>
+    <string name="no_call_selected">Nenhuma chamada selecionada</string>
+    <string name="no_message_selected">Nenhuma mensagem selecionada</string>
+    <string name="contact_parse_error">Não é possível analisar os dados de armazenamento de contactos</string>
+    <string name="join_meeting">Entrar na reunião</string>
+    <string name="anonymous_number">Anónimo</string>
+    <string name="confirmation_text">ATENÇÃO: não utilize o seu telefone virtual para ligar para os serviços de emergência (112), exceto na localização física registada. A utilização num local diferente da localização física registada pode encaminhar as chamadas para o 112 para um centro de expedição incorreto, potencialmente atrasando ou até mesmo impedindo os serviços de emergência. É recomendado que mantenha um acesso alternativo para contactar os serviços de emergência.</string>
+    <string name="confirmation_title">Divulgação E112</string>
+
+    <string name="mobile_dialing_is_unavailable">A marcação móvel está indisponível.</string>
+    <string name="mandatory_update_message">Está disponível uma nova versão da aplicação.</string>
+    <string name="optional_update_message">Está disponível uma nova versão da aplicação. Quer atualizar agora?</string>
+    <string name="upgrade">Atualizar</string>
+    <string name="ignore">Ignorar</string>
+    <string name="permission_call_log">Registos de chamadas</string>
+    <string name="voicemail_service_off">As mensagens de voz estão desativadas. Contacte o administrador.</string>
+    <string name="chat_error">Não foi possível começar a conversar com este contacto.</string>
+    <string name="remove">Remover</string>
+    <string name="add_participants">Adicionar participantes</string>
+    <string name="waiting_callback">A aguardar rechamada...</string>
+    <string name="new_space_add_members">Adicionar membros:</string>
+    <string name="new_space">Novo espaço</string>
+    <string name="new_space_space_name">Nome do espaço:</string>
+    <string name="new_message">Nova mensagem</string>
+    <string name="edit_group_name">Editar nome do grupo</string>
+
+    <string name="selectnumber">Selecionar número</string>
+    <string name="play_voicemail_other_app">Gostaria de experimentar outra aplicação?</string>
+    <string name="profile_scf">Webex E-mail</string>
+    <string name="voip">Chamar VoIP</string>
+    <string name="add">Adicionar:</string>
+    <string name="unable_to_play_voicemail">Não foi possível reproduzir o correio de voz</string>
+    <string name="phone_number_text">O seu número de telefone é necessário para permitir suporte total à capacidade de chamada.</string>
+    <string name="direct_calling_unavailable_alert_title">Atenção</string>
+    <string name="direct_calling_unavailable_warning">Chamada direta não disponível. Mais...</string>
+    <string name="direct_calling_unavailable_information">Este dispositivo não consegue efetuar chamadas diretas, mas a funcionalidade de retorno de chamada pode ser utilizada como alternativa. Aceda a %1$s e configure um serviço de retorno de chamada (como, por exemplo, %2$s) com o número de telefone do dispositivo para retorno de chamada. Em seguida, efetue a chamada e aguarde pelo retorno de chamada.</string>
+    <string name="unable_to_search_directory">Não é possível pesquisar no diretório</string>
+    <string name="blank_space">espaço em branco</string>
+    <string name="accept_privacy_content">Aceitar a Política de Privacidade</string>
+    <string name="decline_privacy_content">%1$s não pode ser utilizado a menos que aceite a Política de Privacidade</string>
+    <string name="review_privacy">Rever a política</string>
+    <string name="sign_out_warning">Aviso de fim de sessão</string>
+    <string name="offline_sign_out_message">Não foi possível anular o registo do seu dispositivo com êxito a partir do gateway de mensagens. Isto poderá fazer com que continue a receber notificações. Para solucionar o problema, experimente iniciar e terminar sessão novamente com uma ligação estável.</string>
+
+    <string name="outgoing_call">Chamada realizada</string>
+    <string name="checkbox">Caixa de verificação</string>
+    <string name="appearance">Aspeto</string>
+    <string name="light">Claro</string>
+    <string name="dark">Escuro</string>
+    <string name="device">Sistema</string>
+    <string name="theme">Tema</string>
+    <string name="theme_apply">A alteração do tema será aplicada a toda a aplicação</string>
+    <string name="editing">Editar</string>
+    <string name="swipe">Deslizar para a %1$s para abrir %2$s</string>
+    <string name="new_count">%1$s novo(s)</string>
+    <string name="widget_call_transfer_note">Tem de haver duas chamadas ativas antes de uma tentativa de transferência.</string>
+    <string name="voip_description">O VoIP utiliza a sua ligação de dados à Internet para chamadas recebidas e realizadas.</string>
+    <string name="webex_presence_status_in_call">Em chamada</string>
+    <string name="checkbox_selected">%s está selecionada</string>
+
+</resources>

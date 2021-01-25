@@ -1,0 +1,188 @@
+"OK" = "OK";
+
+"Cancel" = "Annuleren";
+
+"Transfer completed" = "Doorverbinden afgerond";
+
+"Call Back" = "Terugbellen";
+
+"Call Through" = "Bellen via";
+
+"recording" = "opnemen";
+
+"Transfer to Mobile" = "Doorverbinden naar mobiel";
+
+"Your call will be transferred to:" = "Uw gesprek wordt doorverbonden naar:";
+
+"Incomplete emergency location configuration" = "Onvolledige noodoproep instellingen";
+
+"Location Updated Successfully" = "Locatie update geslaagd";
+
+"recording paused" = "opname gepauzeerd";
+
+"Swap" = "Wisselen";
+
+"Dismiss" = "Afwijzen";
+
+"NotificationAction >> Answer" = "Bekijken";
+
+"Downgrade call to audio?" = "Gesprek terugzetten naar spraak?";
+
+"Yes" = "Ja";
+
+"recording unavailable" = "Opnemen niet beschikbaar";
+
+"Transfer to Circuit Switch" = "Doorverbinden naar mobiel";
+
+"Mute" = "Dempen";
+
+"Enter a phone number" = "Voer een telefoonnummer in";
+
+"Hide" = "Verbergen";
+
+"WEBRTC" = "WEBRTC";
+
+"Echo Test" = "Echotest";
+
+"Calling" = "Bellen";
+
+"Update Emergency Location" = "Update Alarmcentrale locatie";
+
+"Back" = "Terug";
+
+"SIP Call" = "Internetoproep (VoIP)";
+
+"Add video to a voice call" = "Video toevoegen aan gesprek";
+
+"Transfer to new" = "Doorverbinden naar nieuw";
+
+"Accept Video" = "Accepteer video";
+
+"Call quality issues" = "Kwaliteitsproblemen gesprek";
+
+"No Headphones or Bluetooth detected" = "Geen koptelefoon of bluetooth gevonden";
+
+"Incoming" = "Binnenkomend";
+
+"Accept" = "Accepteren";
+
+"hours" = "uren";
+
+"Add Video" = "Video toevoegen";
+
+"Transfer to" = "Doorschakelen naar %@";
+
+"WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services." = "WAARSCHUWING: Gebruik je softphone niet voor noodoproepen op locaties waar je niet geregistreerd bent met je vaste toestel. Noodoproepen worden dan verkeerd gerouteerd en kunnen bij verkeerde alarmcentrale belanden. Dit kan mogelijk extra vertaging voor hulpverlening opleveren. We raden aan een alternatief locatiegebonden toestel voor alarmnummers te overwegen.";
+
+"iPhone Speaker" = "iPhone-luidspreker";
+
+"Keypad" = "Toetsenblok";
+
+"Conference" = "Conferentie";
+
+"Missed call" = "Gemiste gesprekken";
+
+"Call Security" = "Gesprek beveiliging";
+
+"Answer" = "Antwoorden";
+
+"Decline" = "Weigeren";
+
+"The Call Security service was updated" = "Dienst gespreksbeveiliging is bijgewerkt";
+
+"Double tap to return to previous screen" = "Tweemaal tikken om terug te keren naar het vorige scherm";
+
+"Hold" = "Wacht";
+
+"minute" = "minuut";
+
+"Validating Location..." = "Controleren van locatie...";
+
+"Unknown" = "Onbekend";
+
+"second" = "seconde";
+
+"Add Participant" = "Deelnemer toevoegen";
+
+"View" = "Bekijken";
+
+"New Call" = "Nieuw gesprek";
+
+"Try again" = "Probeer opnieuw";
+
+"hour" = "uur";
+
+"We were not able to validate your Location" = "We zijn niet in staat om je locatie te localiseren";
+
+"Cannot add participant to the conference" = "Kan geen deelnemer aan de conferentie toevoegen";
+
+"Incoming call from" = "Binnenkomend gesprek van";
+
+"Transfer call" = "Gesprek doorverbinden";
+
+"The Call Security service was disabled" = "Dienst gespreksbeveiliging is uitgeschakelt";
+
+"Input source" = "Input bron";
+
+"minutes" = "minuten";
+
+"End call" = "Gesprek beëindigen";
+
+"Merge" = "Samenvoegen";
+
+"Park Call" = "Gesprek parkeren";
+
+"Speaker" = "Spreker";
+
+"Transfer" = "Doorverbinden";
+
+"Change my level" = "Verander mijn niveau";
+
+"On hold" = "WACHT";
+
+"Participants" = "Deelnemers";
+
+"seconds" = "seconden";
+
+"Touch to return to call" = "Raak aan om terug te bellen";
+
+"Voice Only" = "Alleen spraak";
+
+"iPhone - Call Ask" = "iPhone";
+
+"Audio Sources" = "Audio bronnen";
+
+"Incoming video call" = "Inkomend video gesprek";
+
+"Ongoing Call" = "Actief gesprek";
+
+"Complete" = "Afgerond";
+
+"Accept Audio" = "Audio accepteren";
+
+"Done" = "Gereed";
+
+"Bluetooth" = "Bluetooth";
+
+"Headset" = "Hoofdtelefoon";
+
+"Reconnecting to" = "Opnieuw verbinding maken met";
+
+"Reconnecting" = "Opnieuw verbinding maken";
+
+"Call dropped" = "Gesprek weggevallen";
+
+"Call on hold dropped" = "Gesprek in de wacht weggevallen";
+
+"cm_XSICall_DisplayName_Unknown" = "Onbekend";
+
+"Ring Reminder" = "Herinnering overgaan";
+
+"Incoming call was redirected" = "Herinnering overgaan";
+
+"cm_XSICall_DisplayName_Hidden" = "Verborgen";
+
+"Private" = "Privé";
+
+"Anonymous" = "Anoniem";
+

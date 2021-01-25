@@ -1,0 +1,29 @@
+/* Copyright © 2017 BroadSoft, Inc. All rights reserved. */
+
+/* Application & Company Name */
+"applicationFullName" = "UC-One Connect";
+"applicationCopyright" = "© 2021 Cisco. Alle Rechte vorbehalten.";
+"applicationCompanyWebLink" = "www.cisco.com";
+"About Connect" = "Über Connect";
+
+/* BroadSoft Service Trade Names */
+"BroadWorks" = "BroadWorks";
+"BroadWorks Anywhere" = "BroadWorks Anywhere";
+"BroadWorks Anywhere Location" = "BroadWorks Anywhere-Standort";
+
+/* External Apps */
+"UC-One Meet" = "UC-One Meet";
+
+/*UC-One Hub*/
+"Hub" = "Hub";
+
+/* IdPs */
+"Google" = "Google";
+"Microsoft" = "Microsoft";
+"Okta" = "Okta";
+"Other" = "Andere";
+
+"Custom IdP 1" = "Benutzerdefinierter IdP 1";
+"Custom IdP 2" = "Benutzerdefinierter IdP 2";
+"Custom IdP 3" = "Benutzerdefinierter IdP 3";
+"Custom IdP 4" = "Benutzerdefinierter IdP 4";

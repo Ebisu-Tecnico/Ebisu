@@ -1,0 +1,205 @@
+<resources>
+    <string name="please_wait">Bitte warten…</string>
+    <!-- Buttons -->
+    <string name="call_ok">OK</string>
+    <string name="call_cancel">Abbrechen</string>
+
+    <!--Call -->
+    <string name="back">Zurück</string>
+    <string name="active_calls">Aktive Anrufe</string>
+    <string name="btn_call_add_participant">Teilnehmer hinzufügen</string>
+    <string name="btn_manage_conference_value">Teilnehmer</string>
+    <string name="btn_call_merge_value">Anrufe zusammenführen</string>
+    <string name="btn_call_swap_value">Makeln</string>
+    <string name="btn_call_park_call_value">Anruf parken</string>
+    <string name="call_duration_init">00:00</string>
+
+    <string name="incoming_call">Eingehender Anruf</string>
+    <string name="accept">Annehmen</string>
+    <string name="decline">Ablehnen</string>
+
+    <string name="conference">Konferenz</string>
+    <string name="transfer">Übergeben</string>
+    <string name="transfer_completed">Übergabe abgeschlossen</string>
+    <string name="conferencing">Konferenzgespräch…</string>
+    <string name="transferring">Übergeben…</string>
+    <string name="swapping">Makeln…</string>
+    <string name="merging">Zusammenführen…</string>
+    <string name="ending">Beenden…</string>
+    <string name="ending_failed">Beenden des Anrufs fehlgeschlagen</string>
+    <string name="call_terminated">Anruf beendet</string>
+
+    <string name="operation_failed">Vorgang fehlgeschlagen</string>
+
+    <string name="text_transfer_to_mobile">An Mobiltelefon übergeben</string>
+    <string name="text_call_will_be_transferred_to">Ihr Anruf wird übergeben an:</string>
+    <string name="upgradetovideo_title">In Videoanruf umwandeln</string>
+    <string name="upgradetovideo">%s möchte den Anruf in einen Videoanruf umwandeln.</string>
+    <string name="incoming_video_call">Eingehender Videoanruf</string>
+    <string name="new_call">Neuer Anruf</string>
+
+    <string name="text_call">Anruf</string>
+    <string name="dialing">Wählen…</string>
+    <string name="answering">Annehmen…</string>
+    <string name="call_calling">Anrufen…</string>
+    <string name="call_on_hold">Gehalten</string>
+    <string name="ongoing_call">Aktiver Anruf</string>
+    <string name="onhold_uppercase">GEHALTEN</string>
+
+    <string name="btn_call_recording_pause">Aufzeichnung unterbrechen</string>
+    <string name="btn_call_recording_resume">Aufzeichnung fortsetzen</string>
+    <string name="btn_call_recording_start">Aufzeichnung starten</string>
+    <string name="btn_call_recording_stop">Aufzeichnung beenden</string>
+    <string name="btn_call_speaker_value">Lautsprecher</string>
+    <string name="btn_call_handset">Hörer</string>
+    <string name="btn_call_bluetooth">Bluetooth</string>
+    <string name="btn_call_bluetooth_audio">Bluetooth-Audio</string>
+    <string name="btn_call_swapcamera">Kamera wechseln</string>
+    <string name="btn_call_dialpad">Tastenfeld</string>
+    <string name="btn_call_to_video">Zu Videoanruf wechseln</string>
+    <string name="btn_call_to_audio">Zu Audioanruf wechseln</string>
+    <string name="btn_call_complete_transfer">Übertragung abschließen</string>
+    <string name="btn_call_accept_video_value">Video</string>
+    <string name="btn_call_accept_audio_value">Audio</string>
+
+    <string name="transfer_call_user_first">Zuerst %s anrufen</string>
+    <string name="transfer_to_new">An \"Neu\" übergeben</string>
+    <string name="transfer_to_user">An %s übergeben</string>
+
+    <string name="call_unknown">Unbekannt</string>
+    <string name="call_private">Privat</string>
+    <string name="call_anonymous">Anonym</string>
+    <string name="user_busy">Kontakt ist beschäftigt</string>
+    <string name="phonenumber">Telefonnummer</string>
+
+    <!-- Notifications -->
+    <string name="missed_calls">Entgangener Anruf</string>
+    <string name="missed_calls_count">%1$d entgangene Anrufe</string>
+    <string name="missed_calls_from">Entgangener Anruf von %1$s</string>
+    <string name="new_voicemail">Neue Voicemail</string>
+    <string name="notify_new_voicemail_count">Sie haben 1 ausstehende Voicemail-Mitteilung</string>
+    <string name="notify_new_voicemail_counts">Sie haben %1$d ausstehende Voicemail-Mitteilungen</string>
+    <string name="ring_splash_notification_title">Erinnerung mit Rufzeichen</string>
+    <string name="ring_splash_notification_content">Der eingehende Anruf wurde weitergeleitet</string>
+
+    <!-- BroadWorks service names -->
+    <string name="callsettings_broadworks_anywhere">BroadWorks Anywhere</string>
+    <string name="callsettings_remote_office">Remote-Office</string>
+    <string name="mobility_enabled">BroadWorks Mobility</string>
+
+    <!-- Contact/number selection hints -->
+    <string name="please_configure_my_telephone_number_to_use">Konfigurieren Sie "Meine Telefonnummer" zur Verwendung der anrufenden Nummer</string>
+    <string name="please_enter_number">Geben Sie eine Nummer ein</string>
+    <string name="text_please_input_number">Bitte geben Sie Ihre Telefonnummer ein</string>
+    <string name="selection_text">Kontakt auswählen oder Nummer wählen</string>
+
+    <!-- Call-through and call-back -->
+    <string name="callsettings_broadworks_mobility_callthrough_error">Callthrough nicht möglich.</string>
+    <string name="callsettings_broadworks_mobility_callthrough_performing">Callthrough wird durchgeführt…</string>
+    <string name="callsettings_broadworks_mobility_callback_error">Rückruf kann nicht durchgeführt werden.</string>
+    <string name="callsettings_broadworks_mobility_callback_performing">Rückruf wird durchgeführt…</string>
+    <string name="callsettings_broadworks_mobility_callback_success">Sie werden in Kürze einen Anruf erhalten.</string>
+    <string name="callsettings_broadworks_mobility_callback_conference_on_old_server_version">Wenn die Verbindung hergestellt ist, geben Sie den Konferenzcode manuell ein.</string>
+
+    <!-- Error messages -->
+    <string name="wrong_sip_credentials_message">Ihre SIP-Anmeldeinformationen sind falsch. Wenden Sie sich an Ihren Administrator.</string>
+    <string name="autohold_by_mobile_call_in_progress">Anruf wird gehalten, während Mobilanruf ausgeführt wird</string>
+    <string name="call_establish_failure">Verbindung konnte nicht hergestellt werden</string>
+    <string name="call_completed_elsewhere">Anruf auf anderem Gerät angenommen</string>
+    <string name="cannot_connect_to_conference_bridge">Verbinden mit Konferenzbrücke nicht möglich</string>
+    <string name="cannot_add_participant_to_the_conference">Teilnehmer kann nicht zur Konferenz hinzugefügt werden</string>
+    <string name="callsettings_broadworks_mobility_mobile_error">Das Standard-Wählprogramm kann nicht gestartet werden.</string>
+    <string name="feature_not_supported">Diese Funktion wird von Ihrem Gerät nicht unterstützt.</string>
+    <string name="maximum_number_of_calls_reached">Maximale Anrufzahl erreicht</string>
+    <string name="no_calling_options_available">Keine Anrufoptionen verfügbar</string>
+    <string name="connectionlost">Verbindung getrennt</string>
+    <string name="call_poor_connection">Schlechte Verbindung</string>
+
+
+    <!-- Call Type selection -->
+    <string name="callsettings_broadworks_dialing_service_title">Wähldienst auswählen</string>
+    <string name="callsettings_broadworks_option_voip">Internetanruf (VoIP)</string>
+    <string name="callsettings_broadworks_option_call_back">Rückruf</string>
+    <string name="callsettings_broadworks_option_call_through">Callthrough</string>
+    <string name="callsettings_broadworks_option_mobile">Dieses Telefon</string>
+
+    <string name="contextmenu_voicecall">Sprachanruf</string>
+    <string name="contextmenu_videocall">Videoanruf</string>
+
+    <!-- Permissions -->
+    <string name="permission_error">Erforderliche Berechtigung: %1$s.\nRichten Sie über die Einstellungen Ihrer App den Zugriff ein.</string>
+    <string name="permission_group_audio">Mikrofon</string>
+    <string name="permission_group_camera">Kamera</string>
+    <string name="permission_group_calls">Anrufe</string>
+
+    <!-- Push Notifications -->
+    <string name="push_notification_deregister">Die maximale Anzahl an registrierten Anwendungen wurde erreicht. Diese Registrierung dieser Anwendung wird aufgehoben.</string>
+    <string name="push_notification_disable_one">%1$s wurde für diesen Standort automatisch deaktiviert.</string>
+    <string name="push_notification_disable_both">%1$s und %2$s wurden für diesen Standort automatisch deaktiviert.</string>
+    <string name="push_notification_disable_all">%1$s, %2$s und %3$s wurden für diesen Standort automatisch deaktiviert.</string>
+    <string name="push_notification_enable_one">%1$s wurde für diesen Standort automatisch aktiviert.</string>
+    <string name="push_notification_enable_both">%1$s und %2$s wurden für diesen Standort automatisch aktiviert.</string>
+    <string name="push_notification_enable_all">%1$s, %2$s und %3$s wurden für diesen Standort automatisch aktiviert.</string>
+    <string name="push_notification_no_locations">VoIP-Anrufe sind deaktiviert. Stellen Sie sicher, dass eine alternative Rufnummer aktiviert ist, um Anrufe zu tätigen und zu erhalten.</string>
+    <string name="push_notification_location_enabled">VoIP-Anrufe sind aktiviert. Bei Aktivierung dieses alternativen Standorts können mehrere Anrufe gleichzeitig eingehen.</string><!-- VoIP mode --><string name="voip_over_celluar_on">Alle Netzwerke</string>
+    <string name="voip_over_celluar_off">Nur WLAN</string>
+    <string name="voip_over_celluar_warn">Bei VoIP über das mobile Datennetz können Zusatzkosten oder Roaming-Gebühren anfallen</string>
+    <string name="voip_over_celluar_disabled">VoIP über mobiles Datennetz ist nicht verfügbar.</string>
+    <string name="bwks_services_enabled">Benachrichtigungen für mobile BroadWorks-Dienste wurden für diesen Standort aktiviert.</string>
+
+
+    <!-- Seamless call handover -->
+    <string name="handover_reconnecting">Verbindung wird erneut hergestellt...</string>
+    <string name="handover_error_bg_call">Gehaltener Anruf beendet.</string>
+    <string name="handover_error_all_calls">Gehaltene Anrufe beendet.</string>
+    <string name="handover_error_failed">Anruf beendet.</string>
+
+    <!-- Call Recording -->
+    <!-- Security Classifications -->
+
+    <!-- Dual Persona -->
+    <string name="callsettings_dual_persona_dialog_title">Anruf von</string>
+    <string name="dual_persona_business">Geschäftlich (%1$s)</string>
+    <string name="dual_persona_personal">Persönlich (%1$s)</string>
+    <string name="dual_persona_hidden_number">Unterdrückte Rufnummer</string>
+    <string name="incorrect_my_telephone_number">Falsche Angabe für "Meine Telefonnummer"</string><!-- 911 --><string name="emergency_warning_text_short">Notrufe werden von diesem Gerät NICHT unterstützt. Notrufe MÜSSEN über ein Mobiltelefon oder über eine Festnetzverbindung getätigt werden.</string>
+    <string name="emergency_warning_title">NOTRUFINFORMATIONEN</string>
+    <string name="wifi_text_short">Ein Mobilfunk-Notruf wurde abgesetzt.</string>
+    <string name="emergency_location_update_error">Für Notrufe hinterlegter Standort kann nicht aktualisiert werden.</string>
+    <string name="unable_to_validate_location">Standort konnte nicht überprüft werden</string>
+    <string name="try_again">Erneut versuchen</string>
+    <string name="incomplete_emergency_location_configuration">Unvollständige Konfiguration des Notrufstandorts.</string>
+    <string name="emergency_location_dialog_body_text">WARNUNG: Verwenden Sie Ihr Softphone ausschließlich von Ihrem registrierten geografischen Standort aus für Notrufe. Notrufe, die von einem anderen als dem registrierten geografischen Standort aus abgesetzt werden, werden möglicherweise an eine falsche Notrufzentrale weitergeleitet. Dadurch können Notdienste verzögert oder verhindert werden. Es wird empfohlen, für das Absetzen von Notrufen eine Alternative beizubehalten.</string>
+    <string name="update_911_location">110-Standort aktualisieren</string>
+    <string name="validating_location">Standort wird überprüft…</string>
+    <string name="location_updated_successfully">Standort erfolgreich aktualisiert</string>
+    <string name="wifi_btn_ok">Anruf über VoIP</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_call_quality_low">Schlechte Anrufqualität</string>
+    <string name="accessibility_call_quality_medium">Mittlere Anrufqualität</string>
+    <string name="accessibility_call_quality_high">Hohe Anrufqualität</string>
+    <string name="accessibility_hold">Halten</string>
+    <string name="accessibility_callrecording_recording">Aufzeichnung</string>
+    <string name="accessibility_call_mute">Stumm</string>
+    <string name="accessibility_call_unmute">Stummschaltung aufheben</string>
+    <string name="accessibility_audio_source">Audioquelle</string>
+    <string name="accessibility_more_options">Weitere Optionen</string>
+    <string name="accessibility_call_end">Anruf beenden</string>
+    <string name="accessibility_showcallcontrol">Anrufsteuerung anzeigen</string>
+    <string name="accessibility_unhold">Halten aufheben</string>
+    <string name="accessibility_speaker_active">Lautsprecher ein</string>
+    <string name="accessibility_speaker_inactive">Lautsprecher aus</string>
+    <string name="accessibility_call_hold">Gehaltener Anruf mit %s</string>
+
+    <!-- Mid-call controls error codes -->
+    <string name="bw_error_101002">Anruf wurde nicht gefunden.</string>
+    <string name="bw_error_110648">Anruf ist der Konferenz bereits zugeschaltet.</string>
+    <string name="bw_error_110581">Notruf ist vorhanden.</string>
+    <string name="bw_error_100022">Gesperrt durch Anrufbeschränkungen nach Zone.</string>
+    <string name="bw_error_110640">Keine Konferenz vorhanden.</string>
+    <string name="bw_error_110649">Die maximale Teilnehmerzahl ist bereits erreicht.</string>
+    <string name="bw_error_100026">Gesperrt durch Session Admission Control-Gruppe.</string>
+    <string name="bw_error_100021">Bitte versuchen Sie das Gespräch von der nativen Telefonanwendung durchzuführen.</string>
+
+</resources>

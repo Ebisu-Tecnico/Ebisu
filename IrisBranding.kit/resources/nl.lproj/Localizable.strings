@@ -1,0 +1,690 @@
+/* Copyright © 2016 BroadSoft, Inc. All rights reserved. */
+
+/* General */
+"Dismiss" = "Afwijzen";
+"None" = "Geen";
+"Yes" = "Ja";
+"No" = "Nee";
+"OK" = "OK";
+"Cancel" = "Annuleren";
+"Retry" = "Opnieuw proberen";
+"edit" = "bewerken";
+
+/* EULA */
+"Decline" = "Weigeren";
+"Accept" = "Accepteren";
+"Accept the terms & conditions." = "Voorwaarden accepteren.";
+"%@ cannot be used unless the terms of the end-user license agreement are accepted." = "%@ kan pas worden gebruikt als de voorwaarden van de eindgebruikersovereenkomst zijn geaccepteerd.";
+"Decline & Exit" = "Afwijzen & afsluiten";
+"Review EULA" = "Overzicht EULA";
+"License Agreement" = "Licentieovereenkomst";
+"Send by Email" = "Via e-mail verzenden";
+
+/* Tutorial */
+"Close" = "Sluiten";
+"Skip" = "Overslaan";
+"Get Started" = "Beginnen";
+
+/* Sign In / Out */
+"Username" = "Gebruikersnaam";
+"Your iPhone Number" = "Uw iPhone-nummer";
+"Select Region" = "Selecteer regio";
+"Advanced Setup" = "Geavanceerde instellingen";
+"Server Address" = "Server-adres";
+"XSI Actions" = "XSI-acties";
+"Password" = "Wachtwoord";
+"Sign In" = "Aanmelden";
+"Additional Options ▾" = "Extra opties ▾";
+"Show Less ▴" = "Minder tonen ▴";
+"Forgot Password" = "Wachtwoord vergeten";
+"Signing in..." = "Aanmelden…";
+"A connection failure occurred" = "Er is een verbindingsfout opgetreden";
+"Login Failed" = "Inloggen mislukt";
+"Are you sure you want to sign out?" = "Wilt u zich afmelden?";
+"The %@ field is required." = "Het veld %@ is verplicht.";
+"Host Name" = "Naam host";
+"Phone Number" = "Telefoonnummer";
+"Login Error" = "Inlogfout";
+"Sign Out Warning" = "Waarschuwing uitloggen";
+"User Name" = "Gebruikersnaam";
+"Unknown Login Error.  Verify your connection settings and try again." = "Onbekende inlogfout.  Controleer de verbindingsinstellingen en probeer het opnieuw.";
+"Your account is not authorized to use %@.  Contact your service provider for assistance." = "Uw account mag %@ niet gebruiken.  Neem contact op met de serviceprovider voor ondersteuning.";
+"Authentication needed" = "Verificatie nodig";
+"Would you like to receive business calls while signed out?" = "Wilt u zakelijke oproepen ontvangen na afmelden?";
+"Access Code" = "Toegangscode";
+"Continue" = "Doorgaan";
+"I don't have an Access Code" = "Ik heb geen toegangscode";
+"Loading..." = "Bezig met laden...";
+"WARNING: Do not use your soft phone to dial emergency services (e.g. 911) except from your registered physical location. Dialing emergency services at a location other than the registered physical location may route emergency calls to an incorrect dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access for emergency dialing." = "WAARSCHUWING: Gebruik uw softphone niet voor alarmnummers (bijv. 112) op locaties waar u niet geregistreerd bent met uw vaste toestel. Het bellen van hulpdiensten op een andere locatie dan de geregistreerde locatie kan het gesprek naar een verkeerde alarmcentrale routeren en mogelijk inschakelen van hulpdiensten vertragen of belemmeren. We raden aan een alternatief locatiegebonden toestel voor alarmnummers te overwegen.";
+"Update Emergency Location" = "Update Alarmcentrale locatie";
+"Validating location..." = "Locatie valideren...";
+"Location could not be validated." = "Locatie kon niet gevalideerd worden.";
+"Location could not be validated. Contact your system administrator." = "Locatie kon niet gevalideerd worden. Neem contact op met uw systeembeheerder.";
+"Location updated." = "Locatie bijgewerkt.";
+"Update 911 Location" = "Alarmnummerlocatie aanpassen";
+"A cellular emergency call was placed" = "Er is een mobiele noodoproep geplaatst.";
+"Incomplete emergency location configuration" = "Onvolledige noodlocatieconfiguratie";
+"E911 Disclosure" = "Noodoproepen uitsluiting";
+"This device does NOT support 911 calling. You MUST use a cellular or landline phone for 911 calls." = "Dit apparaat ondersteunt geen 112-gesprekken. Voor 112 gesprekken MOET u een mobiel toestel of vast toestel gebruiken.";
+"Call via VoIP" = "Bellen via Voip";
+"Clear Access Code" = "Toegangscode wissen";
+"I want to sign in with..." = "Ik wil mij aanmelden met...";
+"Your iPhone number is required to allow full calling capability support." = "Uw iPhone-nummer is nodig om volledige ondersteuning bij het bellen mogelijk te maken.";
+"Enterprise Email" = "E-mail bedrijf";
+"Save login" = "Aanmeldgegevens opslaan";
+"Login Information Title" = "Openbaarmaking enhanced 911";
+"Login Information message" = "WAARSCHUWING: Gebruik uw softphone niet om hulpdiensten (bijvoorbeeld 112) te bellen, behalve vanaf uw geregistreerde fysieke locatie. Hulpdiensten bellen vanaf een andere locatie dan de geregistreerde fysieke locatie kan noodoproepen naar een verkeerde noodcentrale sturen, waardoor hulpdiensten mogelijk vertraging oplopen of worden verhinderd. Het wordt aanbevolen dat u een alternatieve mogelijkheid behoudt om de hulpdiensten op te bellen.";
+"Enter iPhone Number" = "Telefoonnummer invoeren";
+
+/* Side Menu */
+"Dialpad" = "Toetsenblok";
+"Do Not Disturb" = "Niet storen";
+"for calls" = "voor gesprekken";
+"Call My Room" = "Mijn ruimte bellen";
+"About" = "Over";
+"Version" = "Versie";
+"Help" = "Help";
+"Sign Out" = "Afmelden";
+"Apps" = "Apps";
+"Web Links" = "Weblinks";
+"Use VoIP" = "VoIP gebruiken";
+"Voicemail" = "Voicemail";
+"DnD enabled" = "“Niet storen” ingeschakeld";
+"Dial" = "Bellen";
+"Type to dial" = "Typ om te kiezen";
+"From %@" = "Van %@";
+
+/* About */
+"Info" = "Info";
+"License" = "Licentie";
+"Legal Notices" = "Juridische informatie";
+"App Id" = "App-id";
+"Build" = "Build";
+"Welcome Screens" = "Welkomstschermen";
+"Privacy Policy" = "Privacybeleid";
+"IPV6 SUPPORT" = "IPV6 ONDERSTEUNING";
+"Server Setup" = "Serverinstelling";
+
+/* Search Bar */
+"Search Messages" = "Zoeken in berichten";
+
+/* Messages */
+"Messages" = "Berichten";
+"You have no messages yet" = "U hebt nog geen berichten";
+"Compose a new chat" = "Nieuwe chat starten";
+"New Message" = "Nieuw bericht";
+"New Announcement" = "Nieuwe aankondiging";
+"New SMS" = "Nieuwe SMS";
+"To:" = "Aan:";
+"Add Members:" = "Leden toevoegen:";
+"Send" = "Verzenden";
+"Get New Messages" = "Nieuwe berichten ophalen";
+"Invalid Recipients" = "Ongeldige ontvangers";
+"At least one recipient must have a valid messaging ID." = "Ten minste één ontvanger moet een geldige IM-ID hebben.";
+"Missing IM Address in contact" = "IM-adres ontbreekt in contact";
+"Invalid IM Address:" = "Ongeldig IM-adres:";
+"Too Many Recipients" = "Te veel ontvangers";
+"There is a %@ recipient limit for group messages." = "De limiet voor het aantal ontvangers van groepsberichten is %@.";
+"Type your announcement" = "Typ uw aankondiging";
+"Type your message" = "Typ uw bericht";
+"You" = "U";
+"Choose from Photo Library" = "Kiezen uit fotobibliotheek";
+"No photos or videos are available in your photo library or the camera is being used" = "Er zijn geen foto's of video's beschikbaar in uw fotobibliotheek of de camera wordt gebruikt";
+"No Message Selected" = "Geen bericht geselecteerd";
+"No Call Selected" = "Geen oproep geselecteerd";
+"Reply" = "Antwoord";
+"New Space" = "Nieuwe ruimte";
+"Name" = "Naam";
+"Failed to start chat with this contact." = "Chat met deze contactpersoon starten mislukt.";
+
+/* My Profile */
+"My Profile" = "Mijn profiel";
+"⇣ Pull to Update" = "⇣ Schuif om bij te werken";
+"IM Address" = "IM-adres";
+"Call Room" = "Gespreksruimte";
+"Call" = "Oproep";
+"Join Room" = "Deelnemen aan ruimte";
+"Pull Call" = "Gesprek terugnemen";
+"Retrieve Call" = "Gesprek terughalen";
+"Change Profile Photo" = "Profielfoto wijzigen";
+"Clear Profile Photo" = "Profielfoto wissen";
+"Choose Existing Photo" = "Bestaande foto kiezen";
+"Use Camera" = "Camera gebruiken";
+"What's on your mind?" = "Wat houdt u bezig?";
+"My Status" = "Mijn status";
+"Set My Availability" = "Mijn beschikbaarheid instellen";
+"Set My Location" = "Mijn locatie instellen";
+"View Shared Content" = "Gedeelde inhoud bekijken";
+"Complete your profile so your team can recognize you." = "Voltooi je profiel zodat je team je kan herkennen.";
+"from iPhone Contacts" = "vanuit iPhone-contacten";
+"View in iPhone Contacts" = "Weergeven in iPhone-contacten";
+"Edit My Profile" = "Mijn profiel bewerken";
+"Edit Profile" = "Profiel bewerken";
+
+/* Location */
+"Suggested" = "Voorgesteld";
+"Add Label" = "Label toevoegen";
+"SET LOCATION AUTOMATICALLY" = "LOCATIE AUTOMATISCH INSTELLEN";
+"SET LOCATION MANUALLY" = "LOCATIE HANDMATIG INSTELLEN";
+"CLEAR LOCATION AND TIME ZONE" = "LOCATIE EN TIJDZONE WISSEN";
+"No Location" = "Geen locatie";
+"Automatic Location" = "Locatie automatisch instellen";
+"Turn on Location Services in %1$@ to enable Automatic Location sharing and to provide suggested location labels." = "Schakel Locatievoorzieningen in in %1$@ om het automatisch delen van uw locatie in te schakelen en voorgestelde locatielabels te zien.";
+"Share" = "Delen";
+"Enter Location Name" = "Locatienaam invoeren";
+"Show Time" = "Tijd tonen";
+"Set Location Automatically" = "Locatie automatisch instellen";
+"Set Location Manually" = "Locatie handmatig instellen";
+"Label Name" = "Labelnaam";
+
+/* Availability */
+"Automatic" = "Automatisch";
+"Available" = "Beschikbaar";
+"Away" = "Afwezig";
+"Busy" = "Bezet";
+"Offline" = "Offline";
+"Call" = "Bellen";
+"Meeting" = "Vergadering";
+"Unavailable" = "Niet beschikbaar";
+"Business trip - PA" = "Zakenreis";
+"Gone for the day - PA" = "Voor een dag afwezig";
+"Lunch - PA" = "Lunch";
+"Meeting - PA" = "Vergadering";
+"Out of office - PA" = "Niet op kantoor";
+"Temporarily out - PA" = "Tijdelijk afwezig";
+"Training - PA" = "Training";
+"Unavailable - PA" = "Niet beschikbaar";
+"Vacation - PA" = "Vakantie";
+"Choose from Directory" = "Kiezen uit directory";
+"Work" = "Werk";
+"Personal" = "Persoonlijk";
+"Mobile" = "Mobiel";
+"If the Transfer Calls option is turned on, callers have an option to be transferred to the specified number before going to voicemail." = "Als de optie Gesprekken doorverbinden is ingeschakeld, kunnen bellers worden doorverbonden met het opgegeven nummer voordat ze de voicemail krijgen.";
+"If the Transfer Calls option is turned off, unanswered calls will be sent to your voicemail." = "Als de optie Gesprekken doorverbinden is uitgeschakeld, worden onbeantwoorde oproepen naar uw voicemail verzonden.";
+"Add a Transfer Number" = "Een nummer voor doorverbinden toevoegen";
+"Recent Numbers" = "Recente nummers";
+"Add a New Number" = "Een nieuw nummer toevoegen";
+"Enter a Number" = "Voer nummer in";
+"until %@" = "tot %@";
+"Until %@" = "Tot %@";
+"%@, until %@" = "%@, tot %@";
+"Standard Options" = "Standaardopties";
+"Configurable Options" = "Configureerbare opties";
+"Silent Alert" = "Stil alarm";
+"Duration" = "Duur";
+"Transfer Calls" = "Gesprekken doorverbinden";
+"Do Not Transfer" = "Niet doorverbinden";
+"Forever" = "Altijd";
+"30 Minutes" = "30 minuten";
+"45 Minutes" = "45 minuten";
+"1 Hour" = "1 uur";
+"2 Hours" = "2 uren";
+"4 Hours" = "4 uren";
+"1 Day" = "1 dag";
+"24 Hours" = "24 uren";
+"End of Today" = "Einde van vandaag";
+"Custom" = "Aangepast";
+"Choose a number for %@" = "Een nummer kiezen voor %@";
+"No phone numbers available." = "Geen telefoonnummers beschikbaar.";
+"Availability settings could not be loaded." = "Beschikbaarheidsinstellingen kunnen niet worden geladen.";
+"Your availability could not be updated." = "Uw beschikbaarheid kan niet worden bijgewerkt.";
+"Alerting" = "Alarmeren";
+"Select the number of rings" = "Aantal keer overgaan selecteren";
+"No Alert" = "Geen alarm";
+"Ring Reminder" = "Herinnering overgaan";
+"Alert Me First" = "Waarschuw mij eerst";
+"Ring Reminder requires VoIP mode. Go to the Main Menu to turn on VoIP." = "Stil alarm vereist VoIP-modus. Ga naar het hoofdmenu om VoIP in te schakelen.";
+"Unable to process your request. Please upgrade your current client and try again." = "We kunnen uw verzoek niet verwerken. Upgrade uw huidige client en probeer het opnieuw.";
+"Ends" = "Loopt af";
+
+/* Call My Room */
+"Call Failed" = "Oproep mislukt";
+/* %1$@ is replaced with the "UC-One Meet" branding string; %2$@ is replaced by the contact name; %3$@ is the localized error reason */
+"Could not launch %1$@ to join the room of %2$@.  %3$@" = "Kan niet geopend worden %1$@ om deel te nemen aan de ruimte %2$@.  %3$@";
+
+/* Dial */
+"Direct calling not available.  More..." = "Direct bellen niet beschikbaar.  Meer…";
+"Phone" = "Telefoon";
+"Call Settings" = "Gespreksinstellingen";
+"This device cannot make direct calls, but the call back feature can be used instead. Go to %@ and configure a call back service (such as %@) with the telephone number of the call back device. Then place the call and wait for the call back." = "Met dit device kan niet direct worden gebeld, maar de terugbelfunctie kan wel worden gebruikt. Ga naar %@ en configureer een terugbelservice (zoals %@) met het telefoonnummer waarop u wilt worden teruggebeld. Vervolgens plaatst u de oproep en wacht u tot u wordt teruggebeld.";
+"Attention" = "Let op";
+"Call Pull" = "Gesprek terugnemen";
+"Call Voicemail" = "Gespreksvoicemail";
+"Dialing..." = "Bellen…";
+"Cellular Call" = "Mobiel gesprek";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Additional charges may apply." = "Het datanetwerk is niet beschikbaar. Wilt u in plaats daarvan de oproep doen via het mobiele netwerk? Er kunnen extra kosten van toepassing zijn.";
+"Personal Cellular Call" = "Persoonlijk mobiel gesprek";
+"The data network is unavailable, would you like to make the call using the cellular network instead? Your call will be placed from this device's phone number. Additional charges may apply." = "Het datanetwerk is niet beschikbaar. Wilt u in plaats daarvan de oproep doen via het mobiele netwerk? Uw oproep wordt gedaan vanaf het telefoonnummer van dit apparaat. Er kunnen extra kosten van toepassing zijn.";
+"There is no network available to make the call. Please try again later." = "Er is geen netwerk beschikbaar om te bellen. Probeer het later nogmaals.";
+
+/* Directory */
+"Directory" = "Adresboek";
+"Search Contacts" = "Zoeken in contacten";
+"Use search to find contacts." = "Gebruik de zoekfunctie om contacten zoeken.";
+"iPhone Address Book" = "iPhone-adresboek";
+"No matches found." = "Geen overeenkomsten gevonden.";
+"Quick Results" = "Snelle resultaten";
+"Unable to search directory" = "Telefoonlijst kan niet worden doorzocht";
+
+/* Call History */
+"Call History" = "Gespreksgeschiedenis";
+"Private" = "Privé";
+"Anonymous" = "Anoniem";
+"You have no calls yet." = "U hebt nog geen gesprekken.";
+"to" = "Aan:";
+"Delete Call History?" = "Gespreksgeschiedenis verwijderen?";
+"Delete History" = "Geschiedenis verwijderen";
+"Missed call" = "Gemiste gesprekken";
+
+/* Profile */
+"Profile" = "Profiel";
+"Title" = "Titel";
+"Location" = "Locatie";
+"Work Phone" = "Werktelefoon";
+"Extension" = "Toestel";
+"Email" = "E-mail";
+"Chat" = "Chatten";
+"Department" = "Afdeling";
+"Mobile Phone" = "Mobiel telefoonnr.";
+"First Name" = "Voornaam";
+"Last Name" = "Achternaam";
+"Personal Phone" = "Privételefoonnr.";
+"Address" = "Adres";
+"Display Name" = "Naam weergeven";
+"Enter Display Name" = "Weergavenaam invoeren";
+"Enter Personal Phone" = "Privételefoonnr. invoeren";
+"More" = "Meer";
+"Pager" = "Ander nummer";
+"Webex Email" = "Webex Email";
+
+/* Contacts */
+"Announcement" = "Aankondiging";
+"Members" = "Leden";
+"lastNameFirstSeparator" = ", ";
+
+/* System Notification View */
+"System Notifications" = "Systeemmeldingen";
+"More ▾" = "Meer ▾";
+"Less ▴" = "Minder ▴";
+"Clear" = "Wissen";
+"Try Again" = "Opnieuw proberen";
+"Update" = "Bijwerken";
+
+/* Settings */
+"Settings" = "Instellingen";
+"Settings & About" = "Instellingen & Over";
+"Calling" = "Bellen";
+"Call Settings" = "Gespreksinstellingen";
+"Troubleshooting" = "Problemen oplossen";
+"Detailed Logging" = "Gedetailleerde logging";
+"Email Logs to Support" = "E-maillogs naar Support";
+"Send Analytics" = "Analytics verzenden";
+"Testing" = "Testen";
+"Create Notification Alert" = "Waarschuwing maken";
+"Unable to create email log attachment." = "Kan geen bijlage maken voor e-maillog.";
+"Enabled" = "Ingeschakeld";
+"Disabled" = "Uitgeschakeld";
+"Call From" = "Gesprek van";
+"Hidden Number" = "Verborgen nummer";
+"Business Phone" = "Zakelijke telefoon";
+"Select a number for outgoing calls." = "Selecteer een nummer voor uitgaande gesprekken.";
+"Press and hold on the call buttons to select an outgoing number." = "Houd de belknoppen ingedrukt om een ​​uitgaand nummer te selecteren.";
+"Allow 3rd party Keyboard" = "Sta toetsenborden van anderen toe";
+"Allow Full Access for 3rd Party Keyboards?" = "Volledige toegang toestaan voor toetsenborden van anderen?";
+"Allow" = "Toestaan";
+"Don't Allow" = "Niet toestaan";
+"Disabling third party keyboard requires application restart. Please restart the application for the change to take effect." = "Om toetsenborden van anderen uit te schakelen, moet de applicatie opnieuw worden opgestart. Start de applicatie opnieuw op om de wijziging door te voeren.";
+"Warning" = "Waarschuwing";
+"Selecting \"Email Logs to Support” above will send your application activity logs to us, so that we can help you, and improve the product. These logs identify you, your device, other users you've communicated with, and optionally, your employer. The logs do not include any user generated content like messages. For more information see our %@" = "Als u ‘Logbestanden naar support sturen’ selecteert, worden er logbestanden met uw activiteiten naar ons verzonden, zodat wij u kunnen helpen en het product kunnen verbeteren. Deze logbestanden identificeren u, uw apparaat, andere gebruikers met wie u heeft gecommuniceerd en eventueel uw werkgever. Deze logbestanden bevatten geen door gebruikers gegenereerde content zoals berichten. Zie voor meer informatie onze %@";
+"This option allows 3rd party keyboards to access all the data that is typed, including personal data. Are you sure you want to allow 3rd party keyboards?" = "Met deze optie hebben toetsenborden van derden toegang tot alle getypte gegevens, inclusief persoonsgegevens. Bent u zeker dat u toetsenborden van derden wilt toestaan?";
+
+/* Hub Messages */
+"Enable %@" = "%@ inschakelen";
+"%@ authentication failed." = "Verificatie van %@ is mislukt.";
+"Could not reach %@ server." = "Kan geen verbinding maken met server %@.";
+"Enable Hub to access your cloud applications like Google, Twitter, O365, and others.\n\nHub integrates your email, documents, meetings, and other cloud application data into your Connect experience." = "Hub inschakelen om toegang te krijgen tot uw cloud-applicaties zoals Google, Twitter, O365 en anderen.\n\\ nHub integreert uw e-mail, documenten, vergaderingen en andere cloud-applicatiegegevens in uw Connect-ervaring.";
+"The Hub Server cannot be accessed while offline." = "De Hub-server is offline niet toegankelijk.";
+
+"Loading" = "Laden";
+"Unknown" = "Onbekend";
+"Not Enabled" = "Niet ingeschakeld";
+"Sending logs to support by email is not enabled." = "Het via e-mail verzenden van logs aan support is niet ingeschakeld.";
+"Crash Reporting" = "Crash-rapportage";
+"Crash reporting is turned on" = "Crash-rapportage is ingeschakeld";
+"Crash reporting is turned off" = "Crash-rapportage is uitgeschakeld";
+"The change will take effect after the app is restarted." = "De wijziging gaat in nadat de app opnieuw is opgestart.";
+
+/* Calling Configuration */
+"VoIP uses your internet data connection for incoming and outgoing calls." = "Bij VoIP wordt uw internetgegevensverbinding gebruikt voor inkomende en uitgaande oproepen.";
+"iPhone Number" = "Nummer iPhone";
+"Validate Call Back" = "Terugbellen valideren";
+"Your Number" = "Uw nummer";
+"Dialing Service" = "Inbelservice";
+"VoIP Network" = "VoIP-netwerk";
+"All Networks" = "Alle netwerken";
+"WiFi Only" = "Alleen WiFi";
+"Cannot Call" = "Kan niet bellen";
+"Select an available Dialing Service, or adjust Calling Settings." = "Selecteer een inbelservice of pas de gespreksinstellingen aan.";
+"Mobile dialing is unavailable." = "Mobiel bellen niet beschikbaar.";
+"WiFi Unavailable" = "WiFi onbeschikbaar";
+"Alerting for BroadWorks mobile services has been enabled for this location." = "Het waarschuwen voor BroadWorks mobiele services is ingeschakeld voor deze locatie.";
+"Alerting for BroadWorks mobile services has been disabled for this location." = "Het waarschuwen voor BroadWorks mobiele services is uitgeschakeld voor deze locatie.";
+"VoIP calling is disabled. Make sure to enable alternative number in order to make and receive calls." = "VoIP is uitgeschakeld. Zorg ervoor dat u alternatief nummer inschakelt om oproepen te maken en te ontvangen.";
+"VoIP calling is enabled. By enabling this alternative location you may experience simultaneous incoming calls." = "VoIP-bellen is ingeschakeld. Door deze alternatieve locatie in te schakelen kunt u gelijktijdige inkomende gesprekken ervaren.";
+"VoIP over mobile data network may incur additional charges or roaming fees" = "VoIP over het mobiele datanetwerk kan leiden tot additionele kosten of roaming-kosten.";
+"VoIP over mobile data network is not available." = "VoIP over het mobiele datanetwerk is niet beschikbaar.";
+
+/* Anywhere Service Configuration */
+"Save" = "Opslaan";
+"The server responded with an error: %@" = "De server reageerde met een fout: %@";
+"alertAllLocationsForClickToDialCalls" = "Alle locaties waarschuwen";
+"phoneNumber" = "Telefoonnr.";
+"description" = "Omschrijving";
+"active" = "Actief";
+"broadworksCallControl" = "Gespreksbeheer";
+"useDiversionInhibitor" = "Gesprekken niet omleiden";
+"answerConfirmationRequired" = "Antwoordbevestiging";
+"Add Location" = "Locatie toevoegen";
+"Delete Location" = "Locatie verwijderen";
+"Mobile Business Calling" = "Mobiel zakelijk bellen";
+"Would you like to make and receive calls on your mobile phone using your business phone number?" = "Wilt u bellen en gebeld worden op uw mobiele telefoon door uw zakelijke telefoonnummer te gebruiken?";
+"Confirm your mobile number." = "Bevestig uw mobiele nummer.";
+"Not Now" = "Niet nu";
+"Unable to Set Up" = "Kan niet instellen";
+"To set up mobile business calling contact the administrator." = "Neem contact op met de beheerder om mobiel zakelijk bellen in te stellen.";
+
+/* Logging & Analytics Configuration */
+"Email Logs" = "E-maillogs";
+"Use an actual device to send support logs via email." = "Bestaand device gebruiken om ondersteuningslogs te verzenden via e-mail.";
+
+/* Event summary */
+"Mark All as Read" = "Alles als gelezen markeren";
+"Delete" = "Verwijderen";
+"Mark as Read" = "Als gelezen markeren";
+"View Profile" = "Profiel bekijken";
+
+/* Arriving message banner display.  Parm 1 is the name.  Parm 2 is the message.*/
+"NEW_TEXT_MSG" = "%1$@: %2$@";
+"ROOM_INVITE_TITLE" = "Uitnodiging Mijn Ruimte";
+"ROOM_INVITE_INFO" = "%@ heeft u uitgenodigd om deel te nemen aan Mijn Ruimte.";
+"ROOM_JOINREQUEST_TITLE" = "Mijn Ruimte deelnemersverzoek";
+"ROOM_JOINREQUEST_INFO" = "%@ heeft een verzoek gedaan om deel te nemen aan de ruimte";
+"ROOM_JOINREQUEST_PENDING" = "U hebt nieuwe abonneeverzoeken in uw wachtrij.";
+"MUC_SELF_KICK" = "U bent verwijderd uit ruimte %2$@";
+"MWI_UPDATE" = "U hebt %1$@ voicemailberichten in wacht";
+"RING_SPLASH" = "Inkomende oproep is doorgeschakeld";
+"DEREG_TEXT_LIMIT_EXCEEDED" = "Er zijn te veel apparaten geregistreerd. Meld u opnieuw aan om dit apparaat te gebruiken";
+"DEREG_TEXT_REGISTRATION_FAILED" = "Inkomende gesprekken niet beschikbaar";
+
+/* Dialing Services */
+"imrn" = "Bellen via";
+"callback" = "Terugbellen";
+"native" = "iPhone";
+"ask" = "Altijd vragen";
+"none" = "Niet bellen";
+"voip" = "Bellen met VoIP";
+
+/* Call Forwarding */
+"Call Forwarding" = "Gesprekken doorschakelen";
+"Call Forwarding Always" = "Altijd";
+"Call Forwarding Busy" = "Indien in gesprek";
+"Call Forwarding No Answer" = "Indien geen antwoord";
+"Call Forwarding Not Reachable" = "Indien niet te bereiken";
+"mobilePhoneNumber" = "Mobiel telefoonnr.";
+"Forward to #" = "Doorverbinden naar nr.";
+"numberOfRings" = "Aantal belsignalen";
+"Ring Splash" = "Automatisch doorverbinden";
+"On" = "Aan";
+"Off" = "Uit";
+"Always Forward" = "Altijd doorverbinden";
+
+/* My Room*/
+"My Room" = "Mijn ruimte";
+"Room – %@" = "Ruimte – %@";
+"Room – " = "Ruimte – ";
+"Join Room…" = "Deelnemen aan ruimte...";
+"Joining Room" = "Deelnemen aan ruimte";
+"Leaving Room" = "Ruimte verlaten";
+"Leave Room" = "Ruimte verlaten";
+"Leave" = "Verlaten";
+"Join" = "Deelnemen";
+"Joining" = "Deelnemen";
+"Leaving" = "Verlaten";
+"Joined Rooms" = "Verbonden ruimtes";
+"Pull to Update Participant List" = "Schuiven om deelnemerslijst bij te werken";
+"View Participants" = "Deelnemers bekijken";
+"My Room Invitation" = "Uitnodiging Mijn Ruimte";
+"%@ Invited you to join My Room" = "%@ heeft u uitgenodigd om deel te nemen aan Mijn Ruimte.";
+"%@ joined the room." = "%@ neemt deel aan de ruimte.";
+"You joined the room." = "U neemt deel aan de ruimte.";
+"%@ left the room. %@" = "%@ heeft de ruimte verlaten. %@";
+"%@ left the room." = "%@ heeft de ruimte verlaten.";
+"My Room Join Request" = "Mijn Ruimte deelnemersverzoek";
+"%@ has requested to join room" = "%@ heeft een verzoek gedaan om deel te nemen aan de ruimte";
+"View" = "Bekijken";
+"%@'s Room" = "%@'s ruimte";
+"In room: %@" = "In ruimte: %@";
+"Access to this room requires approval." = "Toegang tot deze ruimte vereist goedkeuring.";
+"Your request to join the room has been declined." = "Uw verzoek voor toegang tot de ruimte is geweigerd.";
+"Your request has timed out." = "Uw verzoek is onderbroken.";
+"Request Access" = "Toegang vragen";
+"Join the room to see any new messages." = "Meld u aan bij de ruimte om nieuwe berichten te bekijken.";
+"You have been invited to join %@'s room for a meeting.\n\nGuest Participants:" = "U werd uitgenodigd in de ruimte van %@ voor een vergadering.\n\nGastdeelnemers:";
+"Guest Participants:" = "Gastdeelnemers:";
+"You have been dismissed from" = "U bent verwijderd uit ruimte";
+"and" = "and";
+"Room Dismissal" = "Verwijdering uit ruimte";
+"Owner" = "Eigenaar";
+"Enable Meeting" = "Vergadering inschakelen";
+"Webex - My Personal Room" = "Webex - mijn persoonlijke ruimte";
+"Webex My Personal Room" = "Webex mijn persoonlijke ruimte";
+"START MEETING IN" = "VERGADERING STARTEN IN";
+"Enter your Webex Personal Room address" = "Voer het adres van je Webex-persoonlijke ruimte in";
+"When you change these settings, it may take up to a few hours for your contacts to see your updated selection." = "Wanneer u deze instellingen wijzigt, kan het enkele uren duren voordat uw contacten uw bijgewerkte selectie zien.";
+"To join %@'s meeting, click %@." = "Klik op %@ om deel te nemen aan de vergadering van %@.";
+"You cannot change your selection while you are joined to your My Room. Please leave your My Room to be able to make changes to these settings." = "Je kunt je selectie niet wijzigen terwijl je lid bent van je My Room. Verlaat alstublieft uw My Room om wijzigingen in deze instellingen aan te brengen";
+"Guest Requests" = "Gasten Aanvragen";
+"Launch Webex Meetings" = "Start Webex Meetings";
+"Audio Only" = "Alleen geluid";
+"Ignore" = "Negeren";
+"Room" = "Ruimte";
+"You have new guest requests pending." = "U hebt nieuwe gastverzoeken in afwachting.";
+"Copy Guest Link" = "Kopieer gast link";
+
+/* Favorites */
+"Favorites" = "Favorieten";
+"⇣ Pull to Update Availability" = "⇣ Schuif om beschikbaarheid bij te werken";
+"Updating Availability..." = "Beschikbaarheid bijwerken…";
+"Add to Favorites" = "Toevoegen aan favorieten";
+"Remove from Favorites" = "Verwijderen uit favorieten";
+"You have no favorites" = "U hebt geen favorieten";
+"To add a favorite tap the star icon in profiles" = "Om een favoriet toe te voegen, moet u op het sterretje tikken in profielen";
+
+/* Groups */
+"Groups" = "Groepen";
+"Chat Room %@" = "Chatruimte %@";
+"Chat Room" = "Chatruimte";
+"Some Chat" = "Willekeurige chat";
+"You have no groups" = "U hebt geen groepen";
+"You have no group members" = "U hebt geen groepsleden";
+"Read only" = "Alleen-lezen";
+"Read Only Chat" = "Alleen-lezen chat";
+"One-way Announcement" = "Eénzijdige aankondiging";
+"Rooms are not supported in this App. You can view conversations, but not send messages." = "Ruimten worden niet ondersteund in deze app. U kunt gesprekken bekijken maar geen berichten verzenden.";
+"Select Groups" = "Groepen selecteren";
+"Add Group" = "Groep toevoegen";
+"Enter Group Name" = "Groepsnaam invoeren";
+"Group Messaging" = "Groepsberichten";
+"Participants" = "Deelnemers";
+"Recipients" = "Ontvangers";
+"Delete Group" = "Groep verwijderen";
+"Are you sure you want to delete the group \"%@\" (%@ members)?" = "Wilt u de groep \"%@\" (%@ leden) verwijderen?";
+"Are you sure you want to delete the group \"%@\" (1 member)?" = "Wilt u de groep \"%@\" (%@ lid) verwijderen?";
+"Add To Group" = "Toevoegen aan groep";
+"one-way message" = "eenrichtingsbericht";
+"Edit Group Name" = "Groepsnaam bewerken";
+"Edit" = "Bewerken";
+
+/* Update Password */
+"Update Password" = "Wachtwoord bijwerken";
+"Current Password" = "Huidig wachtwoord";
+"New Password" = "Nieuw wachtwoord";
+"Type current password" = "Voer huidig wachtwoord in";
+"Type new password" = "Voer nieuw wachtwoord in";
+"Verify new password" = "Controleer nieuw wachtwoord";
+"Show passwords" = "Wachtwoorden tonen";
+"Hide passwords" = "Wachtwoorden verbergen";
+"New passwords must match" = "Nieuwe wachtwoorden moeten overeenkomen";
+"Current password is incorrect" = "Huidig wachtwoord is onjuist";
+/* Parm 1 is the number of days.  Parm 2 is the singlular or plural form of "days" */
+"Password will expire in %1$@ %2$@." = "Wachtwoord verloopt over %1$@ %2$@.";
+"Your password has expired." = "Uw wachtwoord is verlopen.";
+"Password expired - update now" = "Wachtwoord is verlopen - nu bijwerken";
+"Password will not expire." = "Wachtwoord gaat niet verlopen.";
+"day" = "dag";
+"days" = "dagen";
+
+/* Actions */
+"A valid room number for %@ has not been determined. Try again later, or contact support if the problem persists." = "Geen geldig ruimtenummer gevonden voor %@. Probeer het later opnieuw of neem contact op met de ondersteuning als het probleem zich blijft voordoen.";
+"Valid phone number not specified for %@." = "Er is geen geldig telefoonnummer opgegeven voor %@.";
+"Calling %@..." = "Bellen naar %@…";
+"Waiting for call back..." = "Wachten op terugbellen…";
+"Warning: Calling back at a different location." = "Waarschuwing: Er wordt teruggebeld op een andere locatie.";
+
+/* Voip */
+"ON HOLD" = "WACHT";
+"Recommended" = "Aanbevolen";
+"Voice Call" = "Spraak gesprek";
+"Video Call" = "Video gesprek";
+"New Call" = "Nieuw gesprek";
+"Transfer" = "Doorverbinden";
+"Conference" = "Conferentie";
+"Transfer Call" = "Gesprek doorverbinden";
+"Select Dialing Service" = "Selecteer dialing service";
+"Call First" = "Eerst bellen";
+"Transfer to %@" = "Doorschakelen naar %@";
+"VoIP is Off" = "VoIP is uit";
+"To make a call, turn VoIP on" = "Zet VoIP aan om een ​​oproep te doen";
+"VoIP - Audio Call" = "VoIP - Audio Gesprek";
+"VoIP - Video Call" = "VoIP - Video Gesprek";
+"Call answered on another device" = "Gesprek beantwoord op ander apparaat";
+"Call dropped" = "Gesprek weggevallen";
+"Call on hold dropped" = "Gesprek in de wacht weggevallen";
+"Call %@ First" = "Call %@ first";
+"Call Terminated" = "Gesprek afgebroken";
+
+/* Visual Voicemail */
+"Speaker" = "Luidspreker";
+"Unknown Caller" = "Onbekende beller";
+"Mark as New" = "Als nieuw markeren";
+"Unknown Number" = "Onbekend nummer";
+"You have no voicemails." = "U hebt geen voicemailberichten.";
+"Mark All as Played" = "Alles markeren als afgespeeld";
+"Voicemail Settings" = "Voicemailinstellingen";
+"Mark as Played" = "Markeren als afgespeeld";
+"Confidential" = "Vertrouwelijk";
+"Urgent" = "Urgent";
+"New voicemail" = "Nieuw voicemailbericht";
+"You have %d pending voicemail message" = "U heeft %d onbeluisterde voicemailberichten";
+"You have %d pending voicemail messages" = "U heeft %d onbeluisterde voicemailberichten";
+"Speaker off" = "Luidspreker uit";
+
+/* External Downloads */
+"Missing App" = "Ontbrekende app";
+/* %@ is replaced with the "UC-One Meet" branding string */
+"%@ is required to join a room.  Would you like to download it from the App Store now?" = "%@ is nodig om deel te nemen aan een ruimte.  Wilt u het nu downloaden in de App Store?";
+
+/* Misc */
+"Error" = "Fout";
+"Done" = "Gereed";
+"service unavailable" = "service niet beschikbaar";
+"Network Error: %@" = "Netwerkfout: %@";
+"Create" = "Maken";
+"Cannot create data model." = "Kan geen gegevensmodel maken.";
+"Cannot find data model." = "Kan geen gegevensmodel vinden.";
+"Invalid store location." = "Ongeldige opslaglocatie.";
+"Persistent store is inconsistent with application version." = "Blijvende opslag komt niet overeen met applicatieversie.";
+"Persistent store error." = "Fout blijvende opslag.";
+"Today" = "Vandaag";
+"Yesterday" = "Gisteren";
+"Network Unavailable" = "Netwerk onbeschikbaar";
+"Application is not compatible with jailbroken devices." = "Toepassing is niet compatibel met jailbroken apparaten.";
+"Exit" = "Afsluiten";
+
+/* Errors */
+"Private contact store is not valid." = "Privé-contactopslag is niet geldig.";
+"Received version %@; expecting version >= %@." = "Ontvangen versie %@; verwachte versie >= %@.";
+"No valid messaging gateway hosts." = "Geen geldige hosts voor berichtenverkeergateway.";
+"Unsupported messaging gateway interface version %@." = "Interfaceversie %@ voor berichtenverkeergateway wordt niet ondersteund.";
+"The request timed out" = "Time-out opgetreden voor aanvraag";
+"The request was cancelled" = "Aanvraag is geannuleerd";
+"The request failed because it redirected too many times" = "De aanvraag is mislukt omdat deze te vaak is omgeleid";
+"Unable to deliver message." = "Bericht kan niet worden bezorgd.";
+"Could not mark voicemail as played." = "Kan voicemail niet als afgespeeld markeren.";
+"Could not mark voicemail as new." = "Kan voicemail niet als nieuw markeren.";
+"Could not mark all voicemail messages as played." = "Kan niet alle voicemailberichten als afgespeeld markeren.";
+"Voicemail could not be downloaded." = "Voicemail kon niet worden gedownload.";
+"Voicemails could not be downloaded." = "Voicemails konden niet worden gedownload.";
+"Voicemail could not be deleted." = "Voicemail kon niet worden verwijderd.";
+"Unsupported Software-as-a-Service interface version %@." = "Niet-ondersteunde software-as-a-service interfaceversie %@.";
+"There was a content loading error." = "Er was een contentlaadfout.";
+"Your device failed to deregister from the messaging gateway successfully. This may lead to continued notifications. To resolve the issue, try to sign-in and sign-out again with a reliable network connection." = "Your device failed to deregister from the messaging gateway successfully. This may lead to continued notifications. To resolve the issue, try to sign-in and sign-out again with a reliable network connection.";
+
+/* Region or countries List*/
+"USA IHS" = "USA IHS";
+"USA Cloud" = "USA Cloud";
+"USA Beta" = "USA Bèta";
+"EMEA" = "EMEA";
+"AUS" = "AUS";
+"FED" = "FED";
+
+/** Transfer to Mobile List*/
+"Transfer to Circuit Switch" = "Doorverbinden naar mobiel";
+"Your call will be transferred to:" = "Uw gesprek wordt doorverbonden naar:";
+"Enter a phone number" = "Voer een telefoonnummer in";
+
+/* Token Login */
+"Edit Login Info" = "Logingegevens bewerken";
+"My Enterprise Username" = "Gebruikersnaam Mijn bedrijf";
+"IdP Info" = "Als u op de onderstaande ‘%@’-knop klikt, wordt omgeleid naar het %@ loginscherm";
+"Continue Info" = "Als u op de onderstaande ‘%@’-knop klikt, wordt u omgeleid naar het %@ aanmeldscherm";
+"Single Continue Info" = "Door op de knop \"%@\" hieronder te klikken, wordt u doorgestuurd naar het inlogscherm";
+
+"Signle Idp Text Description" = "Als u \"Doorgaan\" selecteert, wordt u omgeleid voor autorisatie.\n\nNa autorisatie wordt deze stap overgeslagen en wordt u automatisch aangemeld.";
+
+"No Connection" = "Geen verbinding";
+"Check your connection and try again." = "Controleer uw verbinding en probeer het opnieuw.";
+"Username or password is incorrect" = "Gebruikersnaam of wachtwoord is onjuist";
+
+"Re-login required in 1 day. Please signout, re-type your password and signin again." = "Opnieuw aanmelden vereist in 1 dag. Meld u af, voer uw wachtwoord opnieuw in en meld u opnieuw aan.";
+"Re-login required in %ld days. Please signout, re-type your password and signin again." = "Opnieuw aanmelden vereist in %ld dagen. Meld u af, voer uw wachtwoord opnieuw in en meld u opnieuw aan.";
+"Re-login required today. Please signout, re-type your password and signin again." = "Opnieuw aanmelden vandaag vereist. Meld u af, voer uw wachtwoord opnieuw in en meld u opnieuw aan.";
+"Your session has expired. Sign in again to continue." = "Uw sessie is verlopen. Log opnieuw in om verder te gaan.";
+"Your account has been disabled. Please check with your System Administrator." = "Uw account is uitgeschakeld. Vraag uw systeembeheerder om meer informatie.";
+"You have reached the maximum number of registered applications.This application will be unregistered." = "Je hebt het maximaal aantal registraties voor deze applicatie bereikt. Deze applicatie is niet langer geregistreerd.";
+"Forced sign out." = "Gedwongen afgemeld.";
+"Select your region" = "Selecteer uw regio";
+"Region" = "Regio";
+
+/* Version Control */
+"A new version of the application is available." = "Er is een nieuwe versie van de toepassing beschikbaar.";
+"A new version of the application is available. Would you like to upgrade now?" = "Er is een nieuwe versie van de toepassing beschikbaar. Wilt u nu upgraden?";
+"Upgrade" = "Upgraden";
+
+/* Permission Accessories */
+"Camera" = "Camera";
+"Microphone" = "Microphone";
+"%@ does not have access to your %@. To enable access, tap %@ and turn on %@" = "%@ heeft geen toegang tot uw %@. Tik op %@ om toegang te krijgen en zet %@ aan";
+
+/* Privacy Policy */
+"Accept the privacy policy." = "Accepteer het privacybeleid.";
+"%@ cannot be used unless the privacy policy is accepted." = "%@ kan pas worden gebruikt na het accepteren van het privacybeleid.";
+"Review Policy" = "Overzicht beleid";
+
+/* Appearance */
+"Appearance" = "Verschijning";
+"THEME" = "Thema";
+"Light" = "Licht";
+"Dark" = "Donker";
+"System" = "Systeem";
+"Changing the theme will apply it to the entire app." = "Wijzigingen in het thema zijn van toepassing op de hele app";

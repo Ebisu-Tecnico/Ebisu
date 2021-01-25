@@ -1,0 +1,188 @@
+"OK" = "OK";
+
+"Cancel" = "キャンセル";
+
+"Transfer completed" = "転送終了";
+
+"Call Back" = "コールバック";
+
+"Call Through" = "コールスルー";
+
+"recording" = "録音";
+
+"Transfer to Mobile" = "モバイルに転送";
+
+"Your call will be transferred to:" = "あなたの通話は次に転送されます：";
+
+"Incomplete emergency location configuration" = "緊急電話番号設定が未設定です。";
+
+"Location Updated Successfully" = "ロケーションアップデートに成功しました。";
+
+"recording paused" = "録音一時中止";
+
+"Swap" = "切り替え";
+
+"Dismiss" = "解散";
+
+"NotificationAction >> Answer" = "見る";
+
+"Downgrade call to audio?" = "通話を音声のみにしますか？";
+
+"Yes" = "はい";
+
+"recording unavailable" = "録音不可";
+
+"Transfer to Circuit Switch" = "モバイルに転送";
+
+"Mute" = "ミュート";
+
+"Enter a phone number" = "電話番号を入れてください。";
+
+"Hide" = "隠す";
+
+"WEBRTC" = "WebRTC";
+
+"Echo Test" = "エコーテスト";
+
+"Calling" = "通話中";
+
+"Update Emergency Location" = "緊急住所をアップデート";
+
+"Back" = "戻る";
+
+"SIP Call" = "インターネット通話(VoIP)";
+
+"Add video to a voice call" = "音声通話にビデオを追加";
+
+"Transfer to new" = "新しい番号に転送";
+
+"Accept Video" = "ビデオ通話許可";
+
+"Call quality issues" = "通話品質問題";
+
+"No Headphones or Bluetooth detected" = "ヘッドフォンまたはブルトゥースデバイスが見つかりませんでした。";
+
+"Incoming" = "受信";
+
+"Accept" = "同意する";
+
+"hours" = "時間";
+
+"Add Video" = "ビデオを追加";
+
+"Transfer to" = "%@に転送";
+
+"WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services." = "警告：実際のロケーションが登録されていない限り、このソフトフォンから緊急通話発信は行わないでください。詳細はサービス・プロバイダにお問い合わせください。";
+
+"iPhone Speaker" = "iPhoneスピーカ";
+
+"Keypad" = "キーパット";
+
+"Conference" = "カンファレンス";
+
+"Missed call" = "不在着信";
+
+"Call Security" = "通話セキュリティ";
+
+"Answer" = "応答";
+
+"Decline" = "拒否";
+
+"The Call Security service was updated" = "通話セキュリティサービスが更新されました。";
+
+"Double tap to return to previous screen" = "ダブルタップすると以前画面に移動します。";
+
+"Hold" = "保留";
+
+"minute" = "分";
+
+"Validating Location..." = "ロケーションの有効性を確認中…";
+
+"Unknown" = "未知";
+
+"second" = "秒";
+
+"Add Participant" = "参加者を追加";
+
+"View" = "見る";
+
+"New Call" = "新しい通話";
+
+"Try again" = "再度実行";
+
+"hour" = "時間";
+
+"We were not able to validate your Location" = "ロケーションを正しく検証できません。";
+
+"Cannot add participant to the conference" = "カンファレンスに参加者を追加することができませんでした。";
+
+"Incoming call from" = "着信";
+
+"Transfer call" = "転送";
+
+"The Call Security service was disabled" = "コールセキュリティサービスが無効となっています。";
+
+"Input source" = "入力ソース";
+
+"minutes" = "分";
+
+"End call" = "通話終了";
+
+"Merge" = "マージ";
+
+"Park Call" = "コールをパークする";
+
+"Speaker" = "スピーカー";
+
+"Transfer" = "転送";
+
+"Change my level" = "レベール変更";
+
+"On hold" = "保留";
+
+"Participants" = "参加者";
+
+"seconds" = "秒";
+
+"Touch to return to call" = "タッチして通話に戻る";
+
+"Voice Only" = "音声のみ";
+
+"iPhone - Call Ask" = "iPhone";
+
+"Audio Sources" = "オーディオ音源";
+
+"Incoming video call" = "ビデオ通話着信中";
+
+"Ongoing Call" = "接続中の通話";
+
+"Complete" = "転送完了";
+
+"Accept Audio" = "音声通話許可";
+
+"Done" = "完了";
+
+"Bluetooth" = "ブルトゥース";
+
+"Headset" = "ヘッドセット";
+
+"Reconnecting to" = "再接続中";
+
+"Reconnecting" = "再接続中";
+
+"Call dropped" = "呼が切断されました";
+
+"Call on hold dropped" = "保留中の呼が切断されました";
+
+"cm_XSICall_DisplayName_Unknown" = "不明な";
+
+"Ring Reminder" = "リングリマインダー";
+
+"Incoming call was redirected" = "着信コールがリダイレクトされた";
+
+"cm_XSICall_DisplayName_Hidden" = "隠された";
+
+"Private" = "プライベート";
+
+"Anonymous" = "匿名";
+

@@ -1,0 +1,212 @@
+<resources>
+    <string name="please_wait">请等待…</string>
+
+    <!-- Buttons -->
+    <string name="back">返回</string>
+    <string name="active_calls">当前通话</string>
+    <string name="call_ok">确定</string>
+    <string name="call_cancel">取消</string>
+
+    <!-- Welcome -->
+
+    <!--Call -->
+    <string name="btn_call_add_participant">添加参与者</string>
+    <string name="btn_manage_conference_value">参与者</string>
+    <string name="btn_call_merge_value">合并呼叫</string>
+    <string name="btn_call_swap_value">切换</string>
+    <string name="btn_call_park_call_value">驻留呼叫</string>
+    <string name="call_duration_init">00:00</string>
+
+    <string name="incoming_call">来电</string>
+    <string name="accept">接受</string>
+    <string name="decline">拒绝</string>
+
+    <string name="conference">会议</string>
+    <string name="transfer">转移</string>
+    <string name="conferencing">会议中…</string>
+    <string name="transferring">正在转移…</string>
+    <string name="transfer_completed">转移完成</string>
+    <string name="swapping">正在切换…</string>
+    <string name="merging">正在合并…</string>
+    <string name="ending">正在结束…</string>
+    <string name="ending_failed">结束呼叫失败</string>
+    <string name="call_terminated">呼叫终止</string>
+
+    <string name="operation_failed">操作失败</string>
+
+    <string name="text_transfer_to_mobile">呼叫转移到手机</string>
+    <string name="text_call_will_be_transferred_to">您的呼叫将被转移到：</string>
+    <string name="upgradetovideo_title">升级为视频</string>
+    <string name="upgradetovideo">%s想将通话升级为视频通话</string>
+    <string name="incoming_video_call">视频通话来电</string>
+    <string name="new_call">新通话</string>
+
+    <string name="text_call">呼叫</string>
+    <string name="dialing">正在拨号…</string>
+    <string name="answering">正在应答…</string>
+    <string name="call_calling">正在呼叫…</string>
+    <string name="call_on_hold">保持</string>
+    <string name="ongoing_call">进行中的通话</string>
+    <string name="onhold_uppercase">保持</string>
+
+    <string name="btn_call_recording_pause">暂停录制</string>
+    <string name="btn_call_recording_resume">恢复录制</string>
+    <string name="btn_call_recording_start">开始录制</string>
+    <string name="btn_call_recording_stop">停止录制</string>
+    <string name="btn_call_speaker_value">扬声器</string>
+    <string name="btn_call_handset">手柄听筒</string>
+    <string name="btn_call_bluetooth">蓝牙</string>
+    <string name="btn_call_bluetooth_audio">蓝牙音频</string>
+    <string name="btn_call_swapcamera">切换摄像头</string>
+    <string name="btn_call_dialpad">拨号键盘</string>
+    <string name="btn_call_to_video">切换到视频通话</string>
+    <string name="btn_call_to_audio">切换到语音通话</string>
+    <string name="btn_call_complete_transfer">完成传输</string>
+    <string name="btn_call_accept_video_value">视频</string>
+    <string name="btn_call_accept_audio_value">音频</string>
+
+    <string name="transfer_call_user_first">首先呼叫%s</string>
+    <string name="transfer_to_new">转接到新</string>
+    <string name="transfer_to_user">转接到%s</string>
+
+    <string name="call_unknown">未知</string>
+    <string name="call_private">私人</string>
+    <string name="call_anonymous">匿名</string>
+    <string name="user_busy">联系人正忙</string>
+    <string name="phonenumber">电话号码</string>
+
+    <!-- Notifications -->
+    <string name="missed_calls">未接电话</string>
+    <string name="missed_calls_count">%1$d个未接电话</string>
+    <string name="missed_calls_from">来自%1$s的未接电话</string>
+    <string name="new_voicemail">新语音邮件</string>
+    <string name="notify_new_voicemail_count">您有1封待收语音信箱邮件</string>
+    <string name="notify_new_voicemail_counts">您有%1$d封待收语音信箱邮件</string>
+    <string name="ring_splash_notification_title">铃声提示</string>
+    <string name="ring_splash_notification_content">来电转接</string>
+
+    <!-- BroadWorks service names -->
+    <string name="callsettings_broadworks_anywhere">BroadWorks Anywhere</string>
+    <string name="callsettings_remote_office">远程办公</string>
+    <string name="mobility_enabled">BroadWorks Mobility</string>
+
+    <!-- Contact/number selection hints -->
+    <string name="please_configure_my_telephone_number_to_use">要使用“呼叫号码”，请配置“我的电话号码”</string>
+    <string name="please_enter_number">请输入号码</string>
+    <string name="text_please_input_number">请输入电话号码</string>
+    <string name="selection_text">选择联系人或拨打号码</string>
+
+    <!-- Call-through and call-back -->
+    <string name="callsettings_broadworks_mobility_callthrough_error">无法执行直通呼叫。</string>
+    <string name="callsettings_broadworks_mobility_callthrough_performing">正在执行直通呼叫…</string>
+    <string name="callsettings_broadworks_mobility_callback_error">无法执行回叫。</string>
+    <string name="callsettings_broadworks_mobility_callback_performing">正在执行回叫…</string>
+    <string name="callsettings_broadworks_mobility_callback_success">您很快就会接到电话。</string>
+    <string name="callsettings_broadworks_mobility_callback_conference_on_old_server_version">连接后，手动输入会议代码</string>
+
+    <!-- Error messages -->
+    <string name="wrong_sip_credentials_message">您的SIP凭据错误。请联系管理员。</string>
+    <string name="autohold_by_mobile_call_in_progress">手机通话进行中保持呼叫。</string>
+    <string name="call_establish_failure">无法进行通话</string>
+    <string name="call_completed_elsewhere">其他设备应答的呼叫</string>
+    <string name="cannot_connect_to_conference_bridge">无法连接到会议电话桥分器</string>
+    <string name="cannot_add_participant_to_the_conference">无法向会议添加参与者</string>
+    <string name="callsettings_broadworks_mobility_mobile_error">无法启动预装拨号程序。</string>
+    <string name="feature_not_supported">您的设备不支持此功能。</string>
+    <string name="maximum_number_of_calls_reached">已达到最大通话数量</string>
+    <string name="no_calling_options_available">无可用呼叫选项</string>
+    <string name="connectionlost">连接已中断</string>
+    <string name="call_poor_connection">连接不良</string>
+
+    <!-- Call Type selection -->
+    <string name="callsettings_broadworks_dialing_service_title">选择拨号服务</string>
+    <string name="callsettings_broadworks_option_voip">互联网通话(VoIP)</string>
+    <string name="callsettings_broadworks_option_call_back">回拨</string>
+    <string name="callsettings_broadworks_option_call_through">直通呼叫</string>
+    <string name="callsettings_broadworks_option_mobile">本机</string>
+
+    <string name="contextmenu_voicecall">语音通话</string>
+    <string name="contextmenu_videocall">视频通话</string>
+
+    <!-- Permissions -->
+    <string name="permission_error">需要权限：%1$s.\n请在您设备的应用设置中授予权限。</string>
+    <string name="permission_group_audio">麦克风</string>
+    <string name="permission_group_camera">摄像头</string>
+    <string name="permission_group_calls">通话</string>
+
+    <!-- Push Notifications -->
+    <string name="push_notification_deregister">您的注册应用已达到最大量。此应用程序将被解除注册。</string>
+    <string name="push_notification_disable_one">本机位置的%1$s已自动禁用。</string>
+    <string name="push_notification_disable_both">本机位置的%1$s和%2$s已自动禁用。</string>
+    <string name="push_notification_disable_all">本机位置的%1$s、%2$s和%3$s已自动禁用。</string>
+    <string name="push_notification_enable_one">本机位置的%1$s已自动启用。</string>
+    <string name="push_notification_enable_both">本机位置的%1$s和%2$s已自动启用。</string>
+    <string name="push_notification_enable_all">本机位置的%1$s、%2$s和%3$s已自动启用。</string>
+    <string name="push_notification_no_locations">VoIP呼叫已禁用。请确保启用替代号码以便拨打和接收呼叫。</string>
+    <string name="push_notification_location_enabled">VoIP呼叫已启用。通过启用此替代位置，您可能遇到同时呼入的来电。</string>
+    <string name="bwks_services_enabled">BroadWorks移动服务提醒已经对此地点启用。</string>
+
+    <!-- VoIP mode -->
+    <string name="voip_over_celluar_on">所有网络</string>
+    <string name="voip_over_celluar_off">仅Wi-Fi</string>
+    <string name="voip_over_celluar_warn">通过移动数据网络进行VoIP通话可能会产生额外费用或漫游费用</string>
+    <string name="voip_over_celluar_disabled">无法通过移动数据网络进行VoIP通话。</string>
+
+    <!-- Seamless call handover -->
+    <string name="handover_reconnecting">正在重新连接…</string>
+    <string name="handover_error_bg_call">呼叫保持失败。</string>
+    <string name="handover_error_all_calls">呼叫保持失败。</string>
+    <string name="handover_error_failed">呼叫中断。</string>
+
+    <!-- Call Recording -->
+
+    <!-- Security Classifications -->
+
+    <!-- Dual Persona -->
+    <string name="callsettings_dual_persona_dialog_title">通话号码</string>
+    <string name="dual_persona_business">业务（%1$s)</string>
+    <string name="dual_persona_personal">私人（%1$s）</string>
+    <string name="dual_persona_hidden_number">隐藏号码</string>
+    <string name="incorrect_my_telephone_number">“我的电话号码”不正确</string>
+
+    <!-- 911 -->
+    <string name="emergency_warning_text_short">本设备不支持拨打紧急号码。您必须使用手机或固定电话拨打紧急号码。</string>
+    <string name="emergency_warning_title">E911公告</string>
+    <string name="wifi_text_short">已拨打移动紧急电话。</string>
+    <string name="emergency_location_update_error">无法更新您的紧急位置。</string>
+    <string name="unable_to_validate_location">我们不能验证您的位置</string>
+    <string name="try_again">重试</string>
+    <string name="incomplete_emergency_location_configuration">紧急位置配置不完整。</string>
+    <string name="emergency_location_dialog_body_text">警告：除从已注册的物理位置外，切勿使用软件电话拨打 911。在已注册的物理位置之外的位置使用软件电话可能会将 911 通话转到不正确的 911 调度中心，这可能会导致紧急服务延误或无法提供。建议您维持一个 911 服务的备用联系方法。</string>
+    <string name="update_911_location">更新911位置</string>
+    <string name="validating_location">正在验证位置…</string>
+    <string name="location_updated_successfully">位置更新成功</string>
+    <string name="wifi_btn_ok">通过Voip呼叫</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_showcallcontrol">显示呼叫控件</string>
+    <string name="accessibility_call_quality_low">通话质量差</string>
+    <string name="accessibility_call_quality_medium">通话质量中等</string>
+    <string name="accessibility_call_quality_high">通话质量高</string>
+    <string name="accessibility_hold">保持</string>
+    <string name="accessibility_callrecording_recording">正在录制</string>
+    <string name="accessibility_call_mute">静音</string>
+    <string name="accessibility_call_unmute">取消静音</string>
+    <string name="accessibility_audio_source">音频来源</string>
+    <string name="accessibility_more_options">更多选项</string>
+    <string name="accessibility_call_end">结束通话</string>
+    <string name="accessibility_unhold">取消等待</string>
+    <string name="accessibility_speaker_active">扬声器开启</string>
+    <string name="accessibility_speaker_inactive">扬声器关闭</string>
+    <string name="accessibility_call_hold"> 通话保持 %s</string>
+
+    <!-- Mid-call controls error codes -->
+    <string name="bw_error_101002">未找到通话</string>
+    <string name="bw_error_110648">通话已经在会议中</string>
+    <string name="bw_error_110581">当前是紧急通话。</string>
+    <string name="bw_error_100022">被区域通话限制阻止</string>
+    <string name="bw_error_110640">目前没有会议</string>
+    <string name="bw_error_110649">已经达到最大参与者数量。</string>
+    <string name="bw_error_100026">被会话许可控制组阻止。</string>
+    <string name="bw_error_100021"> 请尝试从本机电话应用程序恢复呼叫。</string>
+</resources>
